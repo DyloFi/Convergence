@@ -1,0 +1,2719 @@
+{
+  "generated_utc": "2026-10-15T02:40:00Z",
+  "repository_root": "/Users/dylanboyle/Desktop/Convergence",
+  "total_files_scanned": 154,
+  "total_findings": 205,
+  "category_counts": {
+    "missing_required_sections": 149,
+    "incomplete_tables": 27,
+    "corrupted_latex": 15,
+    "broken_links": 6,
+    "unbalanced_delimiters": 1,
+    "placeholders_and_template_residue": 1,
+    "duplicate_paragraphs": 6
+  },
+  "severity_counts": {
+    "MEDIUM": 178,
+    "LOW": 11,
+    "HIGH": 16
+  },
+  "status_counts": {
+    "open": 205,
+    "in_progress": 0,
+    "fixed": 0,
+    "verified": 0,
+    "accepted_exception": 0
+  },
+  "source_of_truth_mapping": {
+    "overview": "Source of truth resolution rules across duplicates, backups, and historical snapshots.",
+    "precedence_hierarchy": [
+      "1. Active Workspace Reports (remediation branch HEAD): Authoritative canonical monographs for all current analysis and research.",
+      "2. .bak.md Files: Historical pre-enhancement backups created prior to multi-agent rewrites. Disposable after verification.",
+      "3. baseline_snapshot/: Immutable archival baseline preserved under tag pre-fix. Read-only historical reference.",
+      "4. review/ Monograph & Registers: Independent peer review and formal evaluation layer; secondary analytical authority."
+    ],
+    "bak_files_summary": {
+      "total_bak_files": 108,
+      "distribution": {
+        "Changing World Orders": 15,
+        "LoAR": 6,
+        "Technological Singularity": 31,
+        "root": 2,
+        "baseline_snapshot": 54
+      },
+      "action_recommendation": "Retain intact on remediation branch until Step 20 cleanup pass; never treat as current source of truth."
+    },
+    "duplicate_filenames_summary": {
+      "total_duplicate_pairs": 182,
+      "primary_cause": "Parallel structure in baseline_snapshot/ mirroring active workspace directories, plus .bak.md pairing.",
+      "resolution": "Active workspace path (e.g. \"4th Turning/...\") is authoritative; baseline_snapshot/ is strictly historical reference."
+    }
+  },
+  "findings": [
+    {
+      "id": "DEF-0001",
+      "location": {
+        "file": "4th Turning/4th_Turning_Expert_Review.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0002",
+      "location": {
+        "file": "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0003",
+      "location": {
+        "file": "4th Turning/Alternative Theories/Alternative Theories Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0004",
+      "location": {
+        "file": "4th Turning/Archetypes/Archetypes Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0005",
+      "location": {
+        "file": "4th Turning/Authors/Authors Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0006",
+      "location": {
+        "file": "4th Turning/Authors/William_Strauss_Neil_Howe.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :---: | :---: | :---: | :---: |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0007",
+      "location": {
+        "file": "4th Turning/Authors/William_Strauss_Neil_Howe.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0008",
+      "location": {
+        "file": "4th Turning/Book/Book Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :--- | :---: | :---: | :---: |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0009",
+      "location": {
+        "file": "4th Turning/Book/Book Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0010",
+      "location": {
+        "file": "4th Turning/Book/The_Fourth_Turning_Book_Details.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0011",
+      "location": {
+        "file": "4th Turning/Case Studies/Case Studies Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0012",
+      "location": {
+        "file": "4th Turning/Comparative Analysis/Comparative Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0013",
+      "location": {
+        "file": "4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0014",
+      "location": {
+        "file": "4th Turning/Comparisons/Comparisons Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :---: | :---: | :--- | :--- |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0015",
+      "location": {
+        "file": "4th Turning/Comparisons/Comparisons Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0016",
+      "location": {
+        "file": "4th Turning/Concept/Concept Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0017",
+      "location": {
+        "file": "4th Turning/Concept/Core_4th_Turning_Theory.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0018",
+      "location": {
+        "file": "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :---: | :--- | :--- | :---: |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0019",
+      "location": {
+        "file": "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0020",
+      "location": {
+        "file": "4th Turning/Criticism/Criticism Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :---: | :---: | :--- | :--- |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0021",
+      "location": {
+        "file": "4th Turning/Criticism/Criticism Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0022",
+      "location": {
+        "file": "4th Turning/Criticism/Criticisms_and_Controversies.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0023",
+      "location": {
+        "file": "4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :---: | :---: | :---: | :---: |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0024",
+      "location": {
+        "file": "4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0025",
+      "location": {
+        "file": "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0026",
+      "location": {
+        "file": "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0027",
+      "location": {
+        "file": "4th Turning/Data/Data Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0028",
+      "location": {
+        "file": "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0029",
+      "location": {
+        "file": "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0030",
+      "location": {
+        "file": "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0031",
+      "location": {
+        "file": "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0032",
+      "location": {
+        "file": "4th Turning/Future Scenarios/Future Scenarios Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0033",
+      "location": {
+        "file": "4th Turning/Generational Research/Generational Research Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0034",
+      "location": {
+        "file": "4th Turning/Generational Theory/01_Generational_Cycle_Framework.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0035",
+      "location": {
+        "file": "4th Turning/Generational Theory/Generational Theory Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0036",
+      "location": {
+        "file": "4th Turning/Geopolitical Shifts/Geopolitical Shifts Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0037",
+      "location": {
+        "file": "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0038",
+      "location": {
+        "file": "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0039",
+      "location": {
+        "file": "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0040",
+      "location": {
+        "file": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :------ | :---: | :---: | :---: |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0041",
+      "location": {
+        "file": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0042",
+      "location": {
+        "file": "4th Turning/Interviews/Interviews Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :---: | :---: | :--- | :---: |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0043",
+      "location": {
+        "file": "4th Turning/Interviews/Interviews Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0044",
+      "location": {
+        "file": "4th Turning/Key Events/Key Events Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0045",
+      "location": {
+        "file": "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0046",
+      "location": {
+        "file": "4th Turning/Media/Media Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0047",
+      "location": {
+        "file": "4th Turning/Modern Applications.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :--- | :---: | :---: | :--- |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0048",
+      "location": {
+        "file": "4th Turning/Modern Applications.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0049",
+      "location": {
+        "file": "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0050",
+      "location": {
+        "file": "4th Turning/Modern Applications/Modern Applications Research.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0051",
+      "location": {
+        "file": "4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0052",
+      "location": {
+        "file": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+        "line": 32
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 31 has 4 cols; row has 5 cols: \"| :--- | :---: | :------ | :---: | :---: |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0053",
+      "location": {
+        "file": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0054",
+      "location": {
+        "file": "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0055",
+      "location": {
+        "file": "4th Turning/Political Implications/Political Implications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0056",
+      "location": {
+        "file": "4th Turning/Pop Culture References/Pop Culture References Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0057",
+      "location": {
+        "file": "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0058",
+      "location": {
+        "file": "4th Turning/Public Perception/Public Perception Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0059",
+      "location": {
+        "file": "4th Turning/Reception/Reception Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0060",
+      "location": {
+        "file": "4th Turning/Research Notes.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0061",
+      "location": {
+        "file": "4th Turning/Social Movements/Social Movements Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0062",
+      "location": {
+        "file": "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0063",
+      "location": {
+        "file": "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0064",
+      "location": {
+        "file": "4th Turning/Timeline/Timeline Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0065",
+      "location": {
+        "file": "Changing World Orders/Changing World Orders Overview.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0066",
+      "location": {
+        "file": "Changing World Orders/Changing_World_Orders_Expert_Review.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0067",
+      "location": {
+        "file": "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0068",
+      "location": {
+        "file": "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0069",
+      "location": {
+        "file": "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0070",
+      "location": {
+        "file": "Changing World Orders/Foundations/00_Research_Plan.md",
+        "line": 35
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 30 has 4 cols; row has 6 cols: \"| **Income Polarization**| `GINI_INCOME` | Wealth/Income inequality index: $G = \\frac{\\sum_{i=1}^n \\sum_{j=1}^n |y_i - y_j|}{2n^2 \\bar{y}}$ | World Inequality Database (WID), World Bank |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0071",
+      "location": {
+        "file": "Changing World Orders/Foundations/00_Research_Plan.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0072",
+      "location": {
+        "file": "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0073",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 52
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **1960** | B | 53.6% | 46.1% | .5B | .9B | 7.5% | 1.3% | 3.2% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0074",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 53
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **1970** | B | 36.3% | 28.0% | .8B | .4B | 7.5% | 1.4% | 5.3% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0075",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 54
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **1980** | B | 32.5% | 25.5% | .1B | .5B | 10.2% | 1.9% | 8.9% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0076",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 55
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **1990** | ,233B | 54.4% | 40.8% | ,032B | .3B | 17.9% | 3.1% | 8.4% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0077",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 56
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **1995** | ,974B | 65.2% | 47.7% | ,351B | .2B | 17.2% | 3.1% | 6.8% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0078",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 57
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2000** | ,674B | 55.5% | 34.7% | ,025B | .0B | 11.0% | 2.2% | 6.4% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0079",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 58
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2005** | ,933B | 60.9% | 35.6% | ,154B | .0B | 8.5% | 1.4% | 4.3% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0080",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 59
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2010** | ,562B | 90.5% | 60.6% | ,163B | .9B | 9.1% | 1.3% | 2.4% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0081",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 60
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2015** | ,151B | 99.8% | 72.4% | ,250B | .2B | 6.9% | 1.2% | 1.7% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0082",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 61
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2020** | ,748B | 128.1% | 99.7% | ,420B | .5B | 10.1% | 1.6% | 1.6% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0083",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 62
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2022** | ,929B | 121.5% | 97.0% | ,896B | .1B | 9.7% | 1.9% | 2.1% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0084",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 63
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2024** | ,465B | 122.4% | 99.0% | ,919B | .0B | 17.9% | 3.1% | 3.3% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0085",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 64
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2025 (Est.)** | ,120B | 123.8% | 100.5% | ,120B | .0B | 19.4% | 3.3% | 3.4% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0086",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 65
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2026 (Est.)** | ,980B | 125.2% | 102.1% | ,310B | ,110.0B | 20.9% | 3.5% | 3.5% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0087",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 66
+      },
+      "category": "corrupted_latex",
+      "severity": "HIGH",
+      "evidence": "| **2030 (Proj.)** | ,500B | 131.5% | 109.2% | ,150B | ,420.0B | 23.1% | 3.9% | 3.6% |",
+      "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
+      "validation_test": "regex_stripped_dollar_check",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0088",
+      "location": {
+        "file": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0089",
+      "location": {
+        "file": "Changing World Orders/Foundations/Foundations Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0090",
+      "location": {
+        "file": "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0091",
+      "location": {
+        "file": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0092",
+      "location": {
+        "file": "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0093",
+      "location": {
+        "file": "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0094",
+      "location": {
+        "file": "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0095",
+      "location": {
+        "file": "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0096",
+      "location": {
+        "file": "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0097",
+      "location": {
+        "file": "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0098",
+      "location": {
+        "file": "Convergence_Master_Synthesis.md",
+        "line": 265
+      },
+      "category": "broken_links",
+      "severity": "MEDIUM",
+      "evidence": "[`4th Turning/`](file:///Users/dylanboyle/Desktop/Convergence/4th%20Turning/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/4th%20Turning/",
+      "proposed_fix": "Update relative link target to existing document or remove broken link",
+      "validation_test": "link_path_resolution_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0099",
+      "location": {
+        "file": "Convergence_Master_Synthesis.md",
+        "line": 266
+      },
+      "category": "broken_links",
+      "severity": "MEDIUM",
+      "evidence": "[`Changing World Orders/`](file:///Users/dylanboyle/Desktop/Convergence/Changing%20World%20Orders/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/Changing%20World%20Orders/",
+      "proposed_fix": "Update relative link target to existing document or remove broken link",
+      "validation_test": "link_path_resolution_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0100",
+      "location": {
+        "file": "Convergence_Master_Synthesis.md",
+        "line": 267
+      },
+      "category": "broken_links",
+      "severity": "MEDIUM",
+      "evidence": "[`Kondratiev Waves/`](file:///Users/dylanboyle/Desktop/Convergence/Kondratiev%20Waves/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/Kondratiev%20Waves/",
+      "proposed_fix": "Update relative link target to existing document or remove broken link",
+      "validation_test": "link_path_resolution_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0101",
+      "location": {
+        "file": "Convergence_Master_Synthesis.md",
+        "line": 268
+      },
+      "category": "broken_links",
+      "severity": "MEDIUM",
+      "evidence": "[`LoAR/`](file:///Users/dylanboyle/Desktop/Convergence/LoAR/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/LoAR/",
+      "proposed_fix": "Update relative link target to existing document or remove broken link",
+      "validation_test": "link_path_resolution_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0102",
+      "location": {
+        "file": "Convergence_Master_Synthesis.md",
+        "line": 269
+      },
+      "category": "broken_links",
+      "severity": "MEDIUM",
+      "evidence": "[`Technological Singularity/`](file:///Users/dylanboyle/Desktop/Convergence/Technological%20Singularity/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/Technological%20Singularity/",
+      "proposed_fix": "Update relative link target to existing document or remove broken link",
+      "validation_test": "link_path_resolution_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0103",
+      "location": {
+        "file": "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0104",
+      "location": {
+        "file": "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0105",
+      "location": {
+        "file": "Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md",
+        "line": 111
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 107 has 4 cols; row has 6 cols: \"| **Wavelet Multi-Resolution** | `PyWavelets (pywt)` | Daubechies db8 discrete wavelet decomposition | Scale energy coefficients $E_j = \\sum_k |d_{j,k}|^2$ for scale $j \\in [5, 6]$ |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0106",
+      "location": {
+        "file": "Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0107",
+      "location": {
+        "file": "Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0108",
+      "location": {
+        "file": "Kondratiev Waves/Analysis/Scripts/Scripts Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0109",
+      "location": {
+        "file": "Kondratiev Waves/Authors/Authors Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0110",
+      "location": {
+        "file": "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0111",
+      "location": {
+        "file": "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0112",
+      "location": {
+        "file": "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
+        "line": 163
+      },
+      "category": "unbalanced_delimiters",
+      "severity": "HIGH",
+      "evidence": "File has odd number of triple-backtick code fences (3)",
+      "proposed_fix": "Close unclosed code block with matching ``` fence",
+      "validation_test": "code_fence_balance_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0113",
+      "location": {
+        "file": "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0114",
+      "location": {
+        "file": "Kondratiev Waves/Concept/Concept Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0115",
+      "location": {
+        "file": "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
+        "line": 81
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 80 has 5 cols; row has 6 cols: \"| :--- | :--- | :--- | :--- | :--- | :--- |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0116",
+      "location": {
+        "file": "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0117",
+      "location": {
+        "file": "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0118",
+      "location": {
+        "file": "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0119",
+      "location": {
+        "file": "Kondratiev Waves/Data/Data Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0120",
+      "location": {
+        "file": "Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0121",
+      "location": {
+        "file": "Kondratiev Waves/Data/Processed/CSV/CSV Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0122",
+      "location": {
+        "file": "Kondratiev Waves/Data/Processed/JSON/JSON Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0123",
+      "location": {
+        "file": "Kondratiev Waves/Data/Processed/Processed Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0124",
+      "location": {
+        "file": "Kondratiev Waves/Data/Processed/SQLite/SQLite Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0125",
+      "location": {
+        "file": "Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0126",
+      "location": {
+        "file": "Kondratiev Waves/Data/Raw/Raw Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0127",
+      "location": {
+        "file": "Kondratiev Waves/Economics/Economics Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0128",
+      "location": {
+        "file": "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0129",
+      "location": {
+        "file": "Kondratiev Waves/History/History Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0130",
+      "location": {
+        "file": "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0131",
+      "location": {
+        "file": "Kondratiev Waves/Kondratiev Waves Overview.md",
+        "line": 119
+      },
+      "category": "broken_links",
+      "severity": "MEDIUM",
+      "evidence": "[X(t)](s, \\tau) -> missing path: s, \\tau",
+      "proposed_fix": "Update relative link target to existing document or remove broken link",
+      "validation_test": "link_path_resolution_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0132",
+      "location": {
+        "file": "Kondratiev Waves/Kondratiev Waves Overview.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0133",
+      "location": {
+        "file": "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0134",
+      "location": {
+        "file": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0135",
+      "location": {
+        "file": "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0136",
+      "location": {
+        "file": "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0137",
+      "location": {
+        "file": "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0138",
+      "location": {
+        "file": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+        "line": 128
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 126 has 5 cols; row has 9 cols: \"| Groth16 | Rank-1 Constraint Systems (R1CS) | $\\mathcal{O}(|C| \\log |C|)$ | $\\mathcal{O}(1)$ pairing checks | 128 bytes |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0139",
+      "location": {
+        "file": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+        "line": 129
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 126 has 5 cols; row has 9 cols: \"| PLONK | Custom Gates, Permutation Arguments | $\\mathcal{O}(|C| \\log |C|)$ | $\\mathcal{O}(1)$ KZG commitments | 480 bytes |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0140",
+      "location": {
+        "file": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+        "line": 130
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 126 has 5 cols; row has 11 cols: \"| STARK | Algebraic Intermediate Rep. (AIR) | $\\mathcal{O}(|C| \\log^2 |C|)$ | $\\mathcal{O}(\\log^2 |C|)$ FRI checks | 45-120 KB |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0141",
+      "location": {
+        "file": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+        "line": 131
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 126 has 5 cols; row has 7 cols: \"| Nova / Folding | Relaxed R1CS, Non-Interactive | $\\mathcal{O}(|C|)$ per step | Constant verification step | Recursive O(1) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0142",
+      "location": {
+        "file": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0143",
+      "location": {
+        "file": "Kondratiev Waves/Technology/Technology Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0144",
+      "location": {
+        "file": "LoAR/Applications/Applications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0145",
+      "location": {
+        "file": "LoAR/Core_Concepts/00_Research_Plan.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0146",
+      "location": {
+        "file": "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0147",
+      "location": {
+        "file": "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Quantitative Dynamics', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Quantitative Dynamics', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0148",
+      "location": {
+        "file": "LoAR/Critiques/Critiques Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0149",
+      "location": {
+        "file": "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0150",
+      "location": {
+        "file": "LoAR/Future_Implications/Future Implications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0151",
+      "location": {
+        "file": "LoAR/Historical_Context/Historical Context Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0152",
+      "location": {
+        "file": "LoAR/Key_Principles/Key Principles Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0153",
+      "location": {
+        "file": "LoAR/Law of Accelerating Returns Overview.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0154",
+      "location": {
+        "file": "LoAR/LoAR_Expert_Review.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0155",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 90
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| :------ | :--- | :---- | :-----: | :------ |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0156",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 91
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2001** | **$100,000,000** | Sanger Sequencing (First-Gen Capillary) | Baseline |$100,000,000 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0157",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 92
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2003** | **$50,000,000** | Human Genome Project Completion | $\\sim 18$ |$37,000,000 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0158",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 93
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2007** | **$1,000,000** | Next-Gen 454 Pyrosequencing / Solexa | $\\sim 9$ |$6,250,000 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0159",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 94
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2009** | **$100,000** | Illumina Genome Analyzer II | $\\sim 5$ |$2,500,000 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0160",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 95
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2011** | **$10,000** | Illumina HiSeq 2000 | $\\sim 5$ |$1,000,000 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0161",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 96
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2014** | **$1,000** | Illumina HiSeq X Ten System | $\\sim 7$ |$250,000 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0162",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 97
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2020** | **$600** | Illumina NovaSeq 6000 | $\\sim 18$ |$15,000 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0163",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 98
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2023** | **$200** | Ultima Genomics UG 100 / Element AVITI | $\\sim 12$ |$3,700 (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0164",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 99
+      },
+      "category": "incomplete_tables",
+      "severity": "MEDIUM",
+      "evidence": "Table started at line 89 has 6 cols; row has 5 cols: \"| **2026** | **$100** | High-Throughput Nanopore & Enzymatic | $\\sim 12$ |**$900** (120-Year Comput) |\"",
+      "proposed_fix": "Align column count of row with table header row",
+      "validation_test": "table_column_alignment_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0165",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0166",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0167",
+      "location": {
+        "file": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0168",
+      "location": {
+        "file": "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0169",
+      "location": {
+        "file": "LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0170",
+      "location": {
+        "file": "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0171",
+      "location": {
+        "file": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0172",
+      "location": {
+        "file": "LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0173",
+      "location": {
+        "file": "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "LOW",
+      "evidence": "Dossier lacks standard required sections: ['Counterarguments / Falsification']",
+      "proposed_fix": "Add missing required sections (['Counterarguments / Falsification']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0174",
+      "location": {
+        "file": "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0175",
+      "location": {
+        "file": "PROJECT.md",
+        "line": 49
+      },
+      "category": "placeholders_and_template_residue",
+      "severity": "MEDIUM",
+      "evidence": "Placeholder or unrendered template artifact detected: \"TBD\"",
+      "proposed_fix": "Replace template placeholder with concrete empirical data or synthesis text",
+      "validation_test": "template_residue_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0176",
+      "location": {
+        "file": "PROJECT.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0177",
+      "location": {
+        "file": "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0178",
+      "location": {
+        "file": "Technological Singularity/Core_Concepts/00_Research_Overview.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Executive Summary', 'Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Executive Summary', 'Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0179",
+      "location": {
+        "file": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0180",
+      "location": {
+        "file": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0181",
+      "location": {
+        "file": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0182",
+      "location": {
+        "file": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0183",
+      "location": {
+        "file": "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0184",
+      "location": {
+        "file": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0185",
+      "location": {
+        "file": "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0186",
+      "location": {
+        "file": "Technological Singularity/Expert_Predictions/01_Forecasting_Scorecards_AGI_Consensus_and_Historical_Calibration.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0187",
+      "location": {
+        "file": "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0188",
+      "location": {
+        "file": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0189",
+      "location": {
+        "file": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0190",
+      "location": {
+        "file": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0191",
+      "location": {
+        "file": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0192",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0193",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md",
+        "line": 132
+      },
+      "category": "duplicate_paragraphs",
+      "severity": "MEDIUM",
+      "evidence": "Paragraph identical to paragraph at line 128: \"- **Epistemic Humility and Horizon Uncertainty**: The requirement that forecasters report explicit confidence intervals ...\"",
+      "proposed_fix": "Remove redundant duplicated paragraph or re-author with unique domain context",
+      "validation_test": "duplicate_paragraph_hash_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0194",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0195",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+        "line": 116
+      },
+      "category": "duplicate_paragraphs",
+      "severity": "MEDIUM",
+      "evidence": "Paragraph identical to paragraph at line 109: \"49. **Algorithmic Complexity Floor**: The minimal computational resource requirement beneath which an artificial intelli...\"",
+      "proposed_fix": "Remove redundant duplicated paragraph or re-author with unique domain context",
+      "validation_test": "duplicate_paragraph_hash_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0196",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0197",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md",
+        "line": 128
+      },
+      "category": "duplicate_paragraphs",
+      "severity": "MEDIUM",
+      "evidence": "Paragraph identical to paragraph at line 124: \"- **Continuous Calibration Verification**: Historical predictions are automatically rescored against realized benchmark ...\"",
+      "proposed_fix": "Remove redundant duplicated paragraph or re-author with unique domain context",
+      "validation_test": "duplicate_paragraph_hash_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0198",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0199",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
+        "line": 126
+      },
+      "category": "duplicate_paragraphs",
+      "severity": "MEDIUM",
+      "evidence": "Paragraph identical to paragraph at line 122: \"- **Clean Energy and Geothermal Co-Location**: Mitigating transmission bottlenecks by siting compute facilities adjacent...\"",
+      "proposed_fix": "Remove redundant duplicated paragraph or re-author with unique domain context",
+      "validation_test": "duplicate_paragraph_hash_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0200",
+      "location": {
+        "file": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0201",
+      "location": {
+        "file": "Technological Singularity/Technological Singularity Overview.md",
+        "line": 126
+      },
+      "category": "duplicate_paragraphs",
+      "severity": "MEDIUM",
+      "evidence": "Paragraph identical to paragraph at line 122: \"- **Epistemic Governance and Verification**: Structuring transparent institutional oversight mechanisms to monitor algor...\"",
+      "proposed_fix": "Remove redundant duplicated paragraph or re-author with unique domain context",
+      "validation_test": "duplicate_paragraph_hash_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0202",
+      "location": {
+        "file": "Technological Singularity/Technological Singularity Overview.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0203",
+      "location": {
+        "file": "Technological Singularity/Technological_Singularity_Expert_Review.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Executive Summary', 'Foundations / Theory', 'Empirical Evidence', 'Quantitative Dynamics', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0204",
+      "location": {
+        "file": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md",
+        "line": 134
+      },
+      "category": "duplicate_paragraphs",
+      "severity": "MEDIUM",
+      "evidence": "Paragraph identical to paragraph at line 131: \"- **2035 Horizon Verification**: Self-directed scientific discovery engines operating across closed-loop autonomous labo...\"",
+      "proposed_fix": "Remove redundant duplicated paragraph or re-author with unique domain context",
+      "validation_test": "duplicate_paragraph_hash_test",
+      "status": "open"
+    },
+    {
+      "id": "DEF-0205",
+      "location": {
+        "file": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md",
+        "line": 1
+      },
+      "category": "missing_required_sections",
+      "severity": "MEDIUM",
+      "evidence": "Dossier lacks standard required sections: ['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']",
+      "proposed_fix": "Add missing required sections (['Foundations / Theory', 'Counterarguments / Falsification', 'Synthesis / Implications']) to adhere to comprehensive monograph template",
+      "validation_test": "dossier_structural_section_test",
+      "status": "open"
+    }
+  ]
+}
