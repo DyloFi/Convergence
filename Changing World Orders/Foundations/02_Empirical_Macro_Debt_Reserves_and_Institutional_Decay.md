@@ -65,6 +65,26 @@ The metric that most precisely measures sovereign debt stress is not merely the 
 | **2026 (Est.)** | $38,980B | 125.2% | $5,310B | $1,110.0B | 20.9% | 3.5% | 3.5% |
 | **2030 (Proj.)** | $46,500B | 131.5% | $6,150B | $1,420.0B | 23.1% | 3.9% | 3.6% |
 
+#### Primary Data Sources & Provenance Methodology
+All historical debt, revenue, outlay, and carrying cost figures are retrieved directly from official primary sovereign accounting archives:
+1. **Gross Federal Debt ()**: 
+   - *1960–2020*: U.S. Department of the Treasury, Bureau of the Fiscal Service, Historical Debt Outstanding; corroborated against Federal Reserve Bank of St. Louis (FRED) series GFDEBTN (Federal Debt: Total Public Debt).
+   - *2022–2024*: U.S. Treasury, Monthly Treasury Statement (MTS), September 30 Year-End Issues.
+   - *2025–2030 Projections*: Congressional Budget Office (CBO), The Budget and Economic Outlook: 2024 to 2034 (June 2024 Baseline, Table 1-1).
+2. **Debt Held by the Public (% of GDP)**: 
+   - *1960–2024*: CBO, Historical Budget Data (Table F-1: Federal Debt and Interest Outlays, 1940 to 2024); FRED series FYGFGDQ188S.
+   - *2025–2030 Projections*: CBO Baseline (Table 1-2: Federal Debt Held by the Public).
+3. **Total Federal Revenues ()**: 
+   - *1960–2024*: Office of Management and Budget (OMB), Historical Tables, Budget of the United States Government (Table 1.1); CBO Historical Budget Data (Table F-3: Revenues by Major Source).
+   - *2025–2030 Projections*: CBO Baseline (Table 1-1: Revenues).
+4. **Net Interest Outlays ()**: 
+   - *1960–2024*: CBO, Historical Budget Data (Table F-5: Mandatory, Discretionary, and Net Interest Outlays); OMB Historical Tables (Table 3.2: Outlays by Function and Subfunction - Function 900 Net Interest).
+   - *2025–2030 Projections*: CBO Baseline (Table 1-1: Net Interest Outlays).
+5. **Net Interest as % of Federal Revenue (%)**: 
+   - Computed ratio: Net Interest Outlays () divided by Total Federal Revenues ().
+6. **Average Effective Interest Rate on Debt (%)**: 
+   - *1960–2024*: U.S. Department of the Treasury, Bureau of the Fiscal Service, Average Interest Rates on U.S. Treasury Securities (Historical Annual Averages); FRED series AYII.
+
 ### The Compound Interest Trap and Fiscal Dominance
 Between 2020 and 2026, the US sovereign fiscal trajectory crossed several critical structural thresholds (CBO, 2024, 2025):
 - **Gross Sovereign Debt at Historic Highs**: Gross federal debt reached ~122% of GDP in 2024. Debt held by the public stood at approximately 99% of GDP—nearing but not yet surpassing the historic World War II peak of 106% set in 1946 (which CBO projections forecast crossing around 2028–2029 under current fiscal trajectories).
