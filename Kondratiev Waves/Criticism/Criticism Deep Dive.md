@@ -16,7 +16,7 @@ Econometrician Solomou (1987) demonstrated that the 50-year long waves identifie
 
 ### 1.2 Unit Roots & Non-Stationary Random Walks (Nelson & Plosser, 1982) for Methodological & Theoretical Critiques of Kondratiev Wave Theory
 Nelson and Plosser (1982) revolutionized macroeconometrics by proving that GDP, price indices, and interest rates contain **unit roots** $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
 Because macroeconomic series follow non-stationary stochastic random walks, economic shocks are permanent structural shifts rather than temporary deviations around a deterministic 50-year sine wave.
 
 ### 1.3 The Marxist Exogenous Shock Model (Trotsky, 1923; Mandel, 1975) for Methodological & Theoretical Critiques of Kondratiev Wave Theory
@@ -114,7 +114,7 @@ George Garvy (1943) asserted that Kondratiev's empirical identification of 50-ye
 ### 5.2 Unit Roots and Difference-Stationary Macro Series
 Modern time-series econometrics (Nelson & Plosser 1982) demonstrated that macroeconomic indicators (GDP, industrial production, interest rates) follow stochastic unit-root processes $I(1)$ rather than deterministic trend-stationary processes:
 
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
 
 Because shocks to difference-stationary series exert permanent, non-decaying structural impacts, random uncoordinated events (such as wars or harvest failures) mimic wave-like cycles without requiring an underlying deterministic 50-year periodicity.
 

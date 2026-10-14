@@ -18,11 +18,8 @@
     "HIGH": 16
   },
   "status_counts": {
-    "open": 205,
-    "in_progress": 0,
-    "fixed": 0,
-    "verified": 0,
-    "accepted_exception": 0
+    "open": 190,
+    "fixed": 15
   },
   "source_of_truth_mapping": {
     "overview": "Source of truth resolution rules across duplicates, backups, and historical snapshots.",
@@ -997,7 +994,8 @@
       "evidence": "| **1960** | B | 53.6% | 46.1% | .5B | .9B | 7.5% | 1.3% | 3.2% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0074",
@@ -1010,7 +1008,8 @@
       "evidence": "| **1970** | B | 36.3% | 28.0% | .8B | .4B | 7.5% | 1.4% | 5.3% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0075",
@@ -1023,7 +1022,8 @@
       "evidence": "| **1980** | B | 32.5% | 25.5% | .1B | .5B | 10.2% | 1.9% | 8.9% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0076",
@@ -1036,7 +1036,8 @@
       "evidence": "| **1990** | ,233B | 54.4% | 40.8% | ,032B | .3B | 17.9% | 3.1% | 8.4% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0077",
@@ -1049,7 +1050,8 @@
       "evidence": "| **1995** | ,974B | 65.2% | 47.7% | ,351B | .2B | 17.2% | 3.1% | 6.8% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0078",
@@ -1062,7 +1064,8 @@
       "evidence": "| **2000** | ,674B | 55.5% | 34.7% | ,025B | .0B | 11.0% | 2.2% | 6.4% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0079",
@@ -1075,7 +1078,8 @@
       "evidence": "| **2005** | ,933B | 60.9% | 35.6% | ,154B | .0B | 8.5% | 1.4% | 4.3% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0080",
@@ -1088,7 +1092,8 @@
       "evidence": "| **2010** | ,562B | 90.5% | 60.6% | ,163B | .9B | 9.1% | 1.3% | 2.4% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0081",
@@ -1101,7 +1106,8 @@
       "evidence": "| **2015** | ,151B | 99.8% | 72.4% | ,250B | .2B | 6.9% | 1.2% | 1.7% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0082",
@@ -1114,7 +1120,8 @@
       "evidence": "| **2020** | ,748B | 128.1% | 99.7% | ,420B | .5B | 10.1% | 1.6% | 1.6% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0083",
@@ -1127,7 +1134,8 @@
       "evidence": "| **2022** | ,929B | 121.5% | 97.0% | ,896B | .1B | 9.7% | 1.9% | 2.1% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0084",
@@ -1140,7 +1148,8 @@
       "evidence": "| **2024** | ,465B | 122.4% | 99.0% | ,919B | .0B | 17.9% | 3.1% | 3.3% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0085",
@@ -1153,7 +1162,8 @@
       "evidence": "| **2025 (Est.)** | ,120B | 123.8% | 100.5% | ,120B | .0B | 19.4% | 3.3% | 3.4% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0086",
@@ -1166,7 +1176,8 @@
       "evidence": "| **2026 (Est.)** | ,980B | 125.2% | 102.1% | ,310B | ,110.0B | 20.9% | 3.5% | 3.5% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0087",
@@ -1179,7 +1190,8 @@
       "evidence": "| **2030 (Proj.)** | ,500B | 131.5% | 109.2% | ,150B | ,420.0B | 23.1% | 3.9% | 3.6% |",
       "proposed_fix": "Restore original dollar prefix stripped by unquoted heredoc parameter expansion (e.g. $1,233B instead of ,233B)",
       "validation_test": "regex_stripped_dollar_check",
-      "status": "open"
+      "status": "fixed",
+      "fix_notes": "Step 4: Restored stripped dollar amounts from CBO baseline table (B, ,420B, .5B, etc.)."
     },
     {
       "id": "DEF-0088",

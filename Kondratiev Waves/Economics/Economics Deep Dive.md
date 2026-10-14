@@ -45,8 +45,8 @@ Econometric verification of long-wave indicators remains one of the most dispute
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Solomou showed that moving-average detrending filters applied to Sauerbeck price data artificially induce 50-year periodicities (the Slutsky-Yule Effect). When raw un-filtered GDP series undergo Fourier spectral density analysis, 50-year cycles lack statistical significance.
 2. **Unit Roots & Stochastic Random Walks (Nelson & Plosser, 1982)**: Macroeconomic series possess unit roots $I(1)$ and follow non-stationary random walks:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
-   This proves macroeconomic indicators undergo permanent structural breaks rather than temporary deviations around a deterministic 50-year sine wave.
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
+   This provides empirical evidence macroeconomic indicators undergo permanent structural breaks rather than temporary deviations around a deterministic 50-year sine wave.
 3. **Marxist Exogenous Shock Model (Trotsky, 1923; Mandel, 1975)**: Leon Trotsky rejected Kondratiev's endogenous cycle, arguing that long-term macroeconomic trends are governed by non-periodic political events, colonial conquests, and class struggles over the rate of profit $\frac{s}{c+v}$.
 4. **Neoclassical Growth Models (Solow, 1956)**: Solow's exogenous growth model attributes output growth to smooth continuous total factor productivity $A(t) = A_0 e^{gt}$, rejecting rigid wave periodicity.
 

@@ -44,7 +44,7 @@ Conceptual long-wave frameworks must be continually contextualized against major
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Econometricians show that trend-elimination filters (moving averages, HP filters) applied to macro time series artificially produce smooth 50-year waves—the **Slutsky-Yule Effect**. Spectral density estimation on raw un-filtered GDP data fails to confirm 50-year periodicity.
 2. **Stochastic Trend Critique (Nelson & Plosser, 1982)**: Empirical testing challenged deterministic wave models, asserting that random macroeconomic shocks account for persistent trend shifts without requiring underlying long-wave periodicity.
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Shocks produce permanent structural shifts rather than temporary deviations around a deterministic 50-year sine wave.
 3. **Marxist Exogenous Shock Model (Trotsky, 1923; Mandel, 1975)**: Leon Trotsky argued that long-term macroeconomic shifts are non-periodic, driven by exogenous geopolitical shocks and war.
 4. **Neoclassical Growth Theory (Solow, 1956)**: Solow's model treats technical change as smooth exogenous total factor productivity growth $A(t) = A_0 e^{gt}$.

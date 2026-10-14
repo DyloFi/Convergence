@@ -58,7 +58,7 @@ Theoretical contributions of key authors must be systematically evaluated agains
 
 1. **Solomou's Econometric Critique of Kondratiev & Schumpeter (Solomou, 1987)**: Solomou showed that Kondratiev's moving-average detrending methods artificially generated 50-year cycles from random white noise (the Slutsky-Yule Effect). Raw GDP spectral analysis fails to validate Kondratiev's deterministic periodicity.
 2. **Nelson & Plosser's Unit Root Challenge (Nelson & Plosser, 1982)**: Nelson and Plosser demonstrated that macroeconomic time series follow stochastic random walks with unit roots $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    This directly challenges Schumpeter's assumption that long waves represent deterministic deviations around a smooth equilibrium.
 3. **Leon Trotsky's Exogenous Shock Model (Trotsky, 1923)**: Trotsky rejected Kondratiev's endogenous periodicity, arguing that long-term capitalist shifts are dictated by exogenous political shocks, revolutions, and wars.
 4. **Robert Solow's Neoclassical Growth Model (Solow, 1956)**: Solow's model treats technological progress as a smooth continuous exogenous parameter $A(t) = A_0 e^{gt}$, rejecting discrete wave periodicity.

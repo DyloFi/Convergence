@@ -113,9 +113,9 @@ The cyclical paradigm articulated by Strauss and Howe interacts with several pro
 Turchin's Political Stress Index ($PSI$) provides a complementary quantitative formulation to generational crisis dynamics:
 
 $$PSI(t) = 
-rac{N_{elite}(t)}{N_{positions}(t)} 	imes 
-rac{W_{median}(t)}{GDP_{per\_capita}(t)}^{-1} 	imes 
-rac{Debt_{state}(t)}{Rev_{state}(t)}$$
+\frac{N_{elite}(t)}{N_{positions}(t)} 	imes 
+\frac{W_{median}(t)}{GDP_{per\_capita}(t)}^{-1} 	imes 
+\frac{Debt_{state}(t)}{Rev_{state}(t)}$$
 
 As $PSI(t)$ approaches critical threshold $\Theta_{crisis}$, social cohesion declines monotonically. In the generational paradigm, this corresponds precisely to the Unraveling turning phase, where individual autonomy surges while collective civic trust collapses, setting the structural preconditions for Fourth Turning crisis resolution.
 

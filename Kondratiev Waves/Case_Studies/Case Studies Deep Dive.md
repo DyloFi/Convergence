@@ -60,7 +60,7 @@ Case study interpretations face major econometric and theoretical counter-argume
 
 1. **Slutsky-Yule Filter Artifact Critique (Solomou, 1987)**: Econometricians argue that interpreting 1847, 1929, and 2008 as predictable turning points of 50-year waves is flawed. Moving-average filters generate spurious periodicities from random historical shocks.
 2. **Unit Roots & Stochastic Structural Breaks (Nelson & Plosser, 1982)**: Macroeconomic time series contain unit roots $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Events like the 1929 Crash or 2008 GFC represent unpredicted stochastic structural breaks rather than deterministic points on a sinusoidal wave.
 3. **Monetarist Explanation of Great Depression (Friedman & Schwartz, 1963)**: Monetarists argue that the 1929 Depression was caused by Federal Reserve monetary policy blunders rather than an inevitable long-wave turning point crisis.
 

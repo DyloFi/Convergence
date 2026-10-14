@@ -47,7 +47,7 @@ Historical long-wave interpretations are subject to rigorous historiographical a
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Econometricians show that trend-elimination filters (moving averages, HP filters) applied to historical output series artificially generate 50-year periodicities—the **Slutsky-Yule Effect**. When raw GDP data is tested using Fourier spectral analysis, 50-year periodicities lack statistical significance.
 2. **Unit Roots & Stochastic Random Walks (Nelson & Plosser, 1982)**: Historical time-series possess unit roots $I(1)$ and follow stochastic trend processes:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Macroeconomic shocks exert permanent structural changes rather than temporary deviations around a deterministic 50-year wave.
 3. **Marxist Exogenous Shock Model (Trotsky, 1923; Mandel, 1975)**: Leon Trotsky argued that long-term historical shifts are non-periodic and driven by exogenous political events (wars, revolutions, conquests) rather than endogenous economic laws.
 4. **Neoclassical Growth Theory (Solow, 1956)**: Solow's model treats technical progress as continuous exogenous growth $A(t) = A_0 e^{gt}$, rejecting discrete historical wave periodicity.

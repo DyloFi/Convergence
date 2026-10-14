@@ -54,7 +54,7 @@ Long-wave data collection must address significant econometric data limitations 
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Econometricians demonstrate that applying moving-average or Hodrick-Prescott filters to raw macroeconomic series creates spurious 50-year oscillations (the Slutsky-Yule Effect). Raw un-filtered time series must be retained in `Data/Raw/` for spectral validation.
 2. **Unit Roots & Non-Stationary Series (Nelson & Plosser, 1982)**: Macroeconomic time series possess unit roots $I(1)$ and follow stochastic random walks:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Data processors must apply Dickey-Fuller unit root tests before applying cycle detrending algorithms.
 3. **Historical Data Quality & Heterogeneity (Kondratiev, 1925)**: Pre-1850 economic data suffers from missing regional series, shifts in currency bases, and changing GDP estimation methodologies.
 

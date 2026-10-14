@@ -14,7 +14,7 @@ Eugen Slutsky (1927) and Udny Yule (1927) mathematically demonstrated that apply
 
 ### 1.2 Unit Root Stochastic Random Walks (Nelson & Plosser, 1982)
 In a landmark paper, Charles Nelson and Charles Plosser (1982) evaluated US macroeconomic time series (real GDP, industrial production, employment, wholesale prices, stock prices) and established that macro series contain **unit roots** $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
 Because macroeconomic series follow non-stationary stochastic random walks, economic shocks (such as wars, technological breakthroughs, or policy changes) exert permanent structural changes rather than temporary deviations around a deterministic 50-year sine wave.
 
 ### 1.3 The Dominance of Kuznets Swings (15–25 Years)

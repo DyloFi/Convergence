@@ -44,7 +44,7 @@ Historical raw datasets in long-wave research are subject to major econometric s
 
 1. **Slutsky-Yule Filter Artifact Danger (Solomou, 1987; Kuznets, 1930)**: Solomou showed that moving-average filters applied to 19th-century price series artificially generate 50-year periodicities from random white noise. Retaining un-filtered historical raw data is critical for spectral density verification.
 2. **Unit Roots in Historical Macro Series (Nelson & Plosser, 1982)**: Historical macroeconomic series contain unit roots $I(1)$ and follow stochastic random walks:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Historical shocks (e.g., Napoleonic Wars or US Civil War) represent permanent structural breaks rather than regular wave oscillations.
 3. **Marxist Exogenous Shock Model (Trotsky, 1923)**: Leon Trotsky argued that 19th-century growth fluctuations were non-periodic and driven by exogenous political events rather than endogenous economic laws.
 

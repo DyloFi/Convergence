@@ -135,7 +135,7 @@ Financial press coverage and media narrative propagation display strong cyclical
 Textual sentiment across financial archives (The Economist 1843–2026, Financial Times 1888–2026, Wall Street Journal 1889–2026) is quantified using domain-specific financial lexicons:
 
 $$S_t = 
-rac{N_{	ext{optimistic}} - N_{	ext{pessimistic}}}{N_{	ext{optimistic}} + N_{	ext{pessimistic}} + N_{	ext{neutral}}}$$
+\frac{N_{	ext{optimistic}} - N_{	ext{pessimistic}}}{N_{	ext{optimistic}} + N_{	ext{pessimistic}} + N_{	ext{neutral}}}$$
 
 During the **Frenzy Phase** of K-waves (e.g., 1920s Radio Boom, 1990s Dot-Com Bubble, 2020s AI Compute Buildout), media sentiment index values peak at $S_t > +0.65$, reflecting irrational exuberance and speculative mania.
 

@@ -50,7 +50,7 @@ Data documentation protocols must explicitly address econometric limitations and
 
 1. **Slutsky-Yule Filter Artifact Documentation (Solomou, 1987)**: Documentation must note whenever a dataset has undergone moving-average or Hodrick-Prescott filtering, as these transformations introduce artificial 50-year periodicities into white-noise series.
 2. **Unit Root & Stationarity Documentation (Nelson & Plosser, 1982)**: All dataset documentation must include Augmented Dickey-Fuller (ADF) test statistics to record whether the raw series contains a unit root $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
 3. **Data Revision & Currency Re-Denomination Notes (Kondratiev, 1925)**: Historical series documentation must record currency conversions (e.g., pre-decimal British pounds) and structural breaks caused by war or boundary shifts.
 
 

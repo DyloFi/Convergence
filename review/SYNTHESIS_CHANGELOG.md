@@ -26,7 +26,7 @@ The central monograph  was audited and updated to eliminate false mathematical p
 - **Previous Text**: Formalized takeoff dynamics without incorporating hardware bottlenecks.
 - **Corrected Formulation**:
   - Embedded physical constraints into the differential equation governing algorithmic efficiency:
-    36689\frac{dA}{dt} = \kappa_A \cdot A(t)^\theta \cdot \left(\frac{E(t)}{E_0}\right)^\mu36689
+41176\frac{dA}{dt} = \kappa_A \cdot A(t)^\theta \cdot \left(\frac{E(t)}{E_0}\right)^\mu41176
   - Added explicit thermodynamic and architecture ceilings: the Landauer dissipation limit ({\min} = k_B T \ln 2$), von Neumann memory bandwidth walls, and datacenter power grid interconnect limits, which enforce logistic saturation in physical computing substrates.
 
 ### 2.3 Societal Institutional Stress and Fragility Indices (Section 4.1)

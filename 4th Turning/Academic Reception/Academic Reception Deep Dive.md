@@ -109,7 +109,7 @@ The generational impulse model can be formalized as a damped harmonic oscillator
 $$I_{cohort}(t) = A_0 e^{-\gamma t} \cos(\omega_0 t + \phi) + \sum_{k=1}^K \beta_k S_k(t - 	au_k)$$
 
 where $I_{cohort}(t)$ represents institutional civic cohesion, $\gamma$ is the decay rate of institutional memory across generations, $\omega_0 = 
-rac{2\pi}{T_{saeculum}}$ represents the fundamental saecular frequency (with $T_{saeculum} \approx 80-90$ years), and $S_k$ denotes exogenous shocks (technological phase shifts or geopolitical realignments) occurring with lag $	au_k$.
+\frac{2\pi}{T_{saeculum}}$ represents the fundamental saecular frequency (with $T_{saeculum} \approx 80-90$ years), and $S_k$ denotes exogenous shocks (technological phase shifts or geopolitical realignments) occurring with lag $	au_k$.
 
 ### Convergence Synthesis and Macro-Historical Coupling
 

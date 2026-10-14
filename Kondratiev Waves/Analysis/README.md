@@ -51,7 +51,7 @@ Statistical analysis scripts must explicitly implement tests for major econometr
 
 1. **Slutsky-Yule Filter Artifact Detection (Solomou, 1987; Kuznets, 1930)**: Solomou demonstrated that moving-average and HP filters artificially induce 50-year cycles when applied to stationary white noise or random walks. The analysis codebase includes Monte Carlo simulation scripts (`Scripts/slutsky_yule_test.py`) that run HP filters on synthetic white noise to compare periodogram outputs against empirical data.
 2. **Unit Roots & Non-Stationary Random Walks (Nelson & Plosser, 1982)**: Macroeconomic series possess unit roots $I(1)$ and follow stochastic trend processes:
-$$Y_{t, \text{analysis_subsystem}} = \mu_{\text{analysis_subsystem}} + Y_{t-1, \text{analysis_subsystem}} + \epsilon_{t, \text{analysis_subsystem}}$$
+$$Y_{t, \text{analysis\_subsystem}} = \mu_{\text{analysis\_subsystem}} + Y_{t-1, \text{analysis\_subsystem}} + \epsilon_{t, \text{analysis\_subsystem}}$$
    Scripts must verify non-stationarity prior to cycle modeling.
 3. **Neoclassical Solow Residual (Solow, 1956)**: Neoclassical models treat total factor productivity growth $A(t) = A_0 e^{gt}$ as continuous exogenous progress, rejecting discrete cycle filtering.
 

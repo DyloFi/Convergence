@@ -46,8 +46,8 @@ Mainstream academic reception remains deeply critical of deterministic long-wave
 
 1. **Econometric Spectral Analysis Critique (Solomou, 1987)**: Solomou demonstrated that moving-average detrending filters applied to macroeconomic time series artificially generate 50-year periodicities—the **Slutsky-Yule Effect**. When raw GDP data undergoes spectral density estimation, deterministic 50-year peaks lack statistical significance.
 2. **Unit Root Non-Stationarity (Nelson & Plosser, 1982)**: Macroeconomic time series possess unit roots $I(1)$ and follow stochastic trend processes:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
-   This proves macroeconomic shocks exert permanent structural changes rather than temporary deviations around a deterministic 50-year wave.
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
+   This econometric specification demonstrates that macroeconomic shocks exert persistent structural shifts on output levels rather than temporary fluctuations around a deterministic 50-year trend.
 3. **Neoclassical Growth Theory (Solow, 1956)**: Standard Solow-Swan neoclassical models view technical change as continuous exogenous growth $A(t) = A_0 e^{gt}$, rejecting rigid wave periodicity.
 
 

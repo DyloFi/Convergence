@@ -50,7 +50,7 @@ Tabular CSV storage in long-wave research must explicitly address econometric li
 
 1. **Slutsky-Yule Filter Artifact Disclosure (Solomou, 1987)**: Storing detrended series in CSV files without raw columns can mislead researchers into treating filter artifacts as genuine economic cycles. CSV standards require co-locating `value_raw` and `value_detrended`.
 2. **Unit Roots & Non-Stationary Time Series (Nelson & Plosser, 1982)**: Macroeconomic series in CSV files contain unit roots $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Researchers consuming CSV files must run Dickey-Fuller tests before executing linear regression models.
 3. **Neoclassical Continuous Growth View (Solow, 1956)**: Solow's model treats technological change as smooth continuous total factor productivity growth $A(t) = A_0 e^{gt}$, rejecting rigid CSV cycle classifications.
 

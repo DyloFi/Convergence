@@ -42,7 +42,7 @@ Raw data collection in long-wave economics faces substantial academic and econom
 
 1. **Raw vs. Filtered Data Integrity (Solomou, 1987; Kuznets, 1930)**: Solomou showed that moving-average filters create artificial 50-year periodicities from random noise (the Slutsky-Yule Effect). Retaining un-altered raw data is essential to allow independent spectral density testing.
 2. **Unit Roots in Raw Macro Series (Nelson & Plosser, 1982)**: Raw macroeconomic series possess unit roots $I(1)$ and follow non-stationary stochastic trends:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Raw series must not be assumed stationary prior to formal ADF unit root testing.
 3. **Archival Boundary & Base Shift Errors (Kondratiev, 1925)**: Historical raw data prior to 1850 contains non-standardized price quotes, changing currency denominations, and territorial boundary shifts that require explicit raw metadata logging.
 

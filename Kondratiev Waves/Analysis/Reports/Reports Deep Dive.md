@@ -58,7 +58,7 @@ Automated report generation templates must systematically incorporate major econ
 
 1. **Slutsky-Yule Filter Artifact Warning Integration (Solomou, 1987)**: Every generated wave report template includes a mandatory section discussing spectral analysis critiques and filter artifact risks.
 2. **Unit Root Non-Stationarity Disclosure (Nelson & Plosser, 1982)**: Generated reports include Augmented Dickey-Fuller test statistics to explicitly document non-stationarity in underlying time series:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
 3. **Neoclassical Solow Residual Contrast (Solow, 1956)**: Reports contrast discrete wave filtering outputs against Solow's continuous total factor productivity model $A(t) = A_0 e^{gt}$.
 
 

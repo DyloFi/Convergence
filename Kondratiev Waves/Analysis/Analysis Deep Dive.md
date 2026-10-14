@@ -40,7 +40,7 @@ Statistical methods in long-wave analysis face severe econometric critiques:
 
 1. **Slutsky-Yule Filter Artifact Critique (Solomou, 1987; Kuznets, 1930)**: Econometricians prove that applying moving-average or HP filters to stationary white noise or random-walk series artificially generates smooth cyclical oscillations with periodicities between 40 and 60 years. When Fourier spectral analysis is applied to raw, un-filtered real GDP data, the 50-year spectral peak loses statistical significance.
 2. **Unit Roots & Stochastic Random Walks (Nelson & Plosser, 1982)**: Nelson and Plosser demonstrated that macroeconomic time series contain unit roots $I(1)$ and follow stochastic trend processes:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Macroeconomic shocks are permanent structural shifts rather than temporary deviations around a deterministic 50-year sine wave.
 3. **Neoclassical Growth Models (Solow, 1956)**: Solow's model treats technological progress as smooth continuous total factor productivity growth $A(t) = A_0 e^{gt}$, rejecting discrete cycle filtering.
 
@@ -127,17 +127,17 @@ Standard quarterly business cycle filtering utilizes $\lambda = 1600$. For annua
 The Baxter-King (BK) bandpass filter isolates frequency bands corresponding strictly to $40 \le \tau \le 60$ years by applying a symmetric finite impulse response (FIR) moving average filter of length $K = 12$ years:
 
 $$y_t^* = \sum_{k=-K}^{K} a_k y_{t-k} \quad \text{where } a_k = 
-rac{\sin(\omega_2 k) - \sin(\omega_1 k)}{\pi k} - 	heta$$
+\frac{\sin(\omega_2 k) - \sin(\omega_1 k)}{\pi k} - 	heta$$
 
 where cut-off frequencies are set to $\omega_1 = 
-rac{2\pi}{60}$ and $\omega_2 = 
-rac{2\pi}{40}$, and $	heta$ is chosen such that the filter weights sum to zero ($a_0 + 2\sum_{k=1}^K a_k = 0$), ensuring zero gain at zero frequency.
+\frac{2\pi}{60}$ and $\omega_2 = 
+\frac{2\pi}{40}$, and $	heta$ is chosen such that the filter weights sum to zero ($a_0 + 2\sum_{k=1}^K a_k = 0$), ensuring zero gain at zero frequency.
 
 ### 5.3 Fourier Fast Spectral Density Estimation
 Frequency domain validation computes the Welch power spectral density (PSD) estimate $S_{xx}(f)$ across detrended historical commodity and GDP series:
 
 $$S_{xx}(f) = 
-rac{1}{M U} \sum_{m=1}^{M} \left| \sum_{n=0}^{N-1} w(n) x_m(n) e^{-j 2\pi f n} 
+\frac{1}{M U} \sum_{m=1}^{M} \left| \sum_{n=0}^{N-1} w(n) x_m(n) e^{-j 2\pi f n} 
 ight|^2$$
 
 Empirical spectral peaks consistently concentrate in the narrow frequency band $f \in [0.016, 0.025]\text{ yr}^{-1}$, confirming statistically significant power concentration at the 40–60 year Kondratiev cycle horizon (Granger 1966; Metz 1992).

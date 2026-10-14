@@ -106,7 +106,7 @@ China'''s grand strategy couples physical supply chain dominance with systematic
 Paul Kennedy'''s classical thesis demonstrates that all historical hegemons ultimately expand their strategic commitments beyond their sustainable domestic tax base (Kennedy 1987). This vulnerability is acute in maritime powers:
 
 $$	ext{Imperial Overstretch Index} = 
-rac{	ext{Global Treaty Commitments} 	imes 	ext{Overseas Basing Tonnage}}{	ext{Domestic Manufacturing Base} 	imes 	ext{Fiscal Revenue Efficiency}}$$
+\frac{	ext{Global Treaty Commitments} 	imes 	ext{Overseas Basing Tonnage}}{	ext{Domestic Manufacturing Base} 	imes 	ext{Fiscal Revenue Efficiency}}$$
 
 During the British naval zenith, the Two-Power Standard (mandating that the Royal Navy equal the combined strength of the next two naval powers) became fiscally impossible after 1904, compelling Britain to forge alliances with Japan and France (Mahan 1890; Kennedy 1976). Similarly, the US Navy in 2026 operates approximately 295 deployable battle force ships while facing a Chinese PLAN fleet exceeding 370 hulls backed by a commercial shipbuilding capacity 200 times larger than that of the United States (CSIS 2023; Office of Naval Intelligence 2023).
 

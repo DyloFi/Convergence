@@ -70,7 +70,7 @@ The empirical transition probability from Regime 2 to Regime 3 increases sharply
 Following Farrell and Newman (2019), we quantify financial weaponizability by modeling global payments as an asymmetric directed graph $G = (V, E)$, where nodes $V$ represent sovereign central banks and edges $E$ represent gross cross-border clearing flows:
 
 $$	ext{Hub Centrality Score}_i = \sum_{j \in V} A_{ij} 
-rac{	ext{Authority Score}_j}{\kappa}$$
+\frac{	ext{Authority Score}_j}{\kappa}$$
 
 ```text-changing-world-orders-supporting-materials-supporting-materials-deep-dive-4
 ┌── [ Table 4.1: Financial Clearing Network Centrality Comparison ] ──┐

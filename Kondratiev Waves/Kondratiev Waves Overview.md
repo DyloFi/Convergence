@@ -49,7 +49,7 @@ Despite its structural elegance, Kondratiev Wave theory faces significant econom
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Econometricians demonstrate that trend-elimination filters (such as moving averages or Hodrick-Prescott filters) applied to macroeconomic time-series artificially induce 40- to 60-year periodicities—a mathematical artifact known as the **Slutsky-Yule Effect**. When raw GDP series are subjected to Fourier spectral density estimation, deterministic 50-year periodicity disappears.
 2. **Unit Root & Stochastic Random Walks (Nelson & Plosser, 1982)**: Macroeconomic indicators generally possess unit roots $I(1)$ and follow stochastic trend processes:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    This indicates that economic shocks exert permanent structural shifts rather than temporary deviations around a deterministic 50-year sine wave.
 3. **Marxist Exogenous Shock Model (Trotsky, 1923; Mandel, 1975)**: Leon Trotsky rejected Kondratiev's endogenous periodicity, arguing that long-term shifts in capitalist accumulation are caused by exogenous political shocks, wars, and territorial conquests.
 4. **Neoclassical Growth Theory (Solow, 1956)**: Solow's neoclassical model treats technological progress as a smooth, continuous exogenous parameter $A(t)$, rejecting rigid wave periodicity.

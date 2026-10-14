@@ -43,7 +43,7 @@ Long-wave data collection protocols must address major econometric challenges an
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987)**: Econometricians prove that applying trend-elimination filters (moving averages, HP filters) to macro time series artificially generates smooth 50-year oscillations (the Slutsky-Yule Effect). Raw unfiltered data must be retained to test spectral density significance.
 2. **Unit Root Pre-Processing (Nelson & Plosser, 1982)**: Macroeconomic series generally possess unit roots $I(1)$ and follow stochastic trend processes:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Data pipelines must run Augmented Dickey-Fuller (ADF) tests to verify stationarity before cycle modeling.
 3. **Historical Data Gaps & Interpolation Risks (Kondratiev, 1925)**: Historical series prior to 1850 contain missing observation years, requiring rigorous linear or cubic spline interpolation protocols.
 
@@ -148,7 +148,9 @@ $$c_t = B_0 y_t + \sum_{j=1}^{T-t-1} B_j y_{t+j} + 	ilde{B}_{T-t} y_T + \sum_{j=
 
 Where filter weights $B_j$ minimize the mean squared approximation error relative to the ideal bandpass transfer function:
 
-$$\min_{\{B_j\}} E\left[ \left( c_t^* - c_t ight)^2 ight] \quad 	ext{subject to} \quad \sum_{j=-t+1}^{T-t} B_j = 0$$
+$$\min_{\{B_j\}} E\left[ \left( c_t^* - c_t 
+ight)^2 
+ight] \quad 	ext{subject to} \quad \sum_{j=-t+1}^{T-t} B_j = 0$$
 
 Empirical validation across United Kingdom industrial production indices (1780-2024) and United States real GDP records confirms that the low-frequency band maintains statistically significant power spectral density peaks at approximately 52.4 years ($p < 0.01$). Sensitivity testing across varying lambda parameters in the Hodrick-Prescott framework ($\lambda = 6.25$ for annual long-cycle extraction per Ravn-Uhlig specification) demonstrates strong structural robustness against endpoint revisions.
 

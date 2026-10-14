@@ -48,7 +48,7 @@ Data processing methods in long-wave research are subject to major econometric c
 
 1. **Slutsky-Yule Filter Artifact Danger (Solomou, 1987; Kuznets, 1930)**: Applying moving-average or Hodrick-Prescott filters to non-stationary random walks artificially generates smooth 40- to 60-year cycles where none exist in the raw data. Processed datasets must preserve both raw and filtered series to prevent misleading conclusions.
 2. **Unit Roots & Stochastic Random Walks (Nelson & Plosser, 1982)**: Macroeconomic series follow stochastic random walks with unit roots $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Over-filtering stochastic series can obscure real structural breaks caused by wars or technological breakthroughs.
 3. **Neoclassical Growth Neutrality (Solow, 1956)**: Solow's model implies that detrending macro data strips away the actual total factor productivity growth $A(t)$, leaving residual noise rather than a meaningful economic wave.
 

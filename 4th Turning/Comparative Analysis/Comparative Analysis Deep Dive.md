@@ -133,7 +133,8 @@ To formally capture the interaction between generational turnings and economic l
 
 $$\frac{dS}{dt} = \alpha_S S(1 - S) - \beta_S K(t)$$
 
-$$\frac{dK}{dt} = \gamma_K K \ln\left(\frac{K_{max}}{K}ight) - \delta_K (1 - S)$$
+$$\frac{dK}{dt} = \gamma_K K \ln\left(\frac{K_{max}}{K}
+ight) - \delta_K (1 - S)$$
 
 where $\alpha_S, \beta_S, \gamma_K, \delta_K > 0$ govern the cross-cycle feedback elasticity. Numerical integration confirms that cyclic resonances occur when the phase frequencies satisfy $\omega_S / \omega_K \approx 1.5$, reproducing the historical 80-year saecular crisis rhythm observed across modern history.
 

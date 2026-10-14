@@ -143,11 +143,11 @@ The physical mechanism driving long waves is the lifespan and turnover rate of c
 The structural engine driving Kondratiev waves relies on the interaction between long-life infrastructure capital investment, technological paradigm diffusion, and marginal profit rates:
 
 ### 5.1 Declining Marginal ROI on Physical Capital ($
-rac{\partial Y}{\partial K}$)
+\frac{\partial Y}{\partial K}$)
 During the initial **Irruption Phase** of a K-wave, new General Purpose Technologies (GPTs) offer extremely high marginal returns on invested capital. As deployment reaches saturation during the **Maturity Phase**, diminishing returns set in:
 
 $$\lim_{K \to K_{\text{max}}} 
-rac{\partial Y(K, L, T)}{\partial K} = 0$$
+\frac{\partial Y(K, L, T)}{\partial K} = 0$$
 
 This deceleration forces financial capital away from physical production R&D into speculative asset markets, triggering financial bubbles and subsequent structural crises (Perez 2002; Mensch 1979).
 

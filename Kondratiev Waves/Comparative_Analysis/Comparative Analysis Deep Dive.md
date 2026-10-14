@@ -57,7 +57,7 @@ Comparative cycle modeling faces severe econometric critiques:
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Solomou showed that moving-average detrending filters applied to macro series artificially generate 50-year periodicities (the Slutsky-Yule Effect). Spectral density analysis reveals that 15–25 year Kuznets swings possess stronger statistical support than deterministic 50-year Kondratiev waves.
 2. **Unit Roots & Stochastic Random Walks (Nelson & Plosser, 1982)**: Macroeconomic time series possess unit roots $I(1)$ and follow stochastic trend processes:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Cycles are not rigid harmonic oscillators, but stochastic random walks subject to permanent structural shocks.
 3. **Neoclassical Growth Neutrality (Solow, 1956)**: Solow's model treats technical progress as smooth continuous exogenous growth $A(t) = A_0 e^{gt}$, rejecting multi-cycle taxonomies as arbitrary curve-fitting.
 

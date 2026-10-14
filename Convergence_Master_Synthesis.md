@@ -110,8 +110,8 @@ Where:
 
 Mathematically, the trajectory of recursive self-improvement depends strictly on the value of $\gamma$:
 - **Sub-critical ($\gamma < 1.0$)**: Sub-exponential growth where returns diminish without exogenous inputs.
-- **Critical ($\gamma = 1.0$)**: Pure exponential growth ((t) = I_0 e^{\alpha t}$); cognitive capability grows exponentially without bound over infinite time, but does not diverge in finite time.
-- **Super-critical ($\gamma > 1.0$)**: Hyper-exponential growth leading to a formal **finite-time mathematical singularity** (*intelligence explosion* or hard takeoff) at ^* = t_0 + \frac{I_0^{1-\gamma}}{\alpha(\gamma - 1)}$, where capabilities diverge to infinity in finite time unless constrained by physical limits.
+- **Critical ($\gamma = 1.0$)**: Pure exponential growth ($I(t) = I_0 e^{\alpha t}$); cognitive capability grows exponentially without bound over infinite time, but does not diverge in finite time.
+- **Super-critical ($\gamma > 1.0$)**: Hyper-exponential growth leading to a formal **finite-time mathematical singularity** (*intelligence explosion* or hard takeoff) at $t^* = t_0 + \frac{I_0^{1-\gamma}}{\alpha(\gamma - 1)}$, where capabilities diverge to infinity in finite time unless constrained by physical limits.
 
 Nick Bostrom (2014) and Eliezer Yudkowsky (2008) demonstrate that this transition presents an existential governance and alignment challenge: once an unaligned agent attains strategic cognitive dominance, human institutional interventions become mathematically powerless to arrest the trajectory.
 
@@ -192,15 +192,15 @@ The historical validity of multi-cycle synchronicity is demonstrated by comparin
 The velocity of civilizational change during Convergence can be represented as a formal system of coupled differential equations linking technological growth, societal institutional strain, and sovereign debt saturation:
 
 1. **Algorithmic Cognitive Acceleration**:
-36646\frac{dA}{dt} = \kappa_A \cdot A(t)^\theta \cdot \left(\frac{E(t)}{E_0}\right)^\mu36646
-Where (t)$ is algorithmic efficiency, (t)$ is dedicated compute energy (Gigawatts), and $\theta > 1$ represents recursive algorithmic self-optimization. In the idealized model where $\theta > 1$ and energy scaling remains unconstrained, this formulation produces finite-time divergence (^* = t_0 + \frac{A_0^{1-\theta}}{\kappa_A(\theta-1)}$). In physical systems, however, thermal dissipation bounds (Landauer limit: {\min} = k_B T \ln 2$), von Neumann memory bandwidth walls, and grid interconnect latencies enforce logistic saturation.
+$$\frac{dA}{dt} = \kappa_A \cdot A(t)^\theta \cdot \left(\frac{E(t)}{E_0}\right)^\mu$$
+Where $A(t)$ is algorithmic efficiency, $E(t)$ is dedicated compute energy (Gigawatts), and $\theta > 1$ represents recursive algorithmic self-optimization. In the idealized model where $\theta > 1$ and energy scaling remains unconstrained, this formulation produces finite-time divergence ($t^* = t_0 + \frac{A_0^{1-\theta}}{\kappa_A(\theta-1)}$). In physical systems, however, thermal dissipation bounds (Landauer limit: $E_{\min} = k_B T \ln 2$), von Neumann memory bandwidth walls, and grid interconnect latencies enforce logistic saturation.
 
-2. **Societal Institutional Stress Index ({\text{inst}}$)**:
-36646\frac{dS_{\text{inst}}}{dt} = \lambda_1 \cdot \left|\frac{dA}{dt}\right| + \lambda_2 \cdot \left(\frac{\text{Debt}(t)}{\text{GDP}(t)}\right) - \delta \cdot \text{Cap}_{gov}(t)36646
+2. **Societal Institutional Stress Index ($S_{\text{inst}}$)**:
+$$\frac{dS_{\text{inst}}}{dt} = \lambda_1 \cdot \left|\frac{dA}{dt}\right| + \lambda_2 \cdot \left(\frac{\text{Debt}(t)}{\text{GDP}(t)}\right) - \delta \cdot \text{Cap}_{gov}(t)$$
 Institutional stress accelerates proportionally to the rate of technological change (labor displacement and information epistemic fragmentation) and sovereign debt saturation, attenuated only by governance capacity $\text{Cap}_{gov}(t)$.
 
 3. **Macroeconomic Fragility Threshold**:
-When {\text{inst}}(t) > S_{\text{crit}}$, formal institutional equilibrium becomes unstable, transitioning society from evolutionary adaptation to structural Fourth Turning restructuring and debt reorganization.
+When $S_{\text{inst}}(t) > S_{\text{crit}}$, formal institutional equilibrium becomes unstable, transitioning society from evolutionary adaptation to structural Fourth Turning restructuring and debt reorganization.
 
 ---
 

@@ -59,10 +59,10 @@ While both frameworks analyze the clash between rising and established powers, t
 We formalize systemic transition friction ($F_t$) as an econometric function of relative power convergence, institutional dissatisfaction, and weaponized chokepoint asymmetry:
 
 $$F_t = \exp\left( -
-rac{(P_{R,t} - P_{E,t})^2}{2\sigma_p^2} 
+\frac{(P_{R,t} - P_{E,t})^2}{2\sigma_p^2} 
 ight) \cdot \left[ 	heta D_{R,t} + (1-	heta) \Omega_{t} 
 ight] \cdot \left( 1 + \gamma 
-rac{	ext{Debt}_{E,t}}{	ext{GDP}_{E,t}} 
+\frac{	ext{Debt}_{E,t}}{	ext{GDP}_{E,t}} 
 ight)$$
 
 where:

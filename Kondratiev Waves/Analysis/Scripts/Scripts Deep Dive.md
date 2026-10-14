@@ -62,7 +62,7 @@ Script design for long-wave research must explicitly account for statistical cri
 
 1. **Slutsky-Yule Filter Artifact Danger (Solomou, 1987)**: Applying HP filters ($\lambda=400000$) to random-walk series in Python can generate smooth artificial 50-year cycles. The codebase includes a verification script (`slutsky_yule_check.py`) that runs Monte Carlo simulations on synthetic white noise to test for filter artifacts.
 2. **Unit Root Non-Stationarity (Nelson & Plosser, 1982)**: Macroeconomic series possess unit roots $I(1)$:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Scripts must enforce running `unit_root_test.py` before applying detrending filters.
 3. **Neoclassical Growth Neutrality (Solow, 1956)**: Solow's model treats technical progress as smooth continuous growth $A(t) = A_0 e^{gt}$, making discrete cycle filtering scripts theoretically redundant from a Solow perspective.
 

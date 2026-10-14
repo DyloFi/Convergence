@@ -72,8 +72,8 @@ When interest expense on sovereign debt exceeds the national defense appropriati
 Middle powers (such as Australia, Canada, South Korea, Singapore, and the United Arab Emirates) face acute systemic exposure to great power decoupling (Keohane 1984; Ikenberry 2001). We formulate an empirical hedging index to guide middle-power statecraft:
 
 $$	ext{Strategic Hedging Index} = 
-rac{	ext{Trade Exposure to Challenger}}{	ext{Trade Exposure to Hegemon}} 	imes 
-rac{	ext{Security Guarantees from Hegemon}}{	ext{Domestic Deterrence Capability}}$$
+\frac{	ext{Trade Exposure to Challenger}}{	ext{Trade Exposure to Hegemon}} 	imes 
+\frac{	ext{Security Guarantees from Hegemon}}{	ext{Domestic Deterrence Capability}}$$
 
 ```text-changing-world-orders-supporting-materials-policy-implications-policy-implications-deep-dive-4
 ┌── [ Table 4.1: Middle Power Policy Alignment Matrix ] ──┐

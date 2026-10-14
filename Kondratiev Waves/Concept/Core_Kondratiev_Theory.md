@@ -53,8 +53,8 @@ Despite its analytical utility, core Kondratiev wave theory faces major economet
 
 1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Econometricians show that trend-elimination filters (moving averages, Hodrick-Prescott filters) applied to macro series artificially generate smooth 50-year sinusoidal oscillations—the **Slutsky-Yule Effect**. Fourier spectral density estimation on un-filtered real GDP data reveals that 50-year periodicities lack statistical significance.
 2. **Unit-Root Stochasticity (Nelson & Plosser, 1982)**: Econometric evaluation demonstrates that macroeconomic time series are difference-stationary $I(1)$ processes where shocks exert permanent structural shifts rather than deterministic cyclical mean-reversion:
-$$Y_{t, kondratiev_wave} = \mu_{kondratiev_wave} + Y_{t-1, kondratiev_wave} + \epsilon_{t, kondratiev_wave}$$
-   This proves economic shocks exert permanent structural changes rather than temporary deviations around a deterministic 50-year wave.
+$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
+   This econometric specification demonstrates that macroeconomic shocks exert persistent structural shifts on output levels rather than temporary fluctuations around a deterministic 50-year trend.
 3. **Marxist Exogenous Shock Critique (Trotsky, 1923; Mandel, 1975)**: Leon Trotsky argued long-term growth shifts are non-periodic and caused by exogenous political events (wars, revolutions, colonial conquests) rather than endogenous economic laws.
 4. **Neoclassical Growth Theory (Solow, 1956)**: Solow's neoclassical model treats technological progress as a continuous exogenous variable $A(t) = A_0 e^{gt}$, rejecting discrete Kondratiev cycles.
 
