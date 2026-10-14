@@ -56,16 +56,16 @@ Statistical validation across 136 years of compute price-performance yields an o
 
 | Year | Semiconductor Process Node | Transistor Density ($^2$) | Key Transistor Architecture | Interconnect / Power Delivery Innovation | Wafer Cost (Nominal USD) |
 | :---- | :-----: | :------: | :---: | :----: | :----- |
-| **1971** | $10\mu$ (10,000nm) | $0.002^2$ | Planar PMOS | Aluminum Interconnects |$\sim \$100$ (120-Year Comput) |
-| **1982** | $3\mu$ (3,000nm) | $0.015^2$ | Planar NMOS / CMOS | Polysilicon Gate Electrodes |$\sim \$400$ (120-Year Comput) |
-| **1995** | $350$ | $0.5^2$ | Planar CMOS | Tungsten Vias & Aluminum Wires |$\sim \$1,200$ (120-Year Comput) |
-| **2006** | $65$ | $3.5^2$ | Strained Silicon CMOS | Copper Interconnects + Low-k Dielectrics |$\sim \$2,200$ (120-Year Comput) |
-| **2012** | $22$ | $15.3^2$ | 3D Tri-Gate FinFET (Intel) | High-k Metal Gate (HKMG) |$\sim \$4,000$ (120-Year Comput) |
-| **2018** | $7$ | $91.2^2$ | FinFET (TSMC N7) | Deep Ultraviolet (DUV) Immersion Photolithography |$\sim \$8,500$ (120-Year Comput) |
-| **2020** | $5$ | $138.2^2$ | Enhanced FinFET (TSMC N5) | Extreme Ultraviolet (EUV, 13.5nm Wavelength) |$\sim \$13,500$ (120-Year Comput) |
-| **2023** | $3$ | $220.0^2$ | Gate-All-Around (GAAFET / Nanosheet) | EUV Multi-Patterning |$\sim \$20,000$ (120-Year Comput) |
-| **2025** | $2$ (TSMC N2 / Intel 20A) | $310.0^2$ | GAAFET / RibbonFET | Backside Power Delivery Network (BS-PDN / PowerVia) |$\sim \$24,000$ (120-Year Comput) |
-| **2026** | $1.4$ (TSMC A14 / Intel 14A) | $>400.0^2$ | Complementary FET (CFET) / 3D Stacked | High-NA EUV Lithography (0.55 NA Scanners) |$\sim \$30,000+$ (120-Year Comput) |
+| **1971** | $10\mu$ (10,000nm) | $0.002^2$ | Planar PMOS | Aluminum Interconnects |~ $100 (120-Year Comput) |
+| **1982** | $3\mu$ (3,000nm) | $0.015^2$ | Planar NMOS / CMOS | Polysilicon Gate Electrodes |~ $400 (120-Year Comput) |
+| **1995** | $350$ | $0.5^2$ | Planar CMOS | Tungsten Vias & Aluminum Wires |~ $1,200 (120-Year Comput) |
+| **2006** | $65$ | $3.5^2$ | Strained Silicon CMOS | Copper Interconnects + Low-k Dielectrics |~ $2,200 (120-Year Comput) |
+| **2012** | $22$ | $15.3^2$ | 3D Tri-Gate FinFET (Intel) | High-k Metal Gate (HKMG) |~ $4,000 (120-Year Comput) |
+| **2018** | $7$ | $91.2^2$ | FinFET (TSMC N7) | Deep Ultraviolet (DUV) Immersion Photolithography |~ $8,500 (120-Year Comput) |
+| **2020** | $5$ | $138.2^2$ | Enhanced FinFET (TSMC N5) | Extreme Ultraviolet (EUV, 13.5nm Wavelength) |~ $13,500 (120-Year Comput) |
+| **2023** | $3$ | $220.0^2$ | Gate-All-Around (GAAFET / Nanosheet) | EUV Multi-Patterning |~ $20,000 (120-Year Comput) |
+| **2025** | $2$ (TSMC N2 / Intel 20A) | $310.0^2$ | GAAFET / RibbonFET | Backside Power Delivery Network (BS-PDN / PowerVia) |~ $24,000 (120-Year Comput) |
+| **2026** | $1.4$ (TSMC A14 / Intel 14A) | $>400.0^2$ | Complementary FET (CFET) / 3D Stacked | High-NA EUV Lithography (0.55 NA Scanners) |~ $30,000+ (120-Year Comput) |
 
 
 ### 2.4 Table 2.4 — Landmark AI Training Compute Scaling (2012–2026)
@@ -112,7 +112,7 @@ The empirical datasets highlight key physical walls that force substrate paradig
 
 
 ## 4. Strategic Implications & Data-Driven Outlook (2026–2035+) (01 Empirical Data Moore Law Sequencing Compute)
-The empirical data confirms that while individual silicon CMOS node scaling is decelerating due to high wafer costs ($\sim \$30,000$ per 1.4nm wafer) and High-NA EUV reticle constraints, architectural innovation (3D GAAFET/CFET, High-Bandwidth Memory, and low-precision FP4 tensor cores) maintains double-exponential effective compute acceleration, supporting the transition toward Artificial General Intelligence (AGI) between 2026 and 2030.
+The empirical data confirms that while individual silicon CMOS node scaling is decelerating due to high wafer costs (~ $30,000 per 1.4nm wafer) and High-NA EUV reticle constraints, architectural innovation (3D GAAFET/CFET, High-Bandwidth Memory, and low-precision FP4 tensor cores) maintains double-exponential effective compute acceleration, supporting the transition toward Artificial General Intelligence (AGI) between 2026 and 2030.
 
 
 ## Academic References & Bibliography

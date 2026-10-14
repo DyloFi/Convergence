@@ -274,7 +274,7 @@ Below are the file-by-file refactoring specifications for all 40 research report
   - `$$E_{} = k_B T \ln 2 \approx 2.87 \times 10^{-21} 300$$`
 - **Refactoring Specification**:
   - *Table Header Refactoring*: Tailor master overview hardware timeline table header:
-    - **New Header**: `| Era / Year | Paradigm Milestone System | Core Computing Substrate | Peak Performance (FLOPS/CPS) | Nominal Cost | 2026 Adj. Cost | Normalized Cost-Efficiency ($CPS/\$1K$) |`
+    - **New Header**: `| Era / Year | Paradigm Milestone System | Core Computing Substrate | Peak Performance (FLOPS/CPS) | Nominal Cost | 2026 Adj. Cost | Normalized Cost-Efficiency (CPS / $1K) |`
   - *Math Equation Refactoring*: Express master S-curve envelope equation combining exponential growth across successive paradigms:
     - **New Equation**: `$$V(t) = \sum_{i=1}^{5} \frac{K_i}{1 + \exp\left(-\alpha_i (t - t_{0,i})\right)} \alpha_{i+1} > \alpha_i$$`
 

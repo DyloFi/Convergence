@@ -57,7 +57,7 @@ The axiomatic principles of LoAR operate within well-defined thermodynamic and c
 Empirical evidence confirms the four key principles across 136 years of data (Nordhaus, 2007; Moravec, 1998; Sevilla et al., 2022; SIA, 2026):
 
 - **Substrate Shift Cadence**: Transitions occurred from Hollerith cards (1890) $\rightarrow$ Relays (1941) $\rightarrow$ Vacuum tubes (1946) $\rightarrow$ Transistors (1959) $\rightarrow$ ICs (1971) $\rightarrow$ Parallel Tensor Accelerators (2017) $\rightarrow$ 3D GAAFET/CFET (2025/2026).
-- **R&D Capital Expansion**: Semiconductor wafer R&D and fab capital expenditures surged from $\sim \$100$ (1970s) to $> \$20$ per 2nm fab (2026), compensated by exponential volume scaling.
+- **R&D Capital Expansion**: Semiconductor wafer R&D and fab capital expenditures surged from ~ $100 (1970s) to $> \$20$ per 2nm fab (2026), compensated by exponential volume scaling.
 - **Compute Efficiency**: Calculations per $1,000$ expanded from $0.000014$ (1900) to $2.43 \times 10^{11}$ (2024).
 
 

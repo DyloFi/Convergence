@@ -86,7 +86,7 @@ To organize the multidisciplinary body of research supporting and evaluating LoA
     - *Annotation*: Primary empirical dataset documenting machine learning training compute from AlexNet ($1.4 \times 10^{17}$) to frontier LLMs ($10^{26}+$).
 
 20. **Wetterstrand, K. A. (2021)**. *DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program*. National Human Genome Research Institute (NHGRI).
-    - *Annotation*: Official NHGRI empirical dataset tracking the decline in cost per human genome from $\$100$ (2001) to under $\$100$ (2026).
+    - *Annotation*: Official NHGRI empirical dataset tracking the decline in cost per human genome from $100 (2001) to under $100 (2026).
 
 
 ## Academic References & Bibliography

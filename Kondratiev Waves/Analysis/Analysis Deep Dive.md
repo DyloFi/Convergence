@@ -118,8 +118,7 @@ To rigorously isolate decadal long-wave periodicities (40–60 years) from high-
 ### 5.1 Hodrick-Prescott Filter Formulation ($\lambda = 1,600,000$)
 For annual economic series $y_t$, the Hodrick-Prescott (HP) filter decomposes the log-transformed series into trend component $\tau_t$ and cyclical component $c_t = y_t - \tau_t$ by minimizing the penalized sum of squares:
 
-$$\min_{\tau} \sum_{t=1}^{T} (y_t - \tau_t)^2 + \lambda \sum_{t=2}^{T-1} \left[ (\tau_{t+1} - \tau_t) - (\tau_t - \tau_{t-1}) 
-ight]^2$$
+$$\min_{\tau} \sum_{t=1}^{T} (y_t - \tau_t)^2 + \lambda \sum_{t=2}^{T-1} \left[ (\tau_{t+1} - \tau_t) - (\tau_t - \tau_{t-1}) \right]^2$$
 
 Standard quarterly business cycle filtering utilizes $\lambda = 1600$. For annual Kondratiev long waves spanning 50-year periodicities, the smoothing parameter is calibrated to $\lambda = 1,600,000$ to prevent over-smoothing of macro structural shifts (Hodrick & Prescott 1997; Backus & Kehoe 1992).
 
@@ -137,8 +136,7 @@ where cut-off frequencies are set to $\omega_1 =
 Frequency domain validation computes the Welch power spectral density (PSD) estimate $S_{xx}(f)$ across detrended historical commodity and GDP series:
 
 $$S_{xx}(f) = 
-\frac{1}{M U} \sum_{m=1}^{M} \left| \sum_{n=0}^{N-1} w(n) x_m(n) e^{-j 2\pi f n} 
-ight|^2$$
+\frac{1}{M U} \sum_{m=1}^{M} \left| \sum_{n=0}^{N-1} w(n) x_m(n) e^{-j 2\pi f n} \right|^2$$
 
 Empirical spectral peaks consistently concentrate in the narrow frequency band $f \in [0.016, 0.025]\text{ yr}^{-1}$, confirming statistically significant power concentration at the 40–60 year Kondratiev cycle horizon (Granger 1966; Metz 1992).
 

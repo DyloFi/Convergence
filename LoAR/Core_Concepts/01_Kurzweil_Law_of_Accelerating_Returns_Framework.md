@@ -53,12 +53,12 @@ Empirical measurements validate that information density and computation speed p
 
 | Evolutionary Epoch | Dominant Substrate / Paradigm | Information Density (Bits / $^3$) | Computational Capacity (Ops/Sec per Gram) | Doubling Cadence / Time Scale |
 | :------ | :--- | :---- | :-----: | :------ |
-| **Epoch 1 (Physics)** | Atomic / Molecular Bonds | $\sim 10^{15}^3$ | $\sim 10^1$ | Billions of Years |
-| **Epoch 2 (Biology)** | DNA / Cellular Machinery | $\sim 10^{18}^3$ | $\sim 10^6$ | Millions of Years |
-| **Epoch 3 (Brains)** | Mammalian Synaptic Nets | $\sim 10^{10}^3$ | $\sim 10^{11}$ | Hundreds of Thousands of Years |
-| **Epoch 4 (Technology)** | Monolithic Silicon (3nm) | $\sim 10^{14}^3$ | $\sim 10^{16}$ | 18–24 Months (Moore's Law) |
-| **Epoch 4 (AI Scaling)** | Tensor Processing Units | $\sim 10^{15}^3$ | $\sim 10^{18}$ | 3.4–8 Months (Epoch AI) |
-| **Epoch 5 (AGI Merger)** | 3D Monolithic / Optical | $\sim 10^{20}^3$ | $\sim 10^{21}$ | Months to Weeks |
+| **Epoch 1 (Physics)** | Atomic / Molecular Bonds | $\sim 10^{15}$ | $\sim 10^1$ | Billions of Years |
+| **Epoch 2 (Biology)** | DNA / Cellular Machinery | $\sim 10^{18}$ | $\sim 10^6$ | Millions of Years |
+| **Epoch 3 (Brains)** | Mammalian Synaptic Nets | $\sim 10^{10}$ | $\sim 10^{11}$ | Hundreds of Thousands of Years |
+| **Epoch 4 (Technology)** | Monolithic Silicon (3nm) | $\sim 10^{14}$ | $\sim 10^{16}$ | 18–24 Months (Moore's Law) |
+| **Epoch 4 (AI Scaling)** | Tensor Processing Units | $\sim 10^{15}$ | $\sim 10^{18}$ | 3.4–8 Months (Epoch AI) |
+| **Epoch 5 (AGI Merger)** | 3D Monolithic / Optical | $\sim 10^{20}$ | $\sim 10^{21}$ | Months to Weeks |
 
 
 ## 3. Physical Limits, Architectural Constraints & Counter-Theories (Kurzweil Law of Accelerating Returns Framework)

@@ -68,7 +68,7 @@ The `LoAR` domain directory consists of 19 specialized research reports structur
 ### 2.1 120-Year Calculations per Second per $1,000 (CPS/$) Benchmark (1900–2026)
 Historical analysis demonstrates that price-performance in computation has expanded by over 17 orders of magnitude from 1900 to 2026 (Nordhaus, 2007; Kurzweil, 2005; Sevilla et al., 2022).
 
-| Era / Year | Paradigm Milestone System | Core Computing Substrate | Peak Performance (FLOPS/CPS) | Nominal Cost | 2026 Adj. Cost | Normalized Cost-Efficiency ($CPS/\$1K$) |
+| Era / Year | Paradigm Milestone System | Core Computing Substrate | Peak Performance (FLOPS/CPS) | Nominal Cost | 2026 Adj. Cost | Normalized Cost-Efficiency (CPS / $1K) |
 | :-----: | :------: | :---: | :----: | :-----: | :------: | :---: |
 | **1900** | Hollerith Tabulating Machine | Electromechanical Cards | $0.5$ | $1,000$ | $35,000$ |**$0.000014$** (Master Research) |
 | **1941** | Zuse Z3 | Electro-Mechanical Relays | $2$ | $6,500$ | $130,000$ |**$0.015$** (Master Research) |

@@ -120,11 +120,7 @@ To mathematically operationalize the friction inherent in hegemonic power displa
 
 $$\Delta P(t) = P_C(t) - P_H(t)$$
 
-Systemic crisis risk $R_{crisis}(t)$ reaches its maximum when:
-
-$$R_{crisis}(t) = \exp\left( -\frac{(\Delta P(t))^2}{2\sigma^2} 
-ight) 	imes \left( \frac{D_H(t)}{Y_H(t)} 
-ight)^\gamma$$
+$$R_{crisis}(t) = \exp\left( -\frac{(\Delta P(t))^2}{2\sigma^2} \right) \times \left( \frac{D_H(t)}{Y_H(t)} \right)^\gamma$$
 
 where $D_H / Y_H$ is the hegemon's sovereign debt-to-GDP ratio, $\gamma > 1$ models nonlinear debt fragility, and $\sigma$ represents the structural parity buffer. When the challenger enters parity while the hegemon suffers fiscal exhaustion, systemic dispute escalation becomes statistically dominant over cooperative bargaining.
 

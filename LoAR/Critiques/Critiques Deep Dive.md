@@ -106,7 +106,7 @@ The interaction between exponential innovation velocity and thermodynamic/econom
 
 $$\\frac{dY}{dt} = A(T) Y(t)^{1 - \\theta} - \\delta Y(t) - \\Omega(T)$$
 
-Where $\\Omega(T) = \\kappa T(t)^\\eta$ represents the escalating capital cost of cooling, thermodynamic entropy remediation, and environmental resource extraction. When $\\eta > 1$, the marginal cost of extracting incremental computational utility accelerates faster than the direct economic gains, inducing an economic growth plateau despite sustained laboratory advances in raw compute:
+Where $\Omega(T) = \kappa T(t)^\eta$ represents the escalating capital cost of cooling, thermodynamic entropy remediation, and environmental resource extraction. When $\\eta > 1$, the marginal cost of extracting incremental computational utility accelerates faster than the direct economic gains, inducing an economic growth plateau despite sustained laboratory advances in raw compute:
 
 $$\\lim_{t \\to \\infty} \\frac{dY/dt}{Y(t)} = 0 \\quad \\text{if } \\eta > 1 \\text{ and } \\Omega(T) \\text{ dominates}$$
 

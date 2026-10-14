@@ -61,7 +61,7 @@ To ground the conceptual definitions in physical and mathematical reality, Table
 
 33. **AlphaFold 3**: Deep learning biomolecular structure prediction model developed by Google DeepMind, demonstrating automated scientific discovery.
 34. **Autoregressive Transformer**: Deep learning architecture predicting token sequences by processing input context through self-attention matrix multiplications ($Q K^T / \sqrt{d_k}$).
-35. **Cost per Human Genome**: Empirical metric tracking DNA sequencing cost from $\$100$ (2001) to $\$100$ (2026) (Wetterstrand, 2021).
+35. **Cost per Human Genome**: Empirical metric tracking DNA sequencing cost from $100 (2001) to $100 (2026) (Wetterstrand, 2021).
 36. **Mixture-of-Experts (MoE)**: Neural network architecture routing inference tokens to specialized expert sub-networks, reducing compute FLOPs per token while preserving model capacity.
 37. **Power-Law Scaling Loss (Technical Glossary & Architectural Lexicon Monograph)**: Empirical observation ($L(N, D) \propto (N_c/N)^{\alpha_N} + (D_c/D)^{\alpha_D}$) that neural network test loss declines predictably with compute ($C$), data ($D$), and parameters ($N$) (Kaplan et al., 2020).
 38. **Small Modular Nuclear Reactor (SMR)**: Compact nuclear fission reactors ($50300$) deployed to power Gigawatt-scale AI compute clusters.

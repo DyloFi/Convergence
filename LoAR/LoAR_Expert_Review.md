@@ -392,16 +392,16 @@ Round 2 implementers MUST insert the following five high-density, quantitative e
 
 | Year | Semiconductor Process Node | Transistor Density ($\text{MTr/mm}^2$) | Key Transistor Architecture | Interconnect / Power Delivery Innovation | Wafer Cost (Nominal USD) |
 |:---:|:---:|:---:|:---|:---|:---:|
-| **1971** | $10\mu\text{m}$ (10,000nm) | $0.002\text{ MTr/mm}^2$ | Planar PMOS | Aluminum Interconnects | $\sim \$100$ |
-| **1982** | $3\mu\text{m}$ (3,000nm) | $0.015\text{ MTr/mm}^2$ | Planar NMOS / CMOS | Polysilicon Gate Electrodes | $\sim \$400$ |
-| **1995** | $350\text{nm}$ | $0.5\text{ MTr/mm}^2$ | Planar CMOS | Tungsten Vias & Aluminum Wires | $\sim \$1,200$ |
-| **2006** | $65\text{nm}$ | $3.5\text{ MTr/mm}^2$ | Strained Silicon CMOS | Copper Interconnects + Low-k Dielectrics | $\sim \$2,200$ |
-| **2012** | $22\text{nm}$ | $15.3\text{ MTr/mm}^2$ | 3D Tri-Gate FinFET (Intel) | High-k Metal Gate (HKMG) | $\sim \$4,000$ |
-| **2018** | $7\text{nm}$ | $91.2\text{ MTr/mm}^2$ | FinFET (TSMC N7) | Deep Ultraviolet (DUV) Immersion Photolithography | $\sim \$8,500$ |
-| **2020** | $5\text{nm}$ | $138.2\text{ MTr/mm}^2$ | Enhanced FinFET (TSMC N5) | Extreme Ultraviolet (EUV, 13.5nm Wavelength) | $\sim \$13,500$ |
-| **2023** | $3\text{nm}$ | $220.0\text{ MTr/mm}^2$ | Gate-All-Around (GAAFET / Nanosheet) | EUV Multi-Patterning | $\sim \$20,000$ |
-| **2025** | $2\text{nm}$ (TSMC N2 / Intel 20A) | $310.0\text{ MTr/mm}^2$ | GAAFET / RibbonFET | Backside Power Delivery Network (BS-PDN / PowerVia) | $\sim \$24,000$ |
-| **2026** | $1.4\text{nm}$ (TSMC A14 / Intel 14A) | $>400.0\text{ MTr/mm}^2$ | Complementary FET (CFET) / 3D Stacked | High-NA EUV Lithography (0.55 NA Scanners) | $\sim \$30,000+$ |
+| **1971** | $10\mu\text{m}$ (10,000nm) | $0.002\text{ MTr/mm}^2$ | Planar PMOS | Aluminum Interconnects | ~ $100 |
+| **1982** | $3\mu\text{m}$ (3,000nm) | $0.015\text{ MTr/mm}^2$ | Planar NMOS / CMOS | Polysilicon Gate Electrodes | ~ $400 |
+| **1995** | $350\text{nm}$ | $0.5\text{ MTr/mm}^2$ | Planar CMOS | Tungsten Vias & Aluminum Wires | ~ $1,200 |
+| **2006** | $65\text{nm}$ | $3.5\text{ MTr/mm}^2$ | Strained Silicon CMOS | Copper Interconnects + Low-k Dielectrics | ~ $2,200 |
+| **2012** | $22\text{nm}$ | $15.3\text{ MTr/mm}^2$ | 3D Tri-Gate FinFET (Intel) | High-k Metal Gate (HKMG) | ~ $4,000 |
+| **2018** | $7\text{nm}$ | $91.2\text{ MTr/mm}^2$ | FinFET (TSMC N7) | Deep Ultraviolet (DUV) Immersion Photolithography | ~ $8,500 |
+| **2020** | $5\text{nm}$ | $138.2\text{ MTr/mm}^2$ | Enhanced FinFET (TSMC N5) | Extreme Ultraviolet (EUV, 13.5nm Wavelength) | ~ $13,500 |
+| **2023** | $3\text{nm}$ | $220.0\text{ MTr/mm}^2$ | Gate-All-Around (GAAFET / Nanosheet) | EUV Multi-Patterning | ~ $20,000 |
+| **2025** | $2\text{nm}$ (TSMC N2 / Intel 20A) | $310.0\text{ MTr/mm}^2$ | GAAFET / RibbonFET | Backside Power Delivery Network (BS-PDN / PowerVia) | ~ $24,000 |
+| **2026** | $1.4\text{nm}$ (TSMC A14 / Intel 14A) | $>400.0\text{ MTr/mm}^2$ | Complementary FET (CFET) / 3D Stacked | High-NA EUV Lithography (0.55 NA Scanners) | ~ $30,000+ |
 
 ---
 

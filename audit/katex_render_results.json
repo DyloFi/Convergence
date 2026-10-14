@@ -1,0 +1,56 @@
+{
+  "total": 2996,
+  "success": 2989,
+  "failed": 7,
+  "errors": [
+    {
+      "file": "audit/BASELINE.md",
+      "line": 171,
+      "display": true,
+      "math": "/Users/dylanboyle/Desktop/Convergence/scripts/expand_4th_turning_batch3.py:129: SyntaxWarning: invalid escape sequence '\\s'",
+      "error": "KaTeX parse error: Undefined control sequence: \\s at position 121: …cape sequence '\\̲s̲'"
+    },
+    {
+      "file": "audit/BASELINE.md",
+      "line": 173,
+      "display": true,
+      "math": "/Users/dylanboyle/Desktop/Convergence/scripts/expand_4th_turning_batch3.py:170: SyntaxWarning: invalid escape sequence '\\c'\n  1. **Structural-Demographic Stress Coupling**: Combining generational archetype models with Turchin's Political Stress Index ($PSI = w \\cdot N_p \\cdot EMP^{-1}$) grounds qualitative mood in demographic reality.\n/Users/dylanboyle/Desktop/Convergence/scripts/expand_dossiers_part4.py:66: SyntaxWarning: invalid escape sequence '\\e'",
+      "error": "KaTeX parse error: Expected group as argument to '\\c' at position 123: …pe sequence '\\c'̲\n  1. **Structu…"
+    },
+    {
+      "file": "audit/BASELINE.md",
+      "line": 177,
+      "display": true,
+      "math": "/Users/dylanboyle/Desktop/Convergence/scripts/expand_dossiers_part4.py:148: SyntaxWarning: invalid escape sequence '\\c'",
+      "error": "KaTeX parse error: Expected group as argument to '\\c' at position 119: …pe sequence '\\c'̲"
+    },
+    {
+      "file": "audit/BASELINE.md",
+      "line": 179,
+      "display": true,
+      "math": "/Users/dylanboyle/Desktop/Convergence/scripts/expand_cwo_part1.py:58: SyntaxWarning: invalid escape sequence '\\P'\n  Late-stage imperial decline accelerates when sovereign debt servicing costs diverge from real productivity growth, compounded by internal institutional sclerosis. This dynamic is modeled via the Sovereign Fragility Coefficient ($\\Phi_t$):\n/Users/dylanboyle/Desktop/Convergence/scripts/expand_definitions_monograph.py:27: SyntaxWarning: invalid escape sequence '\\D'\n  - **Operationalization & Empirical Formula**: Quantified by the asymmetric foreign return spread ($\\Delta r_t$), where the hegemon earns an equity risk premium on foreign direct investments ($r_{\\text{foreign}}$) while funding those assets with ultra-low-yield domestic sovereign obligations ($r_{\\text{domestic}}$):\n/Users/dylanboyle/Desktop/Convergence/scripts/expand_singularity_final7.py:21: SyntaxWarning: invalid escape sequence '\\i'\n  The structural architecture of singularity scholarship exhibits a multi-cluster topological graph wherein foundational computer science theorems intersect with macroeconomic growth accounting and decision-theoretic safety protocols. Formally, let the citation graph be denoted as $G = (V, E)$, where vertices $v_i \\in V$ represent canonical texts and directed edges $e_{ij} \\in E$ denote citation dependencies. The recursive authority prestige score $P(v_i)$ of foundational monographs is modeled via directed eigenvector centrality with damping factor $\\\\alpha = 0.85$:\n/Users/dylanboyle/Desktop/Convergence/scripts/rebuild_kw_data_monographs.py:41: SyntaxWarning: invalid escape sequence '\\s'",
+      "error": "KaTeX parse error: Can't use function '$' in math mode at position 345: …y Coefficient ($̲\\Phi_t$):\n/User…"
+    },
+    {
+      "file": "audit/BASELINE.md",
+      "line": 187,
+      "display": true,
+      "math": "/Users/dylanboyle/Desktop/Convergence/scripts/rebuild_kw_data_monographs.py:182: SyntaxWarning: invalid escape sequence '\\l'\n  4. **Variance Stabilization**: Application of Box-Cox transformations ($\\lambda \\in [0, 1]$) prior to spectral density estimation to ensure homoscedastic residual distributions across multi-century spans.\n/Users/dylanboyle/Desktop/Convergence/scripts/push_4th_turning_batch1_over150.py:23: SyntaxWarning: invalid escape sequence '\\g'",
+      "error": "KaTeX parse error: Undefined control sequence: \\l at position 122: …cape sequence '\\̲l̲'\n  4. **Varian…"
+    },
+    {
+      "file": "review/TECHNICAL_AUDIT.md",
+      "line": 33,
+      "display": true,
+      "math": "\\frac{...}",
+      "error": "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: \\frac{...}"
+    },
+    {
+      "file": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md",
+      "line": 34,
+      "display": false,
+      "math": "300 billion in Russian central bank reserves) has triggered a structural diversification impulse across the Global South (Farrell & Newman 2019). Simultaneously, US sovereign debt exceeding",
+      "error": "KaTeX parse error: Expected 'EOF', got '&' at position 131: …South (Farrell &̲ Newman 2019). …"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ This research monograph provides an exhaustive historical investigation into the
 ### 1.1 The Five Paradigms of Computing & Emergent 6th Paradigm
 Exponential growth in computational price-performance has been sustained not by a single technology, but by an envelope of overlapping physical paradigms (Kurzweil, 2001; Mead & Conway, 1980):
 
-1. **1st Paradigm: Electromechanical Tabulating Cards (1890s–1940s)**: Initiated by Herman Hollerith for the 1890 US Census. Speed: $\sim 0.5$, cost: $\sim \$0.000014/$. Limited by mechanical gear inertia and relay brush contact wear.
+1. **1st Paradigm: Electromechanical Tabulating Cards (1890s–1940s)**: Initiated by Herman Hollerith for the 1890 US Census. Speed: $\sim 0.5$, cost: $\sim$ $0.000014 / calculation. Limited by mechanical gear inertia and relay brush contact wear.
 2. **2nd Paradigm: Electro-Mechanical Relays (1930s–1940s)**: Konrad Zuse’s Z3 (1941) and Bell Labs Model I–V. Speed: $\sim 2$, operating at $\sim 10$ relay switching latency. Bounded by mechanical inertia and electrical contact spark erosion.
 3. **3rd Paradigm: Vacuum Tubes (1940s–1950s)**: ENIAC (1946), UNIVAC I (1951), IBM 701 (1952). Speed: $5,000$. Replaced mechanical movement with thermionic electron emission, but suffered from massive power consumption and filament burnout (MTBF measured in hours).
 4. **4th Paradigm: Discrete Transistors (1950s–1960s)**: IBM 7090 (1959), DEC PDP-1 (1960). Speed: $229,000$. Solid-state semiconductor switching eliminated vacuum filaments, but faced the manual wiring bottleneck ("tyranny of numbers").
@@ -60,16 +60,16 @@ Monolithic integrated circuits scaled transistor density by over 5 orders of mag
 
 | Year | Semiconductor Process Node | Transistor Density ($^2$) | Key Transistor Architecture | Interconnect / Power Delivery Innovation | Wafer Cost (Nominal USD) |
 | :---- | :----- | :------ | :--- | :----: | :----- |
-| **1971** | $10\mu$ (10,000nm) | $0.002^2$ | Planar PMOS | Aluminum Interconnects |$\sim \$100$ (Historical Cont) |
-| **1982** | $3\mu$ (3,000nm) | $0.015^2$ | Planar NMOS / CMOS | Polysilicon Gate Electrodes |$\sim \$400$ (Historical Cont) |
-| **1995** | $350$ | $0.5^2$ | Planar CMOS | Tungsten Vias & Aluminum Wires |$\sim \$1,200$ (Historical Cont) |
-| **2006** | $65$ | $3.5^2$ | Strained Silicon CMOS | Copper Interconnects + Low-k Dielectrics |$\sim \$2,200$ (Historical Cont) |
-| **2012** | $22$ | $15.3^2$ | 3D Tri-Gate FinFET (Intel) | High-k Metal Gate (HKMG) |$\sim \$4,000$ (Historical Cont) |
-| **2018** | $7$ | $91.2^2$ | FinFET (TSMC N7) | Deep Ultraviolet (DUV) Immersion Photolithography |$\sim \$8,500$ (Historical Cont) |
-| **2020** | $5$ | $138.2^2$ | Enhanced FinFET (TSMC N5) | Extreme Ultraviolet (EUV, 13.5nm Wavelength) |$\sim \$13,500$ (Historical Cont) |
-| **2023** | $3$ | $220.0^2$ | Gate-All-Around (GAAFET / Nanosheet) | EUV Multi-Patterning |$\sim \$20,000$ (Historical Cont) |
-| **2025** | $2$ (TSMC N2 / Intel 20A) | $310.0^2$ | GAAFET / RibbonFET | Backside Power Delivery Network (BS-PDN / PowerVia) |$\sim \$24,000$ (Historical Cont) |
-| **2026** | $1.4$ (TSMC A14 / Intel 14A) | $>400.0^2$ | Complementary FET (CFET) / 3D Stacked | High-NA EUV Lithography (0.55 NA Scanners) |$\sim \$30,000+$ (Historical Cont) |
+| **1971** | $10\mu$ (10,000nm) | $0.002^2$ | Planar PMOS | Aluminum Interconnects |~ $100 (Historical Cont) |
+| **1982** | $3\mu$ (3,000nm) | $0.015^2$ | Planar NMOS / CMOS | Polysilicon Gate Electrodes |~ $400 (Historical Cont) |
+| **1995** | $350$ | $0.5^2$ | Planar CMOS | Tungsten Vias & Aluminum Wires |~ $1,200 (Historical Cont) |
+| **2006** | $65$ | $3.5^2$ | Strained Silicon CMOS | Copper Interconnects + Low-k Dielectrics |~ $2,200 (Historical Cont) |
+| **2012** | $22$ | $15.3^2$ | 3D Tri-Gate FinFET (Intel) | High-k Metal Gate (HKMG) |~ $4,000 (Historical Cont) |
+| **2018** | $7$ | $91.2^2$ | FinFET (TSMC N7) | Deep Ultraviolet (DUV) Immersion Photolithography |~ $8,500 (Historical Cont) |
+| **2020** | $5$ | $138.2^2$ | Enhanced FinFET (TSMC N5) | Extreme Ultraviolet (EUV, 13.5nm Wavelength) |~ $13,500 (Historical Cont) |
+| **2023** | $3$ | $220.0^2$ | Gate-All-Around (GAAFET / Nanosheet) | EUV Multi-Patterning |~ $20,000 (Historical Cont) |
+| **2025** | $2$ (TSMC N2 / Intel 20A) | $310.0^2$ | GAAFET / RibbonFET | Backside Power Delivery Network (BS-PDN / PowerVia) |~ $24,000 (Historical Cont) |
+| **2026** | $1.4$ (TSMC A14 / Intel 14A) | $>400.0^2$ | Complementary FET (CFET) / 3D Stacked | High-NA EUV Lithography (0.55 NA Scanners) |~ $30,000+ (Historical Cont) |
 
 
 ## 3. Physical Limits, Architectural Constraints & Paradigm Breakdown Equations (Historical Context)

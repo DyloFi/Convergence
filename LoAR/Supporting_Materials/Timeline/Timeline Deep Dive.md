@@ -47,7 +47,7 @@ As computational speed per unit cost expands double-exponentially, the velocity 
 | **1971** | Intel 4004 Microprocessor | Integrated Circuit ($10\mu$) | $92,000$ | 2,300 PMOS Transistors on Single Die |Moore (1975) (Chronological M) |
 | **1976** | Cray-1 Supercomputer | ECL Vector Logic | $160$ | Vector Register Processor Architecture |Hennessy & Patterson (2017) (Chronological M) |
 | **1993** | Intel Pentium Processor | Silicon IC ($0.8\mu$) | $112$ | Superscalar Pipelined Architecture |Hennessy & Patterson (2017) (Chronological M) |
-| **2001** | Human Genome Project Completion | Sanger Sequencing | $\$100$ per Genome | First Whole Human Genome Map |Wetterstrand (2021) (Chronological M) |
+| **2001** | Human Genome Project Completion | Sanger Sequencing | $100 per Genome | First Whole Human Genome Map |Wetterstrand (2021) (Chronological M) |
 | **2005** | Dennard Scaling Breakdown | Deep Sub-micron CMOS | $3.8$ Frequency Limit | Thermal Density & Leakage Current Wall |Dennard et al. (1974) (Chronological M) |
 | **2008** | Intel Core i7-965 | Multi-Core Silicon ($45$) | $70$ | Quad-Core Native Monolithic Die |Hennessy & Patterson (2017) (Chronological M) |
 | **2012** | AlexNet ImageNet Breakthrough | Parallel GPU Logic | $1.4 \times 10^{17}$ | CUDA GPU Deep Learning Training |Sevilla et al. (2022) (Chronological M) |

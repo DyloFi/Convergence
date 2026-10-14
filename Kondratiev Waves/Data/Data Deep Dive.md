@@ -148,9 +148,7 @@ $$c_t = B_0 y_t + \sum_{j=1}^{T-t-1} B_j y_{t+j} + 	ilde{B}_{T-t} y_T + \sum_{j=
 
 Where filter weights $B_j$ minimize the mean squared approximation error relative to the ideal bandpass transfer function:
 
-$$\min_{\{B_j\}} E\left[ \left( c_t^* - c_t 
-ight)^2 
-ight] \quad 	ext{subject to} \quad \sum_{j=-t+1}^{T-t} B_j = 0$$
+$$\min_{\{B_j\}} E\left[ \left( c_t^* - c_t \right)^2 \right] \quad 	ext{subject to} \quad \sum_{j=-t+1}^{T-t} B_j = 0$$
 
 Empirical validation across United Kingdom industrial production indices (1780-2024) and United States real GDP records confirms that the low-frequency band maintains statistically significant power spectral density peaks at approximately 52.4 years ($p < 0.01$). Sensitivity testing across varying lambda parameters in the Hodrick-Prescott framework ($\lambda = 6.25$ for annual long-cycle extraction per Ravn-Uhlig specification) demonstrates strong structural robustness against endpoint revisions.
 

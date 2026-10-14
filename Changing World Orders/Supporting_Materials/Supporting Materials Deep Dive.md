@@ -26,8 +26,7 @@ Historical time-series harmonization requires resolving significant structural b
 
 Reserve currency transitions exhibit pronounced hysteresis (inertia): a incumbent currency retains dominant central bank reserve allocations decades after its underlying economy loses industrial and export primacy (Kindleberger 1973; Eichengreen et al. 2017). We specify an Autoregressive Distributed Lag (ARDL) model to quantify the adjustment speed ($\lambda$):
 
-$$\Delta \ln(	ext{Share}_{i,t}) = \alpha_i + \sum_{k=1}^p \beta_k \Delta \ln(	ext{Share}_{i,t-k}) + \sum_{m=0}^q \gamma_m \mathbf{X}_{i,t-m} - \lambda \left[ \ln(	ext{Share}_{i,t-1}) - \boldsymbol{	heta}' \mathbf{X}_{i,t-1} 
-ight] + \epsilon_{i,t}$$
+$$\Delta \ln(	ext{Share}_{i,t}) = \alpha_i + \sum_{k=1}^p \beta_k \Delta \ln(	ext{Share}_{i,t-k}) + \sum_{m=0}^q \gamma_m \mathbf{X}_{i,t-m} - \lambda \left[ \ln(	ext{Share}_{i,t-1}) - \boldsymbol{	heta}' \mathbf{X}_{i,t-1} \right] + \epsilon_{i,t}$$
 
 ```text-changing-world-orders-supporting-materials-supporting-materials-deep-dive-2
 ┌── [ Table 2.1: ARDL Econometric Parameter Estimation Matrix ] ──┐

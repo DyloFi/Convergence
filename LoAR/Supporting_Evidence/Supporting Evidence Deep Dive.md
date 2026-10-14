@@ -45,7 +45,7 @@ The long-run historical trajectory of computing performance per constant dollar 
 Synthesizing empirical measurements across independent domains demonstrates cross-sector alignment with LoAR acceleration cadences (Nordhaus, 2007; Sevilla et al., 2022; Wetterstrand, 2021):
 
 - **Compute Price-Performance (1900–2026)**: Surged from $0.000014/$ (Hollerith) to $2.43 \times 10^{11}/$ (NVIDIA B200), expanding by 17 orders of magnitude.
-- **Genomic Sequencing Cost (2001–2026)**: Dropped from $\$100,000,000$ per genome to $\$100$, doubling throughput every 5–9 months post-2007—substantially outpacing traditional Moore's Law.
+- **Genomic Sequencing Cost (2001–2026)**: Dropped from $100,000,000 per genome to $100, doubling throughput every 5–9 months post-2007—substantially outpacing traditional Moore's Law.
 - **AI Training Scale (2012–2026)**: Expanded from $1.4 \times 10^{17}$ (AlexNet) to $>2.5 \times 10^{27}$ (frontier reasoning models), doubling every 3.4 months in the deep learning era and 6–8 months in the LLM scaling era.
 - **Semiconductor Transistor Density (1971–2026)**: Expanded from $0.002^2$ ($10\mu$) to $>310^2$ ($2$ GAAFET), maintaining an 18–24 month doubling cadence.
 
