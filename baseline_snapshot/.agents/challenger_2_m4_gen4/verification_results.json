@@ -1,0 +1,37 @@
+{
+  "total_workspace_md_files": 151,
+  "research_reports_count": 144,
+  "expert_reviews_count": 5,
+  "under_51_lines_count": 0,
+  "under_51_lines_list": [],
+  "dup_summary": {
+    "4th Turning": {
+      "avg_rate": 1.6641531360375008,
+      "common_100_count": 0,
+      "status": "PASS"
+    },
+    "Changing World Orders": {
+      "avg_rate": 4.093950152039876,
+      "common_100_count": 0,
+      "status": "PASS"
+    },
+    "Kondratiev Waves": {
+      "avg_rate": 2.7001820289804415,
+      "common_100_count": 0,
+      "status": "PASS"
+    },
+    "LoAR": {
+      "avg_rate": 2.934937521552559,
+      "common_100_count": 0,
+      "status": "PASS"
+    },
+    "Technological Singularity": {
+      "avg_rate": 0.15270419483717707,
+      "common_100_count": 0,
+      "status": "PASS"
+    }
+  },
+  "placeholder_findings_count": 12,
+  "broken_tag_findings_count": 0,
+  "verdict": "REQUEST_CHANGES"
+}

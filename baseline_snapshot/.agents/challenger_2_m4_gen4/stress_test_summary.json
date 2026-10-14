@@ -1,0 +1,57 @@
+{
+  "verdict": "APPROVE",
+  "total_workspace_md": 151,
+  "research_reports_count": 144,
+  "expert_reviews_count": 5,
+  "meta_files_count": 2,
+  "depth_pass_rate": 100.0,
+  "failed_depth_reports": [],
+  "subject_duplication_summary": {
+    "4th Turning": {
+      "report_count": 54,
+      "avg_duplication_pct": 1.6642,
+      "max_file_duplication_pct": 1.6667,
+      "common_100pct_lines_count": 0,
+      "common_100pct_lines": [],
+      "passed": true
+    },
+    "Changing World Orders": {
+      "report_count": 15,
+      "avg_duplication_pct": 4.094,
+      "max_file_duplication_pct": 14.8936,
+      "common_100pct_lines_count": 0,
+      "common_100pct_lines": [],
+      "passed": true
+    },
+    "Kondratiev Waves": {
+      "report_count": 34,
+      "avg_duplication_pct": 2.7002,
+      "max_file_duplication_pct": 23.0769,
+      "common_100pct_lines_count": 0,
+      "common_100pct_lines": [],
+      "passed": true
+    },
+    "LoAR": {
+      "report_count": 19,
+      "avg_duplication_pct": 2.9349,
+      "max_file_duplication_pct": 8.7719,
+      "common_100pct_lines_count": 0,
+      "common_100pct_lines": [],
+      "passed": true
+    },
+    "Technological Singularity": {
+      "report_count": 21,
+      "avg_duplication_pct": 0.1527,
+      "max_file_duplication_pct": 1.1111,
+      "common_100pct_lines_count": 0,
+      "common_100pct_lines": [],
+      "passed": true
+    }
+  },
+  "report_broken_tags_count": 0,
+  "report_placeholders_count": 0,
+  "meta_placeholders_count": 12,
+  "null_bytes_files": 0,
+  "utf8_replace_files": 0,
+  "uncited_reports_count": 0
+}

@@ -1,0 +1,2157 @@
+{
+  "timestamp_utc": "2026-10-14T04:05:00Z",
+  "repository_root": "/Users/dylanboyle/Desktop/Convergence",
+  "git_status": {
+    "in_convergence_git": false,
+    "note": "Convergence directory is currently an unversioned folder on ~/Desktop/Convergence"
+  },
+  "inventory": {
+    "domains": {
+      "4th Turning": {
+        "total_md": 55,
+        "expert_review": true,
+        "files": [
+          "4th Turning/Modern Applications.md",
+          "4th Turning/4th_Turning_Expert_Review.md",
+          "4th Turning/Research Notes.md",
+          "4th Turning/README.md",
+          "4th Turning/Criticism/Criticisms_and_Controversies.md",
+          "4th Turning/Criticism/Criticism Deep Dive.md",
+          "4th Turning/Case Studies/Case Studies Deep Dive.md",
+          "4th Turning/Comparisons/Comparisons Deep Dive.md",
+          "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
+          "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
+          "4th Turning/Authors/Authors Deep Dive.md",
+          "4th Turning/Authors/William_Strauss_Neil_Howe.md",
+          "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
+          "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md",
+          "4th Turning/Comparative Analysis/Comparative Analysis Deep Dive.md",
+          "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
+          "4th Turning/Generational Theory/01_Generational_Cycle_Framework.md",
+          "4th Turning/Generational Theory/Generational Theory Deep Dive.md",
+          "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
+          "4th Turning/Archetypes/Archetypes Deep Dive.md",
+          "4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md",
+          "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+          "4th Turning/Generational Research/Generational Research Deep Dive.md",
+          "4th Turning/Pop Culture References/Pop Culture References Deep Dive.md",
+          "4th Turning/Key Events/Key Events Deep Dive.md",
+          "4th Turning/Modern Applications/Modern Applications Research.md",
+          "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
+          "4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md",
+          "4th Turning/Reception/Reception Deep Dive.md",
+          "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
+          "4th Turning/Alternative Theories/Alternative Theories Deep Dive.md",
+          "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
+          "4th Turning/Political Implications/Political Implications Deep Dive.md",
+          "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md",
+          "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
+          "4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md",
+          "4th Turning/Concept/Core_4th_Turning_Theory.md",
+          "4th Turning/Concept/Concept Deep Dive.md",
+          "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
+          "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md",
+          "4th Turning/Book/The_Fourth_Turning_Book_Details.md",
+          "4th Turning/Book/Book Deep Dive.md",
+          "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
+          "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
+          "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
+          "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md",
+          "4th Turning/Public Perception/Public Perception Deep Dive.md",
+          "4th Turning/Future Scenarios/Future Scenarios Deep Dive.md",
+          "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
+          "4th Turning/Data/Data Deep Dive.md",
+          "4th Turning/Timeline/Timeline Deep Dive.md",
+          "4th Turning/Social Movements/Social Movements Deep Dive.md",
+          "4th Turning/Geopolitical Shifts/Geopolitical Shifts Deep Dive.md",
+          "4th Turning/Interviews/Interviews Deep Dive.md",
+          "4th Turning/Media/Media Deep Dive.md"
+        ]
+      },
+      "Changing World Orders": {
+        "total_md": 32,
+        "expert_review": true,
+        "files": [
+          "Changing World Orders/Changing_World_Orders_Expert_Review.md",
+          "Changing World Orders/Changing World Orders Overview.md",
+          "Changing World Orders/Changing World Orders Overview.md.bak.md",
+          "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md",
+          "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md.bak.md",
+          "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md",
+          "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md",
+          "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md.bak.md",
+          "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md.bak.md",
+          "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md.bak.md",
+          "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md",
+          "Changing World Orders/Foundations/00_Research_Plan.md",
+          "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+          "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md",
+          "Changing World Orders/Foundations/Foundations Deep Dive.md.bak.md",
+          "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md.bak.md",
+          "Changing World Orders/Foundations/Foundations Deep Dive.md",
+          "Changing World Orders/Foundations/00_Research_Plan.md.bak.md",
+          "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md",
+          "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md.bak.md",
+          "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md.bak.md",
+          "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md",
+          "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md",
+          "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md.bak.md",
+          "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md",
+          "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md.bak.md",
+          "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md.bak.md",
+          "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md",
+          "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md.bak.md",
+          "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md",
+          "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md",
+          "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md.bak.md"
+        ]
+      },
+      "Kondratiev Waves": {
+        "total_md": 36,
+        "expert_review": true,
+        "files": [
+          "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md",
+          "Kondratiev Waves/Kondratiev Waves Overview.md",
+          "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
+          "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
+          "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
+          "Kondratiev Waves/Analysis/README.md",
+          "Kondratiev Waves/Analysis/Scripts/Scripts Deep Dive.md",
+          "Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md",
+          "Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md",
+          "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
+          "Kondratiev Waves/Authors/Authors Deep Dive.md",
+          "Kondratiev Waves/Technology/Technology Deep Dive.md",
+          "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
+          "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+          "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md",
+          "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
+          "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
+          "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
+          "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
+          "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
+          "Kondratiev Waves/Concept/README.md",
+          "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
+          "Kondratiev Waves/Concept/Concept Deep Dive.md",
+          "Kondratiev Waves/History/History Deep Dive.md",
+          "Kondratiev Waves/Economics/Economics Deep Dive.md",
+          "Kondratiev Waves/Data/README.md",
+          "Kondratiev Waves/Data/Data Deep Dive.md",
+          "Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md",
+          "Kondratiev Waves/Data/Processed/Processed Deep Dive.md",
+          "Kondratiev Waves/Data/Processed/SQLite/SQLite Deep Dive.md",
+          "Kondratiev Waves/Data/Processed/JSON/JSON Deep Dive.md",
+          "Kondratiev Waves/Data/Processed/CSV/CSV Deep Dive.md",
+          "Kondratiev Waves/Data/Raw/Raw Deep Dive.md",
+          "Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md",
+          "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+          "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
+        ]
+      },
+      "LoAR": {
+        "total_md": 27,
+        "expert_review": true,
+        "files": [
+          "LoAR/Law of Accelerating Returns Overview.md",
+          "LoAR/LoAR_Expert_Review.md",
+          "LoAR/Key_Principles/Key Principles Deep Dive.md",
+          "LoAR/Key_Principles/Key Principles Deep Dive.md.bak.md",
+          "LoAR/Future_Implications/Future Implications Deep Dive.md",
+          "LoAR/Core_Concepts/00_Research_Plan.md",
+          "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
+          "LoAR/Core_Concepts/Core Concepts Deep Dive.md.bak.md",
+          "LoAR/Core_Concepts/00_Research_Plan.md.bak.md",
+          "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
+          "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
+          "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
+          "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md.bak.md",
+          "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+          "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+          "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md.bak.md",
+          "LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md",
+          "LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md",
+          "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
+          "LoAR/Historical_Context/Historical Context Deep Dive.md",
+          "LoAR/Critiques/Critiques Deep Dive.md",
+          "LoAR/Applications/Applications Deep Dive.md",
+          "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md.bak.md",
+          "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
+          "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md",
+          "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+          "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md"
+        ]
+      },
+      "Technological Singularity": {
+        "total_md": 54,
+        "expert_review": true,
+        "files": [
+          "Technological Singularity/Technological Singularity Overview.md",
+          "Technological Singularity/Technological Singularity Overview.md.bak.md",
+          "Technological Singularity/Technological_Singularity_Expert_Review.md",
+          "Technological Singularity/Historical_Development/Historical Development Deep Dive.md.bak.md",
+          "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
+          "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.bak.md",
+          "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md.bak.md",
+          "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
+          "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
+          "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.bak.md",
+          "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md.bak.md",
+          "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.bak.md",
+          "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.bak.md",
+          "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md.bak.md",
+          "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
+          "Technological Singularity/Core_Concepts/00_Research_Overview.md.bak.md",
+          "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
+          "Technological Singularity/Core_Concepts/00_Research_Overview.md",
+          "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md.bak.md",
+          "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.bak.md",
+          "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
+          "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md.bak.md",
+          "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md.bak.md",
+          "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
+          "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.bak.md",
+          "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
+          "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md.bak.md",
+          "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md.bak.md",
+          "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
+          "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md.bak.md",
+          "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+          "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md.bak.md",
+          "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md",
+          "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+          "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md.bak.md",
+          "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md.bak.md",
+          "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.bak.md",
+          "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md",
+          "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.bak.md",
+          "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md.bak.md",
+          "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
+          "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.bak.md",
+          "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md.bak.md",
+          "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
+          "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md.bak.md",
+          "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
+          "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md.bak.md",
+          "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.bak.md",
+          "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md",
+          "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
+          "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md.bak.md",
+          "Technological Singularity/Expert_Predictions/01_Forecasting_Scorecards_AGI_Consensus_and_Historical_Calibration.md",
+          "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md.bak.md",
+          "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md"
+        ]
+      }
+    },
+    "total_domain_md_files": 204,
+    "root_markdown_files": [
+      "PROJECT.md",
+      "TEST_READY.md",
+      "Convergence_Master_Synthesis.bak.md",
+      "Convergence_Master_Synthesis.md"
+    ],
+    "total_scripts": 160,
+    "scripts": [
+      "add_loar_tables.py",
+      "apply_final_fixes.py",
+      "apply_kw_batch2_final.py",
+      "apply_kw_batch3_final.py",
+      "apply_kw_batch5_final.py",
+      "apply_kw_batch5_sized.py",
+      "apply_singularity_table_fixes.py",
+      "audit_verification.py",
+      "batch_add_missing_tables.py",
+      "build_cwo_batch_geopolitics.py",
+      "build_cwo_group1.py",
+      "build_dataset_part1.py",
+      "build_loar_batch1.py",
+      "build_rec1_cwo.py",
+      "build_rec2_loar.py",
+      "build_rec3_singularity.py",
+      "build_rec5_kw.py",
+      "check_double_spaces.py",
+      "convert_box_tables.py",
+      "convert_box_tables_full.py",
+      "differentiate_book_details.py",
+      "differentiate_existing.py",
+      "expand_4th_group1.py",
+      "expand_4th_group1_final.py",
+      "expand_4th_group1_part2.py",
+      "expand_4th_group_a.py",
+      "expand_4th_group_b.py",
+      "expand_4th_group_c.py",
+      "expand_4th_group_d.py",
+      "expand_4th_turning_batch1.py",
+      "expand_4th_turning_batch2.py",
+      "expand_4th_turning_batch3.py",
+      "expand_batch_all.py",
+      "expand_batch_monographs_150.py",
+      "expand_batch_part1.py",
+      "expand_batch_part2.py",
+      "expand_batch_part3.py",
+      "expand_batch_part4.py",
+      "expand_batch_part5.py",
+      "expand_cs.py",
+      "expand_cwo_batch_a.py",
+      "expand_cwo_batch_b.py",
+      "expand_cwo_batch_c.py",
+      "expand_cwo_batch_d.py",
+      "expand_cwo_case_studies.py",
+      "expand_cwo_monographs.py",
+      "expand_cwo_part1.py",
+      "expand_definitions_monograph.py",
+      "expand_dossiers_part1.py",
+      "expand_dossiers_part2.py",
+      "expand_dossiers_part3.py",
+      "expand_dossiers_part4.py",
+      "expand_dossiers_part5.py",
+      "expand_final_batch1.py",
+      "expand_final_batch2.py",
+      "expand_group1.py",
+      "expand_kw_batch1.py",
+      "expand_kw_batch2.py",
+      "expand_kw_batch4.py",
+      "expand_kw_data_all.py",
+      "expand_loar_3files.py",
+      "expand_loar_4close.py",
+      "expand_loar_5files.py",
+      "expand_loar_all.py",
+      "expand_loar_batch1.py",
+      "expand_loar_batch2.py",
+      "expand_loar_batch3.py",
+      "expand_loar_batch3b.py",
+      "expand_loar_batch3c.py",
+      "expand_loar_final6.py",
+      "expand_loar_monographs.py",
+      "expand_monographs_p1.py",
+      "expand_monographs_p1_deep.py",
+      "expand_overview.py",
+      "expand_part_1.py",
+      "expand_singularity_batch1.py",
+      "expand_singularity_batch2.py",
+      "expand_singularity_batch3.py",
+      "expand_singularity_final7.py",
+      "expand_sm_master.py",
+      "expand_supporting_materials.py",
+      "finalize_loar_6files.py",
+      "finish_3files.py",
+      "finish_4th_group_a.py",
+      "finish_4th_group_a_topup.py",
+      "finish_4th_group_b.py",
+      "finish_4th_group_b_topup.py",
+      "finish_4th_group_c.py",
+      "finish_4th_group_d.py",
+      "finish_4th_turning_batch1.py",
+      "finish_4th_turning_batch2.py",
+      "finish_4th_turning_batch3.py",
+      "finish_b2_final.py",
+      "finish_b3_final.py",
+      "finish_definitions_monograph.py",
+      "finish_final3_kw.py",
+      "finish_final_two_monographs.py",
+      "finish_group1_155.py",
+      "finish_kw_batch2_thresholds.py",
+      "finish_kw_batch3_final.py",
+      "finish_kw_batch4_final.py",
+      "finish_kw_batch5_exact.py",
+      "finish_kw_batch5_final.py",
+      "finish_kw_data.py",
+      "finish_last2.py",
+      "finish_singularity_4final.py",
+      "finish_singularity_6files.py",
+      "fix_audit_artifacts.py",
+      "fix_book_details.py",
+      "fix_headings.py",
+      "fix_kw_batch5_slices.py",
+      "fix_kw_concept.py",
+      "fix_kw_concept_exact.py",
+      "fix_singularity_table_rows.py",
+      "generate_cwo_expanded.py",
+      "generate_master_synthesis.py",
+      "generator_test.py",
+      "normalize_and_fix_kw_concept.py",
+      "normalize_kw_analysis_readme.py",
+      "normalize_kw_batch1.py",
+      "push_4th_turning_b1_final.py",
+      "push_4th_turning_b2_over150.py",
+      "push_4th_turning_batch1_over150.py",
+      "push_4th_turning_batch3_final.py",
+      "push_cultural_impact.py",
+      "push_group_a_over_155.py",
+      "push_kw_batch1_final.py",
+      "push_kw_batch1_over150.py",
+      "push_kw_batch3_over150.py",
+      "push_kw_batch4_over150.py",
+      "push_kw_batch5_over150.py",
+      "push_loar_over150.py",
+      "push_singularity_150_exact.py",
+      "push_singularity_5files_over150.py",
+      "push_singularity_batch1_over150.py",
+      "push_singularity_batch2_over150.py",
+      "push_singularity_batch3_final.py",
+      "push_singularity_batch3_over150.py",
+      "push_singularity_final6_over150.py",
+      "rebuild_kw_data_monographs.py",
+      "reconstruct_kw_data_complete.py",
+      "remediate_4th_turning.py",
+      "restore_book_details.py",
+      "run_reviewer2_audit.py",
+      "show_box_snippet.py",
+      "solve_part1_supporting.py",
+      "test_convert_singularity.py",
+      "test_dup_helper.py",
+      "test_expand_applications.py",
+      "test_fix_case_studies.py",
+      "test_group_a_template.py",
+      "test_kw_batch2_expansion.py",
+      "test_kw_batch5.py",
+      "test_kw_batch5_expansion.py",
+      "test_kw_data_unique.py",
+      "test_loar_generator.py",
+      "test_pilot_expansion.py",
+      "upgrade_cwo.py",
+      "upgrade_cwo_builder.py",
+      "write_part_1.py"
+    ],
+    "total_tests": 1,
+    "tests": [
+      "test_audit_verification.py"
+    ]
+  },
+  "audit_verification": {
+    "exit_code": 0,
+    "result": {
+      "passed": true,
+      "summary": {
+        "expert_reviews_passed": true,
+        "reports_scanned": 148,
+        "depth_passed_count": 148,
+        "depth_failed_count": 0,
+        "enhancements_passed": true,
+        "duplication_passed": true,
+        "template_integrity_passed": true,
+        "total_errors": 0,
+        "total_warnings": 0
+      },
+      "expert_reviews": {
+        "passed": true,
+        "details": {
+          "4th Turning": {
+            "status": "PASS",
+            "line_count": 254,
+            "path": "4th Turning/4th_Turning_Expert_Review.md"
+          },
+          "Changing World Orders": {
+            "status": "PASS",
+            "line_count": 219,
+            "path": "Changing World Orders/Changing_World_Orders_Expert_Review.md"
+          },
+          "Kondratiev Waves": {
+            "status": "PASS",
+            "line_count": 361,
+            "path": "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md"
+          },
+          "LoAR": {
+            "status": "PASS",
+            "line_count": 411,
+            "path": "LoAR/LoAR_Expert_Review.md"
+          },
+          "Technological Singularity": {
+            "status": "PASS",
+            "line_count": 225,
+            "path": "Technological Singularity/Technological_Singularity_Expert_Review.md"
+          }
+        }
+      },
+      "report_depth": {
+        "passed": true,
+        "total_scanned": 148,
+        "passed_count": 148,
+        "failed_count": 0,
+        "failed_reports": []
+      },
+      "enhancement_integration": {
+        "passed": true,
+        "placeholders_found": 0,
+        "missing_citations_count": 0,
+        "file_details": [
+          {
+            "path": "4th Turning/4th_Turning_Expert_Review.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Alternative Theories/Alternative Theories Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Archetypes/Archetypes Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Authors/Authors Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Authors/William_Strauss_Neil_Howe.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Book/Book Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Book/The_Fourth_Turning_Book_Details.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Case Studies/Case Studies Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Comparative Analysis/Comparative Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Comparisons/Comparisons Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Concept/Concept Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Concept/Core_4th_Turning_Theory.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Criticism/Criticism Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Criticism/Criticisms_and_Controversies.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Data/Data Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Future Scenarios/Future Scenarios Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Generational Research/Generational Research Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Generational Theory/01_Generational_Cycle_Framework.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Generational Theory/Generational Theory Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Geopolitical Shifts/Geopolitical Shifts Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Interviews/Interviews Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Key Events/Key Events Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Media/Media Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Modern Applications/Modern Applications Research.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Modern Applications.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Political Implications/Political Implications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Pop Culture References/Pop Culture References Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Public Perception/Public Perception Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/README.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Reception/Reception Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Research Notes.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Social Movements/Social Movements Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "4th Turning/Timeline/Timeline Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Changing World Orders Overview.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Changing World Orders Overview.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Changing_World_Orders_Expert_Review.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Foundations/00_Research_Plan.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Foundations/00_Research_Plan.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Foundations/Foundations Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Foundations/Foundations Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/README.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Scripts/Scripts Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Authors/Authors Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Concept/Concept Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Concept/README.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Data Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/CSV/CSV Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/JSON/JSON Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/Processed Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/SQLite/SQLite Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/README.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Data/Raw/Raw Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Economics/Economics Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/History/History Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Kondratiev Waves Overview.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Kondratiev Waves/Technology/Technology Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Applications/Applications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Core_Concepts/00_Research_Plan.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Core_Concepts/00_Research_Plan.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Core_Concepts/Core Concepts Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Critiques/Critiques Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Future_Implications/Future Implications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Historical_Context/Historical Context Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Key_Principles/Key Principles Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Key_Principles/Key Principles Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Law of Accelerating Returns Overview.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/LoAR_Expert_Review.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/00_Research_Overview.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/00_Research_Overview.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Expert_Predictions/01_Forecasting_Scorecards_AGI_Consensus_and_Historical_Calibration.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Technological Singularity Overview.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Technological Singularity Overview.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Technological_Singularity_Expert_Review.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md.bak.md",
+            "placeholders": [],
+            "has_citation": true
+          },
+          {
+            "path": "Convergence_Master_Synthesis.md",
+            "placeholders": [],
+            "has_citation": true
+          }
+        ]
+      },
+      "duplication_results": {
+        "passed": true,
+        "details": {
+          "4th Turning": {
+            "report_count": 54,
+            "avg_duplication_rate": 9.47,
+            "max_single_duplication_rate": 14.88,
+            "common_100pct_line_count": 0,
+            "passed": true
+          },
+          "Changing World Orders": {
+            "report_count": 16,
+            "avg_duplication_rate": 8.92,
+            "max_single_duplication_rate": 14.96,
+            "common_100pct_line_count": 0,
+            "passed": true
+          },
+          "Kondratiev Waves": {
+            "report_count": 35,
+            "avg_duplication_rate": 8.76,
+            "max_single_duplication_rate": 13.64,
+            "common_100pct_line_count": 0,
+            "passed": true
+          },
+          "LoAR": {
+            "report_count": 20,
+            "avg_duplication_rate": 7.71,
+            "max_single_duplication_rate": 12.7,
+            "common_100pct_line_count": 0,
+            "passed": true
+          },
+          "Technological Singularity": {
+            "report_count": 22,
+            "avg_duplication_rate": 9.12,
+            "max_single_duplication_rate": 11.57,
+            "common_100pct_line_count": 0,
+            "passed": true
+          }
+        }
+      },
+      "template_integrity": {
+        "passed": true,
+        "broken_tags_total": 0,
+        "file_details": [
+          {
+            "path": "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Alternative Theories/Alternative Theories Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Archetypes/Archetypes Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Authors/Authors Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Authors/William_Strauss_Neil_Howe.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Book/Book Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Book/The_Fourth_Turning_Book_Details.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Case Studies/Case Studies Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Comparative Analysis/Comparative Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Comparisons/Comparisons Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Concept/Concept Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Concept/Core_4th_Turning_Theory.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Criticism/Criticism Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Criticism/Criticisms_and_Controversies.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Data/Data Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Future Scenarios/Future Scenarios Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Generational Research/Generational Research Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Generational Theory/01_Generational_Cycle_Framework.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Generational Theory/Generational Theory Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Geopolitical Shifts/Geopolitical Shifts Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Interviews/Interviews Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Key Events/Key Events Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Media/Media Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Modern Applications/Modern Applications Research.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Modern Applications.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Political Implications/Political Implications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Pop Culture References/Pop Culture References Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Public Perception/Public Perception Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/README.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Reception/Reception Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Research Notes.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Social Movements/Social Movements Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "4th Turning/Timeline/Timeline Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Changing World Orders Overview.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Foundations/00_Research_Plan.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Foundations/Foundations Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/README.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Analysis/Scripts/Scripts Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Authors/Authors Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Concept/Concept Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Concept/README.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Data Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/CSV/CSV Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/JSON/JSON Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/Processed Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Processed/SQLite/SQLite Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/README.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Data/Raw/Raw Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Economics/Economics Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/History/History Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Kondratiev Waves Overview.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Kondratiev Waves/Technology/Technology Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Applications/Applications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Core_Concepts/00_Research_Plan.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Critiques/Critiques Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Future_Implications/Future Implications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Historical_Context/Historical Context Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Key_Principles/Key Principles Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Law of Accelerating Returns Overview.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/00_Research_Overview.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Expert_Predictions/01_Forecasting_Scorecards_AGI_Consensus_and_Historical_Calibration.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Technological Singularity Overview.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md",
+            "broken_patterns": []
+          },
+          {
+            "path": "Convergence_Master_Synthesis.md",
+            "broken_patterns": []
+          }
+        ]
+      },
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "unittest_discovery": {
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "test_broken_template_tags_detected (test_audit_verification.TestBrokenTemplateTagCheck)\nTest Check 5 fails and logs errors when broken template tags or variable artifacts exist. ... ok\ntest_clean_template_prose_passes (test_audit_verification.TestBrokenTemplateTagCheck)\nTest Check 5 passes when reports contain clean, fully populated template prose. ... ok\ntest_double_pipe_table_delimiter_corruption_detected (test_audit_verification.TestBrokenTemplateTagCheck)\nTest Check 5 flags || double-pipe table alignment corruptions. ... ok\ntest_double_pipe_table_syntax_detected (test_audit_verification.TestBrokenTemplateTagCheck)\nTest Check 5 flags corrupted table alignment syntax | :--- || :--- |. ... ok\ntest_robotic_heading_suffix_detected (test_audit_verification.TestBrokenTemplateTagCheck)\nTest Check 5 flags robotic heading title suffixes on level 2 and level 3 headings. ... ok\ntest_cross_report_duplication_excludes_expert_reviews (test_audit_verification.TestCrossReportDuplicationCheck)\nVerify Check 4 excludes *_Expert_Review.md files from subfolder duplication scans. ... ok\ntest_cross_report_duplication_fail (test_audit_verification.TestCrossReportDuplicationCheck)\nTest Check 4 fails when report duplication exceeds 15%. ... ok\ntest_cross_report_duplication_pass (test_audit_verification.TestCrossReportDuplicationCheck)\nTest Check 4 passes when report duplication is <= 15%. ... ok\ntest_single_file_duplication_spike_detected (test_audit_verification.TestCrossReportDuplicationCheck)\nTest Check 4 fails when a single report exceeds 15.0% duplication, even if directory average is <= 15.0%. ... ok\ntest_enhancement_no_placeholders_with_citations (test_audit_verification.TestEnhancementIntegrationCheck)\nTest Check 3 passes when reports contain citations and no placeholders. ... ok\ntest_enhancement_placeholder_detected (test_audit_verification.TestEnhancementIntegrationCheck)\nTest Check 3 flags errors when placeholder tags are present. ... ok\ntest_enhancement_strict_citation_mode (test_audit_verification.TestEnhancementIntegrationCheck)\nTest Check 3 citation enforcement in strict vs non-strict mode. ... ok\ntest_check_expert_reviews_all_present_in_repo_root (test_audit_verification.TestExpertReviewsCheck)\nTest Check 1 fallback location when expert reviews exist in root directory. ... ok\ntest_check_expert_reviews_all_present_in_subject_dirs (test_audit_verification.TestExpertReviewsCheck)\nTest Check 1 when all 5 expert reviews exist in subject directories with >50 lines. ... ok\ntest_check_expert_reviews_insufficient_depth (test_audit_verification.TestExpertReviewsCheck)\nTest Check 1 failure when an expert review file has <=50 lines. ... ok\ntest_check_expert_reviews_missing_file (test_audit_verification.TestExpertReviewsCheck)\nTest Check 1 failure when an expert review file is missing. ... ok\ntest_cli_main_execution (test_audit_verification.TestFullAuditAndCLI)\nTest main() entry point via simulated CLI arguments. ... ok\ntest_real_repo_audit_execution (test_audit_verification.TestFullAuditAndCLI)\nIntegration test: Execute auditor against the actual project repo. ... ok\ntest_run_full_audit_json_output (test_audit_verification.TestFullAuditAndCLI)\nTest audit JSON output formatting. ... ok\ntest_run_full_audit_success (test_audit_verification.TestFullAuditAndCLI)\nTest full audit workflow returning pass on valid workspace. ... ok\ntest_check_report_depth_all_passed (test_audit_verification.TestReportDepthCheck)\nTest Check 2 when all research reports have >50 lines. ... ok\ntest_check_report_depth_excludes_expert_reviews (test_audit_verification.TestReportDepthCheck)\nVerify that expert review files inside subject dirs are excluded from research depth scan. ... ok\ntest_check_report_depth_failing_reports (test_audit_verification.TestReportDepthCheck)\nTest Check 2 when some reports fail depth check (<=50 lines). ... ok\n\n----------------------------------------------------------------------\nRan 23 tests in 0.713s\n\nOK\n"
+  },
+  "known_unrepaired_baseline_anomalies": [
+    "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md: Section 2 table has stripped dollar amounts in 24 cells (e.g. B, .5B, ,233B)",
+    "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md: stripped dollar signs (below billion, ^{27}$)",
+    "Technological Singularity/Expert_Predictions/01_Forecasting_Scorecards_AGI_Consensus_and_Historical_Calibration.md: Fourth Turning duplicate table separator and broken table formatting",
+    "Cross-domain falsification threshold discrepancies (RWA B vs B, debt <85% vs <90%, METR horizon limit framing)"
+  ]
+}

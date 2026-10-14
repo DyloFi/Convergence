@@ -1,0 +1,853 @@
+{
+  "summary": {
+    "total_files": 151,
+    "total_lines": 19377,
+    "min_lines": 70,
+    "min_lines_file": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
+    "max_lines": 512,
+    "max_lines_file": "LoAR/LoAR_Expert_Review.md",
+    "line_violations_count": 0,
+    "placeholder_violations_count": 2,
+    "missing_expert_reviews_count": 0
+  },
+  "expert_reviews_status": {
+    "found": {
+      "4th_Turning_Expert_Review.md": "4th Turning/4th_Turning_Expert_Review.md",
+      "Changing_World_Orders_Expert_Review.md": "Changing World Orders/Changing_World_Orders_Expert_Review.md",
+      "Kondratiev_Waves_Expert_Review.md": "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md",
+      "LoAR_Expert_Review.md": "LoAR/LoAR_Expert_Review.md",
+      "Technological_Singularity_Expert_Review.md": "Technological Singularity/Technological_Singularity_Expert_Review.md"
+    },
+    "missing": []
+  },
+  "line_violations": [],
+  "placeholder_violations": [
+    {
+      "file": "PROJECT.md",
+      "matches": [
+        {
+          "line_number": 49,
+          "pattern": "TODO",
+          "snippet": "3. Zero placeholder strings (`TODO`, `TBD`, `FIXME`, `[INSERT`)."
+        },
+        {
+          "line_number": 49,
+          "pattern": "TBD",
+          "snippet": "3. Zero placeholder strings (`TODO`, `TBD`, `FIXME`, `[INSERT`)."
+        },
+        {
+          "line_number": 49,
+          "pattern": "FIXME",
+          "snippet": "3. Zero placeholder strings (`TODO`, `TBD`, `FIXME`, `[INSERT`)."
+        },
+        {
+          "line_number": 49,
+          "pattern": "[INSERT",
+          "snippet": "3. Zero placeholder strings (`TODO`, `TBD`, `FIXME`, `[INSERT`)."
+        }
+      ]
+    },
+    {
+      "file": "TEST_READY.md",
+      "matches": [
+        {
+          "line_number": 37,
+          "pattern": "TODO",
+          "snippet": "- Zero placeholder tags (`TODO`, `TBD`, `FIXME`, `[INSERT`, `INSERT_DATA`, `[Insert`, `XXX`, `TEMP`)."
+        },
+        {
+          "line_number": 37,
+          "pattern": "TBD",
+          "snippet": "- Zero placeholder tags (`TODO`, `TBD`, `FIXME`, `[INSERT`, `INSERT_DATA`, `[Insert`, `XXX`, `TEMP`)."
+        },
+        {
+          "line_number": 37,
+          "pattern": "FIXME",
+          "snippet": "- Zero placeholder tags (`TODO`, `TBD`, `FIXME`, `[INSERT`, `INSERT_DATA`, `[Insert`, `XXX`, `TEMP`)."
+        },
+        {
+          "line_number": 37,
+          "pattern": "[INSERT",
+          "snippet": "- Zero placeholder tags (`TODO`, `TBD`, `FIXME`, `[INSERT`, `INSERT_DATA`, `[Insert`, `XXX`, `TEMP`)."
+        },
+        {
+          "line_number": 91,
+          "pattern": "TODO",
+          "snippet": "- [x] Placeholder detection (`TODO`, `TBD`, `FIXME`, `[INSERT`)"
+        },
+        {
+          "line_number": 91,
+          "pattern": "TBD",
+          "snippet": "- [x] Placeholder detection (`TODO`, `TBD`, `FIXME`, `[INSERT`)"
+        },
+        {
+          "line_number": 91,
+          "pattern": "FIXME",
+          "snippet": "- [x] Placeholder detection (`TODO`, `TBD`, `FIXME`, `[INSERT`)"
+        },
+        {
+          "line_number": 91,
+          "pattern": "[INSERT",
+          "snippet": "- [x] Placeholder detection (`TODO`, `TBD`, `FIXME`, `[INSERT`)"
+        }
+      ]
+    }
+  ],
+  "file_details": [
+    {
+      "file": "4th Turning/4th_Turning_Expert_Review.md",
+      "line_count": 300,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
+      "line_count": 138,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Alternative Theories/Alternative Theories Deep Dive.md",
+      "line_count": 138,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Archetypes/Archetypes Deep Dive.md",
+      "line_count": 181,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Authors/Authors Deep Dive.md",
+      "line_count": 162,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Authors/William_Strauss_Neil_Howe.md",
+      "line_count": 181,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Book/Book Deep Dive.md",
+      "line_count": 144,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Book/The_Fourth_Turning_Book_Details.md",
+      "line_count": 249,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Case Studies/Case Studies Deep Dive.md",
+      "line_count": 150,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Comparative Analysis/Comparative Analysis Deep Dive.md",
+      "line_count": 132,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md",
+      "line_count": 181,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Comparisons/Comparisons Deep Dive.md",
+      "line_count": 132,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Concept/Concept Deep Dive.md",
+      "line_count": 143,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Concept/Core_4th_Turning_Theory.md",
+      "line_count": 305,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
+      "line_count": 130,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Criticism/Criticism Deep Dive.md",
+      "line_count": 129,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Criticism/Criticisms_and_Controversies.md",
+      "line_count": 268,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md",
+      "line_count": 129,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
+      "line_count": 134,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Data/Data Deep Dive.md",
+      "line_count": 135,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
+      "line_count": 135,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
+      "line_count": 140,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
+      "line_count": 146,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
+      "line_count": 147,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
+      "line_count": 165,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Future Scenarios/Future Scenarios Deep Dive.md",
+      "line_count": 145,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Generational Research/Generational Research Deep Dive.md",
+      "line_count": 130,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Generational Theory/01_Generational_Cycle_Framework.md",
+      "line_count": 186,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Generational Theory/Generational Theory Deep Dive.md",
+      "line_count": 130,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Geopolitical Shifts/Geopolitical Shifts Deep Dive.md",
+      "line_count": 152,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md",
+      "line_count": 142,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md",
+      "line_count": 146,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
+      "line_count": 133,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Interviews/Interviews Deep Dive.md",
+      "line_count": 130,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
+      "line_count": 130,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Key Events/Key Events Deep Dive.md",
+      "line_count": 132,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Media/Media Deep Dive.md",
+      "line_count": 143,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
+      "line_count": 143,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
+      "line_count": 133,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Modern Applications/Modern Applications Research.md",
+      "line_count": 214,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md",
+      "line_count": 244,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Modern Applications.md",
+      "line_count": 236,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+      "line_count": 130,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
+      "line_count": 138,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Political Implications/Political Implications Deep Dive.md",
+      "line_count": 138,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Pop Culture References/Pop Culture References Deep Dive.md",
+      "line_count": 134,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
+      "line_count": 145,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Public Perception/Public Perception Deep Dive.md",
+      "line_count": 143,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/README.md",
+      "line_count": 127,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Reception/Reception Deep Dive.md",
+      "line_count": 141,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Research Notes.md",
+      "line_count": 172,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Social Movements/Social Movements Deep Dive.md",
+      "line_count": 167,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md",
+      "line_count": 145,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md",
+      "line_count": 151,
+      "placeholders": 0
+    },
+    {
+      "file": "4th Turning/Timeline/Timeline Deep Dive.md",
+      "line_count": 337,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Changing World Orders Overview.md",
+      "line_count": 108,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Changing_World_Orders_Expert_Review.md",
+      "line_count": 279,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md",
+      "line_count": 99,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md",
+      "line_count": 86,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md",
+      "line_count": 99,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Foundations/00_Research_Plan.md",
+      "line_count": 123,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md",
+      "line_count": 121,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Foundations/Foundations Deep Dive.md",
+      "line_count": 132,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md",
+      "line_count": 93,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md",
+      "line_count": 119,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md",
+      "line_count": 87,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md",
+      "line_count": 85,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md",
+      "line_count": 88,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md",
+      "line_count": 82,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md",
+      "line_count": 92,
+      "placeholders": 0
+    },
+    {
+      "file": "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md",
+      "line_count": 118,
+      "placeholders": 0
+    },
+    {
+      "file": "Convergence_Master_Synthesis.md",
+      "line_count": 182,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md",
+      "line_count": 80,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
+      "line_count": 71,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md",
+      "line_count": 78,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Analysis/README.md",
+      "line_count": 82,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md",
+      "line_count": 87,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Analysis/Scripts/Scripts Deep Dive.md",
+      "line_count": 92,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Authors/Authors Deep Dive.md",
+      "line_count": 93,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+      "line_count": 91,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
+      "line_count": 92,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
+      "line_count": 74,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Concept/Concept Deep Dive.md",
+      "line_count": 81,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
+      "line_count": 88,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Concept/README.md",
+      "line_count": 77,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
+      "line_count": 77,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
+      "line_count": 76,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Data Deep Dive.md",
+      "line_count": 74,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md",
+      "line_count": 79,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Processed/CSV/CSV Deep Dive.md",
+      "line_count": 80,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Processed/JSON/JSON Deep Dive.md",
+      "line_count": 125,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Processed/Processed Deep Dive.md",
+      "line_count": 79,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Processed/SQLite/SQLite Deep Dive.md",
+      "line_count": 120,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/README.md",
+      "line_count": 84,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md",
+      "line_count": 76,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Data/Raw/Raw Deep Dive.md",
+      "line_count": 73,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Economics/Economics Deep Dive.md",
+      "line_count": 79,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
+      "line_count": 85,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/History/History Deep Dive.md",
+      "line_count": 82,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
+      "line_count": 78,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Kondratiev Waves Overview.md",
+      "line_count": 86,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md",
+      "line_count": 443,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
+      "line_count": 70,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
+      "line_count": 76,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
+      "line_count": 76,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
+      "line_count": 77,
+      "placeholders": 0
+    },
+    {
+      "file": "Kondratiev Waves/Technology/Technology Deep Dive.md",
+      "line_count": 93,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Applications/Applications Deep Dive.md",
+      "line_count": 91,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Core_Concepts/00_Research_Plan.md",
+      "line_count": 114,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
+      "line_count": 99,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
+      "line_count": 85,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Critiques/Critiques Deep Dive.md",
+      "line_count": 91,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
+      "line_count": 92,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Future_Implications/Future Implications Deep Dive.md",
+      "line_count": 76,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Historical_Context/Historical Context Deep Dive.md",
+      "line_count": 110,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Key_Principles/Key Principles Deep Dive.md",
+      "line_count": 85,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Law of Accelerating Returns Overview.md",
+      "line_count": 126,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/LoAR_Expert_Review.md",
+      "line_count": 512,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
+      "line_count": 139,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
+      "line_count": 75,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+      "line_count": 85,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md",
+      "line_count": 94,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+      "line_count": 74,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
+      "line_count": 77,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md",
+      "line_count": 92,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
+      "line_count": 78,
+      "placeholders": 0
+    },
+    {
+      "file": "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
+      "line_count": 89,
+      "placeholders": 0
+    },
+    {
+      "file": "PROJECT.md",
+      "line_count": 71,
+      "placeholders": 4
+    },
+    {
+      "file": "TEST_READY.md",
+      "line_count": 109,
+      "placeholders": 8
+    },
+    {
+      "file": "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
+      "line_count": 118,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Core_Concepts/00_Research_Overview.md",
+      "line_count": 112,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
+      "line_count": 130,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
+      "line_count": 124,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
+      "line_count": 115,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
+      "line_count": 117,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
+      "line_count": 120,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
+      "line_count": 138,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
+      "line_count": 111,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
+      "line_count": 124,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
+      "line_count": 126,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
+      "line_count": 115,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
+      "line_count": 112,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
+      "line_count": 119,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
+      "line_count": 102,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md",
+      "line_count": 109,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md",
+      "line_count": 97,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md",
+      "line_count": 109,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
+      "line_count": 111,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Technological Singularity Overview.md",
+      "line_count": 99,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Technological_Singularity_Expert_Review.md",
+      "line_count": 287,
+      "placeholders": 0
+    },
+    {
+      "file": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md",
+      "line_count": 120,
+      "placeholders": 0
+    }
+  ]
+}
