@@ -44,7 +44,7 @@ While compute metrics measure raw energy and silicon inputs, operational capabil
 | Model Generation | Benchmark Epoch | 50% Autonomous Horizon (Human Equivalent Time) | Complex Multi-Step Planning Depth | SWE-bench Verified Resolution Rate (%) | ARC-AGI Benchmark Score (%) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **GPT-3.5-Turbo** | Q1 2023 | 3.5 minutes | 2 to 4 sequential tool calls | 1.8% | 12.5% |
-| **GPT-4 (Original)** | Q2 2023 | 12.0 minutes | 5 to 10 coordinated steps | 13.8% | 21.0% |
+| **GPT-4 (Original)** | Q2 2023 | 12.0–15.0 minutes (~15m) | 5 to 10 coordinated steps | 13.8% | 21.0% |
 | **Claude 3 Opus** | Q1 2024 | 28.0 minutes | 15 to 25 coordinated steps | 28.7% | 34.0% |
 | **Claude 3.5 Sonnet** | Q2 2024 | 54.0 minutes | 30 to 50 sequential tool calls | 40.8% | 46.5% |
 | **OpenAI o1 / o3** | Q4 2024 | 2.5 hours | Test-time reasoning search chains | 49.2% | 75.7% |

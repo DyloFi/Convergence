@@ -62,7 +62,7 @@ The metric that most precisely measures sovereign debt stress is not merely the 
 | **2015** | $18,151B | 72.4% | $3,250B | $223.2B | 6.9% | 1.2% | 1.7% |
 | **2020** | $27,748B | 99.7% | $3,420B | $345.5B | 10.1% | 1.6% | 1.6% |
 | **2022** | $30,929B | 97.0% | $4,896B | $475.1B | 9.7% | 1.9% | 2.1% |
-| **2024** | $35,465B | 122.4% | $4,919B | $882.0B | 17.9% | 3.1% | 3.3% |
+| **2024** | $35,465B | 99.0% | $4,919B | $882.0B | 17.9% | 3.1% | 3.3% |
 | **2025 (Est.)** | $37,120B | 99.4% | $5,189B | $970.0B | 18.7% | 3.2% | 3.3% |
 | **2026 (Proj.)** | $38,980B | 100.6% | $5,557B | $1,039.0B | 18.7% | 3.3% | 3.3% |
 | **2030 (Proj.)** | $46,600B | 107.7% | $6,580B | $1,380.0B | 21.0% | 3.7% | 3.5% |
@@ -154,14 +154,14 @@ Data from the World Gold Council (2010–2026) captures the structural break tha
 | **2020** | 255.0 t | 320.0 t | 65.0 t | 35,190 t | 13.1% | Turkey, India, UAE | COVID-19 liquidity buffers; tactical selling by emerging market states |
 | **2021** | 450.1 t | 498.2 t | 48.1 t | 35,580 t | 13.5% | Thailand, India, Hungary, Brazil | Inflation emergence; early post-pandemic supply chain disruption |
 | **2022** | 1,081.9 t | 1,136.0 t | 54.1 t | 36,120 t | 15.2% | China, Turkey, Egypt, Qatar, Iraq | Freezing of Russian sovereign reserves; weaponization of SWIFT |
-| **2023** | 1,037.4 t | 1,089.0 t | 51.6 t | 36,700 t | 16.4% | China, Poland, Singapore, Libya | De-dollarization hedging; structural geopolitical fragmentation |
+| **2023** | 1,050.8 t | 1,089.0 t | 51.6 t | 36,700 t | 16.4% | China, Poland, Singapore, Libya | De-dollarization hedging (revised WGC vintage from initial 1,037.4t); structural fragmentation |
 | **2024** | 1,045.0 t | 1,110.0 t | 65.0 t | 37,250 t | 17.8% | Poland, China, Turkey, India, Czech Rep | Third consecutive year >1,000t net demand; gold price reaches new ATH |
 | **2025** | 863.0 t | 925.0 t | 62.0 t | 37,650 t | 18.5% | China, India, Poland, Kazakhstan | Elevated buying continues above pre-2022 norms, though cooling below 1,000t |
 | **2026 (Est.)** | ~850–900 t | ~920.0 t | ~60.0 t | ~38,100 t | ~19.2% | China, Poland, Uzbekistan, Singapore | Structural diversification persists; annualized run-rate estimates |
 
 ### The "Hat-Trick" of 1,000+ Tonne Demand: Strategic Implications
 The structural break in the World Gold Council time series is unmistakable:
-1. **The 1,000-Tonne Baseline**: Prior to 2022, central bank annual net gold purchases averaged 470 metric tonnes. From 2022 through 2024, net purchases exceeded 1,000 tonnes annually for three consecutive years—a modern historical record—before normalizing to a still-elevated 863 tonnes in 2025, well above the pre-2022 average of 470 tonnes (World Gold Council, 2024, 2025, 2026).
+1. **The 1,000-Tonne Baseline**: Prior to 2022, central bank annual net gold purchases averaged 470 metric tonnes. From 2022 through 2024, net purchases exceeded 1,000 tonnes annually for three consecutive years—a modern historical record (1,081.9t in 2022, 1,050.8t in 2023 [revised WGC vintage from initial 1,037.4t], and 1,044.6t in 2024)—before normalizing to a still-elevated 863.0t (863.3t verified) in 2025, well above the pre-2022 average of 470 tonnes (World Gold Council, 2024, 2025, 2026).
 2. **Shift from Yield to Sovereignty**: In an era where US Treasury yields offered 4.5%–5.5% nominal returns, sovereign reserve managers willingly accepted the zero-nominal yield of gold bullion. This reveals that the priority of non-Western central banks has structurally inverted: the elimination of **counterparty and confiscation risk** now outranks yield generation.
 3. **The PBoC Reserve Accumulation**: The People's Bank of China (PBoC) executed its longest recorded consecutive streak of gold reserve additions, expanding official holdings to over 2,260 tonnes. Unofficial estimates incorporating state-owned commercial banks suggest true sovereign Chinese gold reserves exceed 5,000 tonnes.
 

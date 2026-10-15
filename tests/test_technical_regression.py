@@ -7,6 +7,8 @@ Regression test suite for Convergence technical integrity defects:
 4. Internal link and heading anchor resolution
 5. Absence of boilerplate analytical-focus entries in bibliographies
 6. Citation inventory and verification audit artifact integrity
+7. Claim register coverage and claim inventory artifact integrity (Step 11)
+8. Freshness and consistency of quantitative baseline data (WGC, CBO, METR) (Step 11)
 """
 
 import csv
@@ -155,6 +157,54 @@ class TestTechnicalIntegrity(unittest.TestCase):
         self.assertGreater(len(rows), 100)
         for r in rows:
             self.assertEqual(r["verification_status"], "verified")
+
+    def test_claim_register_and_inventory_step11(self):
+        """Claim register CSV and inventory JSON must exist, be populated across reports, and resolve paths."""
+        reg_path = ROOT / "review" / "CLAIM_REGISTER.csv"
+        inv_path = ROOT / "audit" / "claims_inventory.json"
+        self.assertTrue(reg_path.exists(), "review/CLAIM_REGISTER.csv must exist")
+        self.assertTrue(inv_path.exists(), "audit/claims_inventory.json must exist")
+
+        with open(reg_path, "r", encoding="utf-8") as f:
+            rows = list(csv.DictReader(f))
+        self.assertGreater(len(rows), 200, "Claim register must expand from 16 to over 200 automated claims")
+
+        for r in rows:
+            self.assertTrue(r["claim_id"].startswith("CLM-"), f"Invalid claim ID: {r['claim_id']}")
+            self.assertTrue(len(r["exact_claim_or_summary"]) > 0, f"Empty claim text for {r['claim_id']}")
+            self.assertTrue(len(r["supporting_evidence_and_sources"]) > 0, f"Empty source for {r['claim_id']}")
+            self.assertEqual(r["verification_status"], "verified")
+            loc = r["repository_location"].strip()
+            self.assertTrue((ROOT / loc).exists(), f"Target file does not exist: {loc}")
+
+        with open(inv_path, "r", encoding="utf-8") as f:
+            inv = json.load(f)
+        self.assertGreater(inv["metadata"]["total_claims"], 200)
+        self.assertEqual(inv["metadata"]["total_reports_audited"], 153)
+        self.assertGreater(inv["metadata"]["total_reports_with_claims"], 100)
+        self.assertEqual(inv["metadata"]["verified_count"], len(inv["claims"]))
+
+    def test_stale_data_refreshed_vintages_and_projections(self):
+        """Macroeconomic and capability benchmarks must reflect verified non-stale data."""
+        cwo_emp = ROOT / "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md"
+        self.assertTrue(cwo_emp.exists())
+        cwo_text = cwo_emp.read_text(encoding="utf-8")
+        
+        # Public debt for 2024 must be disaggregated as 99.0%
+        self.assertIn("99.0%", cwo_text)
+        self.assertNotIn("| **2024** | $35,465B | 122.4% |", cwo_text, "Gross debt % must not be conflated with public debt %")
+
+        # WGC gold 2023 revised vintage (1,050.8t vs initial 1,037.4t) and 2025 (863.0t / 863.3t)
+        self.assertIn("1,050.8 t", cwo_text)
+        self.assertIn("863.0 t", cwo_text)
+
+        # METR benchmark reliability ceiling <=16h
+        loar_emp = ROOT / "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md"
+        self.assertTrue(loar_emp.exists())
+        loar_text = loar_emp.read_text(encoding="utf-8")
+        self.assertIn("16 hours", loar_text)
+        self.assertIn("Opus 4.5", loar_text)
+        self.assertIn("Opus 4.6", loar_text)
 
 if __name__ == "__main__":
     unittest.main()
