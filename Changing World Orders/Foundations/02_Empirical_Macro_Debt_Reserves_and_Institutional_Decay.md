@@ -61,27 +61,27 @@ The metric that most precisely measures sovereign debt stress is not merely the 
 | **2020** | $27,748B | 99.7% | $3,420B | $345.5B | 10.1% | 1.6% | 1.6% |
 | **2022** | $30,929B | 97.0% | $4,896B | $475.1B | 9.7% | 1.9% | 2.1% |
 | **2024** | $35,465B | 122.4% | $4,919B | $882.0B | 17.9% | 3.1% | 3.3% |
-| **2025 (Est.)** | $37,120B | 123.8% | $5,120B | $995.0B | 19.4% | 3.3% | 3.4% |
-| **2026 (Est.)** | $38,980B | 125.2% | $5,310B | $1,110.0B | 20.9% | 3.5% | 3.5% |
-| **2030 (Proj.)** | $46,500B | 131.5% | $6,150B | $1,420.0B | 23.1% | 3.9% | 3.6% |
+| **2025 (Est.)** | $37,120B | 99.4% | $5,189B | $970.0B | 18.7% | 3.2% | 3.3% |
+| **2026 (Proj.)** | $38,980B | 100.6% | $5,557B | $1,039.0B | 18.7% | 3.3% | 3.3% |
+| **2030 (Proj.)** | $46,600B | 107.7% | $6,580B | $1,380.0B | 21.0% | 3.7% | 3.5% |
 
 #### Primary Data Sources & Provenance Methodology
 All historical debt, revenue, outlay, and carrying cost figures are retrieved directly from official primary sovereign accounting archives:
-1. **Gross Federal Debt ()**: 
+1. **Gross Federal Debt ($B)**: 
    - *1960–2020*: U.S. Department of the Treasury, Bureau of the Fiscal Service, Historical Debt Outstanding; corroborated against Federal Reserve Bank of St. Louis (FRED) series GFDEBTN (Federal Debt: Total Public Debt).
    - *2022–2024*: U.S. Treasury, Monthly Treasury Statement (MTS), September 30 Year-End Issues.
-   - *2025–2030 Projections*: Congressional Budget Office (CBO), The Budget and Economic Outlook: 2024 to 2034 (June 2024 Baseline, Table 1-1).
+   - *2025–2030 Projections*: Congressional Budget Office (CBO), *The Budget and Economic Outlook: 2026 to 2036* (Baseline Date: February 11, 2026; cbo.gov/publication/61882, Table 1-3: Federal Debt and Statutory Debt Limit).
 2. **Debt Held by the Public (% of GDP)**: 
    - *1960–2024*: CBO, Historical Budget Data (Table F-1: Federal Debt and Interest Outlays, 1940 to 2024); FRED series FYGFGDQ188S.
-   - *2025–2030 Projections*: CBO Baseline (Table 1-2: Federal Debt Held by the Public).
-3. **Total Federal Revenues ()**: 
+   - *2025–2030 Projections*: CBO Baseline (*The Budget and Economic Outlook: 2026 to 2036*, February 11, 2026, Table 1-2: Deficits, Debt, and Revenues Measured Relative to GDP, projecting public debt rising from 99.4% in 2025 to 100.6% in 2026 and crossing WWII record 106% by FY 2030 at 107.7%).
+3. **Total Federal Revenues ($B)**: 
    - *1960–2024*: Office of Management and Budget (OMB), Historical Tables, Budget of the United States Government (Table 1.1); CBO Historical Budget Data (Table F-3: Revenues by Major Source).
-   - *2025–2030 Projections*: CBO Baseline (Table 1-1: Revenues).
-4. **Net Interest Outlays ()**: 
+   - *2025–2030 Projections*: CBO Baseline (*The Budget and Economic Outlook: 2026 to 2036*, February 11, 2026, Table 1-1: Baseline Budget Projections, Revenues: $5,189B in 2025, $5,557B in 2026, $6,580B in 2030).
+4. **Net Interest Outlays ($B)**: 
    - *1960–2024*: CBO, Historical Budget Data (Table F-5: Mandatory, Discretionary, and Net Interest Outlays); OMB Historical Tables (Table 3.2: Outlays by Function and Subfunction - Function 900 Net Interest).
-   - *2025–2030 Projections*: CBO Baseline (Table 1-1: Net Interest Outlays).
+   - *2025–2030 Projections*: CBO Baseline (*The Budget and Economic Outlook: 2026 to 2036*, February 11, 2026, Table 1-1: Net Interest Outlays: $970.0B in 2025, $1,039.0B in 2026, $1,380.0B in 2030).
 5. **Net Interest as % of Federal Revenue (%)**: 
-   - Computed ratio: Net Interest Outlays () divided by Total Federal Revenues ().
+   - Computed ratio: Net Interest Outlays ($B) divided by Total Federal Revenues ($B).
 6. **Average Effective Interest Rate on Debt (%)**: 
    - *1960–2024*: U.S. Department of the Treasury, Bureau of the Fiscal Service, Average Interest Rates on U.S. Treasury Securities (Historical Annual Averages); FRED series AYII.
 
@@ -192,7 +192,7 @@ To maintain empirical rigor and prevent theoretical unfalsifiability, the macroe
 
 1. **Sustained US Debt and Interest Service Reversal**:
    - Net interest outlays falling sustainably below 10% of total federal tax revenues without sovereign debt monetization, yield curve suppression, or high structural inflation.
-   - Publicly held debt as a share of GDP declining below 85% driven by organic real economic growth exceeding nominal interest rates ( > r$) rather than financial repression or severe austerity.
+   - Publicly held debt as a share of GDP declining below 85% driven by organic real economic growth exceeding nominal interest rates ($g > r$) rather than financial repression or severe austerity.
 2. **Re-Dollarization of Global Foreign Exchange Reserves**:
    - The US dollar's share of allocated global foreign exchange reserves in IMF COFER recovering above 65% on a sustained, multi-year basis.
    - Significant decrease in non-traditional reserve currency allocations and a reversal of bilateral non-dollar settlement arrangements among major trading blocs (e.g., BRICS+, ASEAN, GCC).

@@ -153,6 +153,6 @@ To ground the conceptual definitions in physical and mathematical reality, Table
 To ensure precise semantic interoperability across multi-disciplinary acceleration studies, the following foundational concepts are formalized within the analytical corpus:
 
 - **Computational Substrate Paradigm Shift**: The non-linear transition from an exhausted physical computing medium (e.g., planar silicon CMOS) to a higher-dimensional medium (e.g., gate-all-around, 3D stacked die, optical computing).
-- **Thermodynamic Landauer Dissipation**: The fundamental lower limit of energy consumption required to erase one bit of physical information ( = k_B T \ln 2$), serving as the ultimate thermodynamic barrier to irreversible computing.
+- **Thermodynamic Landauer Dissipation**: The fundamental lower limit of energy consumption required to erase one bit of physical information ({\min} = k_B T \ln 2$), serving as the ultimate thermodynamic barrier to irreversible computing.
 - **Recursive Algorithmic Feedback**: The architectural loop wherein machine learning models contribute to the design, optimization, and synthesis of next-generation hardware and software architectures.
 - **S-Curve Envelope Transcendence**: The mathematical phenomenon whereby a sequence of distinct S-curves for individual technologies concatenates into an overarching exponential or hyper-exponential trajectory.

@@ -1,7 +1,18 @@
 #!/usr/bin/env python3
 """
-Unit tests for Convergence Repository Automated Audit & Verification Script (scripts/audit_verification.py).
-Tests Requirement R3 verification logic, CLI parameters, and error detection.
+Unit, integration, and regression test suite for Convergence Repository Automated Audit
+& Verification Suite (scripts/audit_verification.py).
+
+Tests:
+1. Document Type Requirements (drops arbitrary 50-line rule, enforces document-type profiles)
+2. Deduplication Engine (exact SHA256 file hash, paragraph duplication, near-duplicate similarity)
+3. Boilerplate and Template Integrity (analytical-focus boilerplate, broken template tags, robotic headings)
+4. Repeated Headings Caps (limits identical non-standard section headings)
+5. Citations, URLs, DOIs, and Claim Register Coverage (detects forbidden local file:/// URLs, missing dossiers)
+6. Mathematical Consistency & KaTeX Rendering (stripped dollar cells, PID leaks, malformed frac macros)
+7. Finding Contract Integrity (every finding must have file, line, rule, severity, and non-empty excerpt)
+8. Deliberately Invalid Documents from Real Repository Defects (regression tests)
+9. Full Audit & CLI Workflow
 """
 
 import io
@@ -13,25 +24,21 @@ import tempfile
 import unittest
 from unittest.mock import patch
 
-# Add parent directory to sys.path so we can import scripts.audit_verification
+# Ensure project root is on sys.path
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(REPO_ROOT))
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
 
-from scripts.audit_verification import ConvergenceAuditor, main, EXPERT_REVIEW_FILES, SUBJECT_DIRECTORIES
+from scripts.audit_verification import ConvergenceAuditor, AuditFinding, main, EXPERT_REVIEW_FILES
 
 
-def create_dummy_md_file(
-    path: pathlib.Path,
-    line_count: int = 55,
-    content_line: str = "Substantive report line content with citation (Author, 2026).",
-) -> None:
-    """Helper to create a markdown file with specified line count."""
+def create_test_file(path: pathlib.Path, content: str) -> pathlib.Path:
     path.parent.mkdir(parents=True, exist_ok=True)
-    lines = [f"Line {i+1}: {content_line}" for i in range(line_count)]
-    path.write_text("\n".join(lines), encoding="utf-8")
+    path.write_text(content, encoding="utf-8")
+    return path
 
 
-class TestExpertReviewsCheck(unittest.TestCase):
+class TestDocumentTypeRequirements(unittest.TestCase):
     def setUp(self):
         self.temp_dir = tempfile.TemporaryDirectory()
         self.root = pathlib.Path(self.temp_dir.name)
@@ -39,61 +46,50 @@ class TestExpertReviewsCheck(unittest.TestCase):
     def tearDown(self):
         self.temp_dir.cleanup()
 
-    def test_check_expert_reviews_all_present_in_subject_dirs(self):
-        """Test Check 1 when all 5 expert reviews exist in subject directories with >50 lines."""
-        for subject, filename in EXPERT_REVIEW_FILES.items():
-            file_path = self.root / subject / filename
-            create_dummy_md_file(file_path, line_count=60)
+    def test_classification_by_document_type(self):
+        auditor = ConvergenceAuditor(root=self.root)
+        self.assertEqual(auditor.classify_document("Convergence_Master_Synthesis.md"), "synthesis")
+        self.assertEqual(auditor.classify_document("4th Turning/4th_Turning_Expert_Review.md"), "expert_review")
+        self.assertEqual(auditor.classify_document("Kondratiev Waves/Kondratiev Waves Overview.md"), "overview")
+        self.assertEqual(auditor.classify_document("Changing World Orders/Foundations/01_Empirical.md"), "dossier")
+        self.assertEqual(auditor.classify_document("README.md"), "readme")
+
+    def test_dossier_short_word_count_fails_regardless_of_lines(self):
+        # A file with 60 lines but only 60 words (< 250 words) should fail document type requirements
+        dossier_path = self.root / "4th Turning" / "Analysis" / "Short_Dossier.md"
+        content = "\n".join([f"Line {i}: test word" for i in range(60)])
+        create_test_file(dossier_path, content)
 
         auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_expert_reviews()
-        self.assertTrue(passed)
-        self.assertEqual(len(auditor.errors), 0)
-        self.assertEqual(len(auditor.expert_review_results["details"]), 5)
-        for subject in EXPERT_REVIEW_FILES:
-            self.assertEqual(auditor.expert_review_results["details"][subject]["status"], "PASS")
+        auditor.check_document_type_requirements()
+        
+        errors = [f for f in auditor.findings if f.rule == "doc_type_dossier_insufficient_depth"]
+        self.assertTrue(len(errors) >= 1)
+        self.assertEqual(errors[0].severity, "ERROR")
+        self.assertTrue(len(errors[0].excerpt) > 0)
 
-    def test_check_expert_reviews_all_present_in_repo_root(self):
-        """Test Check 1 fallback location when expert reviews exist in root directory."""
-        for subject, filename in EXPERT_REVIEW_FILES.items():
-            file_path = self.root / filename
-            create_dummy_md_file(file_path, line_count=52)
-
-        auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_expert_reviews()
-        self.assertTrue(passed)
-        self.assertEqual(len(auditor.errors), 0)
-
-    def test_check_expert_reviews_missing_file(self):
-        """Test Check 1 failure when an expert review file is missing."""
-        count = 0
-        for subject, filename in EXPERT_REVIEW_FILES.items():
-            if count >= 4:
-                break
-            create_dummy_md_file(self.root / subject / filename, line_count=60)
-            count += 1
+    def test_dossier_adequate_word_count_passes_without_50_line_rule(self):
+        # A file with only 20 lines but 300 words passes (50-line rule dropped)
+        dossier_path = self.root / "4th Turning" / "Analysis" / "Dense_Dossier.md"
+        words = ["word" for _ in range(320)]
+        content = "\n".join([" ".join(words[i:i+20]) for i in range(0, 320, 20)])
+        create_test_file(dossier_path, content)
 
         auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_expert_reviews()
-        self.assertFalse(passed)
-        self.assertTrue(len(auditor.errors) >= 1)
-        self.assertIn("EXPERT REVIEW MISSING", auditor.errors[0])
+        auditor.check_document_type_requirements()
+        
+        dossier_errors = [f for f in auditor.findings if f.file == "4th Turning/Analysis/Dense_Dossier.md"]
+        self.assertEqual(len(dossier_errors), 0)
 
-    def test_check_expert_reviews_insufficient_depth(self):
-        """Test Check 1 failure when an expert review file has <=50 lines."""
-        idx = 0
-        for subject, filename in EXPERT_REVIEW_FILES.items():
-            lines = 30 if idx == 0 else 60
-            create_dummy_md_file(self.root / subject / filename, line_count=lines)
-            idx += 1
-
+    def test_missing_expert_review_fails(self):
+        # When an expert review is missing, it should record a doc_type_expert_review_missing error
         auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_expert_reviews()
-        self.assertFalse(passed)
-        self.assertTrue(any("EXPERT REVIEW DEPTH FAIL" in err for err in auditor.errors))
+        auditor.check_document_type_requirements()
+        missing_errors = [f for f in auditor.findings if f.rule == "doc_type_expert_review_missing"]
+        self.assertEqual(len(missing_errors), 5)
 
 
-class TestReportDepthCheck(unittest.TestCase):
+class TestDeduplicationEngine(unittest.TestCase):
     def setUp(self):
         self.temp_dir = tempfile.TemporaryDirectory()
         self.root = pathlib.Path(self.temp_dir.name)
@@ -101,48 +97,54 @@ class TestReportDepthCheck(unittest.TestCase):
     def tearDown(self):
         self.temp_dir.cleanup()
 
-    def test_check_report_depth_all_passed(self):
-        """Test Check 2 when all research reports have >50 lines."""
-        for subject in SUBJECT_DIRECTORIES:
-            report_path = self.root / subject / "Subfolder" / "Report.md"
-            create_dummy_md_file(report_path, line_count=55)
-
-        master_synth = self.root / "Convergence_Master_Synthesis.md"
-        create_dummy_md_file(master_synth, line_count=100)
+    def test_exact_file_hash_duplicate_detected(self):
+        content = "# Identical File\n\nThis is identical content across two files for testing hash duplication.\n" * 5
+        create_test_file(self.root / "Pillar1" / "FileA.md", content)
+        create_test_file(self.root / "Pillar2" / "FileB.md", content)
 
         auditor = ConvergenceAuditor(root=self.root)
-        total, failed = auditor.check_report_depth()
-        self.assertEqual(total, 6)
-        self.assertEqual(failed, 0)
-        self.assertTrue(auditor.report_depth_results["passed"])
+        auditor.check_deduplication()
 
-    def test_check_report_depth_failing_reports(self):
-        """Test Check 2 when some reports fail depth check (<=50 lines)."""
-        for subject in SUBJECT_DIRECTORIES:
-            report_path = self.root / subject / "Report.md"
-            lines = 50 if subject == "4th Turning" else 55
-            create_dummy_md_file(report_path, line_count=lines)
+        hash_findings = [f for f in auditor.findings if f.rule == "exact_file_duplicate"]
+        self.assertTrue(len(hash_findings) >= 2)
+        for finding in hash_findings:
+            self.assertEqual(finding.severity, "ERROR")
+            self.assertTrue(finding.excerpt.startswith("SHA256:"))
 
-        auditor = ConvergenceAuditor(root=self.root)
-        total, failed = auditor.check_report_depth()
-        self.assertEqual(total, 5)
-        self.assertEqual(failed, 1)
-        self.assertFalse(auditor.report_depth_results["passed"])
-        self.assertTrue(any("REPORT DEPTH FAIL" in err for err in auditor.errors))
-
-    def test_check_report_depth_excludes_expert_reviews(self):
-        """Verify that expert review files inside subject dirs are excluded from research depth scan."""
-        for subject, filename in EXPERT_REVIEW_FILES.items():
-            create_dummy_md_file(self.root / subject / filename, line_count=60)
-            create_dummy_md_file(self.root / subject / "Sub" / "Report.md", line_count=55)
+    def test_paragraph_level_duplicate_detected(self):
+        para = "This is a substantive quantitative paragraph explaining cross-cycle dynamics with forty distinct analytical terms that repeats across distinct dossiers verbatim without variation."
+        file_a = f"# File A\n\n{para}\n\nUnique section A content with additional words."
+        file_b = f"# File B\n\nUnique section B content.\n\n{para}\n\nDifferent conclusions."
+        create_test_file(self.root / "Pillar1" / "FileA.md", file_a)
+        create_test_file(self.root / "Pillar2" / "FileB.md", file_b)
 
         auditor = ConvergenceAuditor(root=self.root)
-        total, failed = auditor.check_report_depth()
-        self.assertEqual(total, 5)
-        self.assertEqual(failed, 0)
+        auditor.check_deduplication()
+
+        para_findings = [f for f in auditor.findings if f.rule == "paragraph_duplicate"]
+        self.assertTrue(len(para_findings) >= 2)
+        for finding in para_findings:
+            self.assertEqual(finding.severity, "WARNING")
+            self.assertTrue(len(finding.excerpt) > 0)
+
+    def test_near_duplicate_similarity_detected(self):
+        vocabulary = ["macroeconomic", "hegemonic", "transition", "stochastic", "volatility", "regime", "structural", "paradigm"]
+        base_words = [vocabulary[i % len(vocabulary)] for i in range(50)]
+        file_a = " ".join(base_words) + " alpha beta gamma"
+        file_b = " ".join(base_words) + " delta epsilon zeta"
+        create_test_file(self.root / "Pillar1" / "SimilarA.md", file_a)
+        create_test_file(self.root / "Pillar2" / "SimilarB.md", file_b)
+
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_deduplication()
+
+        sim_findings = [f for f in auditor.findings if f.rule == "high_similarity_report"]
+        self.assertTrue(len(sim_findings) >= 2)
+        for finding in sim_findings:
+            self.assertEqual(finding.severity, "WARNING")
 
 
-class TestEnhancementIntegrationCheck(unittest.TestCase):
+class TestTemplateAndBoilerplate(unittest.TestCase):
     def setUp(self):
         self.temp_dir = tempfile.TemporaryDirectory()
         self.root = pathlib.Path(self.temp_dir.name)
@@ -150,327 +152,243 @@ class TestEnhancementIntegrationCheck(unittest.TestCase):
     def tearDown(self):
         self.temp_dir.cleanup()
 
-    def test_enhancement_no_placeholders_with_citations(self):
-        """Test Check 3 passes when reports contain citations and no placeholders."""
-        for subject in SUBJECT_DIRECTORIES:
-            file_path = self.root / subject / "Report.md"
-            create_dummy_md_file(
-                file_path,
-                line_count=55,
-                content_line="Valid research report content (Strauss & Howe, 1997).",
-            )
+    def test_analytical_focus_boilerplate_detected(self):
+        content = "# Research Report\n\n- Analytical Focus: Macroeconomic volatility and empirical cycles.\n\nMore details."
+        create_test_file(self.root / "4th Turning" / "Report.md", content)
 
         auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_enhancement_integration()
-        self.assertTrue(passed)
-        self.assertEqual(len(auditor.errors), 0)
+        auditor.check_template_and_boilerplate()
 
-    def test_enhancement_placeholder_detected(self):
-        """Test Check 3 flags errors when placeholder tags are present."""
-        file_path = self.root / "4th Turning" / "Report.md"
-        create_dummy_md_file(
-            file_path,
-            line_count=55,
-            content_line="Section content with TODO tag (Strauss, 1997).",
-        )
-
-        auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_enhancement_integration()
-        self.assertFalse(passed)
-        self.assertTrue(any("PLACEHOLDER FOUND" in err for err in auditor.errors))
-
-    def test_enhancement_strict_citation_mode(self):
-        """Test Check 3 citation enforcement in strict vs non-strict mode."""
-        file_path = self.root / "4th Turning" / "Report.md"
-        create_dummy_md_file(
-            file_path,
-            line_count=55,
-            content_line="Section content without any citation patterns or references.",
-        )
-
-        auditor_non_strict = ConvergenceAuditor(root=self.root, strict=False)
-        passed_ns = auditor_non_strict.check_enhancement_integration()
-        self.assertTrue(passed_ns)
-        self.assertTrue(len(auditor_non_strict.warnings) > 0)
-
-        auditor_strict = ConvergenceAuditor(root=self.root, strict=True)
-        passed_s = auditor_strict.check_enhancement_integration()
-        self.assertFalse(passed_s)
-        self.assertTrue(len(auditor_strict.errors) > 0)
-
-
-class TestCrossReportDuplicationCheck(unittest.TestCase):
-    def setUp(self):
-        self.temp_dir = tempfile.TemporaryDirectory()
-        self.root = pathlib.Path(self.temp_dir.name)
-
-    def tearDown(self):
-        self.temp_dir.cleanup()
-
-    def test_cross_report_duplication_pass(self):
-        """Test Check 4 passes when report duplication is <= 15%."""
-        subj_dir = self.root / "4th Turning"
-        shared_lines = ["# Title Header", "## Section 1: Analysis"]
-        for i in range(5):
-            unique_lines = [f"Unique paragraph line {j} for report {i} (Strauss, 1997)." for j in range(50)]
-            file_path = subj_dir / f"Report_{i}.md"
-            file_path.parent.mkdir(parents=True, exist_ok=True)
-            file_path.write_text("\n".join(shared_lines + unique_lines), encoding="utf-8")
-
-        auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_cross_report_duplication()
-        self.assertTrue(passed)
-        self.assertEqual(len(auditor.errors), 0)
-        self.assertTrue(auditor.duplication_results["passed"])
-        self.assertIn("4th Turning", auditor.duplication_results["details"])
-        self.assertLessEqual(auditor.duplication_results["details"]["4th Turning"]["avg_duplication_rate"], 15.0)
-
-    def test_cross_report_duplication_fail(self):
-        """Test Check 4 fails when report duplication exceeds 15%."""
-        subj_dir = self.root / "4th Turning"
-        boilerplate_lines = [f"Generic copy-pasted boilerplate line {k}" for k in range(30)]
-        for i in range(5):
-            unique_lines = [f"Unique line {j} for report {i} (Strauss, 1997)." for j in range(25)]
-            file_path = subj_dir / f"Report_{i}.md"
-            file_path.parent.mkdir(parents=True, exist_ok=True)
-            file_path.write_text("\n".join(boilerplate_lines + unique_lines), encoding="utf-8")
-
-        auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_cross_report_duplication()
-        self.assertFalse(passed)
-        self.assertTrue(any("CROSS-REPORT DUPLICATION FAIL" in err for err in auditor.errors))
-        self.assertFalse(auditor.duplication_results["passed"])
-        self.assertGreater(auditor.duplication_results["details"]["4th Turning"]["avg_duplication_rate"], 15.0)
-
-    def test_cross_report_duplication_excludes_expert_reviews(self):
-        """Verify Check 4 excludes *_Expert_Review.md files from subfolder duplication scans."""
-        subj_dir = self.root / "4th Turning"
-        expert_review = subj_dir / "4th_Turning_Expert_Review.md"
-        create_dummy_md_file(expert_review, line_count=60, content_line="Shared line content (Strauss, 1997).")
-
-        report = subj_dir / "Subfolder" / "Report.md"
-        create_dummy_md_file(report, line_count=60, content_line="Shared line content (Strauss, 1997).")
-
-        auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_cross_report_duplication()
-        self.assertTrue(passed)
-        self.assertEqual(auditor.duplication_results["details"]["4th Turning"]["report_count"], 1)
-
-    def test_single_file_duplication_spike_detected(self):
-        """Test Check 4 fails when a single report exceeds 15.0% duplication, even if directory average is <= 15.0%."""
-        subj_dir = self.root / "Kondratiev Waves"
-        shared_lines = [f"Repeated shared line {k} across reports" for k in range(25)]
-
-        # Create 9 reports with 100% unique lines
-        for i in range(9):
-            unique_lines = [f"Unique line {j} for clean report {i} (Kondratiev, 1925)." for j in range(100)]
-            file_path = subj_dir / f"Clean_Report_{i}.md"
-            file_path.parent.mkdir(parents=True, exist_ok=True)
-            file_path.write_text("\n".join(unique_lines), encoding="utf-8")
-
-        # Create 1 report that shares 25 lines with another report (25% duplication)
-        other_shared_file = subj_dir / "Shared_Target.md"
-        other_shared_file.write_text("\n".join(shared_lines + [f"Unique target line {m}" for m in range(75)]), encoding="utf-8")
-
-        spiked_file = subj_dir / "Data" / "Processed" / "JSON" / "JSON Deep Dive.md"
-        spiked_file.parent.mkdir(parents=True, exist_ok=True)
-        spiked_file.write_text("\n".join(shared_lines + [f"Unique spike line {n}" for n in range(75)]), encoding="utf-8")
-
-        auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_cross_report_duplication()
-        self.assertFalse(passed)
-        self.assertTrue(any("SINGLE-FILE DUPLICATION FAIL" in err for err in auditor.errors))
-        self.assertFalse(auditor.duplication_results["details"]["Kondratiev Waves"]["passed"])
-
-
-class TestBrokenTemplateTagCheck(unittest.TestCase):
-    def setUp(self):
-        self.temp_dir = tempfile.TemporaryDirectory()
-        self.root = pathlib.Path(self.temp_dir.name)
-
-    def tearDown(self):
-        self.temp_dir.cleanup()
+        bp_findings = [f for f in auditor.findings if f.rule == "boilerplate_analytical_focus"]
+        self.assertTrue(len(bp_findings) >= 1)
+        self.assertIn("Analytical Focus", bp_findings[0].excerpt)
 
     def test_broken_template_tags_detected(self):
-        """Test Check 5 fails and logs errors when broken template tags or variable artifacts exist."""
-        bad_file = self.root / "4th Turning" / "Bad_Report.md"
-        bad_file.parent.mkdir(parents=True, exist_ok=True)
-        content = """# Bad Report
-This section evaluates generational dynamics regarding  and modern applications across saeculum.
-It reveals how  evolves systematically across the 80-100 year Saeculum.
-Mechanisms that drive turning transitions in .
-|  | Detail |
-The Historical Antecedents of: .
-Unpopulated tag: {topic} and {subject}.
-"""
-        bad_file.write_text(content, encoding="utf-8")
+        content = "# Report\n\nThis dossier was updated on {{DATE}} by {{AUTHOR}}.\n"
+        create_test_file(self.root / "LoAR" / "Report.md", content)
 
         auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_template_integrity()
-        self.assertFalse(passed)
-        self.assertTrue(len(auditor.errors) >= 5)
-        self.assertTrue(any("BROKEN TEMPLATE TAG FOUND" in err for err in auditor.errors))
+        auditor.check_template_and_boilerplate()
 
-    def test_clean_template_prose_passes(self):
-        """Test Check 5 passes when reports contain clean, fully populated template prose."""
-        clean_file = self.root / "4th Turning" / "Clean_Report.md"
-        clean_file.parent.mkdir(parents=True, exist_ok=True)
-        content = """# Clean Report
-This section evaluates generational dynamics regarding economic policy and modern applications across saeculum.
-It reveals how institutional trust evolves systematically across the 80-100 year Saeculum.
-Mechanisms that drive turning transitions in macroeconomics.
-| Economic Indicator / Focus | Detail |
-The Historical Antecedents of Civil Wars: How prior crisis climaxes reset society.
-Fully detailed discussion without any unpopulated tags.
-"""
-        clean_file.write_text(content, encoding="utf-8")
+        tag_findings = [f for f in auditor.findings if f.rule == "broken_template_tag"]
+        self.assertTrue(len(tag_findings) >= 1)
+        self.assertEqual(tag_findings[0].severity, "ERROR")
+
+    def test_robotic_heading_detected(self):
+        content = "# Real Title\n\n## Topic Name: Kondratiev Waves Deep Dive\n\nSubstantive content."
+        create_test_file(self.root / "Kondratiev Waves" / "Report.md", content)
 
         auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_template_integrity()
-        self.assertTrue(passed)
-        self.assertEqual(len(auditor.errors), 0)
-        self.assertTrue(auditor.template_integrity_results["passed"])
+        auditor.check_template_and_boilerplate()
 
-    def test_double_pipe_table_delimiter_corruption_detected(self):
-        """Test Check 5 flags || double-pipe table alignment corruptions."""
-        corrupted_file = self.root / "Changing World Orders" / "Corrupted_Table.md"
-        corrupted_file.parent.mkdir(parents=True, exist_ok=True)
-        content = """# Table Test Report
-| Scholar | Theoretical School | Key Work | View on US-China War Risk | Primary Vector of Systemic Change |
-| :---: || :---: || :---: || :---: || :---: |
-| Graham Allison | Historical Realism | Destined for War (2017) | High | Thucydides displacement dynamics |
-"""
-        corrupted_file.write_text(content, encoding="utf-8")
+        heading_findings = [f for f in auditor.findings if f.rule == "robotic_heading"]
+        self.assertTrue(len(heading_findings) >= 1)
 
-        auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_template_integrity()
-        self.assertFalse(passed)
-        self.assertTrue(any("Double-pipe table delimiter corruption: '||'" in err for err in auditor.errors))
 
-    def test_double_pipe_table_syntax_detected(self):
-        """Test Check 5 flags corrupted table alignment syntax | :--- || :--- |."""
-        corrupted_file = self.root / "Changing World Orders" / "Corrupted_Table_2.md"
-        corrupted_file.parent.mkdir(parents=True, exist_ok=True)
-        content = """# Table Test Report
-| Component | Leader | Concentration | Vulnerability |
-| :--- || :--- | :---: | :--- |
-| EUV Lithography | ASML | 100% | Single point failure |
-"""
-        corrupted_file.write_text(content, encoding="utf-8")
+class TestRepeatedHeadings(unittest.TestCase):
+    def setUp(self):
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.root = pathlib.Path(self.temp_dir.name)
+
+    def tearDown(self):
+        self.temp_dir.cleanup()
+
+    def test_repeated_nonstandard_heading_capped(self):
+        heading = "### Non-Standard Specific Empirical Regression Framework"
+        for i in range(5):
+            create_test_file(self.root / f"Pillar{i}" / "Doc.md", f"{heading}\n\nContent {i}")
 
         auditor = ConvergenceAuditor(root=self.root)
-        passed = auditor.check_template_integrity()
-        self.assertFalse(passed)
-        self.assertTrue(any("Double-pipe table delimiter corruption: '||'" in err for err in auditor.errors))
+        auditor.check_repeated_headings()
 
-    def test_robotic_heading_suffix_detected(self):
-        """Test Check 5 flags robotic heading title suffixes on level 2 and level 3 headings."""
-        robotic_file_1 = self.root / "LoAR" / "Robotic_Report_1.md"
-        robotic_file_1.parent.mkdir(parents=True, exist_ok=True)
-        content_1 = """# Monograph Title
-## 1. Section One: [Document Title]
-### 1.1 Subsection: Topic Name
-"""
-        robotic_file_1.write_text(content_1, encoding="utf-8")
+        rep_findings = [f for f in auditor.findings if f.rule == "repeated_heading_capped"]
+        self.assertTrue(len(rep_findings) >= 5)
 
-        auditor_1 = ConvergenceAuditor(root=self.root)
-        passed_1 = auditor_1.check_template_integrity()
-        self.assertFalse(passed_1)
-        self.assertTrue(any("Robotic heading title suffix artifact" in err for err in auditor_1.errors))
 
-        # Clear directory for second scenario
-        robotic_file_1.unlink()
+class TestCitationsUrlsAndClaimCoverage(unittest.TestCase):
+    def setUp(self):
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.root = pathlib.Path(self.temp_dir.name)
 
-        robotic_file_2 = self.root / "LoAR" / "Robotic_Report_2.md"
-        content_2 = """# Monograph Title
-## 1. Theoretical Framework & Mathematical Mechanics: Core Concepts Deep Dive & Paradigm Mechanics Monograph
-## 2. Quantitative Empirical Metrics: Core Concepts Deep Dive & Paradigm Mechanics Monograph
-"""
-        robotic_file_2.write_text(content_2, encoding="utf-8")
+    def tearDown(self):
+        self.temp_dir.cleanup()
 
-        auditor_2 = ConvergenceAuditor(root=self.root)
-        passed_2 = auditor_2.check_template_integrity()
-        self.assertFalse(passed_2)
-        self.assertTrue(any("Robotic heading title suffix artifact" in err for err in auditor_2.errors))
+    def test_local_file_url_forbidden(self):
+        content = "Refer to the baseline dossier at [Local Link](file:///Users/dylanboyle/Desktop/Convergence/doc.md)."
+        create_test_file(self.root / "Review" / "Doc.md", content)
+
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_citations_urls_and_claim_coverage()
+
+        url_findings = [f for f in auditor.findings if f.rule == "local_file_url"]
+        self.assertTrue(len(url_findings) >= 1)
+        self.assertEqual(url_findings[0].severity, "ERROR")
+        self.assertIn("file:///", url_findings[0].excerpt)
+
+    def test_claim_register_missing_source_doc_flagged(self):
+        csv_content = "claim_id,source_document,claim_text\nCLM-001,NonExistentDossier.md,Heuristic claim\n"
+        create_test_file(self.root / "review" / "CLAIM_EVIDENCE_REGISTER.csv", csv_content)
+
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_citations_urls_and_claim_coverage()
+
+        claim_findings = [f for f in auditor.findings if f.rule == "unresolved_claim_source_doc"]
+        self.assertTrue(len(claim_findings) >= 1)
+        self.assertEqual(claim_findings[0].severity, "WARNING")
+
+
+class TestMathematicalConsistency(unittest.TestCase):
+    def setUp(self):
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.root = pathlib.Path(self.temp_dir.name)
+
+    def tearDown(self):
+        self.temp_dir.cleanup()
+
+    def test_stripped_dollar_cell_detected(self):
+        table_line = "| 1960 | B | 53.6% | .5B |"
+        create_test_file(self.root / "Pillar1" / "Table.md", f"# Table\n\n{table_line}\n")
+
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_mathematical_consistency()
+
+        cell_findings = [f for f in auditor.findings if f.rule == "stripped_dollar_cell"]
+        self.assertTrue(len(cell_findings) >= 1)
+        self.assertEqual(cell_findings[0].severity, "ERROR")
+
+    def test_pid_leak_artifact_detected(self):
+        content = "The takeoff trajectory is modeled by $$Y_t = 36646 \\cdot e^{rt}$$."
+        create_test_file(self.root / "Pillar1" / "Math.md", content)
+
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_mathematical_consistency()
+
+        pid_findings = [f for f in auditor.findings if f.rule == "pid_leak_artifact"]
+        self.assertTrue(len(pid_findings) >= 1)
+        self.assertEqual(pid_findings[0].severity, "ERROR")
+
+    def test_corrupted_frac_macro_detected(self):
+        content = "$$\\frac12$$"
+        create_test_file(self.root / "Pillar1" / "Math.md", content)
+
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_mathematical_consistency()
+
+        frac_findings = [f for f in auditor.findings if f.rule == "corrupted_frac_macro"]
+        self.assertTrue(len(frac_findings) >= 1)
+        self.assertEqual(frac_findings[0].severity, "ERROR")
+
+
+class TestFindingContractIntegrity(unittest.TestCase):
+    def setUp(self):
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.root = pathlib.Path(self.temp_dir.name)
+
+    def tearDown(self):
+        self.temp_dir.cleanup()
+
+    def test_finding_attributes_and_serialization(self):
+        finding = AuditFinding(
+            file="Changing World Orders/Monograph.md",
+            line=42,
+            excerpt="| 1960 | B | 53.6% |",
+            rule="stripped_dollar_cell",
+            severity="ERROR",
+            message="Stripped dollar symbol in table cell"
+        )
+        self.assertEqual(finding.file, "Changing World Orders/Monograph.md")
+        self.assertEqual(finding.line, 42)
+        self.assertEqual(finding.rule, "stripped_dollar_cell")
+        self.assertEqual(finding.severity, "ERROR")
+        self.assertEqual(finding.excerpt, "| 1960 | B | 53.6% |")
+
+        data = finding.to_dict()
+        self.assertEqual(data["location"]["file"], "Changing World Orders/Monograph.md")
+        self.assertEqual(data["location"]["line"], 42)
+        self.assertEqual(data["rule"], "stripped_dollar_cell")
+        self.assertEqual(data["severity"], "ERROR")
+        self.assertEqual(data["excerpt"], "| 1960 | B | 53.6% |")
+
+
+class TestDeliberatelyInvalidDocumentsFromRealDefects(unittest.TestCase):
+    """
+    Regression test suite using fixtures modeled directly on real defects
+    identified and repaired during Convergence audit phases.
+    """
+    def setUp(self):
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.root = pathlib.Path(self.temp_dir.name)
+
+    def tearDown(self):
+        self.temp_dir.cleanup()
+
+    def test_real_defect_stripped_cbo_debt_table(self):
+        defect_content = (
+            "# U.S. Sovereign Debt\n\n"
+            "| Year | Gross Federal Debt | Debt Held by Public (% GDP) | Total Revenues | Net Interest Outlays |\n"
+            "|---|---|---|---|---|\n"
+            "| **1960** | B | 53.6% | .5B | .9B |\n"
+        )
+        create_test_file(self.root / "CWO" / "Defect1.md", defect_content)
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_mathematical_consistency()
+        findings = [f for f in auditor.findings if f.rule == "stripped_dollar_cell"]
+        self.assertTrue(len(findings) >= 1)
+        self.assertIn(".5B", findings[0].excerpt)
+
+    def test_real_defect_pid_in_synthesis_math(self):
+        defect_content = (
+            "## 4. Formal Mathematical Modeling\n\n"
+            "$$\\dot{K}(t) = 36646 \\cdot I(t) - \\delta K(t)$$\n"
+        )
+        create_test_file(self.root / "Synthesis" / "Defect2.md", defect_content)
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_mathematical_consistency()
+        findings = [f for f in auditor.findings if f.rule == "pid_leak_artifact"]
+        self.assertTrue(len(findings) >= 1)
+        self.assertIn("36646", findings[0].excerpt)
+
+    def test_real_defect_local_file_url_in_markdown(self):
+        defect_content = (
+            "Refer to the original dossier at: "
+            "[Dossier Link](file:///Users/dylanboyle/Desktop/Convergence/4th%20Turning/Overview.md)\n"
+        )
+        create_test_file(self.root / "Synthesis" / "Defect3.md", defect_content)
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_citations_urls_and_claim_coverage()
+        findings = [f for f in auditor.findings if f.rule == "local_file_url"]
+        self.assertTrue(len(findings) >= 1)
+        self.assertIn("file:///Users/dylanboyle", findings[0].excerpt)
 
 
 class TestFullAuditAndCLI(unittest.TestCase):
     def setUp(self):
         self.temp_dir = tempfile.TemporaryDirectory()
         self.root = pathlib.Path(self.temp_dir.name)
-        self._populate_valid_repo()
 
     def tearDown(self):
         self.temp_dir.cleanup()
 
-    def _populate_valid_repo(self):
-        for subject, filename in EXPERT_REVIEW_FILES.items():
-            create_dummy_md_file(
-                self.root / subject / filename,
-                line_count=60,
-                content_line="Expert review analysis line (Strauss, 1997).",
-            )
-        for subject in SUBJECT_DIRECTORIES:
-            create_dummy_md_file(
-                self.root / subject / "Subfolder" / "Deep_Dive.md",
-                line_count=55,
-                content_line="Subject deep dive research data (Howe, 2020).",
-            )
-        create_dummy_md_file(
-            self.root / "Convergence_Master_Synthesis.md",
-            line_count=120,
-            content_line="Master synthesis section with citation (Kondratiev, 1925).",
-        )
+    def test_run_all_checks_structure(self):
+        auditor = ConvergenceAuditor(root=self.root)
+        results = auditor.run_all_checks()
+        self.assertIn("passed", results)
+        self.assertIn("strict", results)
+        self.assertIn("checks", results)
+        self.assertIn("findings", results)
+        self.assertIn("error_count", results)
+        self.assertIn("warning_count", results)
 
-    def test_run_full_audit_success(self):
-        """Test full audit workflow returning pass on valid workspace."""
-        auditor = ConvergenceAuditor(root=self.root, verbose=True)
-        with patch("sys.stdout", new=io.StringIO()):
-            results = auditor.run_full_audit()
-        self.assertTrue(results["passed"])
-        self.assertEqual(len(results["errors"]), 0)
-
-    def test_run_full_audit_json_output(self):
-        """Test audit JSON output formatting."""
-        auditor = ConvergenceAuditor(root=self.root, json_output=True)
-        captured_output = io.StringIO()
-        with patch("sys.stdout", captured_output):
-            results = auditor.run_full_audit()
-
-        json_text = captured_output.getvalue()
-        parsed = json.loads(json_text)
-        self.assertTrue(parsed["passed"])
-        self.assertIn("summary", parsed)
-        self.assertIn("expert_reviews", parsed)
-
-    def test_cli_main_execution(self):
-        """Test main() entry point via simulated CLI arguments."""
+    def test_cli_execution_with_json_flag(self):
         test_args = ["audit_verification.py", "--root", str(self.root), "--json"]
-        captured_output = io.StringIO()
-        with patch.object(sys, "argv", test_args), patch("sys.stdout", captured_output):
+        captured = io.StringIO()
+        with patch.object(sys, "argv", test_args), patch("sys.stdout", captured):
             exit_code = main()
-            self.assertEqual(exit_code, 0)
-
-    def test_real_repo_audit_execution(self):
-        """Integration test: Execute auditor against the actual project repo."""
-        real_repo_root = REPO_ROOT
-        auditor = ConvergenceAuditor(root=real_repo_root)
-        with patch("sys.stdout", new=io.StringIO()):
-            results = auditor.run_full_audit()
-        self.assertIn("summary", results)
-        self.assertIn("duplication_results", results)
-        self.assertIn("template_integrity", results)
-        if results["passed"]:
-            self.assertTrue(results["passed"])
-            self.assertEqual(len(results["errors"]), 0)
-        else:
-            self.assertGreater(len(results["errors"]), 0)
-            self.assertTrue(
-                any(
-                    "CROSS-REPORT DUPLICATION FAIL" in err or "BROKEN TEMPLATE TAG FOUND" in err
-                    for err in results["errors"]
-                )
-            )
+            self.assertIn(exit_code, [0, 1])
+        output = captured.getvalue()
+        parsed = json.loads(output)
+        self.assertIn("checks", parsed)
+        self.assertIn("findings", parsed)
 
 
 if __name__ == "__main__":
