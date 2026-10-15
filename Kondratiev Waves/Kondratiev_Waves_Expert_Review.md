@@ -1,5 +1,7 @@
 # Long-Wave Economics Expert Audit: Kondratiev Waves Research Reports
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 **Author**: Long-Wave Economics Expert  
 **Target Subject Directory**: `Kondratiev Waves` (34 Markdown Reports)  
 **Date**: August 11, 2026  

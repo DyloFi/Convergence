@@ -1,5 +1,7 @@
 # 4th Turning: Comprehensive Strategic Roadmap for Crisis Navigation
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Comprehensive Strategic Roadmap for Crisis Navigation
 This monograph delivers a comprehensive strategic roadmap for navigating the climax of the current Fourth Turning (2026-2035).
 It synthesizes insights across economics, geopolitics, demography, and technology into a master executive action plan.

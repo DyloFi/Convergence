@@ -1,5 +1,7 @@
 # 4th Turning: Enterprise, Policy & Institutional Adaptation in 2026+
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Enterprise, Policy & Institutional Adaptation in 2026+
 This report delivers an executive blueprint for enterprise, policy, and institutional adaptation in the 2026+ horizon.
 It translates Strauss-Howe theoretical insights into concrete operational playbooks for corporate C-suites and lawmakers.
@@ -57,7 +59,7 @@ Short-term activist investors contend that building large cash reserves destroys
 
 ## 4. Strategic Implications & Future Trajectories (2026–2035+) — Enterprise, Policy & Institutional Adaptation in 2026+
 Enterprise leaders must execute the Fourth Turning adaptation playbook immediately to ensure survival through 2035.
-Pivoting from financialization to operational fortress design guarantees long-term market leadership.
+Pivoting from financialization to operational fortress design fosters long-term market leadership.
 
 ### 4.1 Institutional Adaptation & Risk Management in Enterprise, Policy & Institutional Adaptation in 2026+
 - **Fortress Balance Sheet Execution**: Pay down high-interest corporate debt, eliminate speculative buybacks, and accumulate liquid cash reserves.

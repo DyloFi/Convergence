@@ -12,7 +12,7 @@ It provides data scientists and demographers with verified empirical time series
 
 ## 1. Theoretical Framework & Generational Mechanics (Data)
 Demographic metrics provide the physical backbone of generational theory, measuring cohort sizing and fertility shifts.
-Tracking birth rate cycles proves that societal mood transmutations directly alter human reproductive choices.
+Tracking birth rate cycles indicates that societal mood transmutations correlate with human reproductive choices.
 
 ### 1.1 Archetype Dynamics in Quantitative Demographic & Statistical Data Analysis
 - **Prophet Generation (Idealist)**: Born during high-fertility post-crisis baby booms (First Turning), forming massive numerical birth cohorts.

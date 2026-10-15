@@ -52,7 +52,7 @@ From an AGI safety standpoint, whether an ASI possesses subjective inner experie
 Controversy exists over whether physical compute saturation will halt Singularity scaling before AGI arrival:
 
 1. **The Physicalist Wall**: Hardware skeptics point out that silicon gate scaling is approaching atomic dimensions ($\sim 1$), where quantum tunneling leakage currents cause Dennard scaling breakdown and extreme thermal design power (TDP) density.
-2. **The Algorithmic Counter-Thesis**: Empirical research proves that algorithmic progress halves compute requirements every 8.0 to 9.5 months (Erdil & Besiroglu, 2023). Even if hardware FLOP scaling slows, algorithmic optimization, quantization (FP4/FP8), and System 2 test-time search continue driving effective capability growth exponentially.
+2. **The Algorithmic Counter-Thesis**: Empirical research indicates that algorithmic progress halves compute requirements every 8.0 to 9.5 months (Erdil & Besiroglu, 2023). Even if hardware FLOP scaling slows, algorithmic optimization, quantization (FP4/FP8), and System 2 test-time search continue driving effective capability growth exponentially.
 
 
 ## 4. Macro-Historical Cycle Synthesis (Controversies)

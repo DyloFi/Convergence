@@ -15,7 +15,7 @@ Econometrician Solomou (1987) demonstrated that the 50-year long waves identifie
 - **Spectral Density Verification**: When raw un-filtered macroeconomic output series undergo Fast Fourier Transform (FFT) spectral density estimation, 50-year periodicities fail to achieve statistical significance ($p > 0.05$).
 
 ### 1.2 Unit Roots & Non-Stationary Random Walks (Nelson & Plosser, 1982) for Methodological & Theoretical Critiques of Kondratiev Wave Theory
-Nelson and Plosser (1982) revolutionized macroeconometrics by proving that GDP, price indices, and interest rates contain **unit roots** $I(1)$:
+Nelson and Plosser (1982) revolutionized macroeconometrics by presenting evidence that GDP, price indices, and interest rates contain **unit roots** $I(1)$:
 $$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
 Because macroeconomic series follow non-stationary stochastic random walks, economic shocks are permanent structural shifts rather than temporary deviations around a deterministic 50-year sine wave.
 

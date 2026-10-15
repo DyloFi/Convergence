@@ -76,7 +76,7 @@ Qualitative synthesis of primary interviews with Neil Howe, demographic research
 
 ### Thematic Taxonomy of Practitioner Perspectives
 
-1. **The Inevitability of Institutional Reconstruction**: Across all interviews, experts emphasize that existing fiscal, legal, and educational structures cannot survive the crisis in their current form.
+1. **The Structural Impetus for Institutional Reconstruction**: Across all interviews, experts emphasize that existing fiscal, legal, and educational structures cannot survive the crisis in their current form.
 2. **Generational Agency vs. Historical Fate**: While structural forces create the crisis environment, interviewees stress that the ultimate outcome (authoritarian retrenchment vs. democratic revitalization) depends on human choices.
 3. **The Role of Frontier Technologies**: Emerging consensus highlights that artificial intelligence and algorithmic networks act as powerful accelerators of social mood polarization and institutional stress.
 

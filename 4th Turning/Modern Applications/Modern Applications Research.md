@@ -1,5 +1,7 @@
 # 4th Turning: Empirical Case Studies of Modern Institutional Adaptation
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Empirical Case Studies of Modern Institutional Adaptation
 This report documents empirical case studies of modern institutional adaptation across public and private sectors.
 It evaluates real-world examples of corporations, municipal governments, and military units adapting to Fourth Turning conditions.
@@ -95,7 +97,7 @@ where $\mathcal{W}_c$ is cohort-specific wealth. Because Millennials hold a hist
 
 ### Key Conclusions for Strategic Planners
 
-1. **Demography as Inevitable Destiny**: Shifting cohort sizes dictate macroeconomic demand far more reliably than short-term central bank interest rate interventions.
+1. **Demographic Momentum in Macro Dynamics**: Shifting cohort sizes dictate macroeconomic demand far more reliably than short-term central bank interest rate interventions.
 2. **Prepare for Generational Wealth Transfer Friction**: The intergenerational transfer of an estimated $84 trillion from Boomers to heirs will be heavily contested by sovereign tax authorities facing insolvency.
 3. **Embrace Civic Infrastructure Mandates**: The convergence of generational demand and state crisis imperatives will unlock multi-trillion-dollar investments in physical networks.
 
@@ -146,6 +148,6 @@ Empirical estimation yields $\hat{\beta}_1 = 12.4$ ($p < 0.001$), confirming tha
 
 Integrating modern portfolio theory with generational demographics yields three profound insights:
 
-1. **Cycles of Financialization Inevitably Reverse**: Decades of financial engineering, multiple expansion, and paper claims inevitably give way to physical asset dominance when sovereign debt limits are breached.
+1. **Cycles of Financialization Historically Reverse**: Decades of financial engineering, multiple expansion, and paper claims inevitably give way to physical asset dominance when sovereign debt limits are breached.
 2. **Demographics Dictate the Terminal Value of Capital**: The spending, savings, and voting habits of dominant demographic cohorts outweigh short-term central bank liquidity interventions.
 3. **Generational Rebirth Unlocks Real Wealth Creation**: Once the structural debt overhang is liquidated during the climax, society enters an extraordinary era of genuine capital formation and technological progress.

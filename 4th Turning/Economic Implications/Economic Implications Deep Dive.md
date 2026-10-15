@@ -1,5 +1,7 @@
 # 4th Turning: Macroeconomic Cycles, Sovereign Debt & Wealth Liquidation
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Macroeconomic Cycles, Sovereign Debt & Wealth Liquidation
 This report analyzes the macroeconomic implications of Fourth Turning crisis climaxes.
 It evaluates sovereign debt accumulation, fiat currency volatility, speculative asset resets, and wealth redistribution.
@@ -120,22 +122,22 @@ To prevent terminal debt-deflation, the sovereign authority enforces negative re
 - **De-Financialization**: Capital shifts away from speculative synthetic financial instruments toward real-economy physical production, energy grids, and defense supply chains.
 - **National Strategic Autarky**: Trade policy pivots from Ricardian comparative-advantage globalization to sovereign industrial policy, reshoring, and tariff walls.
 - **Tax Architecture Overhauls**: Emergency fiscal legislation enacts wealth taxes, windfall profits levies, and higher corporate taxes to fund crisis mobilizations.
-### Strategic Asset Allocation Framework for Fourth Turning Resets
+### Macro-Financial Capital Patterns in Fourth Turning Resets
 
 Institutional investors and sovereign wealth managers require structured asset allocation playbooks to navigate the macroeconomic volatility of crisis climaxes:
 
 ```
 +-----------------------------------------------------------------------------+
-|                 FOURTH TURNING ASSET ALLOCATION MATRIX                      |
+|                 FOURTH TURNING MACRO CAPITAL SHIFT MATRIX                      |
 +-----------------------------------------------------------------------------+
-| Underweight: Long-Duration Sovereign Nominal Bonds, Speculative Tech Equity |
-| Overweight: Critical Physical Infrastructure, Energy Commodities, Gold      |
+| Historical Drawdown Risk: Long-Duration Sovereign Nominal Bonds, Speculative Tech Equity |
+| Historical Resilience: Critical Physical Infrastructure, Energy Commodities, Gold      |
 | Strategic Neutral: Domestic Industrial Reshoring Leaders, Defense Logistics |
 | Defensive Hedge: Cash Equivalents & Short-Duration Inflation-Protected Debt |
 +-----------------------------------------------------------------------------+
 ```
 
-1. **Monetary Regime Transition**: Preparing portfolios for the inevitable transition from fiat debt monetization to asset-backed or digital sovereign reserve architectures.
+1. **Monetary Regime Transition**: Preparing balance sheets for the projected transition from fiat debt monetization to asset-backed or digital sovereign reserve architectures.
 2. **Real Asset Outperformance**: Physical productive assets outperform paper claims during periods of structural financial repression and sovereign debt liquidations.
 3. **Post-Crisis Re-Equitization**: Identifying the transition window when crisis resolution unlocks unprecedented capital investment booms in the subsequent First Turning High.
 

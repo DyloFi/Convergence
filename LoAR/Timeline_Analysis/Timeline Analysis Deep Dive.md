@@ -20,7 +20,7 @@ $$T_{}(t) = \frac{\ln 2}{W \cdot e^{k t}}$$
 Taking the natural logarithm yields the continuous contraction rate of doubling intervals:
 $$\ln T_{}(t) = \ln(\ln 2) - \ln W - k \cdot t$$
 
-This mathematical relationship proves that technological milestones occur at progressively shorter intervals, transforming linear human historical perception into a double-exponential cascade ($P(t) = P_0 \cdot 2^{2^{kt}}$).
+This mathematical relationship models how technological milestones occur at progressively shorter intervals, transforming linear human historical perception into a double-exponential cascade ($P(t) = P_0 \cdot 2^{2^{kt}}$).
 
 ```text-loar-timeline-analysis-timeline-analysis-deep-dive-1
 ┌── [ Figure 1: LoAR Timeline Analysis Timeline Analysis Deep Dive Architecture ] ──┐
@@ -150,4 +150,4 @@ Calibrated coefficients over 136 years of historical performance data yield secu
 
 ### Long-Run Harmonic Trajectory Synthesis
 
-Spectral filtering over century-scale computational history proves that while micro-level technological innovations exhibit cyclical volatility driven by corporate capital expenditure budgets and lithography tooling cadences, the macro-level trajectory maintains rigorous phase alignment with the Law of Accelerating Returns. The secular exponential trend functions as an underlying attractor across diverse physical computing media.
+Spectral filtering over century-scale computational history shows that while micro-level technological innovations exhibit cyclical volatility driven by corporate capital expenditure budgets and lithography tooling cadences, the macro-level trajectory maintains rigorous phase alignment with the Law of Accelerating Returns. The secular exponential trend functions as an underlying attractor across diverse physical computing media.

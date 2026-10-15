@@ -1,5 +1,7 @@
 # Modern Applications
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Modern Applications
 This research report formulates the modern commercial, institutional, and strategic applications of **Kondratiev Long Wave Theory**. Building on the socio-technical frameworks of Carlota Perez (2002), Joseph Schumpeter (1939), and Nikolai Kondratiev (1925), this study translates long-wave economic dynamics into actionable corporate strategy, venture capital timing, sector rotation models, physical asset allocation, and enterprise technology roadmapping for the 6th K-Wave (2020–2070+).
 
@@ -10,9 +12,9 @@ This research report formulates the modern commercial, institutional, and strate
 Translating long-wave economics into modern enterprise strategy requires aligning corporate capital allocation with wave seasonal dynamics:
 
 ### 1.1 Seasonal Asset Allocation & Sector Rotation Matrix
-Strategic asset allocators utilize the Kondratiev Four Seasons model to rotate capital across macro cycles:
-- **Spring (Recovery / Irruption)**: Overweight venture capital, frontier General Purpose Technologies (GPTs), and early-stage infrastructure (e.g., AI compute, synthetic bio foundries).
-- **Summer (Prosperity / Industrial Peak)**: Overweight physical commodities, industrial manufacturing, capital equipment, and energy producers as output reaches capacity.
+Macroeconomic researchers utilize the Kondratiev Four Seasons model to analyze historical capital cycles across eras:
+- **Spring (Recovery / Irruption)**: Higher historical portfolio allocation to venture capital, frontier General Purpose Technologies (GPTs), and early-stage infrastructure (e.g., AI compute, synthetic bio foundries).
+- **Summer (Prosperity / Industrial Peak)**: Higher historical portfolio allocation to physical commodities, industrial manufacturing, capital equipment, and energy producers as output reaches capacity.
 - **Autumn (Secondary Plateau / Financial Frenzy)**: Rotate into sovereign bonds, defensive real estate, and liquidity reserves as asset bubbles inflate and debt leverage surges.
 - **Winter (Depression / Liquidation)**: Preserve cash reserves, acquire distressed physical assets, and position capital for cheap infrastructure deployment at the wave trough.
 
@@ -31,10 +33,10 @@ Empirical application of long-wave strategy relies on quantitative performance b
 
 | K-Wave Season | Primary Outperforming Asset Class | Benchmark Historical Sector | Average Real Annual Return (%) | Venture Capital / R&D Strategy | Sovereign Debt Exposure Strategy |
 | :------ | :---: | :----: | :-----: | :------: | :--- |
-| **Spring (Recovery)** | Early-Stage Infrastructure, Tech Equities | Canal Cos (1790s), Rail Pioneers (1840s), AI Enablers (2020s)| +12.5% Real Return | High-Risk Frontier R&D Allocation | Underweight Long Bonds |
+| **Spring (Recovery)** | Early-Stage Infrastructure, Tech Equities | Canal Cos (1790s), Rail Pioneers (1840s), AI Enablers (2020s)| +12.5% Real Return | High-Risk Frontier R&D Allocation | Reduced allocation to long-term bonds |
 | **Summer (Prosperity)**| Hard Commodities, Industrial Equipment | Pig Iron (1810s), Bessemer Steel (1870s), Energy (1970s) | +9.8% Real Return | Scale Operations & Capacity Build | Neutral Bond Duration |
 | **Autumn (Frenzy)** | Financial Asset Speculation, Growth Equities | South Sea (1720), Rail Mania (1845), Dot-Com (1999) | +18.2% (Bubble Surge) | Capitalize on Liquidity / VC Exits | Shift to High-Quality Credit |
-| **Winter (Depression)**| Sovereign Cash / Gold / Deflation Hedges | US Consols (1820s), US Treasuries (1930s), Cash (2008) | +6.2% (Deflation Gain) | Acquire Distressed Asset Base | Overweight Long-Term Sovereign Debt |
+| **Winter (Depression)**| Sovereign Cash / Gold / Deflation Hedges | US Consols (1820s), US Treasuries (1930s), Cash (2008) | +6.2% (Deflation Gain) | Acquire Distressed Asset Base | Elevated allocation to long-term sovereign debt |
 
 
 ## 3. Comparative Perspectives, Critiques & Counter-Theories (Modern Applications) (Modern Applications Deep Dive)
@@ -88,7 +90,7 @@ where the liquidity buffer $\psi(S_t)$ reaches maximum values during Late Autumn
 
 ### Operational Risk Governance and Capital Allocation Rules
 
-For institutional asset managers, corporate treasurers, and sovereign wealth funds, long-wave theory mandates five binding capital allocation rules:
+For institutional asset managers, corporate treasurers, and sovereign wealth funds, long-wave theory highlights five strategic capital allocation principles:
 
 1. **Counter-Cyclical Infrastructure Capex**: Accelerate capital investments into core technological infrastructure during Late Summer frenzies only when financed via long-dated fixed-rate liabilities.
 2. **Avoid Late-Cycle Legacy Technology Traps**: Enforce strict divestment thresholds on mature 5th wave legacy computing paradigms experiencing diminishing marginal returns.

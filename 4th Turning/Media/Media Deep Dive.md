@@ -143,7 +143,7 @@ A longitudinal evaluation of media regimes across historical Fourth Turnings con
 
 ### Media Evolution and Social Cohesion Invariants
 
-1. **The Inevitability of State Information Control**: During the climax of every Fourth Turning, governments reassert regulatory dominance over communication conduits to enforce national unity.
+1. **State Information Control in Crisis Climaxes**: During the climax of every Fourth Turning, governments reassert regulatory dominance over communication conduits to enforce national unity.
 2. **The Rebirth of Earnest Narrative Forms**: Cynical, ironic, and nihilistic cultural expressions that dominate the late Unraveling are displaced by earnest, morally resonant narratives of shared historical destiny.
 3. **The Creation of the Postwar Mythos**: The dominant media narratives forged during the climax establish the foundational civic folklore that anchors the subsequent First Turning High.
 

@@ -1,5 +1,7 @@
 # Modern Applications
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Modern Applications
 This executive overview summarizes practical applications of Strauss-Howe theory for modern leadership.
 It synthesizes core takeaways across enterprise management, public policy, strategic capital allocation, and risk.
@@ -57,7 +59,7 @@ Financial traditionalists argue that market timing based on historical cycles is
 
 ## 4. Strategic Implications & Future Trajectories (2026–2035+) (Modern Applications)
 CEOs and board chairs should use this executive overview as a summary checklist for strategic planning sessions.
-Translating saecular insights into daily operational habits guarantees long-term institutional resilience.
+Translating saecular insights into daily operational habits strengthens long-term institutional resilience.
 
 ### 4.1 Institutional Adaptation & Risk Management in Executive Overview of Modern 4th Turning Applications
 - **Executive Strategic Checklist Deployment**: Use the Fourth Turning executive checklist to evaluate annual corporate budgets and risk exposure.

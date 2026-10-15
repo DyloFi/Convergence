@@ -1,5 +1,7 @@
 # Convergence: The Master Synthesis (2026–2035)
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — The Synchronous Climax Hypothesis
 This master monograph presents the unified theoretical and empirical synthesis for the **Convergence** research repository. It establishes a rigorous integration of five foundational long-wave and exponential frameworks:
 1. **The Fourth Turning** (William Strauss & Neil Howe, 1997) — Generational cycle dynamics and civic crisis climaxes.
@@ -73,7 +75,7 @@ Nikolai Kondratiev (1926), Joseph Schumpeter (1939), and Carlota Perez (2002) id
 5. **5th Wave (1990–2025)**: Microelectronics, personal computing, software, the Internet, mobile networks.
 6. **6th Wave (2025–2080+)**: Artificial Intelligence, Autonomous Robotics, Synthetic Biology, Quantum Computing, and Advanced Clean Energy (Fusion/Advanced Fission).
 
-Perez's structural model proves that every technological revolution unfolds in two distinct 25-to-30-year halves separated by a tumultuous **Turning Point**:
+Perez's structural model indicates that technological revolutions typically unfold in two distinct 25-to-30-year halves separated by a tumultuous **Turning Point**:
 - **Installation Period**:
   - *Irruption*: Novel technology emerges; visionary entrepreneurs drive early breakthroughs.
   - *Frenzy*: Financial capital decouples from production capital; massive speculative bubbles emerge (e.g., Railway Mania of 1840s, Roaring Twenties Radio/Auto bubble, Dot-com Bubble of 1999, Generative AI CapEx bubble of 2023–2027).

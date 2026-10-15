@@ -77,7 +77,7 @@ Analyzing structured expert opinions across academic sociology, defense studies,
 +---------------------------------------------------------------------------------+
 ```
 
-| Expert Specialization | Dominant Analytical Framework | Assessment of Cyclical Inevitability | Prescribed Strategic Response |
+| Expert Specialization | Dominant Analytical Framework | Assessment of Cyclical Recurrence | Prescribed Strategic Response |
 | :--- | :------ | :--- | :--- |
 | **Cliometricians (Turchin, Goldstone)** | Structural-Demographic Theory | High (Driven by elite overproduction & fiscal distress) | Elite wealth taxation, state capacity reinforcement |
 | **Macro Economists (Dalio, Pettis)** | Long-Term Debt Cycles | High (Debt/GDP exhaustion & wealth inequality) | Currency devaluation, debt jubilees, coordinated industrial policy |
@@ -106,7 +106,7 @@ Interviews with leading macroeconomists, demographic modelers, and institutional
 | :--- | :------ | :--- |
 | **Demographic Economics** | Retirement of Boomers triggers massive fiscal dependency and asset reallocation | Validates Prophet archetype transition to elderhood and fiscal resource strain |
 | **Political Sociology** | Decline of intermediary civic institutions and rise of partisan tribalism | Corresponds directly to Third Turning Unraveling dynamics |
-| **Macroeconomic Strategy** | Inevitability of sovereign debt jubilees, financial repression, and inflation | Matches historical Fourth Turning climax resolution through balance sheet restructuring |
+| **Macroeconomic Strategy** | Likelihood of sovereign debt restructurings, financial repression, and inflation | Matches historical Fourth Turning climax resolution through balance sheet restructuring |
 | **Strategic Studies** | Fragility of international deterrence architectures and risk of systemic clash | Matches expected geopolitical culmination of Fourth Turning crisis phase |
 
 The consensus among interdisciplinary analysts underscores that the current crisis is structural and institutional rather than cyclical in the short-term business-cycle sense, confirming the predictive utility of the saecular framework.
@@ -158,4 +158,4 @@ The convergence of expert opinion across divergent academic fields reveals a pow
 
 - **Structural Vulnerability is Systemic**: The crisis is not caused by individual political personalities, but by the simultaneous exhaustion of fiscal, institutional, and cultural capital.
 - **The Primacy of Operational Competence**: As ideological posturing collapses under the weight of real-world emergencies, society will elevate leaders and managers with proven operational track records.
-- **The Inevitability of a Re-founding**: Every expert consensus panel concludes that the current cycle will culminate in a formal restructuring of domestic governance and international alliances.
+- **The Impetus for Institutional Re-founding**: Every expert consensus panel concludes that the current cycle will culminate in a formal restructuring of domestic governance and international alliances.

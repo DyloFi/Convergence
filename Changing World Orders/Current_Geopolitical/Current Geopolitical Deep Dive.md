@@ -1,5 +1,7 @@
 # Current Geopolitical Landscape: Multipolar Realignment, Middle-Power Hedging, and Systemic Fragmentation
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary
 The contemporary international architecture is undergoing an acute, non-linear structural transition from the post-Cold War American unipolar hegemony toward an asymmetric, fragmented multipolarity. As conceptualized in Ray Dalio's *Principles for Dealing with the Changing World Order* (2021) and Robert Gilpin's *War and Change in World Politics* (1981), the global operating environment is defined by the relative contraction of the established hegemon's economic, financial, and manufacturing dominance, juxtaposed against the structural rise of the People's Republic of China, revanchist regional challenges from the Russian Federation, and the aggressive transactional non-alignment of Global South middle powers. This monograph provides an exhaustive cliometric, institutional, and geostrategic audit of the contemporary multipolar landscape. It examines the shifting global distribution of material capabilities, the mechanics of weaponized financial interdependence, middle-power diplomatic arbitrage, and the systemic flashpoints threatening global maritime and territorial stability.
 

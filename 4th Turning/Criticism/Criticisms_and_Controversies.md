@@ -1,5 +1,7 @@
 # 4th Turning: Major Academic & Public Controversies Surrounding the Model
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Major Academic & Public Controversies Surrounding the Model
 This monograph investigates public controversies, political appropriations, and sensationalized media coverage.
 It examines the high-profile adoption of *The Fourth Turning* by political figures (e.g., Steve Bannon) and financial market bears.
@@ -125,7 +127,7 @@ Where:
 | :--- | :--- | :--- | :--- |
 | **Cohort Boundaries** | Fixed birth-year demarcations | Trajectory-weighted civic exposure | Microdata life-course divergence |
 | **Saecular Rhythm** | Strict 80-100 year clockwork | Adaptive regime oscillation (72-96y) | Wavelet spectral power density |
-| **Crisis Resolution** | Inevitable cathartic climax | Contingent structural bifurcation | Institutional survival threshold |
+| **Crisis Resolution** | Expected cathartic climax | Contingent structural bifurcation | Institutional survival threshold |
 | **Cohort Homogeneity** | Monolithic generational archetype | Intra-cohort stratification modeling | Cross-sectional variance decomposition |
 
 ### Long-Term Archival Sources and Methodological References

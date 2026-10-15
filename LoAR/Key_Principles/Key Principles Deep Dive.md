@@ -24,7 +24,7 @@ When $P_i(t) \rightarrow 0.9 K_i$, R&D efficiency declines ($\frac{dP_i/dt}{} \r
 
 $$T_{i \rightarrow i+1}(t) = 1 - \exp\left( -\beta \cdot \frac{K_i - P_i(t)}{K_i} \right)^{-1}$$
 
-This mathematical structure guarantees that as one substrate saturates, capital flows into emergent alternative substrates, producing the enclosing double-exponential curve: $P_{}(t) = P_0 \cdot 2^{2^{k \cdot t}}$.
+This mathematical structure indicates that as one substrate saturates, capital flows into emergent alternative substrates, producing the enclosing double-exponential curve: $P_{}(t) = P_0 \cdot 2^{2^{k \cdot t}}$.
 
 ```text-loar-key-principles-key-principles-deep-dive-1
 ┌── [ Figure 1: LoAR Key Principles Key Principles Deep Dive Architecture ] ──┐

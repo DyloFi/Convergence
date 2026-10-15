@@ -1,5 +1,7 @@
 # Concept Deep Dive
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Concept
 This monograph explores the foundational concepts underlying the Strauss-Howe cyclical framework, specifically the ~80-100 year saeculum.
 It traces the origin of saecular timekeeping from Etruscan and Roman antiquity to modern sociological and historical applications.

@@ -41,7 +41,7 @@ Empirical validation requires defining exact data schemas and indicator metrics 
 
 Long-wave data collection protocols must address major econometric challenges and statistical critiques:
 
-1. **Spectral Analysis & Filter Artifacts (Solomou, 1987)**: Econometricians prove that applying trend-elimination filters (moving averages, HP filters) to macro time series artificially generates smooth 50-year oscillations (the Slutsky-Yule Effect). Raw unfiltered data must be retained to test spectral density significance.
+1. **Spectral Analysis & Filter Artifacts (Solomou, 1987)**: Econometricians demonstrate that applying trend-elimination filters (moving averages, HP filters) to macro time series artificially generates smooth 50-year oscillations (the Slutsky-Yule Effect). Raw unfiltered data must be retained to test spectral density significance.
 2. **Unit Root Pre-Processing (Nelson & Plosser, 1982)**: Macroeconomic series generally possess unit roots $I(1)$ and follow stochastic trend processes:
 $$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
    Data pipelines must run Augmented Dickey-Fuller (ADF) tests to verify stationarity before cycle modeling.

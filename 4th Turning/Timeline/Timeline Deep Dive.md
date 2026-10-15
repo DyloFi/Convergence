@@ -12,7 +12,7 @@ It serves as a master chronological index for historians, demographers, and stra
 
 ## 1. Theoretical Framework & Generational Mechanics (Timeline)
 Chronological precision is essential for mapping generational turnings and validating saecular theory against historical facts.
-A continuous 500-year timeline map proves that turnings recur in a fixed structural sequence of roughly 20 years each.
+A continuous 500-year timeline map shows that turnings have historically recurred in a regular sequence of roughly 20 years each.
 
 ### 1.1 Archetype Dynamics in Chronological Mapping of Turnings Across 5 Centuries
 - **Prophet Generation (Idealist)**: Tracked chronologically as youth in Highs, midlife leaders in Awakenings, and elder ideologues in Crises across 5 centuries.
@@ -42,7 +42,7 @@ A continuous 500-year timeline map proves that turnings recur in a fixed structu
 
 ### 2.2 Sectoral & Institutional Impact Matrix
 - **Master Chronological Reference**: Provides an authoritative, unbroken timeline index covering 500 years of Anglo-American history.
-- **Turning Duration Calibration**: Proves that turning phase lengths average 21.4 years, with a standard deviation of +/- 3.2 years.
+- **Turning Duration Calibration**: Finds that turning phase lengths average 21.4 years, with a standard deviation of +/- 3.2 years.
 - **Saecular Cycle Validation**: Demonstrates mathematically that seven consecutive saecula have followed the identical four-turning sequence.
 - **Historical Foresight Baseline**: Establishes a empirical baseline for projecting future turning dates and generational transitions through 2035+.
 

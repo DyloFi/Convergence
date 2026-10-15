@@ -1,5 +1,7 @@
 # 4th Turning: Cultural Mood Transmutations & Artistic Shift Dynamics
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Cultural Mood Transmutations & Artistic Shift Dynamics
 This research monograph analyzes cultural mood transmutations, artistic shifts, and aesthetic evolutions across turnings.
 It evaluates how literature, visual arts, music, and architecture reflect shifting generational peer personalities.

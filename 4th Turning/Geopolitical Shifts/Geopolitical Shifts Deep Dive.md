@@ -51,7 +51,7 @@ Nuclear deterrence theorists argue that WMDs make total global war between major
 Liberal institutionalists contend international trade integration prevents economic friction from erupting into military war.
 
 ### 3.1 Interdisciplinary Counter-Perspectives in Hegemonic Transitions, Sovereign Power & Global Conflict
-1. **Mutually Assured Destruction (MAD)**: Asserts nuclear weapons guarantee major power deterrence, restricting Fourth Turning conflicts to localized proxy wars.
+1. **Mutually Assured Destruction (MAD)**: Asserts nuclear weapons provide major power deterrence, restricting Fourth Turning conflicts to localized proxy wars.
 2. **Capitalist Peace Hypothesis**: Argues economic interdependence makes major war too economically ruinous for rational sovereign states to pursue.
 3. **Cyber & Hybrid Warfare Shift**: Claims modern conflicts will be fought through cyber-attacks and economic sabotage rather than kinetic troop warfare.
 

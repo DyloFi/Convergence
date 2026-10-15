@@ -73,7 +73,7 @@ The scholarly reception of the Strauss-Howe generational paradigm within profess
 | **Causal Directionality** | Cohort peer personality shapes structural institutions | Institutional shifts and exogenous shocks shape cohort psychology | Bidirectional feedback dynamics with lag operators |
 | **Periodicity Rigidness** | Fixed ~80-100 year saeculum divided into 20-22 yr turnings | Variable historical cycles governed by contingent events | Elastic phase attractors with stochastic drift |
 | **Cohort Homogeneity** | Generational persona uniformly characterizes age cohorts | Intra-cohort stratification across class, race, and geography | Demographic sub-clustering and intersectional variance |
-| **Climax Inevitability** | Crisis turning terminates in decisive existential climax | Crises exhibit indeterminate trajectories and open horizons | Non-linear bifurcations with contingent phase lock |
+| **Climax Characteristics** | Crisis turning terminates in decisive existential climax | Crises exhibit indeterminate trajectories and open horizons | Non-linear bifurcations with contingent phase lock |
 
 ### Formal Sociological Modeling of Cohort Reification
 
@@ -131,7 +131,7 @@ Where:
 | :--- | :--- | :--- | :--- |
 | Cohort Demarcation | Fixed natal boundary years | Trajectory-weighted civic exposure | Microdata life-course divergence |
 | Turning Periodicity | Rigid 80-100 year total saeculum | Adaptive regime oscillation (72-96y) | Spectral variance decomposition |
-| Crisis Resolution | Inevitable cathartic climax | Contingent structural bifurcation | Institutional survival threshold |
+| Crisis Resolution | Expected cathartic climax | Contingent structural bifurcation | Institutional survival threshold |
 | Archetype Succession | Strictly deterministic 4-stage cycle | Dynamic behavioral state transitions | Cross-cohort sentiment telemetry |
 
 ### Cross-Cycle Integration with Macro-Historical Dynamics

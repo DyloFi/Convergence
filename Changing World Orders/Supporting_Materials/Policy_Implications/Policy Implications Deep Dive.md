@@ -1,5 +1,7 @@
 # Public Policy, State Governance, and Industrial Strategy in Changing World Orders
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Policy Implications
 This research monograph examines how sovereign states adapt public policy, tax codes, trade regulations, national security mandates, and industrial subsidies during late-stage hegemonic transitions (Dalio 2021; Gilpin 1981). It analyzes the shift from late 20th-century neoliberal laissez-faire globalization to 2020s state-directed techno-industrial strategy, contrasting Western state intervention frameworks (US CHIPS Act, Inflation Reduction Act, EU Critical Raw Materials Act) with non-Western state-capitalism models (China'''s Dual Circulation Strategy, Made in China 2025) (Allison 2017; Keohane 1984; Rodrik 2011).
 

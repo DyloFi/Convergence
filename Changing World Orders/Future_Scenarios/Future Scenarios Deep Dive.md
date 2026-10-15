@@ -1,5 +1,7 @@
 # Future Geopolitical Scenarios (2025–2045): Structural Trajectories, Quantitative Stress Tests, and Systemic Payoff Matrices
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary
 The international political and monetary order is navigating a profound structural bifurcation. Extrapolating from Ray Dalio's Big Cycle historical model (*Principles for Dealing with the Changing World Order*, 2021) and Robert Gilpin's hegemonic transition framework (*War and Change in World Politics*, 1981), the global system between 2025 and 2045 will be determined by the interaction of three foundational macroeconomic and geopolitical variables: (1) the sustainability of sovereign debt and fiat currency credibility across the core hegemonic powers, (2) the structural trajectory of the US-China high-technology and naval balance of power, and (3) the domestic social cohesion and institutional adaptability of major sovereign states during the Sixth Kondratiev Wave technological transition. This monograph constructs a rigorous morphological scenario architecture defining four systemic trajectories for the global order, specifying quantitative macroeconomic stress-test boundaries, early warning tripwires, game-theoretic payoff matrices, and cross-cycle convergence implications.
 
@@ -101,9 +103,9 @@ For macro asset allocators, central banks, and long-term institutional endowment
 
 | Asset Class / Investment Sleeve | Current Baseline Allocation | Scenario A: Managed Bipolar | Scenario B: Fragmented Blocs (Baseline) | Scenario C: Kinetic Rupture (War) | Scenario D: US Hegemonic Renewal |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Developed Equities (US S&P 500 / Nasdaq)**| 45% | 40% (Broad index exposure) | 25% (Concentrated in Cash-flow/Tech)| 10% (Severe drawdowns & capital controls)| 60% (Overweight AI, robotics, chips) |
+| **Developed Equities (US S&P 500 / Nasdaq)**| 45% | 40% (Broad index exposure) | 25% (Concentrated in Cash-flow/Tech)| 10% (Severe drawdowns & capital controls)| 60% (Elevated exposure to AI, robotics, chips) |
 | **Emerging Markets / Global South Equities** | 10% | 15% (Broad EM tailwind) | 15% (Selective: India, GCC, Brazil) | 0% (Extreme risk of nationalization) | 5% (Underperforming Western AI) |
-| **Sovereign Sovereign Debt (US Long Treasuries)**| 20% | 20% (Duration neutral) | 5% (Underweight: Severe inflation risk) | 10% (Yield Curve Control / Frozen) | 20% (Declining yields, capital flight) |
+| **Sovereign Sovereign Debt (US Long Treasuries)**| 20% | 20% (Duration neutral) | 5% (Reduced duration: Severe inflation risk) | 10% (Yield Curve Control / Frozen) | 20% (Declining yields, capital flight) |
 | **Physical Bullion (Gold & Silver Custody)**| 5% | 5% (Inflation baseline) | 20% (Aggressive sovereign re-allocation) | 35% (Ultimate unencumbered asset) | 2% (Opportunity cost high vs tech) |
 | **Commodities, Energy, & Critical Minerals** | 5% | 5% (Cyclical demand) | 15% (Resource nationalism & scarcity) | 25% (Wartime rationing & price spikes)| 3% (Abundant tech-driven supply) |
 | **Private Infrastructure & Defense Tech** | 10% | 10% (Renewables focus) | 15% (Domestic supply chain onshoring) | 15% (State-contracted munitions assets)| 8% (Corporate innovation leads) |

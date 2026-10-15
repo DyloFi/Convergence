@@ -1,5 +1,7 @@
 # Empirical Methodology, Econometric Specifications, and Research Architecture
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary
 This document establishes the comprehensive empirical research methodology, econometric dataset specifications, mathematical models, and operational architecture governing the *Changing World Orders* research domain within the Convergence initiative. Grounded in macro-historical political economy, Hegemonic Stability Theory (Gilpin 1981; Kindleberger 1973), Power Transition Theory (Organski & Kugler 1980), and Ray Dalio's *Big Cycle* framework (Dalio 2021), this plan structures the empirical verification across all 15 subfolder research dossiers.
 

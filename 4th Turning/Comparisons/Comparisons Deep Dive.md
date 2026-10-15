@@ -72,7 +72,7 @@ Comparative historiographical analysis requires contrasting Strauss and Howe's g
 | Core Causal Engine | Generational cohort succession | Spiritual lifecycle of cultures | Creative minority breakdown | Class struggle and productive forces | Debt accumulation and deleveraging | Technological compute feedback loops |
 | Micro-Level Mechanism | Nurture-nature archetype shifts | Symbolic cultural expression | Mimesis failure and internal schism | Relations of production tension | Balance sheet insolvency and liquidity | Paradigm shifts across substrate transitions |
 | Agency vs. Determinism | Structural mood with free will | Strict organic fatalism | Moral agency with fatal breakdown | Structural economic determinism | Mechanical debt balance arithmetic | Evolutionary technological determinism |
-| Resolution Mechanism | Fourth Turning civic re-founding | Inevitable Caesarean winter | Universal state or spiritual rebirth | Revolutionary transition to socialism | Beautiful deleveraging or debt jubilee | Technological Singularity transition |
+| Resolution Mechanism | Fourth Turning civic re-founding | Projected Caesarean winter | Universal state or spiritual rebirth | Revolutionary transition to socialism | Beautiful deleveraging or debt jubilee | Technological Singularity transition |
 
 ### Formal Mathematical Synthesis of Multi-Cycle Trajectories
 The observable macro-historical trajectory of complex socio-technical systems can be modeled as a coupled superposition of secular evolutionary trends and nested cyclical oscillations:

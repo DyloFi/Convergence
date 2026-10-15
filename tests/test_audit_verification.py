@@ -127,6 +127,23 @@ class TestDeduplicationEngine(unittest.TestCase):
             self.assertEqual(finding.severity, "WARNING")
             self.assertTrue(len(finding.excerpt) > 0)
 
+    def test_canonical_disclaimer_allowlisted_in_deduplication(self):
+        disclaimer = (
+            '> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, '
+            'and system-modeling research. It does not constitute financial, investment, legal, '
+            'or tax advice, nor an endorsement of any asset allocation or transaction strategy.*'
+        )
+        file_a = f'# File A\n\n{disclaimer}\n\nUnique content in file A with sufficient words to qualify.'
+        file_b = f'# File B\n\n{disclaimer}\n\nUnique content in file B with distinct conclusions.'
+        create_test_file(self.root / 'Pillar1' / 'FileA.md', file_a)
+        create_test_file(self.root / 'Pillar2' / 'FileB.md', file_b)
+
+        auditor = ConvergenceAuditor(root=self.root)
+        auditor.check_deduplication()
+
+        para_findings = [f for f in auditor.findings if f.rule == 'paragraph_duplicate']
+        self.assertEqual(len(para_findings), 0, 'Canonical disclaimer should be allowlisted and produce 0 warnings')
+
     def test_near_duplicate_similarity_detected(self):
         vocabulary = ["macroeconomic", "hegemonic", "transition", "stochastic", "volatility", "regime", "structural", "paradigm"]
         base_words = [vocabulary[i % len(vocabulary)] for i in range(50)]

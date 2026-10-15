@@ -12,7 +12,7 @@ It provides an empirical reference handbook for researchers seeking detailed his
 
 ## 1. Theoretical Framework & Generational Mechanics — Deep-Dive Case Studies Across Anglo-American History
 Empirical case studies ground macro-generational theory in concrete historical evidence and archival documentation.
-Tracing saecular patterns across six consecutive centuries proves the enduring structural consistency of the model.
+Tracing saecular patterns across six consecutive centuries illustrates the enduring structural consistency of the model.
 
 ### 1.1 Archetype Dynamics in Deep-Dive Case Studies Across Anglo-American History
 - **Prophet Generation (Idealist)**: Examined through Henrician Reformers (1530s), Puritan Founders (1630s), Revolutionary Patriots (1770s), and Boomers (1960s).
@@ -143,7 +143,7 @@ Synthesizing institutional metrics across all five historical American crises pr
 
 - **The Principle of Conserving Structure**: While surface laws and political parties are replaced, the core democratic ethos of the American experiment is renewed and strengthened in each crisis resolution.
 - **The Accelerating Technological Substrate**: Each crisis leverages a radically more sophisticated communications infrastructure (from broadsides to telegraphs, radio, and distributed networks).
-- **The Inevitability of Renewal**: Historical case studies consistently confirm that the darkest depths of the crisis climax precede an era of unprecedented national self-confidence and building.
+- **The Structural Dynamics of Renewal**: Historical case studies consistently confirm that the darkest depths of the crisis climax precede an era of unprecedented national self-confidence and building.
 ### Epistemological Verification and Historical Audit Trail
 
 To verify the integrity of the American saeculum case studies, all historical events were subjected to cross-archival verification protocols:

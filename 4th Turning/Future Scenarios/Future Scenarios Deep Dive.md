@@ -1,5 +1,7 @@
 # 4th Turning: Structural Scenario Modeling for 2026–2035+ Climax
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — Structural Scenario Modeling for 2026–2035+ Climax
 This monograph presents an exhaustive scenario modeling deep dive for the 2026–2035 Fourth Turning climax horizon.
 It deploys quantitative cross-impact analysis, morphological forecasting, and Monte Carlo simulations on saecular variables.

@@ -65,6 +65,17 @@ SUBJECT_DIRECTORIES: List[str] = [
     "Technological Singularity",
 ]
 
+# Standard disclaimers and notices permitted across multiple research dossiers (exact normalized match)
+ALLOWED_PARAGRAPH_DUPLICATES: Set[str] = {
+    re.sub(
+        r'\s+',
+        ' ',
+        '> **notice**: *this analysis is conducted strictly for macroeconomic, historical, '
+        'and system-modeling research. it does not constitute financial, investment, legal, '
+        'or tax advice, nor an endorsement of any asset allocation or transaction strategy.*'
+    ).strip().lower()
+}
+
 STANDARD_HEADINGS: Set[str] = {
     "executive summary", "foundations", "empirical evidence", "quantitative analysis",
     "references", "bibliography", "methodology", "overview", "table of contents",
@@ -354,6 +365,8 @@ class ConvergenceAuditor:
                     para_to_locations[clean_norm].append((rel, para_start_line, text_block[:100]))
 
         for norm_para, locs in para_to_locations.items():
+            if norm_para in ALLOWED_PARAGRAPH_DUPLICATES:
+                continue
             distinct_files = set(loc[0] for loc in locs)
             if len(distinct_files) > 1:
                 for rel_file, line_num, excerpt in locs:

@@ -41,7 +41,7 @@ Despite dramatic technological differences, human social behavior during existen
 - **Case Study 3: The WWII Global Industrial Command Machine (1941-1945)**: The US transformed private commercial manufacturing into the 'Arsenal of Democracy', reorganizing federal state capacity for global war.
 
 ### 2.2 Sectoral & Institutional Impact Matrix
-- **Structural Invariant Verification**: Proves that every Anglo-American Fourth Turning climax has resulted in a massive expansion of centralized sovereign authority.
+- **Structural Invariant Verification**: Demonstrates that Anglo-American Fourth Turning climaxes have historically resulted in a massive expansion of centralized sovereign authority.
 - **Crisis Climax Duration Mapping**: Establishes that Fourth Turning crisis resolution phases last between 10 and 15 years from catalyst trigger to final settlement.
 - **Wealth Destruction & Redistribution**: Confirms that crisis climaxes wipe out speculative financial assets, redistributing real capital to emerging youth cohorts.
 - **Constitutional Order Rewrites**: Demonstrates that every saecular crisis ends with formal legal and constitutional revisions that govern the next century.

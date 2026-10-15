@@ -1,5 +1,7 @@
 # Convergence 4th Turning Submodule Overview
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Summary — README
 This master directory guide provides the architectural blueprint for the 54 research monographs in the 4th Turning directory.
 It outlines the structural organization of research into 9 core thematic clusters covering theoretical and practical domains.

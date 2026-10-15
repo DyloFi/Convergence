@@ -97,7 +97,7 @@ Empirical cliometric modeling indicates that the 2020s environment exhibits the 
 ### Lessons for Contemporary Crisis Management
 
 1. **Avoid Appeasement of Structural Contradictions**: Historical case studies confirm that half-measures during the Unraveling fail; only fundamental institutional restructuring resolves the crisis.
-2. **Anticipate State Centralization**: Sovereign powers inevitably expand dramatically during the climax, rewriting property rights, corporate charters, and fiscal obligations.
+2. **Anticipate State Centralization**: Sovereign powers historically expand dramatically during the climax, rewriting property rights, corporate charters, and fiscal obligations.
 3. **Post-Crisis Rebuilding Window**: The immediate post-climax decade provides an extraordinary window for constitutional innovation, economic expansion, and infrastructural investment.
 
 ### Morphological Invariants in Anglo-American Crisis Climaxes

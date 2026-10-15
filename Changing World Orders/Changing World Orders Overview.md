@@ -1,5 +1,7 @@
 # Changing World Orders: The Macro-Hegemonic Architecture of Imperial Rise, Peak Dominance, and Systemic Transition
 
+> **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
+
 ## Executive Synthesis - The Macro-Dynamics of World Order Transitions
 This research monograph provides an exhaustive master synthesis of the *Changing World Orders* research library within the Convergence initiative. Grounded in Ray Dalio's *Big Cycle* framework (Dalio 2021), Robert Gilpin's Hegemonic Stability Theory (Gilpin 1981), Immanuel Wallerstein's World-Systems Analysis (Wallerstein 1974, 2004), Graham Allison's Thucydides Trap paradigm (Allison 2017), and A.F.K. Organski's Power Transition Theory (Organski & Kugler 1980), this corpus investigates how global superpowers rise through productive innovation, establish systemic order, achieve peak dominance, experience domestic financialization and institutional decay, and are ultimately displaced during macro-hegemonic transitions.
 
