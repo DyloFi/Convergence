@@ -107,16 +107,16 @@ The historical unfolding of long waves provides the foundational temporal archit
 3. **Techno-Economic Paradigm Longevity**: The historical deceleration of legacy industries creates the evolutionary pressure required to incubate radical alternative technologies, preparing the ground for exponential technological takeoffs.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: History). (History Deep Dive Citation)
-- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press. (Analytical Focus: History).
-- Hobsbawm, E. (1996). *The Age of Extremes: A History of the World, 1914–1991*. Vintage Books. (Analytical Focus: History).
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: History). (History Deep Dive Citation)
-- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Analytical Focus: History).
-- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company. (Analytical Focus: History).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: History).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: History).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: History).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: History).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (History Deep Dive Citation).
+- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press.
+- Hobsbawm, E. (1996). *The Age of Extremes: A History of the World, 1914–1991*. Vintage Books.
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (History Deep Dive Citation).
+- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115.
+- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
 - Trotsky, L. (1923). *The Curve of Capitalist Development*. Pravda (June 1923).
 - Berry, B. J. L. (1991). *Long-Wave Rhythms in Economic Development and Political Behavior*. Johns Hopkins University Press.
 - Modelski, G., & Thompson, W. R. (1996). *Leading Sectors and World Powers: The Coevolution of Global Economics and Politics*. University of South Carolina Press.

@@ -59,19 +59,19 @@ Synthesizing LoAR with Perez, Kondratiev, and Schumpeterian frameworks reveals t
 
 
 ## Academic References & Bibliography
-- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485. (Analytical Focus: Theoretical Comparisons).
-- Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘Engines of growth’?. *Journal of Econometrics*, 65(1), 83–108. (Analytical Focus: Theoretical Comparisons).
-- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268. (Analytical Focus: Theoretical Comparisons).
-- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533. (Analytical Focus: Theoretical Comparisons).
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann. (Analytical Focus: Theoretical Comparisons).
-- Kondratiev, N. D. (1935). The Long Waves in Economic Life. *The Review of Economics and Statistics*, 17(6), 105–115. (Analytical Focus: Theoretical Comparisons).
-- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute. (Analytical Focus: Theoretical Comparisons).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Theoretical Comparisons).
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191. (Analytical Focus: Theoretical Comparisons).
-- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159. (Analytical Focus: Theoretical Comparisons).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Theoretical Comparisons).
-- Schumpeter, J. A. (1942). *Capitalism, Socialism and Democracy*. Harper & Brothers. (Analytical Focus: Theoretical Comparisons).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI. (Analytical Focus: Theoretical Comparisons).
+- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485.
+- Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘Engines of growth’?. *Journal of Econometrics*, 65(1), 83–108.
+- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268.
+- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533.
+- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann.
+- Kondratiev, N. D. (1935). The Long Waves in Economic Life. *The Review of Economics and Statistics*, 17(6), 105–115.
+- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1942). *Capitalism, Socialism and Democracy*. Harper & Brothers.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI.
 
 ### Comprehensive Comparative Analysis of Technological Growth Models
 

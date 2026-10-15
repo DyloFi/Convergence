@@ -136,12 +136,12 @@ Mapping historical milestones across American saecular timelines demonstrates re
 
 ## Academic References & Bibliography
 — Synchronous Saecular Timelines Across Western Civilizations
-- Friedman, G. (2020). The Storm Before the Calm. Doubleday. (Analytical Focus: Comparative Timelines).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Comparative Timelines).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Comparative Timelines).
-- Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press. (Analytical Focus: Comparative Timelines).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Comparative Timelines).
-- Wallerstein, I. (1974). The Modern World-System. Academic Press. (Analytical Focus: Comparative Timelines).
+- Friedman, G. (2020). The Storm Before the Calm. Doubleday.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Wallerstein, I. (1974). The Modern World-System. Academic Press.
 - Bergesen, A., & Schoenberg, R. (1980). Long Waves of Colonial Expansion and Contraction, 1415-1969. *Studies in Comparative International Development*, 15(4), 3-26.
 - Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press.
 - Howe, N., & Strauss, W. (1991). *Generations: The History of America's Future, 1584 to 2069*. William Morrow & Co.

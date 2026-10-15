@@ -112,12 +112,12 @@ Interviews with leading macroeconomists, demographic modelers, and institutional
 The consensus among interdisciplinary analysts underscores that the current crisis is structural and institutional rather than cyclical in the short-term business-cycle sense, confirming the predictive utility of the saecular framework.
 
 ## Scholarly Interviews, Expert Assessments & Academic Citations
-- Friedman, G. (2020). The Storm Before the Calm: America's Discord, the Coming Crisis of the 2020s, and the Triumph Beyond. Doubleday. (Analytical Focus: Interviews and Expert Opinions).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Interviews and Expert Opinions).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Interviews and Expert Opinions).
-- Hunt, L. H. (2021). Macroeconomic Dynamics and Debt Overhang. Hoisington Quarterly Reports. (Analytical Focus: Interviews and Expert Opinions).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Interviews and Expert Opinions).
-- Wood, G. S. (2011). The Purpose of the Past: Reflections on the Uses of History. Penguin Books. (Analytical Focus: Interviews and Expert Opinions).
+- Friedman, G. (2020). The Storm Before the Calm: America's Discord, the Coming Crisis of the 2020s, and the Triumph Beyond. Doubleday.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Hunt, L. H. (2021). Macroeconomic Dynamics and Debt Overhang. Hoisington Quarterly Reports.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Wood, G. S. (2011). The Purpose of the Past: Reflections on the Uses of History. Penguin Books.
 ### Detailed Expert Roundtables and Delphi Consensus Studies
 
 Structured Delphi panels conducted with leading social scientists, macro investors, and defense analysts illuminate key predictive insights regarding the path to crisis resolution:

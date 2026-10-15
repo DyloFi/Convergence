@@ -126,12 +126,12 @@ The reception dynamics of Strauss-Howe generational theory within formal social 
 Empirical tests conducted across academic datasets (e.g., JSTOR, Scopus, Web of Science) reveal that while formal testing of the 80-year saecular hypothesis yields mixed statistical significance under standard spectral analysis, generational cohort definitions have achieved widespread utility in longitudinal demographic surveys.
 
 ## Academic References & Bibliography
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Reception).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Reception).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Reception).
-- New York Times. (1991). The Generation Game: Book Review. NYT Arts & Culture. (Analytical Focus: Reception).
-- Time Magazine. (1997). Prophecy of Winter: The Fourth Turning Review. Time Archives. (Analytical Focus: Reception).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Reception).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- New York Times. (1991). The Generation Game: Book Review. NYT Arts & Culture.
+- Time Magazine. (1997). Prophecy of Winter: The Fourth Turning Review. Time Archives.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Epistemological Debates and Scholarly Defense Protocols
 
 The academic reception of generational cycle theory reflects deep philosophical divisions within modern historiography. Scholars defending the Strauss-Howe paradigm address orthodox historiographical objections through structured methodological protocols:

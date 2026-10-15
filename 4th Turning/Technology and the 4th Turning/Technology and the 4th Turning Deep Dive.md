@@ -127,12 +127,12 @@ The interaction between accelerating technological paradigms and generational ar
 Rather than dampening historical cycles, technological acceleration acts as an operational catalyst, compressing the decision latency of institutional leadership during crisis climaxes and drastically increasing the destructive potential of geopolitical confrontations.
 
 ## Academic References & Bibliography — Technological Paradigms, Innovation Acceleration & AI
-- Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press. (Analytical Focus: Technology and the 4th Turning).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Technology and the 4th Turning).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Technology and the 4th Turning).
-- Kurzweil, R. (2005). The Singularity Is Near. Viking. (Analytical Focus: Technology and the 4th Turning).
-- Russell, S. (2019). Human Compatible: Artificial Intelligence and the Problem of Control. Viking. (Analytical Focus: Technology and the 4th Turning).
-- Wu, T. (2010). The Master Switch. Alfred A. Knopf. (Analytical Focus: Technology and the 4th Turning).
+- Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Kurzweil, R. (2005). The Singularity Is Near. Viking.
+- Russell, S. (2019). Human Compatible: Artificial Intelligence and the Problem of Control. Viking.
+- Wu, T. (2010). The Master Switch. Alfred A. Knopf.
 ### The Convergence of Exponential Compute with Saecular Crisis Climax
 
 The collision between Ray Kurzweil's Law of Accelerating Returns (exponential progress in compute, algorithms, and biotechnology) and the Strauss-Howe Fourth Turning (urgent sovereign crisis mobilization) produces an unprecedented civilizational crucible:

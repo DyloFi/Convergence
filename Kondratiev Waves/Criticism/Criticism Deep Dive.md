@@ -91,15 +91,15 @@ Incorporating rigorous critique prevents analytical overreach within Convergence
 - **Resilience to Single-Cycle Failure**: By cross-referencing multiple theoretical frameworks (Kurzweil, Strauss-Howe, Dalio, Perez), the master synthesis retains structural predictive integrity even if individual cyclical hypotheses fail.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Criticism). (Criticism Deep Dive Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Criticism). (Criticism Deep Dive Citation)
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Criticism).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Criticism).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Criticism).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Criticism).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Criticism).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Criticism Deep Dive Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Criticism Deep Dive Citation).
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
 - Trotsky, L. (1923). *The Curve of Capitalist Development*. Pravda (June 1923).
-- Turchin, P. (2016). *Ages of Discord: A Structural-Demographic Analysis of American History*. Beresta Books. (Analytical Focus: Criticism).
+- Turchin, P. (2016). *Ages of Discord: A Structural-Demographic Analysis of American History*. Beresta Books.
 ### Methodological Critiques & Statistical Counter-Arguments
 Skeptical economists have challenged the statistical validity of Kondratiev long waves on several econometric grounds:
 - **Slutsky-Yule Effect**: Eugene Slutsky (1927) demonstrated that moving averages applied to purely random walk series can artificially generate regular cyclical fluctuations, raising questions about whether long waves are artifacts of data smoothing.

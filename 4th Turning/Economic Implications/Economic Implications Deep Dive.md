@@ -142,12 +142,12 @@ Institutional investors and sovereign wealth managers require structured asset a
 3. **Post-Crisis Re-Equitization**: Identifying the transition window when crisis resolution unlocks unprecedented capital investment booms in the subsequent First Turning High.
 
 ## Academic References & Bibliography — Macroeconomic Cycles, Sovereign Debt & Wealth Liquidation
-- Dalio, R. (2018). Principles for Navigating Big Debt Crises. Bridgewater Publishing. (Analytical Focus: Economic Implications).
-- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster. (Analytical Focus: Economic Implications).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Economic Implications).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Economic Implications).
-- Kondratiev, N. D. (1926). Die langen Wellen der Konjunktur. Archiv für Sozialwissenschaft. (Analytical Focus: Economic Implications).
-- Reinhart, C. M., & Rogoff, K. S. (2009). This Time Is Different: Eight Centuries of Financial Folly. Princeton University Press. (Analytical Focus: Economic Implications).
+- Dalio, R. (2018). Principles for Navigating Big Debt Crises. Bridgewater Publishing.
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Kondratiev, N. D. (1926). Die langen Wellen der Konjunktur. Archiv für Sozialwissenschaft.
+- Reinhart, C. M., & Rogoff, K. S. (2009). This Time Is Different: Eight Centuries of Financial Folly. Princeton University Press.
 ### Macro-Financial Literature and Sovereign Debt Treatises
 
 - Dalio, R. (2018). *A Template for Understanding Big Debt Crises*. Bridgewater Associates. (Deleveraging mechanics and monetary monetization playbooks).

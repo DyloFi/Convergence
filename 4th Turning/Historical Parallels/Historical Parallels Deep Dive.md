@@ -111,12 +111,12 @@ A structural comparison across the Glorious Revolution (1688), the American Revo
 5. **Resolution and Settlement:** The institutionalization of a new constitutional order, legal architecture, and financial architecture that persists as the foundation for the subsequent First Turning High.
 
 ## Academic References & Bibliography — Comparative Historical Morphology of Crisis Climaxes
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Historical Parallels).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Historical Parallels).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Historical Parallels).
-- Tainter, J. A. (1988). The Collapse of Complex Societies. Cambridge University Press. (Analytical Focus: Historical Parallels).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Historical Parallels).
-- Wright, Q. (1942). A Study of War. University of Chicago Press. (Analytical Focus: Historical Parallels).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Tainter, J. A. (1988). The Collapse of Complex Societies. Cambridge University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Wright, Q. (1942). A Study of War. University of Chicago Press.
 ### Institutional Sclerosis, Administrative Capture, and Systemic Reset
 
 Across multiple historical crisis iterations, the underlying driver necessitating a Fourth Turning reset is the catastrophic buildup of administrative sclerosis and institutional capture:

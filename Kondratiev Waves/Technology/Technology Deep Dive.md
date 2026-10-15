@@ -141,13 +141,13 @@ Where $\sigma_{GPT}$ denotes the technological substitution elasticity and $\del
 - Lipsey, R. G., Carlaw, K. I., & Bekar, C. T. (2005). *Economic Transformations: General Purpose Technologies and Long-Term Economic Growth*. Oxford University Press.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Technology). (Technology Deep Dive Citation)
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press. (Analytical Focus: Technology).
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Technology). (Technology Deep Dive Citation)
-- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company. (Analytical Focus: Technology).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Technology).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Technology).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Technology).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Technology).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Technology).
-- Solow, R. M. (1987). *We'd better watch out*. New York Times Book Review (July 12, 1987), p. 36. (Analytical Focus: Technology).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Technology Deep Dive Citation).
+- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Technology Deep Dive Citation).
+- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
+- Solow, R. M. (1987). *We'd better watch out*. New York Times Book Review (July 12, 1987), p. 36.

@@ -104,12 +104,12 @@ Computational linguistics applied to news media and digital commentary over the 
 These linguistic divergences mirror the archetypal psychological orientations described by Strauss and Howe, demonstrating that the crisis narrative is structurally fragmented along generational lines.
 
 ## Academic References & Bibliography — Algorithmic Polarization & Crisis Propaganda Mechanics
-- C2PA Coalition. (2023). Coalition for Content Provenance and Authenticity Technical Specification. C2PA Standards. (Analytical Focus: Media Analysis).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Media Analysis).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Media Analysis).
-- Singer, P. W., & Brooking, E. T. (2018). Likewar: The Weaponization of Social Media. Eamon Dolan Books. (Analytical Focus: Media Analysis).
-- Tufekci, Z. (2017). Twitter and Tear Gas. Yale University Press. (Analytical Focus: Media Analysis).
-- Zuboff, S. (2019). The Age of Surveillance Capitalism. PublicAffairs. (Analytical Focus: Media Analysis).
+- C2PA Coalition. (2023). Coalition for Content Provenance and Authenticity Technical Specification. C2PA Standards.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Singer, P. W., & Brooking, E. T. (2018). Likewar: The Weaponization of Social Media. Eamon Dolan Books.
+- Tufekci, Z. (2017). Twitter and Tear Gas. Yale University Press.
+- Zuboff, S. (2019). The Age of Surveillance Capitalism. PublicAffairs.
 ### Quantitative Computational Linguistics of Generational Framing
 
 Deploying modern natural language processing pipelines across historical news archives provides rigorous quantitative confirmation of shifting generational stereotypes and media sentiment:

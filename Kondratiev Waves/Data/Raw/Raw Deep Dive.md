@@ -59,14 +59,14 @@ Establishing an immutable raw data repository guarantees long-term empirical val
 
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Raw). (Raw Deep Dive Citation)
-- Jevons, W. S. (1884). *Investigations in Currency and Finance*. Macmillan and Co. (Analytical Focus: Raw).
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Raw). (Raw Deep Dive Citation)
-- Mitchell, B. R. (1998). *International Historical Statistics: Europe, 1750–1993*. Stockton Press. (Analytical Focus: Raw).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Raw).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Raw).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Raw).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Raw).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Raw Deep Dive Citation).
+- Jevons, W. S. (1884). *Investigations in Currency and Finance*. Macmillan and Co.
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Raw Deep Dive Citation).
+- Mitchell, B. R. (1998). *International Historical Statistics: Europe, 1750–1993*. Stockton Press.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
 ### Primary Archival Sources & Raw Data Provenance
 Raw historical datasets for long-wave economic analysis are compiled from primary statistical repositories:
 - **Bank of England Millennium Macroeconomic Dataset**: Contains continuous annual series for UK GDP, wholesale prices, real wages, and long-term interest rates from 1700 to 2026.

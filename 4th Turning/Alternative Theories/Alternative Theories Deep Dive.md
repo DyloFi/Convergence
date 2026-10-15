@@ -147,9 +147,9 @@ Where:
 The convergence of alternative macro-historical frameworks reinforces the structural thesis established in `Convergence_Master_Synthesis.md`. Rather than mutually exclusive paradigms, generational archetype shifts, structural-demographic stress escalations, and long-term capital deployment exhaustion operate as mutually reinforcing feedback loops driving civilizational phase transitions.
 
 ## Academic References & Bibliography
-- Kondratiev, N. D. (1926). Die langen Wellen der Konjunktur. Archiv für Sozialwissenschaft und Sozialpolitik, 56, 573-609. (Analytical Focus: Alternative Theories).
-- Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press. (Analytical Focus: Alternative Theories).
-- Schlesinger, A. M. (1986). The Cycles of American History. Houghton Mifflin. (Analytical Focus: Alternative Theories).
-- Strauss, W., & Howe, N. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Alternative Theories).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Alternative Theories).
-- Wallerstein, I. (1974). The Modern World-System. Academic Press. (Analytical Focus: Alternative Theories).
+- Kondratiev, N. D. (1926). Die langen Wellen der Konjunktur. Archiv für Sozialwissenschaft und Sozialpolitik, 56, 573-609.
+- Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press.
+- Schlesinger, A. M. (1986). The Cycles of American History. Houghton Mifflin.
+- Strauss, W., & Howe, N. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Wallerstein, I. (1974). The Modern World-System. Academic Press.

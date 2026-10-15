@@ -120,12 +120,12 @@ To substantiate the predictive claims of generational cycle theory, a wide array
 These statistical correlations demonstrate that generational archetypes are not arbitrary cultural constructs, but demographic and economic reality drivers that govern societal development across multiple generations.
 
 ## Empirical Datasets, Cliometric Literature & Supporting References
-- FBI. (2024). Crime in the United States: Uniform Crime Reporting Time Series (1960-2023). US Department of Justice. (Analytical Focus: Supporting Evidence).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Supporting Evidence).
-- Piketty, T., & Saez, E. (2003). Income Inequality in the United States, 1913-1998. Quarterly Journal of Economics, 118(1), 1-39. (Analytical Focus: Supporting Evidence).
-- Poole, K. T., & Rosenthal, H. (2007). Ideology and Congress. Transaction Publishers. (Analytical Focus: Supporting Evidence).
-- St. Louis FRED. (2024). Federal Debt and Macroeconomic Datasets. Federal Reserve Bank of St. Louis. (Analytical Focus: Supporting Evidence).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Supporting Evidence).
+- FBI. (2024). Crime in the United States: Uniform Crime Reporting Time Series (1960-2023). US Department of Justice.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Piketty, T., & Saez, E. (2003). Income Inequality in the United States, 1913-1998. Quarterly Journal of Economics, 118(1), 1-39.
+- Poole, K. T., & Rosenthal, H. (2007). Ideology and Congress. Transaction Publishers.
+- St. Louis FRED. (2024). Federal Debt and Macroeconomic Datasets. Federal Reserve Bank of St. Louis.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Quantitative Telemetry and Multi-Saeculum Empirical Verification
 
 Compiling longitudinal time series across multiple saecula provides robust quantitative verification of the cyclical dynamics posited by Strauss-Howe theory:

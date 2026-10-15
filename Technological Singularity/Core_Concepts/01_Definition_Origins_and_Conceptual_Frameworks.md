@@ -145,16 +145,16 @@ The formal taxonomy of the singularity concept has evolved across distinct intel
 
 ## 6. Academic References & Bibliography
 
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence*. Harvard University Press. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Sandberg, A., & Bostrom, N. (2008). Whole Brain Emulation: A Roadmap. *Future of Humanity Institute Technical Report*. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Ulam, S. (1958). Tribute to John von Neumann. *Bulletin of the American Mathematical Society*, 64(3), 1–49. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Vinge, V. (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. *NASA CP-10129*, 11–22. (Analytical Focus: Definition Origins and Conceptual Frameworks).
-- Yudkowsky, E. (2013). Intelligence Explosion Microeconomics. *MIRI Technical Report*. (Analytical Focus: Definition Origins and Conceptual Frameworks).
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence*. Harvard University Press.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Sandberg, A., & Bostrom, N. (2008). Whole Brain Emulation: A Roadmap. *Future of Humanity Institute Technical Report*.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Ulam, S. (1958). Tribute to John von Neumann. *Bulletin of the American Mathematical Society*, 64(3), 1–49.
+- Vinge, V. (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. *NASA CP-10129*, 11–22.
+- Yudkowsky, E. (2013). Intelligence Explosion Microeconomics. *MIRI Technical Report*.

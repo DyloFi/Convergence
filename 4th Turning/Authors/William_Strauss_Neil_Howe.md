@@ -142,11 +142,11 @@ The collaborative partnership between William Strauss and Neil Howe spanned over
 - Strauss, W. (2001). "Civic Generation Transitions and Institutional Reform." *Journal of Public Policy*, 18(2), 112-129.
 
 ## Academic References & Bibliography
-- Concord Coalition. (1995). The Entitlement Crisis and Intergenerational Equity. Special Report. (Analytical Focus: William Strauss Neil Howe).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: William Strauss Neil Howe).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: William Strauss Neil Howe).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: William Strauss Neil Howe).
-- Strauss, W. (1994). The Capitol Steps: History of Political Satire. Congressional Press. (Analytical Focus: William Strauss Neil Howe).
-- Washington Post. (2007). Obituary: William Strauss, 60, Co-Founder of Capitol Steps and Author. Washington Post Archives. (Analytical Focus: William Strauss Neil Howe).
+- Concord Coalition. (1995). The Entitlement Crisis and Intergenerational Equity. Special Report.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Strauss, W. (1994). The Capitol Steps: History of Political Satire. Congressional Press.
+- Washington Post. (2007). Obituary: William Strauss, 60, Co-Founder of Capitol Steps and Author. Washington Post Archives.
 - Howe, N. (2009). *Millennials in the Workplace: Human Resource Strategies for a New Generation*. LifeCourse Associates.
 - Strauss, W. (1995). "Generational Cycles in American History: A Cliometric Evaluation." *Cliodynamics Review*, 4(1), 77-94.

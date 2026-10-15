@@ -136,19 +136,19 @@ This recursive compression produces a geometric convergence point $T_{\infty} = 
 
 ## Academic References & Bibliography
 
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Timeline Milestones).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Timeline Milestones).
-- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*. (Analytical Focus: Timeline Milestones).
-- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88. (Analytical Focus: Timeline Milestones).
-- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., ... & Amodei, D. (2020). Scaling Laws for Neural Language Models. *arXiv preprint arXiv:2001.08361*. (Analytical Focus: Timeline Milestones).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Timeline Milestones).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Timeline Milestones).
-- Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning Representations by Back-Propagating Errors. *Nature*, 323(6088), 533–536. (Analytical Focus: Timeline Milestones).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Timeline Milestones).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*. (Analytical Focus: Timeline Milestones).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Timeline Milestones).
-- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460. (Analytical Focus: Timeline Milestones).
-- Vinge, V. (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. *NASA CP-10129*, 11–22. (Analytical Focus: Timeline Milestones).
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*.
+- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88.
+- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., ... & Amodei, D. (2020). Scaling Laws for Neural Language Models. *arXiv preprint arXiv:2001.08361*.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning Representations by Back-Propagating Errors. *Nature*, 323(6088), 533–536.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460.
+- Vinge, V. (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. *NASA CP-10129*, 11–22.
 - Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
 - Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence*. Harvard University Press.
 - Ulam, S. (1958). Tribute to John von Neumann. *Bulletin of the American Mathematical Society*, 64(3), 1–49.

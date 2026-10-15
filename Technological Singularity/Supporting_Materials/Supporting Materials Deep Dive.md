@@ -132,20 +132,20 @@ The deployment of gigawatt-scale artificial intelligence clusters faces four str
 
 ## 5. Academic References & Bibliography (Supporting Materials)
 
-- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*. (Analytical Focus: Supporting Materials).
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Supporting Materials).
-- Christiano, P., Shlegeris, B., & Amodei, D. (2018). Supervising Strong Learners by Amplification. *arXiv preprint arXiv:1810.08575*. (Analytical Focus: Supporting Materials).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Supporting Materials).
-- Elhage, N., Nanda, N., Olsson, C., Henighan, T., Joseph, N., Mann, B., ... & Olah, C. (2021). A Mathematical Framework for Transformer Circuits. *Transformer Circuits Thread*. (Analytical Focus: Supporting Materials).
-- Irving, P., Christiano, P., & Amodei, D. (2018). AI Safety via Debate. *arXiv preprint arXiv:1805.00899*. (Analytical Focus: Supporting Materials).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Supporting Materials).
-- METR (Model Evaluation and Threat Research). (2024). Evaluating Autonomous Capabilities in Frontier AI Models. *METR Technical Report*. (Analytical Focus: Supporting Materials).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Supporting Materials).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Supporting Materials).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Supporting Materials).
-- Tegmark, M. (2017). *Life 3.0: Being Human in the Age of Artificial Intelligence*. Knopf. (Analytical Focus: Supporting Materials).
-- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press. (Analytical Focus: Supporting Materials).
-- Yudkowsky, E. (2013). Intelligence Explosion Microeconomics. *MIRI Technical Report*. (Analytical Focus: Supporting Materials).
+- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*.
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Christiano, P., Shlegeris, B., & Amodei, D. (2018). Supervising Strong Learners by Amplification. *arXiv preprint arXiv:1810.08575*.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Elhage, N., Nanda, N., Olsson, C., Henighan, T., Joseph, N., Mann, B., ... & Olah, C. (2021). A Mathematical Framework for Transformer Circuits. *Transformer Circuits Thread*.
+- Irving, P., Christiano, P., & Amodei, D. (2018). AI Safety via Debate. *arXiv preprint arXiv:1805.00899*.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- METR (Model Evaluation and Threat Research). (2024). Evaluating Autonomous Capabilities in Frontier AI Models. *METR Technical Report*.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Tegmark, M. (2017). *Life 3.0: Being Human in the Age of Artificial Intelligence*. Knopf.
+- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press.
+- Yudkowsky, E. (2013). Intelligence Explosion Microeconomics. *MIRI Technical Report*.
 - Jouppi, N. P., et al. (2023). TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings. *ACM/IEEE International Symposium on Computer Architecture (ISCA)*, 1–14.
 - NVIDIA Corporation. (2024). *NVIDIA Blackwell Architecture Technical Brief: Advancing Generative AI and Accelerated Computing*. NVIDIA Whitepaper.
 - Ho, R. (2022). Optical Interconnects for High-Performance Computing and Data Centers. *IEEE Micro*, 42(2), 22–31.

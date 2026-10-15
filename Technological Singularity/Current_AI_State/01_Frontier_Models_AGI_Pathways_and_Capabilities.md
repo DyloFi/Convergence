@@ -142,15 +142,15 @@ Where $\mathbf{h}_t$ represents the transformer hidden representation at step to
 
 ## Academic References & Bibliography
 
-- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., ... & Sifre, L. (2022). Training Compute-Optimal Large Language Models. *arXiv preprint arXiv:2203.15556*. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- METR (Model Evaluation and Threat Research). (2024). Evaluating Autonomous Capabilities in Frontier AI Models. *METR Technical Report*. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Frontier Models AGI Pathways and Capabilities).
+- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*.
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*.
+- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88.
+- Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., ... & Sifre, L. (2022). Training Compute-Optimal Large Language Models. *arXiv preprint arXiv:2203.15556*.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- METR (Model Evaluation and Threat Research). (2024). Evaluating Autonomous Capabilities in Frontier AI Models. *METR Technical Report*.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.

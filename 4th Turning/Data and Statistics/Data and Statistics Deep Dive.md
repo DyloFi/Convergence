@@ -139,12 +139,12 @@ The quantitative integrity of generational cohort models requires systematic ben
 3. **Cross-National Validation**: Applying standardized statistical metrics to Canadian, British, and Australian demographic records confirms structural synchronization with American turning rhythms.
 
 ## Academic References & Bibliography
-- Box, G. E. P., & Jenkins, G. M. (1976). Time Series Analysis: Forecasting and Control. Holden-Day. (Analytical Focus: Data and Statistics).
-- Gallup Poll Archives. (2024). Trust in Government and Institutions Time Series (1958-2024). Gallup Organization. (Analytical Focus: Data and Statistics).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Data and Statistics).
-- Poole, K. T., & Rosenthal, H. (2007). Ideology and Congress. Transaction Publishers. (Analytical Focus: Data and Statistics).
-- St. Louis FRED. (2024). Federal Debt to GDP and Economic Series. Federal Reserve Bank of St. Louis. (Analytical Focus: Data and Statistics).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Data and Statistics).
+- Box, G. E. P., & Jenkins, G. M. (1976). Time Series Analysis: Forecasting and Control. Holden-Day.
+- Gallup Poll Archives. (2024). Trust in Government and Institutions Time Series (1958-2024). Gallup Organization.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Poole, K. T., & Rosenthal, H. (2007). Ideology and Congress. Transaction Publishers.
+- St. Louis FRED. (2024). Federal Debt to GDP and Economic Series. Federal Reserve Bank of St. Louis.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Demographic Actuarial References and Longitudinal Studies
 
 - Coale, A. J., & Demeny, P. (1966). *Regional Model Life Tables and Stable Populations*. Princeton University Press. (Age-structured cohort survival modeling).

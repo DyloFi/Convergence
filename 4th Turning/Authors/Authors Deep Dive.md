@@ -146,9 +146,9 @@ The methodological rigor developed across Strauss and Howe's body of work aligns
 - Howe, N., & Strauss, W. (2007). *The Next Twenty Years: How Customer and Workforce Attitudes Will Evolve*. Harvard Business Review Press.
 
 ## Academic References & Bibliography
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Authors).
-- Howe, N., & Strauss, W. (1993). 13th Gen: Abort, Retry, Ignore, Fail?. Vintage Books. (Analytical Focus: Authors).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Authors).
-- Howe, N., & Strauss, W. (2000). Millennials Rising: The Next Great Generation. Vintage Books. (Analytical Focus: Authors).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Authors).
-- Strauss, W. (1994). The Capitol Steps: History of Political Satire. Congressional Press. (Analytical Focus: Authors).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1993). 13th Gen: Abort, Retry, Ignore, Fail?. Vintage Books.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N., & Strauss, W. (2000). Millennials Rising: The Next Great Generation. Vintage Books.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Strauss, W. (1994). The Capitol Steps: History of Political Satire. Congressional Press.

@@ -139,12 +139,12 @@ Generational turning phases drive distinct geographic migration patterns that re
 3. **Infrastructural Renewal Pressures**: Shifting demographic mass compels state and local governments to rehabilitate legacy transportation, water, and power grids.
 
 ## Academic References & Bibliography — Demographic Inversion, Birth Rates & Cohort Sizing
-- Eberstadt, N. (2016). Men Without Work: America's Invisible Crisis. Templeton Press. (Analytical Focus: Demographic Trends).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Demographic Trends).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Demographic Trends).
-- OECD. (2023). Pensions at a Glance 2023: OECD and G20 Indicators. OECD Publishing. (Analytical Focus: Demographic Trends).
-- UN Population Division. (2022). World Population Prospects. United Nations. (Analytical Focus: Demographic Trends).
-- US Social Security Trustees. (2024). Annual Report of the Board of Trustees. US Government Printing Office. (Analytical Focus: Demographic Trends).
+- Eberstadt, N. (2016). Men Without Work: America's Invisible Crisis. Templeton Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- OECD. (2023). Pensions at a Glance 2023: OECD and G20 Indicators. OECD Publishing.
+- UN Population Division. (2022). World Population Prospects. United Nations.
+- US Social Security Trustees. (2024). Annual Report of the Board of Trustees. US Government Printing Office.
 ### Spatial and Demographic Comparative Literature
 
 - Easterlin, R. A. (1980). *Birth and Fortune: The Impact of Numbers on Personal Welfare*. Basic Books. (Easterlin cohort size effect on wages and family formation).

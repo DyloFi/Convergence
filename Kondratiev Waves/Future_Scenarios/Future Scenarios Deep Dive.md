@@ -113,16 +113,16 @@ Future scenario projections in Kondratiev wave theory directly converge with the
 3. **Fourth Turning Institutional Resolution**: The resolution window of the 6th wave installation phase (2030-2035) coincides with the projected climax of the Millennial Fourth Turning, dictating a synchronized institutional and technological reset.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Future Scenarios). (Future Scenarios Deep Dive Citation)
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press. (Analytical Focus: Future Scenarios).
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Future Scenarios). (Future Scenarios Deep Dive Citation)
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking. (Analytical Focus: Future Scenarios).
-- Landauer, R. (1961). *Irreversibility and Heat Generation in the Computing Process*. IBM Journal of Research and Development, 5(3), 183–191. (Analytical Focus: Future Scenarios).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Future Scenarios).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Future Scenarios).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Future Scenarios).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Future Scenarios).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Future Scenarios).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Future Scenarios Deep Dive Citation).
+- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Future Scenarios Deep Dive Citation).
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking.
+- Landauer, R. (1961). *Irreversibility and Heat Generation in the Computing Process*. IBM Journal of Research and Development, 5(3), 183–191.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
 - Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Penguin.
 - Nordhaus, W. D. (2021). Are we approaching an economic singularity? Information technology and the prospect for rapid economic growth. *American Economic Journal: Macroeconomics*, 13(1), 299-332.
 - Perez, C. (2013). Financial bubbles, crises and the role of government in unleashing golden ages. *FINNOV Working Paper*, 2-34.

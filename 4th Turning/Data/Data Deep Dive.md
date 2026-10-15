@@ -139,12 +139,12 @@ To maintain empirical rigor across multi-century cliometric datasets, the data i
 3. **Open Science Standards**: All data transformation pipelines are versioned in git-tracked repositories with deterministic seed parameters to guarantee complete scientific replicability.
 
 ## Academic References & Bibliography
-- CDC / NCHS. (2024). Births: Final Data for 2023. National Vital Statistics Reports. (Analytical Focus: Data).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Data).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Data).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Data).
-- UN Population Division. (2022). World Population Prospects 2022. United Nations. (Analytical Focus: Data).
-- US Census Bureau. (2023). Historical Fertility and Marriage Data Series. US Government Printing Office. (Analytical Focus: Data).
+- CDC / NCHS. (2024). Births: Final Data for 2023. National Vital Statistics Reports.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- UN Population Division. (2022). World Population Prospects 2022. United Nations.
+- US Census Bureau. (2023). Historical Fertility and Marriage Data Series. US Government Printing Office.
 ### Archival Data Sources and Econometric References
 
 - Box, G. E., & Jenkins, G. M. (1970). *Time Series Analysis: Forecasting and Control*. Holden-Day. (Methodological standards for ARIMA filtering and lag operators).

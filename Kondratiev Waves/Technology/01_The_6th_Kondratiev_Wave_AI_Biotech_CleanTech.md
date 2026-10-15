@@ -131,16 +131,16 @@ The synergy phase of the 6th Kondratiev Wave is distinguished by cross-domain te
 - Ayres, R. U. (1990). Technological transformations and long waves. *Technological Forecasting and Social Change*, 37(1), 1-37.
 
 ## Academic References & Bibliography
-- Acemoglu, D., Autor, D., Hazell, J., & Restrepo, P. (2024). *Artificial Intelligence and Jobs: Evidence from Online Job Postings*. Journal of Labor Economics, 42(1), 1–45. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech). (01 The 6th Kondratiev Wave AI Biotech CleanTech Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech). (01 The 6th Kondratiev Wave AI Biotech CleanTech Citation)
-- Landauer, R. (1961). *Irreversibility and Heat Generation in the Computing Process*. IBM Journal of Research and Development, 5(3), 183–191. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
-- Solow, R. M. (1987). *We'd better watch out*. New York Times Book Review (July 12, 1987), p. 36. (Analytical Focus: The 6th Kondratiev Wave AI Biotech CleanTech).
+- Acemoglu, D., Autor, D., Hazell, J., & Restrepo, P. (2024). *Artificial Intelligence and Jobs: Evidence from Online Job Postings*. Journal of Labor Economics, 42(1), 1–45.
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (01 The 6th Kondratiev Wave AI Biotech CleanTech Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (01 The 6th Kondratiev Wave AI Biotech CleanTech Citation).
+- Landauer, R. (1961). *Irreversibility and Heat Generation in the Computing Process*. IBM Journal of Research and Development, 5(3), 183–191.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
+- Solow, R. M. (1987). *We'd better watch out*. New York Times Book Review (July 12, 1987), p. 36.
 ### Technological Convergence & Multi-Disciplinary Synergies
 The 6th Kondratiev wave is characterized by the convergence of three foundational technology vectors:
 - **Artificial Intelligence & Automated Discovery**: Accelerates research speed across material science, drug discovery, and chip design.

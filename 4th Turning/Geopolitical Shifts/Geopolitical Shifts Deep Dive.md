@@ -116,12 +116,12 @@ The geopolitical manifestation of the Fourth Turning reflects the systemic break
 The acceleration toward crisis climax is marked by the erosion of sovereign deterrent thresholds, where peripheral conflicts in Eastern Europe, the Levant, and the Western Pacific coalesce into a unified structural stress test of global order.
 
 ## Academic References & Bibliography — Hegemonic Transitions, Sovereign Power & Global Conflict
-- Allison, G. (2017). Destined for War: Can America and China Escape Thucydides's Trap?. Houghton Mifflin Harcourt. (Analytical Focus: Geopolitical Shifts).
-- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster. (Analytical Focus: Geopolitical Shifts).
-- Friedman, G. (2020). The Storm Before the Calm. Doubleday. (Analytical Focus: Geopolitical Shifts).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Geopolitical Shifts).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Geopolitical Shifts).
-- Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press. (Analytical Focus: Geopolitical Shifts).
+- Allison, G. (2017). Destined for War: Can America and China Escape Thucydides's Trap?. Houghton Mifflin Harcourt.
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Friedman, G. (2020). The Storm Before the Calm. Doubleday.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press.
 ### Geopolitical Realignment and Hegemonic Climax Resolutions
 
 The structural resolution of Fourth Turning geopolitical contests fundamentally alters the global balance of power, re-drawing territorial boundaries and establishing new international legal and monetary standards:

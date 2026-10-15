@@ -71,13 +71,13 @@ Maintaining rigorous data infrastructure empowers quantitative researchers and s
 
 
 ## Academic References & Bibliography — Data Architecture Guide
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: README). (README Citation) (Data Module Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: README). (README Citation) (Data Module Citation)
-- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Analytical Focus: README). (Data Module Citation)
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: README). (Data Module Citation)
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: README). (Data Module Citation)
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: README). (Data Module Citation)
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: README). (Data Module Citation)
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (README Citation) (Data Module Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (README Citation) (Data Module Citation).
+- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Data Module Citation).
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Data Module Citation).
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Data Module Citation).
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Data Module Citation).
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Data Module Citation).
 ### Data Quality Control & Cross-Validation Protocols
 All historical datasets stored within the `Kondratiev Waves/Data/` module undergo rigorous automated verification prior to econometric analysis:
 - **Source Cross-Validation**: Primary data series from the Bank of England, US NBER, and Sauerbeck index are cross-referenced with modern historical economic reconstructions to eliminate transcription errors.

@@ -107,12 +107,12 @@ To establish rigorous empirical grounding for the cyclical recurrence of America
 These historical benchmarks illustrate that crisis climaxes are characterized by the mandatory reorganization of public balance sheets and the enforced subordination of individualistic consumer preference to collective survival mandates.
 
 ## Academic References & Bibliography — Deep-Dive Case Studies Across Anglo-American History
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: American Saeculum Case Studies).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: American Saeculum Case Studies).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: American Saeculum Case Studies).
-- McPherson, J. M. (1861). Battle Cry of Freedom. Oxford University Press. (Analytical Focus: American Saeculum Case Studies).
-- Middlekauff, R. (2005). The Glorious Cause. Oxford University Press. (Analytical Focus: American Saeculum Case Studies).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: American Saeculum Case Studies).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- McPherson, J. M. (1861). Battle Cry of Freedom. Oxford University Press.
+- Middlekauff, R. (2005). The Glorious Cause. Oxford University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### In-Depth Cliometric Case Study: The Civil War Saecular Climax (1860–1865)
 
 The American Civil War represents the purest historical archetype of a Fourth Turning climax in the Anglo-American record. Every phase of the Strauss-Howe crisis anatomy unfolded with extraordinary clarity:

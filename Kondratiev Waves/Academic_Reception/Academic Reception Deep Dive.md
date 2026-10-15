@@ -124,16 +124,16 @@ The academic trajectory of Nikolai Kondratiev's empirical hypotheses reflects br
 Under the unified Convergence framework, long-wave theory bridges microeconomic capital replacement horizons with macroeconomic secular stagnation phenomena, demonstrating that institutional inertia is an organic constraint on technological deployment.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Academic Reception). (Academic Reception Deep Dive Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Academic Reception). (Academic Reception Deep Dive Citation)
-- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Analytical Focus: Academic Reception).
-- Mandel, E. (1975). *Late Capitalism*. Humanities Press. (Analytical Focus: Academic Reception).
-- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company. (Analytical Focus: Academic Reception).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Academic Reception).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Academic Reception).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Academic Reception).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Academic Reception).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Academic Reception).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Academic Reception Deep Dive Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Academic Reception Deep Dive Citation).
+- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115.
+- Mandel, E. (1975). *Late Capitalism*. Humanities Press.
+- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
 - Trotsky, L. (1923). *The Curve of Capitalist Development*. Pravda (June 1923).
 ### Academic Literature Survey & Historiographical Debates
 Traces the scholarly reception of Nikolai Kondratiev's long-wave theory from 1925 to contemporary macroeconomic debates:

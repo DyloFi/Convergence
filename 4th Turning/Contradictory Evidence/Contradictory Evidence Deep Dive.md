@@ -133,12 +133,12 @@ $$W(a, b) = \frac{1}{\sqrt{a}} \int_{-\infty}^{\infty} x(t) \psi^*\left(\frac{t 
 Evaluating the scale parameter $a$ across the 80-100 year saecular band reveals statistically significant localized spectral power during major historical ruptures (1775-1783, 1861-1865, 1929-1945), confirming that while rigid 20-year turning periodicity is rejected by unadjusted linear spectral analysis, non-linear phase-locked crisis synchronization remains a robust feature of global institutional architectures.
 
 ## Academic References & Bibliography — Empirical Anomalies & Counter-Evidence to Saecular Cycles
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Contradictory Evidence).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Contradictory Evidence).
-- Popper, K. (1959). The Logic of Scientific Discovery. Hutchinson & Co. (Analytical Focus: Contradictory Evidence).
-- Taleb, N. N. (2007). The Black Swan: The Impact of the Highly Improbable. Random House. (Analytical Focus: Contradictory Evidence).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Contradictory Evidence).
-- Wilentz, S. (2005). The Rise of American Democracy: Jefferson to Lincoln. W. W. Norton & Company. (Analytical Focus: Contradictory Evidence).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Popper, K. (1959). The Logic of Scientific Discovery. Hutchinson & Co.
+- Taleb, N. N. (2007). The Black Swan: The Impact of the Highly Improbable. Random House.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Wilentz, S. (2005). The Rise of American Democracy: Jefferson to Lincoln. W. W. Norton & Company.
 - Silver, N. (2012). The Signal and the Noise: Why So Many Predictions Fail—but Some Don't. Penguin Press.
 - Tetlock, P. E. (2005). Expert Political Judgment: How Good Is It? How Can We Know?. Princeton University Press.
 - Giannone, D., Lenza, M., & Reichlin, L. (2019). Money, Credit, Monetary Policy and the Business Cycle in the Euro Area. Journal of Monetary Economics, 103, 114-135.

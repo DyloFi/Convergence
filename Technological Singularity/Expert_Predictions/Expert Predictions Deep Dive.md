@@ -147,15 +147,15 @@ Where $t_0 = 2024$ denotes the calibration baseline year, $\mu \approx 1.79$ gov
 
 ## 5. Academic References & Bibliography (Expert Predictions)
 
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Expert Predictions).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Expert Predictions).
-- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*. (Analytical Focus: Expert Predictions).
-- Grace, K., Stewart, H., Sandkühler, J. F., Thomas, B., Weinstein-Raun, B., & Brauner, J. (2024). Thousands of AI Authors Share Views on AI Progress. *arXiv preprint arXiv:2401.03743*. (Analytical Focus: Expert Predictions).
-- Hanson, R. (2008). Economics of the Singularity. *IEEE Spectrum*, 45(6), 45–50. (Analytical Focus: Expert Predictions).
-- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., ... & Amodei, D. (2020). Scaling Laws for Neural Language Models. *arXiv preprint arXiv:2001.08361*. (Analytical Focus: Expert Predictions).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Expert Predictions).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Expert Predictions).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Expert Predictions).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*. (Analytical Focus: Expert Predictions).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Expert Predictions).
-- Yudkowsky, E. (2013). Intelligence Explosion Microeconomics. *MIRI Technical Report*. (Analytical Focus: Expert Predictions).
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*.
+- Grace, K., Stewart, H., Sandkühler, J. F., Thomas, B., Weinstein-Raun, B., & Brauner, J. (2024). Thousands of AI Authors Share Views on AI Progress. *arXiv preprint arXiv:2401.03743*.
+- Hanson, R. (2008). Economics of the Singularity. *IEEE Spectrum*, 45(6), 45–50.
+- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., ... & Amodei, D. (2020). Scaling Laws for Neural Language Models. *arXiv preprint arXiv:2001.08361*.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Yudkowsky, E. (2013). Intelligence Explosion Microeconomics. *MIRI Technical Report*.

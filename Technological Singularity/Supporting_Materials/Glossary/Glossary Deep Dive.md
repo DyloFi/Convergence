@@ -127,23 +127,23 @@ The rigorous mathematical characterization of superintelligent transition thresh
 
 ## 5. Academic References & Bibliography (Glossary)
 
-- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*. (Analytical Focus: Glossary).
-- Bostrom, N. (2006). What is a Singleton? *Linguistic and Philosophical Investigations*, 5(2), 48–54. (Analytical Focus: Glossary).
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Glossary).
-- Christiano, P., Shlegeris, B., & Amodei, D. (2018). Supervising Strong Learners by Amplification. *arXiv preprint arXiv:1810.08575*. (Analytical Focus: Glossary).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Glossary).
-- Elhage, N., Nanda, N., Olsson, C., Henighan, T., Joseph, N., Mann, B., ... & Olah, C. (2021). A Mathematical Framework for Transformer Circuits. *Transformer Circuits Thread*. (Analytical Focus: Glossary).
-- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88. (Analytical Focus: Glossary).
-- Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). Risks from Learned Optimization in Advanced Machine Learning Systems. *arXiv preprint arXiv:1906.01820*. (Analytical Focus: Glossary).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Glossary).
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191. (Analytical Focus: Glossary).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Glossary).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Glossary).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Glossary).
-- Turner, A. M., Smith, L., Shah, R., Critch, A., & Tadepalli, P. (2021). Optimal Policies Tend to Seek Power. *NeurIPS 2021*. (Analytical Focus: Glossary).
-- Vinge, V. (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. *NASA CP-10129*, 11–22. (Analytical Focus: Glossary).
-- Yudkowsky, E. (2004). Coherent Extrapolated Volition. *Machine Intelligence Research Institute Technical Report*. (Analytical Focus: Glossary).
-- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press. (Analytical Focus: Glossary).
+- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*.
+- Bostrom, N. (2006). What is a Singleton? *Linguistic and Philosophical Investigations*, 5(2), 48–54.
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Christiano, P., Shlegeris, B., & Amodei, D. (2018). Supervising Strong Learners by Amplification. *arXiv preprint arXiv:1810.08575*.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Elhage, N., Nanda, N., Olsson, C., Henighan, T., Joseph, N., Mann, B., ... & Olah, C. (2021). A Mathematical Framework for Transformer Circuits. *Transformer Circuits Thread*.
+- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88.
+- Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). Risks from Learned Optimization in Advanced Machine Learning Systems. *arXiv preprint arXiv:1906.01820*.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Turner, A. M., Smith, L., Shah, R., Critch, A., & Tadepalli, P. (2021). Optimal Policies Tend to Seek Power. *NeurIPS 2021*.
+- Vinge, V. (1993). The Coming Technological Singularity: How to Survive in the Post-Human Era. *NASA CP-10129*, 11–22.
+- Yudkowsky, E. (2004). Coherent Extrapolated Volition. *Machine Intelligence Research Institute Technical Report*.
+- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press.
 - Bremermann, H. J. (1962). Optimization Through Evolution and Recombination. *Self-Organizing Systems*, 93–106. Spartan Books.
 - Margolus, N., & Levitin, L. B. (1998). The Maximum Speed of Dynamical Evolution. *Physica D: Nonlinear Phenomena*, 120(1-2), 188–195.
 - Wolfram, S. (2002). *A New Kind of Science*. Wolfram Media.

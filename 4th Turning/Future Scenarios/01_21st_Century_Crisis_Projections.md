@@ -138,13 +138,13 @@ Monitoring the temporal approach toward the decisive Fourth Turning climax requi
 3. **Resolution Horizon**: The anticipated culmination of the climax phase between 2028 and 2032 will establish the structural foundation of the mid-21st century global order.
 
 ## Academic References & Bibliography — 21st Century Crisis Climax & Resolution Scenarios
-- Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press. (Analytical Focus: 21st Century Crisis Projections).
-- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster. (Analytical Focus: 21st Century Crisis Projections).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: 21st Century Crisis Projections).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: 21st Century Crisis Projections).
-- Reinhart, C. M., & Rogoff, K. S. (2009). This Time Is Different: Eight Centuries of Financial Folly. Princeton University Press. (Analytical Focus: 21st Century Crisis Projections).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: 21st Century Crisis Projections).
-- World Economic Forum. (2024). Global Risks Report 2024. WEF Publishing. (Analytical Focus: 21st Century Crisis Projections).
+- Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press.
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Reinhart, C. M., & Rogoff, K. S. (2009). This Time Is Different: Eight Centuries of Financial Folly. Princeton University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- World Economic Forum. (2024). Global Risks Report 2024. WEF Publishing.
 ### Strategic Geopolitical Literature and Climax Foresight Sources
 
 - Allison, G. (2017). *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt. (Hegemonic transition flashpoints and crisis war risks).

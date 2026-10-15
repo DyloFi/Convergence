@@ -107,15 +107,15 @@ Modern application of Kondratiev wave analysis achieves maximum strategic utilit
 3. **Future-Proofing Against Exponential Technological Scaling**: Embedding Kurzweil's Law of Accelerating Returns protects organizations from underestimating the velocity of 6th wave cognitive automation takeoffs.
 
 ## Academic References & Bibliography
-- Fama, E. F. (1970). *Efficient Capital Markets: A Review of Theory and Empirical Work*. The Journal of Finance, 25(2), 383–417. (Analytical Focus: Modern Applications).
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Modern Applications). (Modern Applications Deep Dive Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Modern Applications). (Modern Applications Deep Dive Citation)
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Modern Applications).
-- Nordhaus, W. D. (1992). *Lethal Model 2: The limits to growth revisited*. Brookings Papers on Economic Activity, 1992(2), 1–59. (Analytical Focus: Modern Applications).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Modern Applications).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Modern Applications).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Modern Applications).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Modern Applications).
+- Fama, E. F. (1970). *Efficient Capital Markets: A Review of Theory and Empirical Work*. The Journal of Finance, 25(2), 383–417.
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Modern Applications Deep Dive Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Modern Applications Deep Dive Citation).
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Nordhaus, W. D. (1992). *Lethal Model 2: The limits to growth revisited*. Brookings Papers on Economic Activity, 1992(2), 1–59.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
 ### Contemporary Relevance & 6th K-Wave Convergence
 Modern applications of long-wave theory focus on the emerging 6th Kondratiev wave driven by artificial intelligence, biotechnology, and clean energy:
 - **AI Infrastructure Expansion**: High-density data centers, optical interconnects, and specialized compute clusters form the primary infrastructure of the 6th wave.

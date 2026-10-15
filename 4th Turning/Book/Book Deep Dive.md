@@ -138,12 +138,12 @@ Academic historians and macro-sociologists have raised fundamental empirical obj
 Integrating the Strauss-Howe thesis with modern evolutionary macro-sociology (Turchin, 2016; Modelski, 1987) demonstrates that generational turnings reflect endogenous institutional feedback mechanisms rather than astrological or mystical determinism. When social trust and civic solidarity peak during a High, institutions underinvest in resilience against tail risks. As the generational memory of existential sacrifice fades through the Awakening and Unraveling, structural inequality and elite overproduction destabilize the socio-political equilibrium, culminating inevitably in a systemic Fourth Turning realignment.
 
 ## Academic References & Bibliography
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Book).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Book).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Book).
-- New York Times. (1997). Review: The Fourth Turning by William Strauss and Neil Howe. NYT Book Review. (Analytical Focus: Book).
-- Taleb, N. N. (2007). The Black Swan: The Impact of the Highly Improbable. Random House. (Analytical Focus: Book).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Book).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- New York Times. (1997). Review: The Fourth Turning by William Strauss and Neil Howe. NYT Book Review.
+- Taleb, N. N. (2007). The Black Swan: The Impact of the Highly Improbable. Random House.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 - Fischer, D. H. (1996). *The Great Wave: Price Revolutions and the Rhythm of History*. Oxford University Press.
 - Kramer, L. (1997). Generations and Historical Change. *American Historical Review*, 102(4), 1085-1102.
 - Schlesinger, A. M. (1986). *The Cycles of American History*. Houghton Mifflin.

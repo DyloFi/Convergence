@@ -126,12 +126,12 @@ Popular culture acts as an empirical seismograph for shifting societal moods acr
 The transition in dominant media consumption—from the decentralized irony of late-1990s culture to the moral polarization and existential urgency of the 2010s and 2020s—serves as primary cultural confirmation of the shift into the Crisis mood described by Strauss and Howe.
 
 ## Academic References & Bibliography — Popular Culture Archetypes, Film, Music & Mythmaking
-- Campbell, J. (1949). The Hero with a Thousand Faces. Pantheon Books. (Analytical Focus: Pop Culture References).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Pop Culture References).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Pop Culture References).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Pop Culture References).
-- Vogler, C. (2007). The Writer's Journey: Mythic Structure for Writers. Michael Wiese Productions. (Analytical Focus: Pop Culture References).
-- Zuboff, S. (2019). The Age of Surveillance Capitalism. PublicAffairs. (Analytical Focus: Pop Culture References).
+- Campbell, J. (1949). The Hero with a Thousand Faces. Pantheon Books.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Vogler, C. (2007). The Writer's Journey: Mythic Structure for Writers. Michael Wiese Productions.
+- Zuboff, S. (2019). The Age of Surveillance Capitalism. PublicAffairs.
 ### Longitudinal Semiotic Analysis of Pop Culture Archetypes
 
 Tracing the evolution of iconic pop culture archetypes across the four turnings of the Millennial Saeculum illustrates how popular art prepares societal consciousness for historical trials:

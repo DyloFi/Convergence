@@ -72,19 +72,19 @@ While Kurzweil's LoAR accurately describes specialized domain metrics (such as t
 
 
 ## Academic References & Bibliography
-- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485. (Analytical Focus: Critiques).
-- Bloom, N., Jones, C. I., Van Reenen, J., & Webb, M. (2020). Are ideas getting harder to find?. *American Economic Review*, 110(4), 1104–1144. (Analytical Focus: Critiques).
-- Cowen, T. (2011). *The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Can (Eventually) Feel Better*. Dutton. (Analytical Focus: Critiques).
-- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268. (Analytical Focus: Critiques).
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press. (Analytical Focus: Critiques).
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann. (Analytical Focus: Critiques).
-- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute. (Analytical Focus: Critiques).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Critiques).
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191. (Analytical Focus: Critiques).
-- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377–404. (Analytical Focus: Critiques).
-- Modis, T. (2005). Technological forecasting at the scale of centuries. *Technological Forecasting and Social Change*, 72(1), 45–57. (Analytical Focus: Critiques).
-- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159. (Analytical Focus: Critiques).
-- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *NBER Working Paper*, No. w28441. (Analytical Focus: Critiques).
+- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485.
+- Bloom, N., Jones, C. I., Van Reenen, J., & Webb, M. (2020). Are ideas getting harder to find?. *American Economic Review*, 110(4), 1104–1144.
+- Cowen, T. (2011). *The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Can (Eventually) Feel Better*. Dutton.
+- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268.
+- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.
+- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann.
+- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377–404.
+- Modis, T. (2005). Technological forecasting at the scale of centuries. *Technological Forecasting and Social Change*, 72(1), 45–57.
+- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159.
+- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *NBER Working Paper*, No. w28441.
 
 ## Formal Epistemological and Physical Critique Matrix
 

@@ -105,20 +105,20 @@ As silicon CMOS lithography approaches sub-1.4nm atomic reticle boundaries, the 
 
 
 ## Academic References & Bibliography
-- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485. (Analytical Focus: Law of Accelerating Returns).
-- Cowen, T. (2011). *The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Can (Eventually) Feel Better*. Dutton. (Analytical Focus: Law of Accelerating Returns).
-- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268. (Analytical Focus: Law of Accelerating Returns).
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press. (Analytical Focus: Law of Accelerating Returns).
-- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533. (Analytical Focus: Law of Accelerating Returns).
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann. (Analytical Focus: Law of Accelerating Returns).
-- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute. (Analytical Focus: Law of Accelerating Returns).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Law of Accelerating Returns).
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191. (Analytical Focus: Law of Accelerating Returns).
-- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377–404. (Analytical Focus: Law of Accelerating Returns).
-- Moore, G. E. (1965). Cramming more components onto integrated circuits. *Electronics*, 38(8), 114–117. (Analytical Focus: Law of Accelerating Returns).
-- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159. (Analytical Focus: Law of Accelerating Returns).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Law of Accelerating Returns).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI. (Analytical Focus: Law of Accelerating Returns).
+- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485.
+- Cowen, T. (2011). *The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Can (Eventually) Feel Better*. Dutton.
+- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268.
+- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.
+- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533.
+- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann.
+- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377–404.
+- Moore, G. E. (1965). Cramming more components onto integrated circuits. *Electronics*, 38(8), 114–117.
+- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI.
 - Wetterstrand, K. A. (2021). *DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program*. National Human Genome Research Institute (NHGRI). (Law of Accelerating Returns Overview Citation)
 
 ### Macro-Evolutionary Paradigm Transition Milestones

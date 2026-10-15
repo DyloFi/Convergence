@@ -146,9 +146,9 @@ Empirical validation of saecular turning hypotheses requires establishing rigoro
 5. **Generational Renewal Velocity**: Tracking the replacement rate of aging institutional leaders by younger civic cohorts provides predictive lead-time on imminent reform initiatives.
 
 ## Academic References & Bibliography — Major Academic & Public Controversies Surrounding the Model
-- Bannon, S. (Director). (2010). Generation Zero [Film]. Citizens United Productions. (Analytical Focus: Criticisms and Controversies).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Criticisms and Controversies).
-- Howe, N. (2017). Where Steve Bannon Gets His Worldview. Washington Post Op-Ed. (Analytical Focus: Criticisms and Controversies).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Criticisms and Controversies).
-- New York Times. (2017). Steve Bannon's Apocalyptic Vision for America. NYT Feature. (Analytical Focus: Criticisms and Controversies).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Criticisms and Controversies).
+- Bannon, S. (Director). (2010). Generation Zero [Film]. Citizens United Productions.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2017). Where Steve Bannon Gets His Worldview. Washington Post Op-Ed.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- New York Times. (2017). Steve Bannon's Apocalyptic Vision for America. NYT Feature.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.

@@ -139,12 +139,12 @@ $$\dot{S}_{inst} = \frac{d S_{internal}}{dt} + \oint_{\partial \Omega} \mathbf{J
 During the High turning, external energy inputs maximize order ($\,\dot{S}_{inst} \approx 0\,$), whereas during the Unraveling, institutional friction escalates entropy production. The Fourth Turning acts as an entropy-clearing phase transition, purging deadweight institutional sclerosis through concentrated systemic crisis and resetting social entropy to minimum baseline levels.
 
 ## Academic References & Bibliography — Core Axioms & Mechanics of Generational Dynamics
-- Goldstone, J. A. (1991). Revolution and Rebellion in the Early Modern World. University of California Press. (Analytical Focus: Core 4th Turning Theory).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Core 4th Turning Theory).
-- Howe, N. (2023). The Fourth Turning Is Here: What the Seasons of History Tell Us About Where We Are Headed. Simon & Schuster. (Analytical Focus: Core 4th Turning Theory).
-- Olson, M. (1982). The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities. Yale University Press. (Analytical Focus: Core 4th Turning Theory).
-- Skocpol, T. (1979). States and Social Revolutions. Cambridge University Press. (Analytical Focus: Core 4th Turning Theory).
-- Turchin, P. (2003). Historical Dynamics: Why States Rise and Fall. Princeton University Press. (Analytical Focus: Core 4th Turning Theory).
+- Goldstone, J. A. (1991). Revolution and Rebellion in the Early Modern World. University of California Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here: What the Seasons of History Tell Us About Where We Are Headed. Simon & Schuster.
+- Olson, M. (1982). The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities. Yale University Press.
+- Skocpol, T. (1979). States and Social Revolutions. Cambridge University Press.
+- Turchin, P. (2003). Historical Dynamics: Why States Rise and Fall. Princeton University Press.
 - Acemoglu, D., & Robinson, J. A. (2012). Why Nations Fail: The Origins of Power, Prosperity, and Poverty. Crown Business.
 - North, D. C., Wallis, J. J., & Weingast, B. R. (2009). Violence and Social Orders. Cambridge University Press.
 - Putnam, R. D. (2000). Bowling Alone: The Collapse and Revival of American Community. Simon & Schuster.

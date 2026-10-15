@@ -137,12 +137,12 @@ Corporate leadership, institutional endowments, and strategic planners must exec
 3. **Positioning for the High**: Securing early strategic positions in foundational technologies and infrastructure poised to drive the post-crisis economic expansion.
 
 ## Academic References & Bibliography — Structural Scenario Modeling for 2026–2035+ Climax
-- Bostrom, N. (2014). Superintelligence. Oxford University Press. (Analytical Focus: Future Scenarios).
-- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster. (Analytical Focus: Future Scenarios).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Future Scenarios).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Future Scenarios).
-- Taleb, N. N. (2007). The Black Swan. Random House. (Analytical Focus: Future Scenarios).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Future Scenarios).
+- Bostrom, N. (2014). Superintelligence. Oxford University Press.
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Taleb, N. N. (2007). The Black Swan. Random House.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Enterprise Strategic Foresight and Systems Literature
 
 - Ansoff, H. I. (1975). Managing strategic surprise by response to weak signals. *California Management Review*, 18(2), 21–33. (Weak signal detection in macroeconomic environments).

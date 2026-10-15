@@ -117,12 +117,12 @@ Where:
 During a Fourth Turning Crisis, the Prophet archetype occupies elderhood, providing uncompromising moral vision; Nomads occupy midlife, delivering pragmatic, unvarnished crisis leadership; Heroes occupy young adulthood, executing large-scale collective mobilization; and Artists occupy youth, sheltered under protective institutional oversight. This specific alignment creates an unprecedented concentration of collective willpower capable of dismantling obsolescent social compacts and founding enduring new orders.
 
 ## Academic References & Bibliography — Structural Dynamics of the 80–100 Year Saeculum
-- Fukuyama, F. (1992). The End of History and the Last Man. Free Press. (Analytical Focus: Generational Cycle Framework).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future, 1584 to 2069. William Morrow & Company. (Analytical Focus: Generational Cycle Framework).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Generational Cycle Framework).
-- Marx, K. (1867). Das Kapital: Kritik der politischen Ökonomie. Verlag von Otto Meissner. (Analytical Focus: Generational Cycle Framework).
-- Toynbee, A. J. (1946). A Study of History (Abridgement by D. C. Somervell). Oxford University Press. (Analytical Focus: Generational Cycle Framework).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Generational Cycle Framework).
+- Fukuyama, F. (1992). The End of History and the Last Man. Free Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future, 1584 to 2069. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Marx, K. (1867). Das Kapital: Kritik der politischen Ökonomie. Verlag von Otto Meissner.
+- Toynbee, A. J. (1946). A Study of History (Abridgement by D. C. Somervell). Oxford University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Historical Precedents and Cohort Replacement Invariants
 
 The biological and social replacement of cohorts functions as the deterministic pacemaker of the saeculum. When a generation that personally experienced the catastrophe of the prior crisis passes out of leadership and public life, the institutional memory buffering society against existential conflict evaporates:

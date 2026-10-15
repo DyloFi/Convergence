@@ -105,12 +105,12 @@ where $\theta_j$ is the phase angle of generation $j$ on the circle of archetype
 - **Kondratiev Capital Deployment**: Generational willingness to undertake massive state-sponsored capital investment peaks during the Fourth Turning / K-Wave Winter transition, laying the infrastructure for the next 50-year techno-economic surge.
 
 ## Academic References & Bibliography
-- Foucault, M. (1972). The Archaeology of Knowledge. Pantheon Books. (Analytical Focus: Generational Theory).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Generational Theory).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Generational Theory).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Generational Theory).
-- Nelson, R. R., & Winter, S. G. (1982). An Evolutionary Theory of Economic Change. Harvard University Press. (Analytical Focus: Generational Theory).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Generational Theory).
+- Foucault, M. (1972). The Archaeology of Knowledge. Pantheon Books.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Nelson, R. R., & Winter, S. G. (1982). An Evolutionary Theory of Economic Change. Harvard University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Structural Dynamics of Inter-Generational Power Transitions
 
 The friction that accompanies the transfer of political, economic, and cultural dominance between successive cohorts represents one of the most volatile phase transitions in human history:

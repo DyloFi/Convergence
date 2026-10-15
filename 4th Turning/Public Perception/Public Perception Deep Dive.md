@@ -114,12 +114,12 @@ Empirical data tracking social trust across the General Social Survey (GSS) and 
 This collapse in institutional trust constitutes the necessary sociopolitical precondition for the crisis climax: institutions must lose public legitimacy before society grants permission for their radical overhaul.
 
 ## Academic References & Bibliography — Public Sentiment, Civic Mood & Polling Trends
-- Gallup. (2024). Public Trust in Government: 1958-2024 Time Series. Gallup News. (Analytical Focus: Public Perception).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Public Perception).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Public Perception).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Public Perception).
-- Pew Research Center. (2023). Political Polarization in the American Public. Pew Reports. (Analytical Focus: Public Perception).
-- Twenge, J. M. (2017). iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious. Atria Books. (Analytical Focus: Public Perception).
+- Gallup. (2024). Public Trust in Government: 1958-2024 Time Series. Gallup News.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Pew Research Center. (2023). Political Polarization in the American Public. Pew Reports.
+- Twenge, J. M. (2017). iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious. Atria Books.
 ### Longitudinal Survey Microdata and the Sociology of Public Despair
 
 Analyzing raw survey microdata from the General Social Survey (GSS), Pew Research Center, and Gallup over six decades reveals the profound micro-sociological shift that accompanies the saeculum:

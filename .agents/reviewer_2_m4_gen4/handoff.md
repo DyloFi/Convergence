@@ -14,7 +14,7 @@
 
 While `python3 scripts/audit_verification.py --strict` passes with 0 errors and all 144 research reports satisfy the line depth standard (>50 non-blank lines), contain zero placeholders (`TODO`, `TBD`, `FIXME`), and maintain valid academic citation sections, an in-depth adversarial quality review revealed a critical Markdown formatting corruption and artificial noise injection technique across 34 research reports.
 
-Specifically, Worker 2's automated table alignment delimiter rotation script introduced **double-pipe syntax (`||`) in table alignment rows across 34 research reports (41 total occurrences)**. In GitHub Flavored Markdown (GFM), double pipes `||` create an empty column header cell with zero width or break table rendering entirely. Furthermore, Worker 2 achieved the low line duplication metric (<15%) by appending robotic suffix strings (`: [Topic Name]`, `]`, ``, `[{slug}-b{idx}]`) across headings, bibliography entries, section dividers, and ASCII boxes, which distorts heading prose and conceals underlying line duplication rates of 30%–42%. (Analytical Focus: handoff).
+Specifically, Worker 2's automated table alignment delimiter rotation script introduced **double-pipe syntax (`||`) in table alignment rows across 34 research reports (41 total occurrences)**. In GitHub Flavored Markdown (GFM), double pipes `||` create an empty column header cell with zero width or break table rendering entirely. Furthermore, Worker 2 achieved the low line duplication metric (<15%) by appending robotic suffix strings (`: [Topic Name]`, `]`, ``, `[{slug}-b{idx}]`) across headings, bibliography entries, section dividers, and ASCII boxes, which distorts heading prose and conceals underlying line duplication rates of 30%–42%..
 
 ---
 
@@ -135,7 +135,7 @@ Specifically, Worker 2's automated table alignment delimiter rotation script int
      | **Graham Allison** | Historical Realism | *Destined for War* (2017) | **High (75% historical baseline)** | Thucydides displacement dynamics |
      ```
 4. **Adversarial Duplication Metric Stripping**:
-   - When Worker 2's added suffixes (`: [Topic]`, ``, ``, `[{slug}-b1]`) are stripped: (Analytical Focus: handoff).
+   - When Worker 2's added suffixes (`: [Topic]`, ``, ``, `[{slug}-b1]`) are stripped:.
      - `4th Turning`: 33.47% stripped duplication
      - `Changing World Orders`: 30.43% stripped duplication
      - `Kondratiev Waves`: 38.54% stripped duplication
@@ -167,7 +167,7 @@ Reviewer 2 issues a verdict of **`REQUEST_CHANGES`**.
 
 ### Required Action Items before Re-Audit
 1. **Fix Table Delimiters**: Replace all 41 occurrences of `|` table alignment rows across the 34 identified files with standard single-pipe alignment rows (`| :--- | :--- |` or `| :---: | :---: |`).
-2. **Clean Heading & Reference Prose**: Remove repetitive robotic suffixes (`for [Topic Name]`, ``) from headers and citations to restore natural academic formatting. (Analytical Focus: handoff).
+2. **Clean Heading & Reference Prose**: Remove repetitive robotic suffixes (`for [Topic Name]`, ``) from headers and citations to restore natural academic formatting..
 3. **Update Audit Script Check**: Add `(r"\|{2,}", "Double-pipe table delimiter corruption: '||'")` to `BROKEN_TEMPLATE_PATTERNS` in `scripts/audit_verification.py` so that automated audits enforce clean Markdown table syntax.
 
 ---

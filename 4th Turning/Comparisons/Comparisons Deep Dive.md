@@ -131,12 +131,12 @@ $$\chi_{crisis} = \lim_{t \to t_c} \frac{\sigma_{institutional}}{\left| 1 - \sum
 This structural resonance demonstrates that Fourth Turning crises are not insular cultural phenomena, but rather macro-institutional phase transitions precipitated by the simultaneous exhaustion of civic order, techno-economic deployment paradigms, and balance sheet capacity.
 
 ## Academic References & Bibliography
-- Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press. (Analytical Focus: Comparisons).
-- Comte, A. (1830). Course of Positive Philosophy. Bachelier. (Analytical Focus: Comparisons).
-- Fukuyama, F. (1992). The End of History and the Last Man. Free Press. (Analytical Focus: Comparisons).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Comparisons).
-- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf. (Analytical Focus: Comparisons).
-- Toynbee, A. J. (1946). A Study of History. Oxford University Press. (Analytical Focus: Comparisons).
+- Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press.
+- Comte, A. (1830). Course of Positive Philosophy. Bachelier.
+- Fukuyama, F. (1992). The End of History and the Last Man. Free Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf.
+- Toynbee, A. J. (1946). A Study of History. Oxford University Press.
 - Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press.
 - Arrighi, G. (1994). The Long Twentieth Century: Money, Power, and the Origins of Our Times. Verso.
 - Chase-Dunn, C., & Podobnik, B. (1995). The Next World War: World-System Cycles and Trends. Journal of World-Systems Research, 1(1), 1-47.

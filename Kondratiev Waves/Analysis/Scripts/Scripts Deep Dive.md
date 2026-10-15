@@ -137,13 +137,13 @@ To safeguard empirical integrity, all time-series scripts in the analysis pipeli
 3. **Software Architecture and Algorithmic Robustness**: Automated testing harnesses execute parameter sweeps over lead-lag truncation parameters $K \in [8, 24]$ quarters to ensure identified cycle boundaries are invariant to window boundary choices.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Scripts). (Scripts Deep Dive Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Scripts). (Scripts Deep Dive Citation)
-- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Analytical Focus: Scripts).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Scripts).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Scripts).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Scripts).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Scripts).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Scripts Deep Dive Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Scripts Deep Dive Citation).
+- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
 - Beveridge, S., & Nelson, C. R. (1981). *A New Approach to Decomposition of Economic Time Series*. Journal of Monetary Economics, 7(2), 151-174. (Scripts Empirical Model).
 - Hamilton, J. D. (2018). *Why You Should Never Use the Hodrick-Prescott Filter*. Review of Economics and Statistics, 100(5), 831-843. (Scripts Filter Analysis).
 - Torrence, C., & Compo, G. P. (1998). *A Practical Guide to Wavelet Analysis*. Bulletin of the American Meteorological Society, 79(1), 61-78. (Scripts Wavelet Specification).

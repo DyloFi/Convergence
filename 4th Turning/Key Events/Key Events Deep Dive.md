@@ -114,12 +114,12 @@ The chronological progression of the Millennial Fourth Turning follows a multi-s
 - **2022-Present (Geopolitical Escalation):** Outbreak of peer-state land war in Europe, escalation of Middle Eastern conflict, and systemic technological bifurcation between the West and Eurasia.
 
 ## Academic References & Bibliography
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Key Events).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Key Events).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Key Events).
-- McPherson, J. M. (1988). Battle Cry of Freedom. Oxford University Press. (Analytical Focus: Key Events).
-- Taleb, N. N. (2007). The Black Swan. Random House. (Analytical Focus: Key Events).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Key Events).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- McPherson, J. M. (1988). Battle Cry of Freedom. Oxford University Press.
+- Taleb, N. N. (2007). The Black Swan. Random House.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Phase Transitions, Criticality, and Non-Linear Crisis Dynamics
 
 Applying complexity science to historical key events illuminates why Fourth Turning climaxes unfold with sudden, non-linear velocity after decades of gradual institutional decay:

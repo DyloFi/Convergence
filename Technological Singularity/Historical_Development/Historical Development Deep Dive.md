@@ -137,16 +137,16 @@ Historical compute trajectory demonstrates that algorithmic innovations consiste
 
 ## 5. Academic References & Bibliography (Historical Development)
 
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Historical Development).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Historical Development).
-- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*. (Analytical Focus: Historical Development).
-- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88. (Analytical Focus: Historical Development).
-- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., ... & Amodei, D. (2020). Scaling Laws for Neural Language Models. *arXiv preprint arXiv:2001.08361*. (Analytical Focus: Historical Development).
-- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. *NeurIPS*, 25. (Analytical Focus: Historical Development).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Historical Development).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Historical Development).
-- Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning Representations by Back-Propagating Errors. *Nature*, 323(6088), 533–536. (Analytical Focus: Historical Development).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*. (Analytical Focus: Historical Development).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Historical Development).
-- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460. (Analytical Focus: Historical Development).
-- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention Is All You Need. *NeurIPS*, 30. (Analytical Focus: Historical Development).
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*.
+- Good, I. J. (1965). Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88.
+- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., ... & Amodei, D. (2020). Scaling Laws for Neural Language Models. *arXiv preprint arXiv:2001.08361*.
+- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. *NeurIPS*, 25.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning Representations by Back-Propagating Errors. *Nature*, 323(6088), 533–536.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *IEEE AICAS*.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460.
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention Is All You Need. *NeurIPS*, 30.

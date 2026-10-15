@@ -137,16 +137,16 @@ $$p_{\text{audit}}^* = \frac{C_{\text{defect}}}{V_{\text{detect}} - V_{\text{eva
 
 ## 5. Academic References & Bibliography (Policy Implications)
 
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Policy Implications).
-- Dafoe, A. (2018). AI Governance: A Research Agenda. *Center for the Governance of AI, Future of Humanity Institute*. (Analytical Focus: Policy Implications).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Policy Implications).
-- Fish, A., & Heim, L. (2023). Hardware Governance: Technical Mechanisms for AI Control. *Centre for the Governance of AI*. (Analytical Focus: Policy Implications).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Policy Implications).
-- Maas, M. M. (2019). How Viable is International AI Governance? Lessons from Nuclear Non-Proliferation. *International Studies Review*, 21(3), 471–493. (Analytical Focus: Policy Implications).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Policy Implications).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Policy Implications).
-- Shavit, Y. (2023). What Does It Take to Catch a Supercomputer? Hardware-Enabled Governance for AI Safety. *arXiv preprint arXiv:2303.11341*. (Analytical Focus: Policy Implications).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Policy Implications).
-- Wright, G. (2020). Strategic Compute Governance and Export Controls in Multipolar Regimes. *Georgetown CSET Policy Brief*. (Analytical Focus: Policy Implications).
-- Shavit, Y. (2023). What Does It Take to Catch a Chariot on Fire? Hardware Verification Protocols for Frontier AI. *arXiv preprint arXiv:2303.11341*. (Analytical Focus: Policy Implications).
-- Farrell, H., & Newman, A. L. (2019). Weaponized Interdependence: How Global Economic Networks Shape State Coercion. *International Security*, 44(1), 42–79. (Analytical Focus: Policy Implications).
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Dafoe, A. (2018). AI Governance: A Research Agenda. *Center for the Governance of AI, Future of Humanity Institute*.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Fish, A., & Heim, L. (2023). Hardware Governance: Technical Mechanisms for AI Control. *Centre for the Governance of AI*.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Maas, M. M. (2019). How Viable is International AI Governance? Lessons from Nuclear Non-Proliferation. *International Studies Review*, 21(3), 471–493.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Shavit, Y. (2023). What Does It Take to Catch a Supercomputer? Hardware-Enabled Governance for AI Safety. *arXiv preprint arXiv:2303.11341*.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Wright, G. (2020). Strategic Compute Governance and Export Controls in Multipolar Regimes. *Georgetown CSET Policy Brief*.
+- Shavit, Y. (2023). What Does It Take to Catch a Chariot on Fire? Hardware Verification Protocols for Frontier AI. *arXiv preprint arXiv:2303.11341*.
+- Farrell, H., & Newman, A. L. (2019). Weaponized Interdependence: How Global Economic Networks Shape State Coercion. *International Security*, 44(1), 42–79.

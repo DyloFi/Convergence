@@ -134,12 +134,12 @@ $$\frac{\partial \Phi}{\partial t} = D_g \nabla^2 \Phi + \mu \Phi (1 - \Phi^2) -
 where $D_g$ represents generational diffusion across age strata, $\mu$ governs peer personality institutional cohesion, and $\kappa A_k(t)$ encapsulates the active Archetype influence tensor. The four turnings correspond to the limit cycles of this non-equilibrium dynamical system, ensuring that social mood inevitably traverses the sequence: High (civic consolidation), Awakening (spiritual rebellion), Unraveling (atomized decadence), and Crisis (existential realignment).
 
 ## Academic References & Bibliography
-- Censorinus. (238 CE). De Die Natali (On the Birth Day). Horace Translation Press. (Analytical Focus: Concept).
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Concept).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Concept).
-- Polybius. (1889). The Histories of Polybius (F. O. Shuckburgh, Trans.). Macmillan. (Analytical Focus: Concept).
-- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf. (Analytical Focus: Concept).
-- Turchin, P. (2016). Ages of Discord: A Structural-Demographic Analysis of American History. Beresta Books. (Analytical Focus: Concept).
+- Censorinus. (238 CE). De Die Natali (On the Birth Day). Horace Translation Press.
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Polybius. (1889). The Histories of Polybius (F. O. Shuckburgh, Trans.). Macmillan.
+- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf.
+- Turchin, P. (2016). Ages of Discord: A Structural-Demographic Analysis of American History. Beresta Books.
 - Ryder, N. B. (1965). The Cohort as a Concept in the Study of Social Change. American Sociological Review, 30(6), 843-861.
 - Inglehart, R. (1977). The Silent Revolution: Changing Values and Political Styles Among Western Publics. Princeton University Press.
 - Elder, G. H., Jr. (1998). Children of the Great Depression: Social Change in Life Experience. Westview Press.

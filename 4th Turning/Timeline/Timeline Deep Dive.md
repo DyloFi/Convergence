@@ -107,12 +107,12 @@ The Millennial Saeculum represents a textbook realization of the four-phase hist
 This timeline demonstrates that the current crisis is neither accidental nor unprecedented; it is the natural culmination of an 80-year saecular journey toward institutional rebirth.
 
 ## Academic References & Bibliography
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Timeline).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Timeline).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Timeline).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Timeline).
-- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf. (Analytical Focus: Timeline).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Timeline).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Critical Path Analysis and Scenario Roadmap for the 2026–2035 Climax
 
 The Millennial Fourth Turning follows an intricate critical path sequence where accumulated fiscal and institutional contradictions are resolved through a series of interlocking milestones:

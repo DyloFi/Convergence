@@ -126,12 +126,12 @@ $$I(C_t; C_{t-2}) = \sum_{i,j} P(c_{t,i}, c_{t-2,j}) \log_2 \frac{P(c_{t,i}, c_{
 exceeds empirical permutation null bounds ($p < 0.01$) across independent historical cross-sections. Establishing explicit statistical decision boundaries transforms the generational framework from a speculative narrative taxonomy into a quantitatively bounded historical hypothesis subject to rigorous econometric scrutiny.
 
 ## Academic References & Bibliography — Methodological & Historiographical Critiques
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Criticism).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Criticism).
-- Mannheim, K. (1952). The Problem of Generations. Essays on the Sociology of Knowledge, 24-67. (Analytical Focus: Criticism).
-- Schlesinger, A. M., Jr. (1991). Ideas and History. The Atlantic Monthly, 267(4), 120-123. (Analytical Focus: Criticism).
-- Wilentz, S. (1997). Over the Horizon. The New Republic, 216(12), 32-37. (Analytical Focus: Criticism).
-- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press. (Analytical Focus: Criticism).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Mannheim, K. (1952). The Problem of Generations. Essays on the Sociology of Knowledge, 24-67.
+- Schlesinger, A. M., Jr. (1991). Ideas and History. The Atlantic Monthly, 267(4), 120-123.
+- Wilentz, S. (1997). Over the Horizon. The New Republic, 216(12), 32-37.
+- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press.
 - Mason, K. O., Mason, W. M., Winsborough, H. H., & Poole, W. K. (1973). Some Methodological Issues in Cohort Analysis of Archival Data. American Sociological Review, 38(2), 242-258.
 - Fienberg, S. E., & Mason, W. M. (1985). Specification and Implementation of Age, Period and Cohort Models. In Cohort Analysis in Social Research (pp. 45-88). Springer.
 - Glenn, N. D. (2005). Cohort Analysis. SAGE Publications.

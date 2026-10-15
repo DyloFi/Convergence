@@ -124,12 +124,12 @@ Where:
 Empirical calibration against historical Fourth Turning balance sheet contractions (1933–1944) validates that real capital returns diverge sharply from financial paper claims, rewarding capital deployed into physical production, automated energy generation, and local industrial manufacturing.
 
 ## Academic References & Bibliography — Comprehensive Strategic Roadmap for Crisis Navigation
-- Christensen, C. M. (1997). The Innovator's Dilemma. Harvard Business School Press. (Analytical Focus: Modern Applications Comprehensive Research).
-- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster. (Analytical Focus: Modern Applications Comprehensive Research).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Modern Applications Comprehensive Research).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Modern Applications Comprehensive Research).
-- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House. (Analytical Focus: Modern Applications Comprehensive Research).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Modern Applications Comprehensive Research).
+- Christensen, C. M. (1997). The Innovator's Dilemma. Harvard Business School Press.
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Longitudinal Quantitative Evaluation of Multi-Sector Adaptation
 
 To validate the empirical resilience of corporations adopting generational planning models, cross-sectional balance sheet telemetry from over 1,200 publicly listed firms was tracked across historical turning boundaries:

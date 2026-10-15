@@ -121,12 +121,12 @@ This comprehensive research repository constitutes a publication-grade academic 
 Each monograph integrates seamlessly into the broader Convergence Master Synthesis, establishing direct cross-cycle coupling with Kondratiev Wave cycles, the Law of Accelerating Returns, Ray Dalio's Changing World Order frameworks, and Technological Singularity paradigms.
 
 ## Master Directory References, Archival Repositories & Bibliography
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: README).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: README).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: README).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: README).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: README).
-- Convergence Research Project. (2026). Master Repository Standards. Internal Monograph. (Analytical Focus: README).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Convergence Research Project. (2026). Master Repository Standards. Internal Monograph.
 ### Methodological Governance and Verification Architecture
 
 To guarantee that the 54 monographs within the 4th Turning repository meet the highest academic, empirical, and intellectual standards, an automated verification pipeline enforces rigorous quality gates across the corpus:

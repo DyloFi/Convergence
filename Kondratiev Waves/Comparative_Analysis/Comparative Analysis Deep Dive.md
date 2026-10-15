@@ -134,18 +134,18 @@ Comparing Kondratiev long waves with adjacent historical and technological cycli
 3. **Convergence Super-Cycle Hypothesis**: When the downswing of a Kondratiev wave, a Strauss-Howe Crisis era, and a Dalio debt deleveraging phase coincide chronologically (as observed in 1929-1945 and projected for the late 2020s), institutional restructuring occurs at unprecedented global scale.
 
 ## Academic References & Bibliography
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail*. Avid Reader Press. (Analytical Focus: Comparative Analysis).
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Comparative Analysis). (Comparative Analysis Deep Dive Citation)
-- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press. (Analytical Focus: Comparative Analysis).
-- Juglar, C. (1862). *Des Crises Commerciales et de leur Retour Périodique en France, en Angleterre et aux États-Unis*. Guillaumin. (Analytical Focus: Comparative Analysis).
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Comparative Analysis). (Comparative Analysis Deep Dive Citation)
-- Kuznets, S. (1930). *Secular Movements in Production and Prices*. Houghton Mifflin. (Analytical Focus: Comparative Analysis).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Comparative Analysis).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Comparative Analysis).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Comparative Analysis).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Comparative Analysis).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Comparative Analysis).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Crown. (Analytical Focus: Comparative Analysis).- Dalio, R. (2018). *A Template for Understanding Big Debt Crises*. Bridgewater. (Comparative Debt Template).
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail*. Avid Reader Press.
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Comparative Analysis Deep Dive Citation).
+- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press.
+- Juglar, C. (1862). *Des Crises Commerciales et de leur Retour Périodique en France, en Angleterre et aux États-Unis*. Guillaumin.
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Comparative Analysis Deep Dive Citation).
+- Kuznets, S. (1930). *Secular Movements in Production and Prices*. Houghton Mifflin.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Crown.- Dalio, R. (2018). *A Template for Understanding Big Debt Crises*. Bridgewater. (Comparative Debt Template).
 - Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking. (Comparative Paradigm Accelerations).
 - Modelski, G. (1987). *Long Cycles in World Politics*. University of Washington Press. (Comparative Political Cycles).
 - Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Comparative Generational Saeculum).

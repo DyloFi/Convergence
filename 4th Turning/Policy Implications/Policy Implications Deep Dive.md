@@ -126,12 +126,12 @@ Translating saecular turning theory into actionable public governance requires i
 Public sector resilience during the Fourth Turning necessitates establishing counter-cyclical institutional buffers before social trust reaches its nadir. Policy failures in late Unraveling eras typically stem from attempting consensus-driven reforms when civic solidarity has already deteriorated below functional operational thresholds.
 
 ## Academic References & Bibliography — Public Policy, State Expansion & Regulatory Resets
-- Buchanan, J. M., & Tullock, G. (1962). The Calculus of Consent. University of Michigan Press. (Analytical Focus: Policy Implications).
-- Higgs, R. (1987). Crisis and Leviathan: Critical Episodes in the Growth of American Government. Oxford University Press. (Analytical Focus: Policy Implications).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Policy Implications).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Policy Implications).
-- Skocpol, T. (1979). States and Social Revolutions. Cambridge University Press. (Analytical Focus: Policy Implications).
-- Sunstein, C. R. (2004). The Second Bill of Rights. Basic Books. (Analytical Focus: Policy Implications).
+- Buchanan, J. M., & Tullock, G. (1962). The Calculus of Consent. University of Michigan Press.
+- Higgs, R. (1987). Crisis and Leviathan: Critical Episodes in the Growth of American Government. Oxford University Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Skocpol, T. (1979). States and Social Revolutions. Cambridge University Press.
+- Sunstein, C. R. (2004). The Second Bill of Rights. Basic Books.
 ### Legislative Architecture and Sovereign Statutory Transformation
 
 During a Fourth Turning climax, the sovereign legislative agenda transforms from defensive procedural gridlock into aggressive statutory restructuring:

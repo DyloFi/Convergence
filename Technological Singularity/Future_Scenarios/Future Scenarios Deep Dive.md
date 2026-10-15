@@ -141,16 +141,16 @@ $$V(\mathbf{s}) = \sum_{k=1}^K \omega_k (s_k - s_k^*)^2, \quad \frac{dV}{dt} < 0
 
 ## 5. Academic References & Bibliography (Future Scenarios)
 
-- Bostrom, N. (2006). What is a Singleton? *Linguistic and Philosophical Investigations*, 5(2), 48–54. (Analytical Focus: Future Scenarios).
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Future Scenarios).
-- Critch, A., & Russell, S. (2023). Service-Oriented AGI Architectures and Multi-Agent Governance. *arXiv preprint arXiv:2307.02508*. (Analytical Focus: Future Scenarios).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Future Scenarios).
-- Hanson, R. (2016). *The Age of Em: Work, Love, and Life when Robots Rule the Earth*. Oxford University Press. (Analytical Focus: Future Scenarios).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Future Scenarios).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Future Scenarios).
-- Rawls, J. (1971). *A Theory of Justice*. Harvard University Press. (Analytical Focus: Future Scenarios).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Future Scenarios).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Future Scenarios).
-- Tegmark, M. (2017). *Life 3.0: Being Human in the Age of Artificial Intelligence*. Knopf. (Analytical Focus: Future Scenarios).
-- Tennenholtz, M. (2004). Program Equilibrium. *Games and Economic Behavior*, 49(2), 363–373. (Analytical Focus: Future Scenarios).
-- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press. (Analytical Focus: Future Scenarios).
+- Bostrom, N. (2006). What is a Singleton? *Linguistic and Philosophical Investigations*, 5(2), 48–54.
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Critch, A., & Russell, S. (2023). Service-Oriented AGI Architectures and Multi-Agent Governance. *arXiv preprint arXiv:2307.02508*.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Hanson, R. (2016). *The Age of Em: Work, Love, and Life when Robots Rule the Earth*. Oxford University Press.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Rawls, J. (1971). *A Theory of Justice*. Harvard University Press.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Tegmark, M. (2017). *Life 3.0: Being Human in the Age of Artificial Intelligence*. Knopf.
+- Tennenholtz, M. (2004). Program Equilibrium. *Games and Economic Behavior*, 49(2), 363–373.
+- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press.

@@ -84,16 +84,16 @@ The conceptual foundation of long-wave theory anchors key causal loops within Co
 - **Crisis Timing and Generational Shifts**: The systemic exhaustion of mature techno-economic paradigms matches the social and cultural vulnerability characterized by Strauss-Howe Fourth Turnings.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: README). (README Citation) (Concept Module Citation)
-- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press. (Analytical Focus: README).
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: README). (README Citation) (Concept Module Citation)
-- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Analytical Focus: README). (Concept Module Citation)
-- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company. (Analytical Focus: README).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: README). (Concept Module Citation)
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: README). (Concept Module Citation)
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: README). (Concept Module Citation)
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: README). (Concept Module Citation)
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: README). (Concept Module Citation)
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (README Citation) (Concept Module Citation).
+- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press.
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (README Citation) (Concept Module Citation).
+- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Concept Module Citation).
+- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Concept Module Citation).
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Concept Module Citation).
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Concept Module Citation).
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Concept Module Citation).
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Concept Module Citation).
 - Trotsky, L. (1923). *The Curve of Capitalist Development*. Pravda (June 1923). (Concept Module Citation)
 ### Analytical Framework and Methodological Protocols of the Concept Pillar
 The analytical architecture of the Concept research pillar integrates three distinct methodological domains to ensure empirical falsifiability and rigorous quantitative modeling across long-wave macroeconomic phenomena:

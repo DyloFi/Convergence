@@ -119,12 +119,12 @@ The media architecture of a Fourth Turning undergoes radical disintermediation. 
 The breakdown of shared factual baselines accelerates the crisis climax by impeding negotiated political settlements, thereby necessitating decisive institutional consolidation to impose civic order.
 
 ## Academic References & Bibliography
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Media).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Media).
-- McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill. (Analytical Focus: Media).
-- Postman, N. (1985). Amusing Ourselves to Death: Public Discourse in the Age of Show Business. Viking. (Analytical Focus: Media).
-- Wu, T. (2010). The Master Switch: The Rise and Fall of Information Empires. Alfred A. Knopf. (Analytical Focus: Media).
-- Zuboff, S. (2019). The Age of Surveillance Capitalism. PublicAffairs. (Analytical Focus: Media).
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill.
+- Postman, N. (1985). Amusing Ourselves to Death: Public Discourse in the Age of Show Business. Viking.
+- Wu, T. (2010). The Master Switch: The Rise and Fall of Information Empires. Alfred A. Knopf.
+- Zuboff, S. (2019). The Age of Surveillance Capitalism. PublicAffairs.
 ### Historical Media Ecology Case Studies Across Anglo-American Saecula
 
 A longitudinal evaluation of media regimes across historical Fourth Turnings confirms that the communications architecture is transformed during each systemic climax:

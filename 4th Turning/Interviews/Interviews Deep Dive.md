@@ -111,12 +111,12 @@ In conducting qualitative generational cohort assessments, researchers must dist
 Interview archives validate the core theoretical proposition: as cohorts age into successive life stages, their psychological priorities shift from self-actualization toward collective legacy, driving the institutional transformations characteristic of fourth-turning climaxes.
 
 ## Academic References & Bibliography
-- C-SPAN Archives. (1991). Booknotes: Interview with William Strauss and Neil Howe on Generations. C-SPAN Video Library. (Analytical Focus: Interviews).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Interviews).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Interviews).
-- Howe, N. (2008). Interview on Global Financial Catalyst and the Fourth Turning. Yahoo Finance Press. (Analytical Focus: Interviews).
-- Howe, N. (2023). The Fourth Turning Is Here: Media Tour Transcripts. Simon & Schuster Media. (Analytical Focus: Interviews).
-- National Press Club. (1997). Luncheon Address by Neil Howe and William Strauss. NPC Archives. (Analytical Focus: Interviews).
+- C-SPAN Archives. (1991). Booknotes: Interview with William Strauss and Neil Howe on Generations. C-SPAN Video Library.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2008). Interview on Global Financial Catalyst and the Fourth Turning. Yahoo Finance Press.
+- Howe, N. (2023). The Fourth Turning Is Here: Media Tour Transcripts. Simon & Schuster Media.
+- National Press Club. (1997). Luncheon Address by Neil Howe and William Strauss. NPC Archives.
 ### Longitudinal Synthesis of Generational Field Interviews
 
 Analyzing extended interview transcripts across three decades of field research provides an intimate qualitative record of how citizens across different birth cohorts internalize macro-historical shifts:

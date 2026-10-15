@@ -118,12 +118,12 @@ In operationalizing fourth-turning strategic doctrine, institutional leaders mus
 By institutionalizing these redundancy layers prior to the crisis climax, institutions preserve sovereign operational autonomy while fragile competitors collapse under regulatory and macro-economic strain.
 
 ## Academic References & Bibliography — Enterprise, Policy & Institutional Adaptation in 2026+
-- Dalio, R. (2018). Principles for Navigating Big Debt Crises. Bridgewater Publishing. (Analytical Focus: Modern Applications).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Modern Applications).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Modern Applications).
-- Ries, E. (2011). The Lean Startup. Crown Business. (Analytical Focus: Modern Applications).
-- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House. (Analytical Focus: Modern Applications).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Modern Applications).
+- Dalio, R. (2018). Principles for Navigating Big Debt Crises. Bridgewater Publishing.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Ries, E. (2011). The Lean Startup. Crown Business.
+- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Sectoral Deep Dives: Manufacturing, Energy, Agriculture, and Defense
 
 Applying the Fourth Turning strategic lens to core productive sectors reveals how capital allocation and competitive dynamics undergo structural regime changes:

@@ -145,9 +145,9 @@ Generational dynamics within the Strauss-Howe architecture exhibit profound math
 - Sorokin, P. A. (1957). *Social and Cultural Dynamics: A Study of Change in Major Systems of Art, Truth, Ethics, Law and Social Relationships*. Extending Horizons Books.
 
 ## Academic References & Bibliography
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Academic Reception).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Academic Reception).
-- Schlesinger, A. M., Jr. (1991). Ideas and History: Review of Generations. The Atlantic Monthly, 267(4), 120-123. (Analytical Focus: Academic Reception).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Academic Reception).
-- Wilentz, S. (1997). Over the Horizon: Review of The Fourth Turning. The New Republic, 216(12), 32-37. (Analytical Focus: Academic Reception).
-- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press. (Analytical Focus: Academic Reception).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Schlesinger, A. M., Jr. (1991). Ideas and History: Review of Generations. The Atlantic Monthly, 267(4), 120-123.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Wilentz, S. (1997). Over the Horizon: Review of The Fourth Turning. The New Republic, 216(12), 32-37.
+- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press.

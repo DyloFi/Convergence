@@ -119,12 +119,12 @@ A rigorous sociological evaluation of the Strauss-Howe cyclical framework requir
 Neutral scholarship therefore situates generational theory alongside Kondratiev long waves and Turchin's structural-demographic secular cycles as complementary lenses for diagnosing systemic institutional vulnerabilities.
 
 ## Methodological References, Epistemological Sources & Literature Cited
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Neutral Analyses).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Neutral Analyses).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Neutral Analyses).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Neutral Analyses).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Neutral Analyses).
-- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press. (Analytical Focus: Neutral Analyses).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press.
 ### Epistemological Synthesis and Formal Methodological Assessment
 
 A rigorous epistemic audit of cyclical historical theories reveals fundamental insights into how cyclical and linear dynamics interact across centuries:

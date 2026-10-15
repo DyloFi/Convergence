@@ -80,16 +80,16 @@ Understanding core LoAR concepts enables decision-makers to anticipate paradigm 
 
 
 ## Academic References & Bibliography
-- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268. (Analytical Focus: Core Concepts).
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann. (Analytical Focus: Core Concepts).
-- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute. (Analytical Focus: Core Concepts).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Core Concepts).
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191. (Analytical Focus: Core Concepts).
-- Mead, C., & Conway, L. (1980). *Introduction to VLSI Systems*. Addison-Wesley. (Analytical Focus: Core Concepts).
-- Moore, G. E. (1965). Cramming more components onto integrated circuits. *Electronics*, 38(8), 114–117. (Analytical Focus: Core Concepts).
-- Moravec, H. (1998). When will computer hardware match the human brain?. *Journal of Evolution and Technology*, 1. (Analytical Focus: Core Concepts).
-- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159. (Analytical Focus: Core Concepts).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI. (Analytical Focus: Core Concepts).
+- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268.
+- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann.
+- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- Mead, C., & Conway, L. (1980). *Introduction to VLSI Systems*. Addison-Wesley.
+- Moore, G. E. (1965). Cramming more components onto integrated circuits. *Electronics*, 38(8), 114–117.
+- Moravec, H. (1998). When will computer hardware match the human brain?. *Journal of Evolution and Technology*, 1.
+- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI.
 
 ## Theoretical Mechanics of S-Curve Stacking Dynamics
 

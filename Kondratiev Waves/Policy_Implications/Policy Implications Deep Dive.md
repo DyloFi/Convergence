@@ -111,16 +111,16 @@ State institutional capacity during long-wave inflection points dictates the tra
 Macroeconomic stabilization during long-wave crises requires coordinating fiscal debt expansion with long-duration capital goods formation rather than consumptive transfers, maintaining long-run productive capacity.
 
 ## Academic References & Bibliography
-- Buchanan, J. M., & Tollison, R. D. (1984). *The Theory of Public Choice II*. University of Michigan Press. (Analytical Focus: Policy Implications).
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Policy Implications). (Policy Implications Deep Dive Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Policy Implications). (Policy Implications Deep Dive Citation)
-- Mandel, E. (1975). *Late Capitalism*. Humanities Press. (Analytical Focus: Policy Implications).
-- Mazzucato, M. (2013). *The Entrepreneurial State: Debunking Public vs. Private Sector Myths*. Anthem Press. (Analytical Focus: Policy Implications).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Policy Implications).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Policy Implications).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Policy Implications).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Policy Implications).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Policy Implications).
+- Buchanan, J. M., & Tollison, R. D. (1984). *The Theory of Public Choice II*. University of Michigan Press.
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Policy Implications Deep Dive Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Policy Implications Deep Dive Citation).
+- Mandel, E. (1975). *Late Capitalism*. Humanities Press.
+- Mazzucato, M. (2013). *The Entrepreneurial State: Debunking Public vs. Private Sector Myths*. Anthem Press.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
 ### Strategic Macroeconomic & Industrial Policy Frameworks
 Understanding long-wave positioning informs national industrial strategy and fiscal-monetary governance:
 - **Counter-Cyclical R&D Capital Injection**: State-backed investment in basic research and infrastructure during wave winters accelerates the irruption phase of emerging technological paradigms.

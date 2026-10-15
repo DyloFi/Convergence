@@ -139,12 +139,12 @@ Integrating classical Strauss-Howe cyclical theory with modern sociological find
 3. **Future Research Horizons**: Expanding comparative cliometric datasets to evaluate generational turning cycles across non-Western civilizational spheres.
 
 ## Academic References & Bibliography — Generational Research
-- Bourdieu, P. (1984). Distinction: A Social Critique of the Judgement of Taste. Harvard University Press. (Analytical Focus: Generational Research).
-- Mason, K. O., et al. (1973). Some Methodological Issues in Cohort Analysis of Archival Data. American Sociological Review, 38(2), 242-258. (Analytical Focus: Generational Research).
-- Pew Research Center. (2021). Gen Z, Millennials and Gen X Stand Out for Climate Change Engagement. Pew Reports. (Analytical Focus: Generational Research).
-- Strauss, W., & Howe, N. (1991). Generations: The History of America's Future, 1584 to 2069. William Morrow & Company. (Analytical Focus: Generational Research).
-- Twenge, J. M. (2017). iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious. Atria Books. (Analytical Focus: Generational Research).
-- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis: New Models, Methods, and Empirical Applications. CRC Press. (Analytical Focus: Generational Research).
+- Bourdieu, P. (1984). Distinction: A Social Critique of the Judgement of Taste. Harvard University Press.
+- Mason, K. O., et al. (1973). Some Methodological Issues in Cohort Analysis of Archival Data. American Sociological Review, 38(2), 242-258.
+- Pew Research Center. (2021). Gen Z, Millennials and Gen X Stand Out for Climate Change Engagement. Pew Reports.
+- Strauss, W., & Howe, N. (1991). Generations: The History of America's Future, 1584 to 2069. William Morrow & Company.
+- Twenge, J. M. (2017). iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious. Atria Books.
+- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis: New Models, Methods, and Empirical Applications. CRC Press.
 ### Methodological Synthesis of Generational Cohort Fieldwork
 Generational research in Strauss-Howe secular theory integrates quantitative demographic surveying with archival historical narrative analysis:
 - **Cohort Boundary Calibration**: Peer personalities are delineated by shared exposure to critical historical turning points (such as economic crises, major foreign wars, or technological irruptions) during childhood and young adulthood.

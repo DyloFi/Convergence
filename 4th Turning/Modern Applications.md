@@ -102,12 +102,12 @@ During a Fourth Turning, $\mu_1$ and $\mu_2$ increase non-linearly. Firms with h
 3. **Decentralized Computing & AI Infrastructure**: Strategic importance as the core technological substrate for Fourth Turning governance and national survival.
 
 ## Academic References & Bibliography
-- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster. (Analytical Focus: Modern Applications).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Modern Applications).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Modern Applications).
-- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House. (Analytical Focus: Modern Applications).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Modern Applications).
-- US Chamber of Commerce. (2024). Supply Chain Resilience & Industrial Strategy. Policy Report. (Analytical Focus: Modern Applications).
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- US Chamber of Commerce. (2024). Supply Chain Resilience & Industrial Strategy. Policy Report.
 ### Executive Implementation Playbook for Corporate and Institutional Resilience
 
 Navigating a Fourth Turning requires a comprehensive transformation of enterprise architecture across governance, operations, finance, and human resources:

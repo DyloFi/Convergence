@@ -90,17 +90,17 @@ Acknowledging robust contradictory evidence strengthens the analytical validity 
 - **Multi-Pillar Triangulation**: Where Kondratiev signals weaken econometrically, triangulation against Strauss-Howe institutional cycles and Dalio debt metrics provides essential cross-validation.
 
 ## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Contradictory Evidence). (Contradictory Evidence Deep Dive Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Contradictory Evidence). (Contradictory Evidence Deep Dive Citation)
-- Kuznets, S. (1930). *Secular Movements in Production and Prices*. Houghton Mifflin. (Analytical Focus: Contradictory Evidence).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Contradictory Evidence).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Contradictory Evidence).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Contradictory Evidence).
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Contradictory Evidence Deep Dive Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Contradictory Evidence Deep Dive Citation).
+- Kuznets, S. (1930). *Secular Movements in Production and Prices*. Houghton Mifflin.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
 - Slutsky, E. (1927). *The Summation of Random Causes as the Source of Cyclic Processes*. Econometrica, 5(2), 105–146 (1937 Translation).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Contradictory Evidence).
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94. (Analytical Focus: Contradictory Evidence).
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
+- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
 - Trotsky, L. (1923). *The Curve of Capitalist Development*. Pravda (June 1923).
-- Yule, G. U. (1927). *On a Method of Investigating Periodicities in Perturbed Series*. Philosophical Transactions of the Royal Society A, 226, 267–298. (Analytical Focus: Contradictory Evidence).
+- Yule, G. U. (1927). *On a Method of Investigating Periodicities in Perturbed Series*. Philosophical Transactions of the Royal Society A, 226, 267–298.
 ### Empirical Counter-Examples & Anomaly Analysis
 Several historical periods present empirical anomalies that diverge from standard Kondratiev wave timing:
 - **Mid-20th Century Post-War Expansion**: The prolonged post-WWII economic boom (1945–1973) exhibited unprecedented growth stability that defied typical long-wave downswing expectations.

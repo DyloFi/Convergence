@@ -5,8 +5,12 @@ Regression test suite for Convergence technical integrity defects:
 2. Absence of corrupted ASCII control characters in markdown dossiers
 3. Hermetic paths (no hardcoded machine user paths in active scripts/dossiers/synthesis/reviews)
 4. Internal link and heading anchor resolution
+5. Absence of boilerplate analytical-focus entries in bibliographies
+6. Citation inventory and verification audit artifact integrity
 """
 
+import csv
+import json
 import os
 import pathlib
 import py_compile
@@ -113,6 +117,44 @@ class TestTechnicalIntegrity(unittest.TestCase):
                         errors.append(f"{md_path.relative_to(ROOT)}: Anchor '#{frag}' not found in {target_path.relative_to(ROOT)}")
                         
         self.assertEqual(errors, [], f"Broken internal links/anchors found: {errors}")
+
+    def test_no_analytical_focus_boilerplate_in_reports(self):
+        """Active research dossiers must not contain template analytical-focus boilerplate in bibliographies."""
+        pattern = re.compile(r'\((?:Analytical Focus|analytical focus):', re.I)
+        violations = []
+        pillars = ["4th Turning", "Changing World Orders", "Kondratiev Waves", "LoAR", "Technological Singularity"]
+        for pillar in pillars:
+            for md_path in (ROOT / pillar).rglob("*.md"):
+                if md_path.name.endswith(".bak.md"):
+                    continue
+                text = md_path.read_text(encoding="utf-8")
+                if pattern.search(text):
+                    violations.append(str(md_path.relative_to(ROOT)))
+        synthesis = ROOT / "Convergence_Master_Synthesis.md"
+        if synthesis.exists():
+            if pattern.search(synthesis.read_text(encoding="utf-8")):
+                violations.append(str(synthesis.relative_to(ROOT)))
+        self.assertEqual(violations, [], f"Analytical focus boilerplate found in: {violations}")
+
+    def test_citation_inventory_and_audit_artifacts_valid(self):
+        """Citation inventory JSON and CITATION_AUDIT CSV must exist, be populated, and verify all sources."""
+        inv_path = ROOT / "audit" / "citations_inventory.json"
+        csv_path = ROOT / "review" / "CITATION_AUDIT.csv"
+        self.assertTrue(inv_path.exists(), "audit/citations_inventory.json must exist")
+        self.assertTrue(csv_path.exists(), "review/CITATION_AUDIT.csv must exist")
+
+        with open(inv_path, "r", encoding="utf-8") as f:
+            inv = json.load(f)
+        self.assertGreater(inv["metadata"]["total_unique_sources"], 100)
+        self.assertGreater(len(inv["sources"]), 100)
+        for s in inv["sources"]:
+            self.assertEqual(s["verification_status"], "verified")
+
+        with open(csv_path, "r", encoding="utf-8") as f:
+            rows = list(csv.DictReader(f))
+        self.assertGreater(len(rows), 100)
+        for r in rows:
+            self.assertEqual(r["verification_status"], "verified")
 
 if __name__ == "__main__":
     unittest.main()

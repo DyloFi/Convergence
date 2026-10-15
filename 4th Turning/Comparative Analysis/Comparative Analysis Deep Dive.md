@@ -138,12 +138,12 @@ $$\frac{dK}{dt} = \gamma_K K \ln\left(\frac{K_{max}}{K}\right) - \delta_K (1 - S
 where $\alpha_S, \beta_S, \gamma_K, \delta_K > 0$ govern the cross-cycle feedback elasticity. Numerical integration confirms that cyclic resonances occur when the phase frequencies satisfy $\omega_S / \omega_K \approx 1.5$, reproducing the historical 80-year saecular crisis rhythm observed across modern history.
 
 ## Academic References & Bibliography
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Comparative Analysis).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Comparative Analysis).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Comparative Analysis).
-- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf. (Analytical Focus: Comparative Analysis).
-- Toynbee, A. J. (1946). A Study of History. Oxford University Press. (Analytical Focus: Comparative Analysis).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Comparative Analysis).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf.
+- Toynbee, A. J. (1946). A Study of History. Oxford University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 - Acemoglu, D., & Robinson, J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Business.
 - Modelski, G. (1987). *Long Cycles in World Politics*. University of Washington Press.
 - Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar.

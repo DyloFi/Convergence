@@ -119,12 +119,12 @@ While the Strauss-Howe cyclical taxonomy was originally formulated from Anglo-Am
 As demonstrated by Spengler (1918) and Toynbee (1934), civilizational life-cycles undergo periodic constitutional crises when spiritual or civic vitality is exhausted by mechanistic statecraft. In the contemporary era, telecommunications networks, cross-border capital flows, and shared supply-chain vulnerabilities have compressed trans-national phase differences, producing an unprecedented global synchronization of fourth-turning institutional vulnerabilities.
 
 ## Academic References & Bibliography — Cross-Cultural Applicability & Global Generational Cycles
-- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster. (Analytical Focus: Global Perspectives).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Global Perspectives).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Global Perspectives).
-- Rostow, W. W. (1960). The Stages of Economic Growth: A Non-Communist Manifesto. Cambridge University Press. (Analytical Focus: Global Perspectives).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Global Perspectives).
-- UN Population Division. (2022). World Population Prospects. United Nations. (Analytical Focus: Global Perspectives).
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Rostow, W. W. (1960). The Stages of Economic Growth: A Non-Communist Manifesto. Cambridge University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- UN Population Division. (2022). World Population Prospects. United Nations.
 ### Cross-Civilizational Comparative Trajectories and Regional Resets
 
 Evaluating generational turning trajectories across diverse cultural spheres highlights how regional demographic realities and governance models modulate the expression of the global crisis:

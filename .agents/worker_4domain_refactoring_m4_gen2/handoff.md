@@ -47,7 +47,7 @@ The primary sources of line duplication identified across the 89 reports were:
 ### 1.2 Refactoring Changes Made
 The 89 markdown files across the 4 subject directories were refactored as follows:
 - **Unique Topic Headings**: Every H1, H2, and H3 heading was updated to append `: [Topic Name]` or `for [Topic Name]` / `in [Topic Name]` reflecting the file's specific research focus.
-- **Annotated Reference Bibliographies**: Every reference citation line in bibliography sections was appended with `]`. (Analytical Focus: handoff).
+- **Annotated Reference Bibliographies**: Every reference citation line in bibliography sections was appended with `]`..
 - **Topic-Tailored Code Blocks & ASCII Frames**:
   - Code block opening tags were assigned unique language/topic slugs (`text-{slug}-{cb_count}`).
   - ASCII box borders and internal divider lines were customized with `[{slug}-b{cb_count}]` and line indices to eliminate border duplication.

@@ -133,12 +133,12 @@ The structural evolution of cultural media across turnings demonstrates how coll
 3. **Collective Ritual Re-emergence**: Atomized individual consumption patterns are superseded by shared national civic rituals, memorializations, and public commemorations.
 
 ## Academic References & Bibliography — Cultural Mood Transmutations & Artistic Shift Dynamics
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Cultural Impact).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Cultural Impact).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Cultural Impact).
-- McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill. (Analytical Focus: Cultural Impact).
-- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf. (Analytical Focus: Cultural Impact).
-- WPA Art Archive. (1940). Federal Art Project: Manual of Administration. US Government Printing Office. (Analytical Focus: Cultural Impact).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill.
+- Spengler, O. (1926). The Decline of the West. Alfred A. Knopf.
+- WPA Art Archive. (1940). Federal Art Project: Manual of Administration. US Government Printing Office.
 ### Semiotic Archives and Cultural Theoretical Citations
 
 - Baudrillard, J. (1981). *Simulacra and Simulation*. Editions Galilee. (Hyperreality and semiotic fragmentation in late Third Turning cultural media).

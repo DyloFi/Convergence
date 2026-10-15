@@ -70,17 +70,17 @@ To ground the conceptual definitions in physical and mathematical reality, Table
 
 
 ## Academic References & Bibliography
-- Amdahl, G. M. (1967). *AFIPS Conf. Proc.*, 30, 483–485. (Analytical Focus: Glossary).
-- Cowen, T. (2011). *The Great Stagnation*. Dutton. (Analytical Focus: Glossary).
-- Dennard, R. H., et al. (1974). *IEEE J. Solid-State Circuits*, 9(5), 256–268. (Analytical Focus: Glossary).
-- Gustafson, J. L. (1988). *CACM*, 31(5), 532–533. (Analytical Focus: Glossary).
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture* (6th ed.). Morgan Kaufmann. (Analytical Focus: Glossary).
-- Kurzweil, R. (2005). *The Singularity Is Near*. Viking. (Analytical Focus: Glossary).
-- Landauer, R. (1961). *IBM J. Res. Dev.*, 5(3), 183–191. (Analytical Focus: Glossary).
-- Moore, G. E. (1965). *Electronics*, 38(8), 114–117. (Analytical Focus: Glossary).
-- Nordhaus, W. D. (2007). *J. Econ. Hist.*, 67(1), 128–159. (Analytical Focus: Glossary).
-- Sevilla, J., et al. (2022). *arXiv:2202.05924*. (Analytical Focus: Glossary).
-- Wetterstrand, K. A. (2021). *NHGRI Genome Sequencing Costs*. (Analytical Focus: Glossary). (Glossary Deep Dive Citation)
+- Amdahl, G. M. (1967). *AFIPS Conf. Proc.*, 30, 483–485.
+- Cowen, T. (2011). *The Great Stagnation*. Dutton.
+- Dennard, R. H., et al. (1974). *IEEE J. Solid-State Circuits*, 9(5), 256–268.
+- Gustafson, J. L. (1988). *CACM*, 31(5), 532–533.
+- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture* (6th ed.). Morgan Kaufmann.
+- Kurzweil, R. (2005). *The Singularity Is Near*. Viking.
+- Landauer, R. (1961). *IBM J. Res. Dev.*, 5(3), 183–191.
+- Moore, G. E. (1965). *Electronics*, 38(8), 114–117.
+- Nordhaus, W. D. (2007). *J. Econ. Hist.*, 67(1), 128–159.
+- Sevilla, J., et al. (2022). *arXiv:2202.05924*.
+- Wetterstrand, K. A. (2021). *NHGRI Genome Sequencing Costs*. (Glossary Deep Dive Citation).
 
 41. **Algorithmic Efficiency Multiplier**: Quantitative reduction in compute requirements $\Phi$ needed to achieve parity performance on standardized benchmarks over time $t$, scaling asymptotically as $\Phi_{\text{req}}(t) \propto e^{-\mu t}$.
 42. **Chinchilla Scaling Optimum**: Formal parametric ratio establishing that token count $D$ and model parameter count $N$ must scale in equal proportion ($D \propto N$) under compute budget constraints $C \propto N \cdot D$.

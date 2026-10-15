@@ -125,15 +125,15 @@ The structural mechanics of long waves link directly to the broader Convergence 
 - **LoAR Compute Acceleration**: Kurzweil's Law of Accelerating Returns represents the envelope curve connecting successive Kondratiev techno-economic paradigms.
 
 ## Academic References & Bibliography
-- Freeman, C., Clark, J., & Soete, L. (1982). *Discontinuity in Innovation: Long Waves and Technological Development*. Frances Pinter. (Analytical Focus: Structural Mechanisms of Long Waves).
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Analytical Focus: Structural Mechanisms of Long Waves). (01 Structural Mechanisms of Long Waves Citation)
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Analytical Focus: Structural Mechanisms of Long Waves). (01 Structural Mechanisms of Long Waves Citation)
-- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115. (Analytical Focus: Structural Mechanisms of Long Waves).
-- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company. (Analytical Focus: Structural Mechanisms of Long Waves).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162. (Analytical Focus: Structural Mechanisms of Long Waves).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing. (Analytical Focus: Structural Mechanisms of Long Waves).
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill. (Analytical Focus: Structural Mechanisms of Long Waves).
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press. (Analytical Focus: Structural Mechanisms of Long Waves).
+- Freeman, C., Clark, J., & Soete, L. (1982). *Discontinuity in Innovation: Long Waves and Technological Development*. Frances Pinter.
+- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (01 Structural Mechanisms of Long Waves Citation).
+- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (01 Structural Mechanisms of Long Waves Citation).
+- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115.
+- Mensch, G. (1979). *Stalemate in Technology: Innovations Overcome the Depression*. Ballinger Publishing Company.
+- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
+- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
+- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
 ### Capital Liquidation & Replacement Dynamics
 The physical mechanism driving long waves is the lifespan and turnover rate of core infrastructural fixed assets:
 - **Infrastructural Amortization Cycles**: Railway networks, power grids, and telecommunication backbones possess physical lifetimes of 40–50 years, creating concentrated re-investment cycles.

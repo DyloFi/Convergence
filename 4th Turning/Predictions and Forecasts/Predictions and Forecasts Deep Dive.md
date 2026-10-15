@@ -124,12 +124,12 @@ Evaluating future trajectories through the Strauss-Howe cyclical model requires 
 Regardless of which scenario trajectory unfolds, the foundational constant is that the pre-2008 institutional status quo cannot be restored; only through the crucible of crisis will a new First Turning High be established.
 
 ## Academic References & Bibliography — Historical Predictive Track Record & Future Forecasting
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Predictions and Forecasts).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Predictions and Forecasts).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Predictions and Forecasts).
-- Taleb, N. N. (2007). The Black Swan. Random House. (Analytical Focus: Predictions and Forecasts).
-- Tetlock, P. E. (2005). Expert Political Judgment: How Good Is It? How Can We Know?. Princeton University Press. (Analytical Focus: Predictions and Forecasts).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Predictions and Forecasts).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Taleb, N. N. (2007). The Black Swan. Random House.
+- Tetlock, P. E. (2005). Expert Political Judgment: How Good Is It? How Can We Know?. Princeton University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Quantitative Early Warning Telemetry and Phase Tracking
 
 To track the precise temporal approach toward the decisive Fourth Turning climax, researchers monitor a normalized Composite Stress Index (CSI) incorporating four high-frequency telemetry pillars:

@@ -136,12 +136,12 @@ During Fourth Turning crises, environmental challenges cease to be treated as ab
 3. **Statutory Regulatory Durability**: Emergency environmental mobilization measures establish the permanent regulatory architecture governing the next saecular cycle.
 
 ## Academic References & Bibliography — Ecological Crises, Climate Anomalies & Resource Scarcity
-- Fagan, B. (2000). The Little Ice Age: How Climate Made History 1300-1850. Basic Books. (Analytical Focus: Environmental Factors).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Environmental Factors).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Environmental Factors).
-- IPCC. (2023). Sixth Assessment Report: Climate Change 2023. Cambridge University Press. (Analytical Focus: Environmental Factors).
-- Simon, J. L. (1981). The Ultimate Resource. Princeton University Press. (Analytical Focus: Environmental Factors).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Environmental Factors).
+- Fagan, B. (2000). The Little Ice Age: How Climate Made History 1300-1850. Basic Books.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- IPCC. (2023). Sixth Assessment Report: Climate Change 2023. Cambridge University Press.
+- Simon, J. L. (1981). The Ultimate Resource. Princeton University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Ecological Macro-Systems Literature and Biophysical Treatises
 
 - Costanza, R., d'Arge, R., de Groot, R., et al. (1997). The value of the world's ecosystem services and natural capital. *Nature*, 387(6630), 253–260. (Natural capital valuation).

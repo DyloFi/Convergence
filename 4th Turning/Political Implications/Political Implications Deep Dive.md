@@ -119,12 +119,12 @@ The political landscape of a Fourth Turning is characterized by the collapse of 
 As observed in 1860 and 1932, the resolution of a Fourth Turning typically establishes a durable political hegemony that governs the subsequent First Turning High for several decades.
 
 ## Realignment Theory, Political Science Literature & Academic References — Political Realignment, Party System Collapse & Rebirth
-- Burnham, W. D. (1970). Critical Elections and the Mainsprings of American Politics. W. W. Norton & Company. (Analytical Focus: Political Implications).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Political Implications).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Political Implications).
-- Key, V. O., Jr. (1955). A Theory of Critical Elections. Journal of Politics, 17(1), 3-18. (Analytical Focus: Political Implications).
-- Judis, J. B., & Teixeira, R. (2002). The Emerging Democratic Majority. PublicAffairs. (Analytical Focus: Political Implications).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Political Implications).
+- Burnham, W. D. (1970). Critical Elections and the Mainsprings of American Politics. W. W. Norton & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Key, V. O., Jr. (1955). A Theory of Critical Elections. Journal of Politics, 17(1), 3-18.
+- Judis, J. B., & Teixeira, R. (2002). The Emerging Democratic Majority. PublicAffairs.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Realigning Elections and the Mechanics of Coalition Hegemony
 
 Longitudinal political science confirms that critical realigning elections occur with an approximate 30-to-40 year cadence, clustering tightly around Fourth Turning regeneracy and climax points:

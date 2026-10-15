@@ -126,12 +126,12 @@ The velocity, organizational topology, and ideological cohesion of grassroots so
 Quantitative analysis of protest frequency and casualty metrics during Fourth Turnings reveals a steep power-law distribution, where decentralized unrest rapidly coalesces into disciplined civic armies or ideological factions capable of exerting direct coercive pressure on state apparatuses.
 
 ## Academic References & Bibliography — Mass Mobilization, Protest Dynamics & Activism Cycles
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Social Movements).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Social Movements).
-- McCarthy, J. D., & Zald, M. N. (1977). Resource Mobilization and Social Movements. American Journal of Sociology, 82(6), 1212-1241. (Analytical Focus: Social Movements).
-- Tarrow, S. (1998). Power in Movement: Social Movements and Contentious Politics. Cambridge University Press. (Analytical Focus: Social Movements).
-- Tufekci, Z. (2017). Twitter and Tear Gas: The Power and Fragility of Networked Protest. Yale University Press. (Analytical Focus: Social Movements).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Social Movements).
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- McCarthy, J. D., & Zald, M. N. (1977). Resource Mobilization and Social Movements. American Journal of Sociology, 82(6), 1212-1241.
+- Tarrow, S. (1998). Power in Movement: Social Movements and Contentious Politics. Cambridge University Press.
+- Tufekci, Z. (2017). Twitter and Tear Gas: The Power and Fragility of Networked Protest. Yale University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 ### Longitudinal Anatomy of Mass Social Mobilizations
 
 Evaluating mass social mobilizations across five historical American Fourth Turnings confirms that collective action during a crisis climax exhibits distinct operational characteristics compared to peacetime protests:

@@ -21,7 +21,7 @@ Assignment:
 2. Fix all 41 occurrences of corrupted `||` double-pipe table alignment delimiter rows across the 34 identified research reports:
    - Replace `|` with standard single-pipe alignment rows (`| :---: | :---: |` or `| :--- | :--- |`).
 3. Clean up robotic suffix strings across headings and bibliographies:
-   - Remove robotic `: [Topic Name]` suffixes from H1, H2, H3 headers and `]` from bibliography entries. Restore natural, clean, academic heading titles. (Analytical Focus: DISPATCH).
+   - Remove robotic `: [Topic Name]` suffixes from H1, H2, H3 headers and `]` from bibliography entries. Restore natural, clean, academic heading titles..
    - Maintain line duplication rate strictly `< 15.0%` for every domain directory (`4th Turning`, `Changing World Orders`, `Kondratiev Waves`, `LoAR`, `Technological Singularity`).
    - Maintain line depth >50 non-blank lines for every report.
    - Retain 0 broken template tags and 0 placeholders.

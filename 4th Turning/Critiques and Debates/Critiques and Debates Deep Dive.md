@@ -153,12 +153,12 @@ The historiographical debate surrounding the Strauss-Howe generational paradigm 
 By formalizing these structural dynamics into testable econometric specifications, recent quantitative sociologists have demonstrated that institutional trust indices and fiscal risk-tolerance parameters exhibit robust periodicities that align with generational replacement schedules rather than purely stochastic walks (Turchin, 2016).
 
 ## Academic References & Bibliography — Interdisciplinary Debates
-- Burnham, W. D. (1970). Critical Elections and the Mainsprings of American Politics. W. W. Norton & Company. (Analytical Focus: Critiques and Debates).
-- Fogel, R. W. (1990). The Fourth Great Awakening and the Future of Egalitarianism. University of Chicago Press. (Analytical Focus: Critiques and Debates).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Critiques and Debates).
-- Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press. (Analytical Focus: Critiques and Debates).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Critiques and Debates).
-- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press. (Analytical Focus: Critiques and Debates).
+- Burnham, W. D. (1970). Critical Elections and the Mainsprings of American Politics. W. W. Norton & Company.
+- Fogel, R. W. (1990). The Fourth Great Awakening and the Future of Egalitarianism. University of Chicago Press.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press.
 ### Historical Archival Sources and Methodological Literature
 
 - Fischer, D. H. (1970). *Historians' Fallacies: Toward a Logic of Historical Thought*. Harper & Row. (Epistemological critiques of periodization and teleological fallacies).

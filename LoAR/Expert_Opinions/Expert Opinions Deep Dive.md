@@ -71,21 +71,21 @@ The synthesis of expert perspectives indicates that while hardware FLOP scaling 
 
 
 ## Academic References & Bibliography
-- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485. (Analytical Focus: Expert Opinions).
-- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268. (Analytical Focus: Expert Opinions).
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press. (Analytical Focus: Expert Opinions).
-- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533. (Analytical Focus: Expert Opinions).
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann. (Analytical Focus: Expert Opinions).
-- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Childs, R., ... & Amodei, D. (2020). Scaling laws for neural language models. *arXiv:2001.08361*. (Analytical Focus: Expert Opinions).
-- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute. (Analytical Focus: Expert Opinions).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Expert Opinions).
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191. (Analytical Focus: Expert Opinions).
-- LeCun, Y. (2022). A path towards autonomous machine intelligence version 0.9. 2. *Open Review*, 1. (Analytical Focus: Expert Opinions).
-- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377–404. (Analytical Focus: Expert Opinions).
-- Moravec, H. (1998). When will computer hardware match the human brain?. *Journal of Evolution and Technology*, 1. (Analytical Focus: Expert Opinions).
-- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159. (Analytical Focus: Expert Opinions).
-- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *NBER Working Paper*, No. w28441. (Analytical Focus: Expert Opinions).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI. (Analytical Focus: Expert Opinions).
+- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485.
+- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268.
+- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.
+- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533.
+- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann.
+- Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Childs, R., ... & Amodei, D. (2020). Scaling laws for neural language models. *arXiv:2001.08361*.
+- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- LeCun, Y. (2022). A path towards autonomous machine intelligence version 0.9. 2. *Open Review*, 1.
+- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377–404.
+- Moravec, H. (1998). When will computer hardware match the human brain?. *Journal of Evolution and Technology*, 1.
+- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159.
+- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *NBER Working Paper*, No. w28441.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI.
 
 ## Systematic Epistemological Taxonomy of Frontier AI and Singularity Thinkers
 

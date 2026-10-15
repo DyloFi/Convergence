@@ -147,16 +147,16 @@ This structural divergence reflects differing weighting of hardware scaling traj
 
 ## 5. Academic References & Bibliography (Expert Analysis)
 
-- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*. (Analytical Focus: Expert Analysis).
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. (Analytical Focus: Expert Analysis).
-- Christiano, P., Shlegeris, B., & Amodei, D. (2018). Supervising Strong Learners by Amplification. *arXiv preprint arXiv:1810.08575*. (Analytical Focus: Expert Analysis).
-- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press. (Analytical Focus: Expert Analysis).
-- Grace, K., Stewart, H., Sandkühler, J. F., Thomas, B., Weinstein-Raun, B., & Brauner, J. (2024). Thousands of AI Authors Share Views on AI Progress. *arXiv preprint arXiv:2401.03743*. (Analytical Focus: Expert Analysis).
-- Hanson, R. (2008). Economics of the Singularity. *IEEE Spectrum*, 45(6), 45–50. (Analytical Focus: Expert Analysis).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Expert Analysis).
-- LeCun, Y. (2022). A Path Towards Autonomous Machine Intelligence. *Open Review Technical Paper*. (Analytical Focus: Expert Analysis).
-- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *American Economic Journal: Macroeconomics*, 13(1), 299–332. (Analytical Focus: Expert Analysis).
-- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar. (Analytical Focus: Expert Analysis).
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. (Analytical Focus: Expert Analysis).
-- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books. (Analytical Focus: Expert Analysis).
-- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press. (Analytical Focus: Expert Analysis).
+- Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. *arXiv preprint arXiv:1606.06565*.
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Christiano, P., Shlegeris, B., & Amodei, D. (2018). Supervising Strong Learners by Amplification. *arXiv preprint arXiv:1810.08575*.
+- Dalio, R. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Grace, K., Stewart, H., Sandkühler, J. F., Thomas, B., Weinstein-Raun, B., & Brauner, J. (2024). Thousands of AI Authors Share Views on AI Progress. *arXiv preprint arXiv:2401.03743*.
+- Hanson, R. (2008). Economics of the Singularity. *IEEE Spectrum*, 45(6), 45–50.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- LeCun, Y. (2022). A Path Towards Autonomous Machine Intelligence. *Open Review Technical Paper*.
+- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *American Economic Journal: Macroeconomics*, 13(1), 299–332.
+- Perez, C. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+- Strauss, W., & Howe, N. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
+- Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press.

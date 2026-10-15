@@ -147,9 +147,9 @@ Where:
 Within the broader architectural framework of `Convergence_Master_Synthesis.md`, archetype transitions serve as the behavioral micro-foundations for macroeconomic and technological transformations. The Hero archetype's midlife institutional consolidation directly aligns with the deployment phase of new Kondratiev waves and the social organization required to govern exponential technological scaling.
 
 ## Academic References & Bibliography
-- Elder, G. H. (1974). Children of the Great Depression: Social Change in Life Course. University of Chicago Press. (Analytical Focus: Archetypes).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future, 1584 to 2069. William Morrow & Company. (Analytical Focus: Archetypes).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Archetypes).
-- Howe, N. (2023). The Fourth Turning Is Here: What the Seasons of History Tell Us About Where We Are Headed. Simon & Schuster. (Analytical Focus: Archetypes).
-- Mannheim, K. (1952). The Problem of Generations. Essays on the Sociology of Knowledge, 24-67. (Analytical Focus: Archetypes).
-- Twenge, J. M. (2017). iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious. Atria Books. (Analytical Focus: Archetypes).
+- Elder, G. H. (1974). Children of the Great Depression: Social Change in Life Course. University of Chicago Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future, 1584 to 2069. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here: What the Seasons of History Tell Us About Where We Are Headed. Simon & Schuster.
+- Mannheim, K. (1952). The Problem of Generations. Essays on the Sociology of Knowledge, 24-67.
+- Twenge, J. M. (2017). iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious. Atria Books.

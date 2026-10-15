@@ -102,12 +102,12 @@ where $\mathcal{W}_c$ is cohort-specific wealth. Because Millennials hold a hist
 3. **Embrace Civic Infrastructure Mandates**: The convergence of generational demand and state crisis imperatives will unlock multi-trillion-dollar investments in physical networks.
 
 ## Academic References & Bibliography — Empirical Case Studies of Modern Institutional Adaptation
-- Anduril Industries. (2023). Autonomous Defense Systems Whitepaper. Anduril Technical Reports. (Analytical Focus: Modern Applications Research).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Modern Applications Research).
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster. (Analytical Focus: Modern Applications Research).
-- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House. (Analytical Focus: Modern Applications Research).
-- TSMC. (2023). Annual Report: US Gigafactory Expansion. TSMC Investor Relations. (Analytical Focus: Modern Applications Research).
-- US Dept of Commerce. (2022). The CHIPS and Science Act of 2022. US Government Printing Office. (Analytical Focus: Modern Applications Research).
+- Anduril Industries. (2023). Autonomous Defense Systems Whitepaper. Anduril Technical Reports.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House.
+- TSMC. (2023). Annual Report: US Gigafactory Expansion. TSMC Investor Relations.
+- US Dept of Commerce. (2022). The CHIPS and Science Act of 2022. US Government Printing Office.
 ### Quantitative Modeling of Generational Asset Allocation Transitions
 
 Longitudinal financial data confirms that generational turnover systematically alters the relative pricing of financial versus physical assets, creating distinct investment regimes:

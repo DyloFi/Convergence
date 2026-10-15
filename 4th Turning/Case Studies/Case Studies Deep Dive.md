@@ -138,12 +138,12 @@ Synthesizing historical case studies across centuries of Anglo-American Fourth T
 5. Societal Cohesion Metrics: Tracking social capital indicators (Putnam, 2000) demonstrates that Fourth Turnings represent the structural nadir of individualist atomization and the violent rebirth of collective institutional norms.
 
 ## Academic References & Bibliography
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Case Studies).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Case Studies).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Case Studies).
-- McPherson, J. M. (1988). Battle Cry of Freedom: The Civil War Era. Oxford University Press. (Analytical Focus: Case Studies).
-- Middlekauff, R. (2005). The Glorious Cause: The American Revolution, 1763-1789. Oxford University Press. (Analytical Focus: Case Studies).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Case Studies).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- McPherson, J. M. (1988). Battle Cry of Freedom: The Civil War Era. Oxford University Press.
+- Middlekauff, R. (2005). The Glorious Cause: The American Revolution, 1763-1789. Oxford University Press.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
 - McPherson, J. M. (1988). *Battle Cry of Freedom: The Civil War Era*. Oxford University Press.
 - Kennedy, D. M. (1999). *Freedom from Fear: The American People in Depression and War, 1929-1945*. Oxford University Press.
 - Bailyn, B. (1967). *The Ideological Origins of the American Revolution*. Harvard University Press.

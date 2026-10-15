@@ -119,12 +119,12 @@ These research notes document the theoretical synthesis between the Strauss-Howe
 This multi-cycle convergence means that unlike previous fourth-turning climaxes (which resolved into familiar industrial order), the contemporary crisis will resolve through the lens of artificial superintelligence, post-human technological phase shifts, and radical thermodynamic transformation.
 
 ## Archival Sources, Cliometric Literature & Working Bibliography
-- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press. (Analytical Focus: Research Notes).
-- Fogel, R. W. (1993). Economic Growth, Population Theory, and Physiology. American Economic Review, 84(3), 369-395. (Analytical Focus: Research Notes).
-- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company. (Analytical Focus: Research Notes).
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group. (Analytical Focus: Research Notes).
-- Turchin, P. (2016). Ages of Discord. Beresta Books. (Analytical Focus: Research Notes).
-- US Census Bureau. (1975). Historical Statistics of the United States, Colonial Times to 1970. US Government Printing Office. (Analytical Focus: Research Notes).
+- Fischer, D. H. (1989). Albion's Seed: Four British Folkways in America. Oxford University Press.
+- Fogel, R. W. (1993). Economic Growth, Population Theory, and Physiology. American Economic Review, 84(3), 369-395.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+- US Census Bureau. (1975). Historical Statistics of the United States, Colonial Times to 1970. US Government Printing Office.
 ### Quality Control Protocols, Versioning, and Replicability Standards
 
 To ensure long-term scientific reproducibility across the 54 research dossiers, the 4th Turning research submodule operates under strict version-controlled data pipelines and documentation standards:

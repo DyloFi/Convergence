@@ -117,19 +117,19 @@ Technological acceleration acts as a non-linear volatility catalyst within the S
 Under Ray Dalio's macroeconomic framework of hegemonic lifecycles and debt supercycles (Dalio 2021), late-stage imperial powers engage in extensive currency debasement and central bank monetization. Paradoxically, this monetary expansion channels hyper-abundant liquidity into high-beta frontier capital investments, specifically artificial intelligence hardware infrastructure and advanced semiconductor fabrication facilities. The resulting capital deepening acts as an artificial accelerant to Kurzweil's positive feedback loop, compressing technological deployment schedules even as real physical sovereign solvency deteriorates.
 
 ## Academic References & Bibliography — 00_Research_Plan
-- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485. (Analytical Focus: Research Plan).
-- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268. (Analytical Focus: Research Plan).
-- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533. (Analytical Focus: Research Plan).
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann. (Analytical Focus: Research Plan).
-- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute. (Analytical Focus: Research Plan).
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press. (Analytical Focus: Research Plan).
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191. (Analytical Focus: Research Plan).
-- Mead, C., & Conway, L. (1980). *Introduction to VLSI Systems*. Addison-Wesley. (Analytical Focus: Research Plan).
-- Moore, G. E. (1965). Cramming more components onto integrated circuits. *Electronics*, 38(8), 114–117. (Analytical Focus: Research Plan).
-- Moore, G. E. (1975). Progress in digital integrated electronics. *IEEE International Electron Devices Meeting (IEDM)*, 21, 11–13. (Analytical Focus: Research Plan).
-- Moravec, H. (1998). When will computer hardware match the human brain?. *Journal of Evolution and Technology*, 1. (Analytical Focus: Research Plan).
-- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159. (Analytical Focus: Research Plan).
-- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI. (Analytical Focus: Research Plan).
+- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485.
+- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268.
+- Gustafson, J. L. (1988). Reevaluating Amdahl's Law. *Communications of the ACM*, 31(5), 532–533.
+- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann.
+- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute.
+- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- Mead, C., & Conway, L. (1980). *Introduction to VLSI Systems*. Addison-Wesley.
+- Moore, G. E. (1965). Cramming more components onto integrated circuits. *Electronics*, 38(8), 114–117.
+- Moore, G. E. (1975). Progress in digital integrated electronics. *IEEE International Electron Devices Meeting (IEDM)*, 21, 11–13.
+- Moravec, H. (1998). When will computer hardware match the human brain?. *Journal of Evolution and Technology*, 1.
+- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159.
+- Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022). Compute Trends Across Three Eras of Machine Learning. *arXiv:2202.05924* / Epoch AI.
 - Wetterstrand, K. A. (2021). *DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program*. National Human Genome Research Institute (NHGRI). (00 Research Plan Citation)
 
 ## Methodological Triangulation and Research Protocol
