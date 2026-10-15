@@ -2,7 +2,7 @@
 
 **Domain**: Technological Singularity, AGI Scaling, & AI Safety/Alignment  
 **Auditor**: AGI/ASI Alignment Expert  
-**Target Scope**: 21 Markdown Reports in `/Users/dylanboyle/Desktop/Convergence/Technological Singularity`  
+**Target Scope**: 21 Markdown Reports in `Technological Singularity`  
 **Date**: August 11, 2026  
 
 ---
@@ -284,4 +284,4 @@ Round 2 implementers must adhere strictly to the following 5 implementation dire
 ---
 
 *Report completed by AGI/ASI Alignment Expert.*  
-*Output path*: `/Users/dylanboyle/Desktop/Convergence/Technological Singularity/Technological_Singularity_Expert_Review.md`  
+*Output path*: `Technological Singularity/Technological_Singularity_Expert_Review.md`  

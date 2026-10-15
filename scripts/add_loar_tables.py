@@ -1,7 +1,7 @@
 import pathlib
 import shutil
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 loar_tables = {
     'LoAR/Core_Concepts/00_Research_Plan.md': """

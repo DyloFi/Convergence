@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 review_dir = root / 'review'
 review_dir.mkdir(parents=True, exist_ok=True)
 

@@ -1,6 +1,6 @@
 import pathlib
 
-p = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders/Changing World Orders Overview.md")
+p = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders/Changing World Orders Overview.md"
 
 text = """# Changing World Orders: The Macro-Hegemonic Architecture of Imperial Rise, Peak Dominance, and Systemic Transition
 

@@ -4,7 +4,7 @@ import re
 import collections
 import json
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence")
+root = pathlib.Path(__file__).resolve().parent.parent
 subject_dirs = ["4th Turning", "Changing World Orders", "Kondratiev Waves", "LoAR", "Technological Singularity"]
 expert_files = [
     "4th_Turning_Expert_Review.md",

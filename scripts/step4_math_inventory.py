@@ -1,6 +1,6 @@
 import pathlib, re, json
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 # Fix double $ in line 114 of Convergence_Master_Synthesis.md
 synth = root / 'Convergence_Master_Synthesis.md'

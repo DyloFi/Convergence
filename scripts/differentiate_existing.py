@@ -1,6 +1,6 @@
 import pathlib, re
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 # 1. Update Changing World Orders Overview.md
 p_overview = root / "Changing World Orders Overview.md"

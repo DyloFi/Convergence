@@ -260,11 +260,11 @@ Any single metric breach triggers an immediate re-evaluation of the specific sub
 ## 8. Master Repository Module Index
 
 This Master Synthesis integrates and directs the specialized research dossiers throughout the repository:
-- **The 4th Turning Dossiers**: [`4th Turning/`](file:///Users/dylanboyle/Desktop/Convergence/4th%20Turning/) — Generational cohorts, saecular crises, and institutional cycles.
-- **Changing World Orders Dossiers**: [`Changing World Orders/`](file:///Users/dylanboyle/Desktop/Convergence/Changing%20World%20Orders/) — The 18 power determinants, debt cycles, reserve currency rise and fall, and Thucydides traps.
-- **Kondratiev Waves Dossiers**: [`Kondratiev Waves/`](file:///Users/dylanboyle/Desktop/Convergence/Kondratiev%20Waves/) — Long wave mechanics, Perez installation/deployment dynamics, and 6th wave innovation clusters.
-- **Law of Accelerating Returns Dossiers**: [`LoAR/`](file:///Users/dylanboyle/Desktop/Convergence/LoAR/) — Exponential math, paradigm transitions, and hardware-algorithmic doubling rates.
-- **Technological Singularity Dossiers**: [`Technological Singularity/`](file:///Users/dylanboyle/Desktop/Convergence/Technological%20Singularity/) — Cognitive takeoff speeds, recursive self-improvement models, alignment horizons, and post-biological transitions.
+- **The 4th Turning Dossiers**: [`4th Turning/`](4th%20Turning/) — Generational cohorts, saecular crises, and institutional cycles.
+- **Changing World Orders Dossiers**: [`Changing World Orders/`](Changing%20World%20Orders/) — The 18 power determinants, debt cycles, reserve currency rise and fall, and Thucydides traps.
+- **Kondratiev Waves Dossiers**: [`Kondratiev Waves/`](Kondratiev%20Waves/) — Long wave mechanics, Perez installation/deployment dynamics, and 6th wave innovation clusters.
+- **Law of Accelerating Returns Dossiers**: [`LoAR/`](LoAR/) — Exponential math, paradigm transitions, and hardware-algorithmic doubling rates.
+- **Technological Singularity Dossiers**: [`Technological Singularity/`](Technological%20Singularity/) — Cognitive takeoff speeds, recursive self-improvement models, alignment horizons, and post-biological transitions.
 
 ---
 

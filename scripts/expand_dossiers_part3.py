@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 f_sm = root / "Supporting_Materials" / "Supporting Materials Deep Dive.md"
 
 sm_content = """# Methodological Appendices, Econometric Specifications, and Quantitative Historiography

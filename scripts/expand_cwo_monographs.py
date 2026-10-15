@@ -1,6 +1,6 @@
 import pathlib
 
-cwo = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+cwo = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 # 1. Changing World Orders Overview.md (Expand to 180+ lines)
 overview = """# Changing World Orders: The Macro-Hegemonic Architecture of Imperial Rise, Peak Dominance, and Systemic Transition

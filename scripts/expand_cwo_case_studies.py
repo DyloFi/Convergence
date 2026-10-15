@@ -2,7 +2,7 @@ import pathlib
 import shutil
 import re
 
-p = pathlib.Path('/Users/dylanboyle/Desktop/Convergence/Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md')
+p = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md"
 bak = p.with_name(p.name + '.bak.md')
 if not bak.exists():
     shutil.copy2(p, bak)

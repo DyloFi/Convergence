@@ -3,7 +3,7 @@ import pathlib
 import re
 import shutil
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence/Changing World Orders')
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 def backup_and_write(rel_path, content):
     target = root / rel_path

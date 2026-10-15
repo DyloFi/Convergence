@@ -1,6 +1,6 @@
 import pathlib
 
-p = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md")
+p = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md"
 content = p.read_text()
 
 # We want to replace the references section with unique, highly specific citations, and add extensive analytical sections on the 4 case studies:
@@ -77,7 +77,7 @@ $$R_{crisis}(t) = \exp\left( -\frac{(\Delta P(t))^2}{2\sigma^2} \right) \times \
 where $D_H / Y_H$ is the hegemon's sovereign debt-to-GDP ratio, $\gamma > 1$ models nonlinear debt fragility, and $\sigma$ represents the structural parity buffer. When the challenger enters parity while the hegemon suffers fiscal exhaustion, systemic dispute escalation becomes statistically dominant over cooperative bargaining.
 """
 
-p = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md")
+p = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md"
 c = p.read_text()
 idx = c.find("## 6. Granular Policy Dynamics")
 new_c = c[:idx].strip() + "\n\n" + extra.strip() + "\n\n" + c[idx:].strip() + "\n"

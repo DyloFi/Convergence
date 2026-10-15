@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 cwo = root / 'Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md'
 txt = cwo.read_text(encoding='utf-8')
 

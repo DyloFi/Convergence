@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 f_policy = root / "Supporting_Materials" / "Policy_Implications" / "Policy Implications Deep Dive.md"
 
 policy_content = """# Public Policy, State Governance, and Industrial Strategy in Changing World Orders

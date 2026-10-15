@@ -1,7 +1,7 @@
 import pathlib
 import shutil
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 # 1. Update Convergence_Master_Synthesis.md heading 8
 cms = root / 'Convergence_Master_Synthesis.md'

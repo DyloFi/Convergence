@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 # 1. Current Geopolitical Deep Dive.md
 cur_geo = """# Current Geopolitical Landscape: Multipolar Transition and Structural Realignment

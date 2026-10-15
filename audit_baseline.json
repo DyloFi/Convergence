@@ -1,6 +1,6 @@
 {
   "timestamp_utc": "2026-10-14T04:05:00Z",
-  "repository_root": "/Users/dylanboyle/Desktop/Convergence",
+  "repository_root": ".",
   "git_status": {
     "in_convergence_git": false,
     "note": "Convergence directory is currently an unversioned folder on ~/Desktop/Convergence"

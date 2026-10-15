@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 # ==============================================================================
 # File 2: Foundations/01_Big_Cycle_Framework_Ray_Dalio.md

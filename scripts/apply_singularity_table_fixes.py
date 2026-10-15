@@ -3,7 +3,7 @@ import shutil
 import re
 from scripts.fix_singularity_table_rows import clean_table_in_lines
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence/Technological Singularity')
+root = pathlib.Path(__file__).resolve().parent.parent / "Technological Singularity"
 
 updated = 0
 for p in sorted(root.rglob('*.md')):

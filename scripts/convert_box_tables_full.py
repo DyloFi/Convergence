@@ -2,7 +2,7 @@ import pathlib
 import re
 import shutil
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 def convert_boxes_in_text(text):
     lines = text.splitlines()

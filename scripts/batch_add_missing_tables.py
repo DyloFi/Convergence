@@ -1,7 +1,7 @@
 import pathlib
 import re
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 subject_dirs = [
     "Changing World Orders",

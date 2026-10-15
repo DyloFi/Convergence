@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 # 1. Fix Theories Deep Dive heading
 f_theories = root / "Supporting_Materials/Theories/Theories Deep Dive.md"

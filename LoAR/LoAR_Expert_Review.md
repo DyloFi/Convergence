@@ -1,6 +1,6 @@
 # Exponential Tech & Compute Expert Audit: Law of Accelerating Returns (LoAR) Research Reports
 
-**Target Subject Directory**: `/Users/dylanboyle/Desktop/Convergence/LoAR`  
+**Target Subject Directory**: `LoAR`  
 **Total Reports Audited**: 19 Markdown Files  
 **Auditor Role**: Exponential Tech & Compute Expert  
 **Date**: August 11, 2026  
@@ -196,7 +196,7 @@ While compute floating-point operations (FLOPs) have scaled exponentially, off-c
 
 ## 3. Subfolder-by-Subfolder Detailed Review & Enhancement Matrix
 
-Below is the exhaustive audit and assessment matrix across all 19 markdown files in `/Users/dylanboyle/Desktop/Convergence/LoAR`.
+Below is the exhaustive audit and assessment matrix across all 19 markdown files in `LoAR`.
 
 ### 3.1 Comprehensive Audit Matrix
 
@@ -440,7 +440,7 @@ Round 2 implementers MUST insert the following five high-density, quantitative e
 
 ## 6. Concrete Report Expansion Directives for Round 2 Implementers
 
-Round 2 (R2) implementers MUST execute the following step-by-step modifications across all 19 markdown files in `/Users/dylanboyle/Desktop/Convergence/LoAR`.
+Round 2 (R2) implementers MUST execute the following step-by-step modifications across all 19 markdown files in `LoAR`.
 
 ### Directive 1 — Elimination of Generic Template Text
 - **Action**: Completely remove the copy-pasted 58-line boilerplate sections ("Structural Architecture", "Key Analytical Dimensions", "Academic Appendix: Interdisciplinary Integration") from all 14 deep-dive files.
@@ -498,7 +498,7 @@ Round 2 (R2) implementers MUST execute the following step-by-step modifications 
 This domain expert review establishes an uncompromised academic and empirical standard for the Law of Accelerating Returns (`LoAR`) research library. By replacing generic boilerplate with formal mathematical derivations, physical scaling laws, granular empirical time-series datasets, and primary literature citations, Round 2 implementers will elevate the `LoAR` repository into an authoritative, publication-grade body of exponential technology research.
 
 ### Verification Quality Checklist for R2 Implementers
-- [ ] Every report in `/Users/dylanboyle/Desktop/Convergence/LoAR` strictly exceeds 100 lines (target 100–250 lines).
+- [ ] Every report in `LoAR` strictly exceeds 100 lines (target 100–250 lines).
 - [ ] Zero generic copy-pasted "Academic Appendix" or boilerplate sections remain.
 - [ ] Formal calculus derivations for double-exponential growth are present in `Core_Concepts`.
 - [ ] Physics limits (Dennard scaling breakdown equations, Landauer thermodynamic bound, Amdahl's/Gustafson's laws) are derived in technical reports.
@@ -508,5 +508,5 @@ This domain expert review establishes an uncompromised academic and empirical st
 
 ---
 *Audit Completed by Exponential Tech & Compute Expert*  
-*Target Output Path*: `/Users/dylanboyle/Desktop/Convergence/LoAR/LoAR_Expert_Review.md`  
-*Working Directory*: `/Users/dylanboyle/Desktop/Convergence/.agents/expert_audit_4`
+*Target Output Path*: `LoAR/LoAR_Expert_Review.md`  
+*Working Directory*: `.agents/expert_audit_4`

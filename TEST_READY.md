@@ -100,7 +100,7 @@ OK
 
 ## Current Workspace Audit Baseline
 
-Execution against project root `/Users/dylanboyle/Desktop/Convergence`:
+Execution against project root `.`:
 - **Scanned Reports**: 144 markdown reports
 - **Check 1 (Expert Reviews)**: 3/5 present (2 in progress by domain expert subagents)
 - **Check 2 (Report Depth)**: 141/144 passed (>50 lines), 3 non-compliant at exactly 50 lines

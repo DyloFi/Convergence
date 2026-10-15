@@ -12,7 +12,7 @@
       "file": ".agents/enhancer_kondratiev_waves/BRIEFING.md",
       "line": 9,
       "type": "unformatted_kw_subscript",
-      "text": "- Working directory: /Users/dylanboyle/Desktop/Convergence/.agents/enhancer_kondratiev_waves"
+      "text": "- Working directory: ./.agents/enhancer_kondratiev_waves"
     },
     {
       "file": ".agents/enhancer_kondratiev_waves/BRIEFING.md",
@@ -36,13 +36,13 @@
       "file": ".agents/enhancer_kondratiev_waves/DISPATCH.md",
       "line": 6,
       "type": "unformatted_kw_subscript",
-      "text": "Working directory: /Users/dylanboyle/Desktop/Convergence/.agents/enhancer_kondratiev_waves"
+      "text": "Working directory: ./.agents/enhancer_kondratiev_waves"
     },
     {
       "file": ".agents/enhancer_kondratiev_waves/DISPATCH.md",
       "line": 23,
       "type": "unformatted_kw_subscript",
-      "text": "4. Write your handoff report to `/Users/dylanboyle/Desktop/Convergence/.agents/enhancer_kondratiev_waves/handoff.md`."
+      "text": "4. Write your handoff report to `./.agents/enhancer_kondratiev_waves/handoff.md`."
     },
     {
       "file": ".agents/enhancer_kondratiev_waves/handoff.md",
@@ -54,7 +54,7 @@
       "file": ".agents/enhancer_kondratiev_waves/handoff.md",
       "line": 5,
       "type": "unformatted_kw_subscript",
-      "text": "**Working Directory**: `/Users/dylanboyle/Desktop/Convergence/.agents/enhancer_kondratiev_waves`  "
+      "text": "**Working Directory**: `./.agents/enhancer_kondratiev_waves`  "
     },
     {
       "file": ".agents/enhancer_kondratiev_waves/handoff.md",

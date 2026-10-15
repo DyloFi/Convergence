@@ -2,7 +2,7 @@ import pathlib
 import re
 import shutil
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence/Technological Singularity')
+root = pathlib.Path(__file__).resolve().parent.parent / "Technological Singularity"
 
 def clean_table_in_lines(lines):
     new_lines = []

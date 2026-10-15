@@ -1,6 +1,6 @@
 {
   "generated_utc": "2026-10-15T02:40:00Z",
-  "repository_root": "/Users/dylanboyle/Desktop/Convergence",
+  "repository_root": ".",
   "total_files_scanned": 154,
   "total_findings": 205,
   "category_counts": {
@@ -1331,7 +1331,7 @@
       },
       "category": "broken_links",
       "severity": "MEDIUM",
-      "evidence": "[`4th Turning/`](file:///Users/dylanboyle/Desktop/Convergence/4th%20Turning/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/4th%20Turning/",
+      "evidence": "[`4th Turning/`](file://./4th%20Turning/) -> missing path: file://./4th%20Turning/",
       "proposed_fix": "Update relative link target to existing document or remove broken link",
       "validation_test": "link_path_resolution_test",
       "status": "open"
@@ -1344,7 +1344,7 @@
       },
       "category": "broken_links",
       "severity": "MEDIUM",
-      "evidence": "[`Changing World Orders/`](file:///Users/dylanboyle/Desktop/Convergence/Changing%20World%20Orders/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/Changing%20World%20Orders/",
+      "evidence": "[`Changing World Orders/`](file://./Changing%20World%20Orders/) -> missing path: file://./Changing%20World%20Orders/",
       "proposed_fix": "Update relative link target to existing document or remove broken link",
       "validation_test": "link_path_resolution_test",
       "status": "open"
@@ -1357,7 +1357,7 @@
       },
       "category": "broken_links",
       "severity": "MEDIUM",
-      "evidence": "[`Kondratiev Waves/`](file:///Users/dylanboyle/Desktop/Convergence/Kondratiev%20Waves/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/Kondratiev%20Waves/",
+      "evidence": "[`Kondratiev Waves/`](file://./Kondratiev%20Waves/) -> missing path: file://./Kondratiev%20Waves/",
       "proposed_fix": "Update relative link target to existing document or remove broken link",
       "validation_test": "link_path_resolution_test",
       "status": "open"
@@ -1370,7 +1370,7 @@
       },
       "category": "broken_links",
       "severity": "MEDIUM",
-      "evidence": "[`LoAR/`](file:///Users/dylanboyle/Desktop/Convergence/LoAR/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/LoAR/",
+      "evidence": "[`LoAR/`](file://./LoAR/) -> missing path: file://./LoAR/",
       "proposed_fix": "Update relative link target to existing document or remove broken link",
       "validation_test": "link_path_resolution_test",
       "status": "open"
@@ -1383,7 +1383,7 @@
       },
       "category": "broken_links",
       "severity": "MEDIUM",
-      "evidence": "[`Technological Singularity/`](file:///Users/dylanboyle/Desktop/Convergence/Technological%20Singularity/) -> missing path: file:///Users/dylanboyle/Desktop/Convergence/Technological%20Singularity/",
+      "evidence": "[`Technological Singularity/`](file://./Technological%20Singularity/) -> missing path: file://./Technological%20Singularity/",
       "proposed_fix": "Update relative link target to existing document or remove broken link",
       "validation_test": "link_path_resolution_test",
       "status": "open"

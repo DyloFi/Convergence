@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 f_theories = root / "Supporting_Materials" / "Theories" / "Theories Deep Dive.md"
 
 theories_content = """# Comparative Theoretical Frameworks of World Order and Hegemonic Succession

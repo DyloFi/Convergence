@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 ep_text = """# Expert Perspectives on Changing World Orders: Theoretical Debates, Cliometric Models, and Geopolitical Synthesis
 

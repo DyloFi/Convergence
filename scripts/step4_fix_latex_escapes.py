@@ -1,6 +1,6 @@
 import pathlib, re
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 modified = []
 frac_fixes = 0

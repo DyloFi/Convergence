@@ -1,6 +1,6 @@
 import pathlib, re
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 # 1. Clean Master Synthesis
 synth = root / 'Convergence_Master_Synthesis.md'

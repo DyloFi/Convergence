@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/LoAR")
+root = pathlib.Path(__file__).resolve().parent.parent / "LoAR"
 
 # 1. Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md
 # Needs ~15 lines to reach >155 lines

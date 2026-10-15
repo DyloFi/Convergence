@@ -1,5 +1,5 @@
 import pathlib, re
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 
 files_to_fix = [
     'Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md',

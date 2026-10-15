@@ -1,7 +1,7 @@
 # Long-Wave Economics Expert Audit: Kondratiev Waves Research Reports
 
 **Author**: Long-Wave Economics Expert  
-**Target Subject Directory**: `/Users/dylanboyle/Desktop/Convergence/Kondratiev Waves` (34 Markdown Reports)  
+**Target Subject Directory**: `Kondratiev Waves` (34 Markdown Reports)  
 **Date**: August 11, 2026  
 **Status**: Comprehensive Expert Audit & Enhancement Roadmap  
 
@@ -147,7 +147,7 @@ Round 2 reports must explicitly address the severe methodological critiques rais
 
 ## 3. Subfolder-by-Subfolder Detailed Review & Specific Enhancement Matrix
 
-Below is the complete audit matrix for all **34 markdown reports** across the 18 subfolders in `/Users/dylanboyle/Desktop/Convergence/Kondratiev Waves`.
+Below is the complete audit matrix for all **34 markdown reports** across the 18 subfolders in `Kondratiev Waves`.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -400,7 +400,7 @@ To ensure total compliance with quality benchmarks and programmatic verification
 Implementers must search for and destroy all instances of the copy-pasted 54-line template text across all 27 deep-dive files. No generic ASCII cross-cycle charts or duplicated "Academic Appendix" blocks may remain. Every file must contain **100% custom, domain-specific text**.
 
 ### Directive 2 — Mandatory Line Count Threshold (100–250+ Lines)
-Every report in `/Users/dylanboyle/Desktop/Convergence/Kondratiev Waves` must be expanded to **between 100 and 250+ lines** of substantive, high-density markdown text (`len(lines) > 50` is the absolute minimum programmatic floor; 100+ lines is the quality target).
+Every report in `Kondratiev Waves` must be expanded to **between 100 and 250+ lines** of substantive, high-density markdown text (`len(lines) > 50` is the absolute minimum programmatic floor; 100+ lines is the quality target).
 
 ### Directive 3 — Standardized Section Architecture
 Every expanded report must strictly implement the following 5-section architecture:
@@ -440,4 +440,4 @@ Every report must include a context-aware paragraph in Section 4 explicitly mapp
 
 ---
 *Report completed by Long-Wave Economics Expert.*  
-*File location*: `/Users/dylanboyle/Desktop/Convergence/Kondratiev Waves/Kondratiev_Waves_Expert_Review.md`
+*File location*: `Kondratiev Waves/Kondratiev_Waves_Expert_Review.md`

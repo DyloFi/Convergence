@@ -1,6 +1,6 @@
 import os, sys, json, pathlib, subprocess, datetime
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence')
+root = pathlib.Path(__file__).resolve().parent.parent
 audit_dir = root / 'audit'
 audit_dir.mkdir(parents=True, exist_ok=True)
 py_bin = '/opt/homebrew/Cellar/python@3.12/3.12.15/libexec/bin/python3'
@@ -128,7 +128,7 @@ baseline_content = f"""# Convergence Repository: Audit Baseline Report
 ---
 
 ## 1. Safety Net & Baseline Preservation (Step 1)
-- **Git Repository**: Initialized at `/Users/dylanboyle/Desktop/Convergence`.
+- **Git Repository**: Initialized at `.`.
 - **Baseline Commit**: All pre-remediation files committed on branch `remediation` and tagged `pre-fix`.
 - **Reference Archive**: `Convergence.zip` was looked for in Desktop root and logged as absent (primary immutable baseline reference preserved in `baseline_snapshot/` containing 862 historical files).
 - **Heredoc Safety Policy**: All automated script writes and shell executions strictly enforce quoted heredocs (`<<'EOF'`) or native Python file I/O to permanently prevent shell parameter expansion, variable stripping (e.g. `$` stripping in tables), and subshell PID injection.

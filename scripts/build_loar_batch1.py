@@ -1,6 +1,6 @@
 import pathlib
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/LoAR")
+root = pathlib.Path(__file__).resolve().parent.parent / "LoAR"
 
 # ==============================================================================
 # 1. Applications/Applications Deep Dive.md

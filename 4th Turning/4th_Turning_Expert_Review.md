@@ -1,7 +1,7 @@
 # Generational Theory Expert Audit & Academic Critique: 4th Turning Corpus
 
 **Target Domain**: Generational Theory & 4th Turning Research Corpus  
-**Directory Path**: `/Users/dylanboyle/Desktop/Convergence/4th Turning`  
+**Directory Path**: `4th Turning`  
 **Total Reports Audited**: 54 Markdown Reports  
 **Auditor Role**: Generational Theory Expert  
 **Date**: August 11, 2026  
@@ -297,4 +297,4 @@ All subfolder reports expanded in Round 2 MUST contain formal in-text citations 
 
 ---
 *Domain Expert Review completed by Generational Theory Expert.*  
-*Output File Location*: `/Users/dylanboyle/Desktop/Convergence/4th Turning/4th_Turning_Expert_Review.md`
+*Output File Location*: `4th Turning/4th_Turning_Expert_Review.md`

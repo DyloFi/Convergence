@@ -2,7 +2,7 @@ import pathlib
 import shutil
 import re
 
-root = pathlib.Path('/Users/dylanboyle/Desktop/Convergence/Changing World Orders')
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 def write_monograph(rel_path, content):
     target = root / rel_path

@@ -1,7 +1,7 @@
 import pathlib
 import collections
 
-root = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders")
+root = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders"
 
 # Let's inspect the files that need expansion:
 # 1. Supporting_Materials/Definitions/Definitions Deep Dive.md (currently 83 lines)

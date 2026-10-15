@@ -1,6 +1,6 @@
 import pathlib
 
-p = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md")
+p = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md"
 
 content = """# Methodological Protocols and Quantitative Architecture of Cliometric World Order Modeling
 
@@ -119,7 +119,7 @@ Longitudinal historical cliometrics faces inherent epistemological boundaries th
 3. **Sovereign Accounting Obfuscation**: Imperial powers undergoing fiscal distress systematically under-report off-balance-sheet commitments, secret subsidies, and covert central bank advances, meaning that official historical debt ratios invariably understate real structural leverage prior to collapse.
 """
 
-p = pathlib.Path("/Users/dylanboyle/Desktop/Convergence/Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md")
+p = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md"
 c = p.read_text()
 idx = c.find("## 6. Methodological References")
 new_c = c[:idx].strip() + "\n\n" + deepening.strip() + "\n\n" + c[idx:].strip() + "\n"

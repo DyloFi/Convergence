@@ -15,7 +15,7 @@ import pathlib
 import hashlib
 from typing import List, Dict, Any, Tuple
 
-ROOT = pathlib.Path('/Users/dylanboyle/Desktop/Convergence').resolve()
+ROOT = pathlib.Path(__file__).resolve().parent.parent.resolve()
 AUDIT_DIR = ROOT / 'audit'
 AUDIT_DIR.mkdir(parents=True, exist_ok=True)
 
