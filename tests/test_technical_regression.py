@@ -208,3 +208,64 @@ class TestTechnicalIntegrity(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+    def test_report_standards_definitions_step12(self):
+        """Report standards document must exist and define all 9 dimensions across all report types."""
+        standards_path = ROOT / "review" / "REPORT_STANDARDS.md"
+        self.assertTrue(standards_path.exists(), "review/REPORT_STANDARDS.md must exist")
+        text = standards_path.read_text(encoding="utf-8")
+
+        required_types = ["Dossier", "Expert Review", "Overview", "Synthesis", "Readme"]
+        required_dimensions = [
+            "Question", "Scope", "Summary", "Method", "Evidence",
+            "Competing Views", "Limitations", "Proportional Conclusions", "References"
+        ]
+
+        for rt in required_types:
+            self.assertIn(rt, text, f"Report standards missing type: {rt}")
+
+        for dim in required_dimensions:
+            self.assertIn(dim, text, f"Report standards missing dimension: {dim}")
+
+    def test_report_triage_csv_and_inventory_step12(self):
+        """Report triage CSV and JSON must cover 100% of in-scope reports with valid outcomes and weak-file triage."""
+        csv_path = ROOT / "review" / "REPORT_TRIAGE.csv"
+        json_path = ROOT / "audit" / "report_triage_inventory.json"
+        self.assertTrue(csv_path.exists(), "review/REPORT_TRIAGE.csv must exist")
+        self.assertTrue(json_path.exists(), "audit/report_triage_inventory.json must exist")
+
+        with open(csv_path, "r", encoding="utf-8") as f:
+            rows = list(csv.DictReader(f))
+
+        # Check complete coverage of in-scope reports
+        self.assertEqual(len(rows), 153, "Triage CSV must cover 100% of in-scope reports (153 files)")
+
+        valid_outcomes = {"accept", "minor revision", "major revision", "rebuild"}
+        valid_triage = {"maintain", "refine", "rewrite", "merge", "delete"}
+        weak_count = 0
+
+        for r in rows:
+            path = ROOT / r["file_path"]
+            self.assertTrue(path.exists(), f"Target file does not exist: {r['file_path']}")
+            self.assertIn(r["outcome"], valid_outcomes, f"Invalid outcome {r['outcome']} for {r['file_path']}")
+            self.assertIn(r["triage_disposition"], valid_triage, f"Invalid triage disposition {r['triage_disposition']} for {r['file_path']}")
+            self.assertTrue(int(r["word_count"]) > 0, f"Invalid word count for {r['file_path']}")
+            self.assertTrue(int(r["line_count"]) > 0, f"Invalid line count for {r['file_path']}")
+
+            if r["quality_tier"] in ["Tier 3", "Tier 4"]:
+                weak_count += 1
+                self.assertIn(r["triage_disposition"], {"rewrite", "merge", "delete"}, f"Weak file {r['file_path']} must be triaged into rewrite, merge, or delete")
+                self.assertTrue(len(r["rationale"]) > 10, f"Weak file {r['file_path']} missing substantive rationale")
+                if r["triage_disposition"] == "merge":
+                    target = ROOT / r["target_merge_file"]
+                    self.assertTrue(target.exists(), f"Merge target does not exist: {r['target_merge_file']}")
+
+        # Exactly 46 weak files (38 Tier 3 + 8 Tier 4)
+        self.assertEqual(weak_count, 46, f"Expected exactly 46 weak Tier 3 and 4 files, got {weak_count}")
+
+        with open(json_path, "r", encoding="utf-8") as f:
+            inv = json.load(f)
+
+        self.assertEqual(inv["total_reports_audited"], 153)
+        self.assertEqual(inv["summary_statistics"]["weak_tier3_tier4_total"], 46)
+        self.assertEqual(len(inv["reports"]), 153)
