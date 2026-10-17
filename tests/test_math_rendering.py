@@ -67,6 +67,29 @@ class TestMathRenderingAndIntegrity(unittest.TestCase):
 
         self.assertGreater(len(display_blocks), 100, "Should have identified at least 100 display math blocks")
 
+        env = os.environ.copy()
+        node_paths = []
+        if (ROOT / 'node_modules').exists():
+            node_paths.append(str(ROOT / 'node_modules'))
+        if 'NODE_PATH' in env:
+            node_paths.append(env['NODE_PATH'])
+        if node_paths:
+            env['NODE_PATH'] = os.pathsep.join(node_paths)
+
+        try:
+            check_katex = subprocess.run(
+                ['node', '-e', 'try { require("katex"); process.exit(0); } catch(e) { process.exit(1); }'],
+                cwd=str(ROOT),
+                capture_output=True,
+                text=True,
+                env=env
+            )
+        except FileNotFoundError:
+            raise unittest.SkipTest("Node.js is not installed; skipping KaTeX rendering test.")
+
+        if check_katex.returncode != 0:
+            raise unittest.SkipTest("Node.js 'katex' module not available; skipping KaTeX rendering test.")
+
         tmp_file = ROOT / 'audit' / 'tmp_test_display_math.json'
         tmp_file.parent.mkdir(parents=True, exist_ok=True)
         tmp_file.write_text(json.dumps(display_blocks), encoding='utf-8')
@@ -94,17 +117,27 @@ if (errors.length > 0) {
 }
 """
         err_file = ROOT / 'audit' / 'tmp_test_display_math_errs.json'
-        res = subprocess.run(
-            ['node', '-e', node_script, str(tmp_file), str(err_file)],
-            cwd=str(ROOT),
-            capture_output=True,
-            text=True
-        )
+        try:
+            res = subprocess.run(
+                ['node', '-e', node_script, str(tmp_file), str(err_file)],
+                cwd=str(ROOT),
+                capture_output=True,
+                text=True,
+                env=env
+            )
 
-        if res.returncode != 0:
-            errors = json.loads(err_file.read_text(encoding='utf-8'))
-            err_summary = [f"{e['file']}:{e['line']} -> {e['error']} | math: {e['math'][:80]}" for e in errors]
-            self.fail(f"KaTeX failed on {len(errors)} display math blocks:\n" + "\n".join(err_summary))
+            if res.returncode != 0:
+                if err_file.exists():
+                    errors = json.loads(err_file.read_text(encoding='utf-8'))
+                    err_summary = [f"{e['file']}:{e['line']} -> {e['error']} | math: {e['math'][:80]}" for e in errors]
+                    self.fail(f"KaTeX failed on {len(errors)} display math blocks:\n" + "\n".join(err_summary))
+                else:
+                    self.fail(f"KaTeX test runner failed with exit code {res.returncode}:\n{res.stderr}\n{res.stdout}")
+        finally:
+            if tmp_file.exists():
+                tmp_file.unlink(missing_ok=True)
+            if err_file.exists():
+                err_file.unlink(missing_ok=True)
 
     def test_substantive_equation_symbol_definitions(self):
         """Verify core theoretical equations define required variables in surrounding context."""

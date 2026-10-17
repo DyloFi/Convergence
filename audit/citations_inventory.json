@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_reports_audited": 153,
-    "total_unique_sources": 836,
+    "total_unique_sources": 899,
     "total_citations_extracted": 1986,
     "analytical_focus_stripped_count": 1061,
     "status": "complete",
@@ -22,9 +22,7 @@
         "4th Turning/Concept/Concept Deep Dive.md",
         "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
         "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md",
-        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
         "4th Turning/README.md",
-        "4th Turning/Research Notes.md",
         "4th Turning/Timeline/Timeline Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -51,11 +49,8 @@
         "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
         "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
         "4th Turning/Key Events/Key Events Deep Dive.md",
-        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
         "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
-        "4th Turning/Public Perception/Public Perception Deep Dive.md",
         "4th Turning/README.md",
-        "4th Turning/Research Notes.md",
         "4th Turning/Social Movements/Social Movements Deep Dive.md",
         "4th Turning/Timeline/Timeline Deep Dive.md"
       ],
@@ -102,11 +97,9 @@
         "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
         "4th Turning/Key Events/Key Events Deep Dive.md",
         "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
-        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
         "4th Turning/Political Implications/Political Implications Deep Dive.md",
         "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
         "4th Turning/README.md",
-        "4th Turning/Research Notes.md",
         "4th Turning/Social Movements/Social Movements Deep Dive.md",
         "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md"
       ],
@@ -135,8 +128,7 @@
       "url": null,
       "citing_files": [
         "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
-        "4th Turning/Criticism/Criticism Deep Dive.md",
-        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md"
+        "4th Turning/Criticism/Criticism Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -209,14 +201,12 @@
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
         "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
         "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -289,7 +279,6 @@
         "4th Turning/Criticism/Criticism Deep Dive.md",
         "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
         "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
-        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
         "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
         "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
         "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
@@ -304,14 +293,11 @@
         "4th Turning/Key Events/Key Events Deep Dive.md",
         "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
         "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
-        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
         "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
         "4th Turning/Political Implications/Political Implications Deep Dive.md",
         "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
-        "4th Turning/Public Perception/Public Perception Deep Dive.md",
         "4th Turning/README.md",
         "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
-        "4th Turning/Research Notes.md",
         "4th Turning/Social Movements/Social Movements Deep Dive.md",
         "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md",
         "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md"
@@ -356,8 +342,7 @@
       "url": null,
       "citing_files": [
         "4th Turning/Archetypes/Archetypes Deep Dive.md",
-        "4th Turning/Generational Theory/Generational Theory Deep Dive.md",
-        "4th Turning/Public Perception/Public Perception Deep Dive.md"
+        "4th Turning/Generational Theory/Generational Theory Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -402,7 +387,6 @@
         "4th Turning/Criticism/Criticism Deep Dive.md",
         "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
         "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
-        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
         "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
         "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
         "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
@@ -414,11 +398,9 @@
         "4th Turning/Key Events/Key Events Deep Dive.md",
         "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
         "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
-        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
         "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
         "4th Turning/Political Implications/Political Implications Deep Dive.md",
         "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
-        "4th Turning/Public Perception/Public Perception Deep Dive.md",
         "4th Turning/README.md",
         "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
         "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md"
@@ -709,8 +691,7 @@
       "url": null,
       "citing_files": [
         "4th Turning/Book/Book Deep Dive.md",
-        "4th Turning/Comparisons/Comparisons Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "4th Turning/Comparisons/Comparisons Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
@@ -882,7 +863,6 @@
         "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
         "Kondratiev Waves/Analysis/README.md",
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
         "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
         "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
         "Kondratiev Waves/Concept/Concept Deep Dive.md",
@@ -892,12 +872,8 @@
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
         "Kondratiev Waves/Data/Data Deep Dive.md",
         "Kondratiev Waves/Data/README.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -905,9 +881,7 @@
         "LoAR/Applications/Applications Deep Dive.md",
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
-        "LoAR/Law of Accelerating Returns Overview.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Law of Accelerating Returns Overview.md"
       ],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
@@ -1008,7 +982,6 @@
         "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
         "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
         "Kondratiev Waves/Concept/README.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md"
       ],
       "verification_status": "verified",
@@ -1079,19 +1052,16 @@
         "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
         "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
         "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
         "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -1225,7 +1195,6 @@
         "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
         "Kondratiev Waves/Analysis/README.md",
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
         "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
         "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
         "Kondratiev Waves/Concept/Concept Deep Dive.md",
@@ -1235,12 +1204,8 @@
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
         "Kondratiev Waves/Data/Data Deep Dive.md",
         "Kondratiev Waves/Data/README.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -2243,9 +2208,7 @@
       "venue": "Templeton Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -2256,9 +2219,7 @@
       "venue": "OECD Publishing",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -2270,7 +2231,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
         "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -2283,9 +2243,7 @@
       "venue": "US Government Printing Office",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -2322,14 +2280,12 @@
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
         "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
         "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -2351,8 +2307,7 @@
         "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
         "Changing World Orders/Foundations/Foundations Deep Dive.md",
         "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md",
-        "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
+        "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -2729,8 +2684,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md"
+        "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -2769,8 +2723,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md"
+        "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -3393,9 +3346,7 @@
       "venue": "Gallup News",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "4th Turning/Public Perception/Public Perception Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -3406,9 +3357,7 @@
       "venue": "Pew Reports",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "4th Turning/Public Perception/Public Perception Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -3458,9 +3407,7 @@
       "venue": "American Economic Review, 84(3), 369-395",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "4th Turning/Research Notes.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -3471,9 +3418,7 @@
       "venue": "US Government Printing Office",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "4th Turning/Research Notes.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -3582,7 +3527,6 @@
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
@@ -5564,7 +5508,6 @@
         "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
         "Kondratiev Waves/Analysis/README.md",
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
         "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
         "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
         "Kondratiev Waves/Concept/Concept Deep Dive.md",
@@ -5574,12 +5517,8 @@
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
         "Kondratiev Waves/Data/Data Deep Dive.md",
         "Kondratiev Waves/Data/README.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -5600,7 +5539,6 @@
         "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
         "Kondratiev Waves/Analysis/README.md",
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
         "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
         "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
         "Kondratiev Waves/Concept/Concept Deep Dive.md",
@@ -5610,12 +5548,8 @@
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
         "Kondratiev Waves/Data/Data Deep Dive.md",
         "Kondratiev Waves/Data/README.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -5642,9 +5576,6 @@
         "Kondratiev Waves/Concept/README.md",
         "Kondratiev Waves/Data/Data Deep Dive.md",
         "Kondratiev Waves/Data/README.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md"
       ],
       "verification_status": "verified",
@@ -5660,7 +5591,6 @@
       "citing_files": [
         "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md",
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -5680,8 +5610,6 @@
         "Kondratiev Waves/Concept/Concept Deep Dive.md",
         "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
         "Kondratiev Waves/Concept/README.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
         "Kondratiev Waves/Technology/Technology Deep Dive.md"
       ],
@@ -5700,7 +5628,6 @@
         "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
         "Kondratiev Waves/Analysis/README.md",
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
         "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
         "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
         "Kondratiev Waves/Concept/Concept Deep Dive.md",
@@ -5710,12 +5637,8 @@
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
         "Kondratiev Waves/Data/Data Deep Dive.md",
         "Kondratiev Waves/Data/README.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -5736,7 +5659,6 @@
         "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
         "Kondratiev Waves/Analysis/README.md",
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
         "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
         "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
         "Kondratiev Waves/Concept/Concept Deep Dive.md",
@@ -5746,12 +5668,8 @@
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
         "Kondratiev Waves/Data/Data Deep Dive.md",
         "Kondratiev Waves/Data/README.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -5778,10 +5696,8 @@
         "Kondratiev Waves/Concept/README.md",
         "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
         "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -5805,9 +5721,6 @@
         "Kondratiev Waves/Concept/README.md",
         "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
         "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
-        "Kondratiev Waves/Economics/Economics Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md"
       ],
       "verification_status": "verified",
@@ -6124,8 +6037,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md"
+        "Kondratiev Waves/Authors/Authors Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -6178,7 +6090,6 @@
       "url": null,
       "citing_files": [
         "Kondratiev Waves/Authors/Authors Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
         "Kondratiev Waves/Kondratiev Waves Overview.md"
       ],
       "verification_status": "verified",
@@ -6191,9 +6102,7 @@
       "venue": "Princeton University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6204,9 +6113,7 @@
       "venue": "Basic Books",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6217,9 +6124,7 @@
       "venue": "Happen Again? Essays on Instability and Finance*. M.E. Sharpe. (Case Studies Financial Instability)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6230,9 +6135,7 @@
       "venue": "Cambridge Journal of Economics, 33(4), 779-805. (Case Studies Techno-Economic Cycles)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
     },
@@ -6243,9 +6146,7 @@
       "venue": "Economic Policy, 16(32), 51-82. (Case Studies Global Crises)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6256,9 +6157,7 @@
       "venue": "Oxford University Press. (Case Studies Financial Centers)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6269,9 +6168,7 @@
       "venue": "Economic Journal, 114(495), 338-351. (Case Studies Steam Electrification)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6282,9 +6179,7 @@
       "venue": "American Economic Review, 80(2), 355-361. (Case Studies Transition Lags)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6295,10 +6190,7 @@
       "venue": "Oxford University Press. (Case Studies Monetary Shocks)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6309,9 +6201,7 @@
       "venue": "Yale University Press. (Case Studies Interwar TFP)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6322,9 +6212,7 @@
       "venue": "Princeton University Press. (Case Studies Great Inventions)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6335,9 +6223,7 @@
       "venue": "Handbook of Economic Growth, 1, 1181-1224. (Case Studies Technology Diffusion)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6348,9 +6234,7 @@
       "venue": "Oxford University Press. (Case Studies Structural Shifts)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6362,8 +6246,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md",
         "Kondratiev Waves/Technology/Technology Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -6376,9 +6258,7 @@
       "venue": "MIT Press. (Case Studies Structural Traumas)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -6424,9 +6304,7 @@
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
@@ -6434,19 +6312,16 @@
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
         "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
         "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
         "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
         "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -6478,20 +6353,17 @@
       "url": null,
       "citing_files": [
         "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
         "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
         "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
         "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -8209,8 +8081,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "Kondratiev Waves/Data/Data Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md"
+        "Kondratiev Waves/Data/Data Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Official Government / Intergovernmental Registry"
@@ -8223,8 +8094,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "Kondratiev Waves/Data/Data Deep Dive.md",
-        "Kondratiev Waves/History/History Deep Dive.md"
+        "Kondratiev Waves/Data/Data Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -8345,9 +8215,7 @@
         "Kondratiev Waves/Technology/Technology Deep Dive.md",
         "LoAR/Applications/Applications Deep Dive.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md"
       ],
@@ -8724,10 +8592,7 @@
       "venue": "Vintage Books",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md",
-        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8738,9 +8603,7 @@
       "venue": "University of Texas Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8751,9 +8614,7 @@
       "venue": "Oxford University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8764,9 +8625,7 @@
       "venue": ", 11(2), 269-333",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8777,9 +8636,7 @@
       "venue": "(Vol. 3). Harper & Row",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8790,9 +8647,7 @@
       "venue": "Oxford University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8803,9 +8658,7 @@
       "venue": "Harvard University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8816,9 +8669,7 @@
       "venue": "Cambridge University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8829,9 +8680,7 @@
       "venue": "Methuen & Co",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8842,9 +8691,7 @@
       "venue": "Cambridge University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8855,9 +8702,7 @@
       "venue": "Harvard University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8868,9 +8713,7 @@
       "venue": "Cambridge University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8881,9 +8724,7 @@
       "venue": "George Allen & Unwin",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8894,9 +8735,7 @@
       "venue": "Weidenfeld & Nicolson",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8907,9 +8746,7 @@
       "venue": "Weidenfeld & Nicolson",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8920,9 +8757,7 @@
       "venue": "Weidenfeld & Nicolson",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8933,9 +8768,7 @@
       "venue": "University of California Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8946,9 +8779,7 @@
       "venue": "Cambridge University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8959,9 +8790,7 @@
       "venue": "Jonathan Cape",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8972,9 +8801,7 @@
       "venue": "Methuen & Co",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8985,9 +8812,7 @@
       "venue": "George Allen & Unwin",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -8998,9 +8823,7 @@
       "venue": "Farrar & Rinehart",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9011,9 +8834,7 @@
       "venue": "Oxford University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9024,9 +8845,7 @@
       "venue": "Oxford University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9037,9 +8856,7 @@
       "venue": ", 26(4), 540-555",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9050,9 +8867,7 @@
       "venue": "Cambridge University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9063,9 +8878,7 @@
       "venue": "Oxford University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/History/History Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9103,7 +8916,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
         "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -9116,9 +8928,7 @@
       "venue": "Princeton University Press",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9491,17 +9301,14 @@
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -9544,17 +9351,14 @@
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
@@ -9571,9 +9375,7 @@
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
@@ -9581,7 +9383,6 @@
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
         "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
         "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md"
       ],
@@ -9626,17 +9427,14 @@
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
@@ -9709,7 +9507,6 @@
       "citing_files": [
         "LoAR/Applications/Applications Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -9723,8 +9520,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "LoAR/Applications/Applications Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md"
+        "LoAR/Applications/Applications Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -9737,8 +9533,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "LoAR/Applications/Applications Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md"
+        "LoAR/Applications/Applications Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -9753,7 +9548,6 @@
       "citing_files": [
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
@@ -9761,8 +9555,7 @@
         "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
@@ -9778,17 +9571,14 @@
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
@@ -9804,15 +9594,13 @@
         "LoAR/Core_Concepts/00_Research_Plan.md",
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -9904,15 +9692,13 @@
         "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
         "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Historical_Context/Historical Context Deep Dive.md",
         "LoAR/Key_Principles/Key Principles Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
-        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+        "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -9964,9 +9750,7 @@
       "venue": ", 110(4), 1104–1144",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Critiques/Critiques Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -9978,7 +9762,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md"
       ],
       "verification_status": "verified",
@@ -9992,7 +9775,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
         "LoAR/Law of Accelerating Returns Overview.md",
         "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md"
@@ -10007,9 +9789,7 @@
       "venue": ", 72(1), 45–57",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Critiques/Critiques Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -10021,9 +9801,7 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "LoAR/Critiques/Critiques Deep Dive.md",
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -10036,9 +9814,7 @@
       "venue": "Dutton, pp. 15–54",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Critiques/Critiques Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -10118,7 +9894,6 @@
         "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
         "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
@@ -10135,9 +9910,7 @@
       "venue": ", 131(3414), 1667–1668",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Future_Implications/Future Implications Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -10149,7 +9922,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "LoAR/Future_Implications/Future Implications Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -10162,9 +9934,7 @@
       "venue": ", 8(2), 217–221",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Future_Implications/Future Implications Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -10360,7 +10130,8 @@
       "doi": null,
       "url": "https://aiindex.stanford.edu/report/",
       "citing_files": [
-        "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md"
+        "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md",
+        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
@@ -10749,9 +10520,7 @@
       "venue": ", 65(1), 83–108",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Official Government / Intergovernmental Registry"
     },
@@ -10762,9 +10531,7 @@
       "venue": "Harper & Brothers",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
     },
@@ -10775,9 +10542,7 @@
       "venue": "Princeton University Press (Chapter 16, pp. 566-604)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -10788,9 +10553,7 @@
       "venue": "The Journal of Economic History, 67(1), 128-159 (pp. 135-155)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Standard Scholarly Monograph / Peer-Reviewed Literature"
     },
@@ -10801,9 +10564,7 @@
       "venue": "Journal of Econometrics, 65(1), 83-108. https://doi.org/10.1016/0304-4076(94)01598-T (pp. 85-98)",
       "doi": "10.1016/0304-4076(94)01598-T",
       "url": "https://doi.org/10.1016/0304-4076(94",
-      "citing_files": [
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -10814,9 +10575,7 @@
       "venue": "American Economic Journal: Macroeconomics, 13(1), 333-372 (pp. 335-365)",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -10886,7 +10645,6 @@
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
         "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
@@ -10908,7 +10666,6 @@
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
         "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
         "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
         "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
       ],
@@ -10960,7 +10717,6 @@
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
         "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
         "Technological Singularity/Technological Singularity Overview.md",
         "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
@@ -10977,7 +10733,6 @@
       "url": null,
       "citing_files": [
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
         "Technological Singularity/Technological Singularity Overview.md"
@@ -10996,7 +10751,6 @@
         "Technological Singularity/Core_Concepts/00_Research_Overview.md",
         "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
         "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
         "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
         "Technological Singularity/Technological Singularity Overview.md",
         "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
@@ -11087,9 +10841,7 @@
       "venue": "Urbanomic",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -11100,9 +10852,7 @@
       "venue": "Wiley-Blackwell",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -11113,9 +10863,7 @@
       "venue": "Basic Books",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -11462,9 +11210,7 @@
       "venue": ", 25",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -11476,7 +11222,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -11490,7 +11235,6 @@
       "doi": null,
       "url": null,
       "citing_files": [
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
         "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
       ],
       "verification_status": "verified",
@@ -11503,9 +11247,7 @@
       "venue": ", 30",
       "doi": null,
       "url": null,
-      "citing_files": [
-        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
-      ],
+      "citing_files": [],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
     },
@@ -11755,6 +11497,843 @@
       ],
       "verification_status": "verified",
       "verification_source": "Published Academic / Industry Technical Document"
+    },
+    {
+      "author": "Aghion, P., & Howitt, P",
+      "year": "1992",
+      "title": "A Model of Growth Through Creative Destruction",
+      "venue": "Econometrica",
+      "doi": "10.2307/2951599",
+      "url": "https://doi.org/10.2307/2951599",
+      "citing_files": [
+        "Kondratiev Waves/Economics/Economics Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Aghion, P., Jones, B. F., & Jones, C. I",
+      "year": "2017",
+      "title": "Artificial Intelligence and Economic Growth",
+      "venue": "NBER Working Paper 23928",
+      "doi": null,
+      "url": "https://www.nber.org/papers/w23928",
+      "citing_files": [
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Baker, S. R., Bloom, N., & Davis, S. J",
+      "year": "2016",
+      "title": "Measuring Economic Policy Uncertainty",
+      "venue": "The Quarterly Journal of Economics",
+      "doi": "10.1093/qje/qjw024",
+      "url": "https://doi.org/10.1093/qje/qjw024",
+      "citing_files": [
+        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Bank of England",
+      "year": "2024",
+      "title": "A millennium of macroeconomic data (version 3",
+      "venue": "1)",
+      "doi": null,
+      "url": "https://www.bankofengland.co.uk/statistics/research-datasets",
+      "citing_files": [
+        "Kondratiev Waves/Economics/Economics Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Bloom, N., Jones, C. I., Van Reenen, J., & Webb, M",
+      "year": "2020",
+      "title": "Are Ideas Getting Harder to Find?",
+      "venue": "American Economic Review",
+      "doi": "10.1257/aer.20180338",
+      "url": "https://doi.org/10.1257/aer.20180338",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md",
+        "LoAR/Future_Implications/Future Implications Deep Dive.md",
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Brenan, M",
+      "year": "2024",
+      "title": "U",
+      "venue": "S",
+      "doi": null,
+      "url": "https://news.gallup.com/poll/647303/americans-confidence-institutions-remains-low.aspx",
+      "citing_files": [
+        "4th Turning/Public Perception/Public Perception Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Brynjolfsson, E",
+      "year": "1993",
+      "title": "The productivity paradox of information technology",
+      "venue": "Communications of the ACM",
+      "doi": "10.1145/163298.163309",
+      "url": "https://doi.org/10.1145/163298.163309",
+      "citing_files": [
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Bérut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E",
+      "year": "2012",
+      "title": "Experimental verification of Landauer's principle linking information and thermodynamics",
+      "venue": "Nature",
+      "doi": "10.1038/nature10872",
+      "url": "https://doi.org/10.1038/nature10872",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "CDC",
+      "year": "2020",
+      "title": "QuickStats: Expected Number of Births over a Woman's Lifetime, United States, 1940-2018",
+      "venue": "MMWR",
+      "doi": null,
+      "url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6901a5.htm",
+      "citing_files": [
+        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Centers for Disease Control and Prevention, NCHS",
+      "year": "1909",
+      "title": "Births and General Fertility Rates: United States, 1909-2018 (dataset e6fc-ccez)",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://data.cdc.gov/api/views/e6fc-ccez/rows.csv?accessType=DOWNLOAD",
+      "citing_files": [
+        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
+        "4th Turning/Research Notes.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Colby, S. L., & Ortman, J. M",
+      "year": "2014",
+      "title": "The Baby Boom Cohort in the United States: 2012 to 2060",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf",
+      "citing_files": [
+        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Computer History Museum",
+      "year": "1971",
+      "title": "1971: Microprocessor Integrates CPU Function onto a Single Chip",
+      "venue": "The Silicon Engine",
+      "doi": null,
+      "url": "https://www.computerhistory.org/siliconengine/microprocessor-integrates-cpu-function-onto-a-single-chip/",
+      "citing_files": [
+        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Dot-com bubble (Nasdaq Composite peak and decline)",
+      "year": "2026",
+      "title": "Wikipedia, accessed 2026-10-17",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Epoch AI",
+      "year": "2024",
+      "title": "Training compute of frontier AI models grows by 4-5x per year (May 28, 2024)",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year",
+      "citing_files": [
+        "LoAR/Future_Implications/Future Implications Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Erdil, E., & Besiroglu, T",
+      "year": "2022",
+      "title": "Algorithmic Progress in Computer Vision",
+      "venue": "Epoch AI",
+      "doi": null,
+      "url": "https://epoch.ai/blog/algorithmic-progress-in-computer-vision",
+      "citing_files": [
+        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Erdil, E., & Besiroglu, T",
+      "year": "2023",
+      "title": "Algorithmic Progress in Language Models",
+      "venue": "Epoch AI",
+      "doi": null,
+      "url": "https://epoch.ai/blog/algorithmic-progress-in-language-models",
+      "citing_files": [
+        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Federal Reserve History",
+      "year": "2024",
+      "title": "The Great Depression",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.federalreservehistory.org/essays/great-depression",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Fletcher, R., Bermejo Berros, J., & Nielsen, R. K",
+      "year": "2024",
+      "title": "What does the public in six countries think of generative AI? Reuters Institute for the Study of Journalism, University of Oxford",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/what-does-public-six-countries-think-generative-ai",
+      "citing_files": [
+        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Gallup",
+      "year": "2024",
+      "title": "Confidence in Institutions (historical trends)",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://news.gallup.com/poll/1597/confidence-institutions.aspx",
+      "citing_files": [
+        "4th Turning/Public Perception/Public Perception Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Garvy, G",
+      "year": "1943",
+      "title": "Kondratieff's Theory of Long Cycles",
+      "venue": "The Review of Economics and Statistics",
+      "doi": "10.2307/1927337",
+      "url": "https://doi.org/10.2307/1927337",
+      "citing_files": [
+        "Kondratiev Waves/Economics/Economics Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Greenspan, A",
+      "year": "1996",
+      "title": "Central banking in a democratic society",
+      "venue": "Remarks at the Annual Dinner and Francis Boyer Lecture of the American Enterprise Institute for Public Policy Research",
+      "doi": null,
+      "url": "https://www.federalreserve.gov/boarddocs/speeches/1996/19961205.htm",
+      "citing_files": [
+        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Hamilton, B. E., Martin, J. A., & Osterman, M. J. K",
+      "year": "2025",
+      "title": "Births: Provisional data for 2024",
+      "venue": "Vital Statistics Rapid Release",
+      "doi": null,
+      "url": "https://www.cdc.gov/nchs/data/vsrr/vsrr038.pdf",
+      "citing_files": [
+        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Hennessy, J. L., & Patterson, D. A",
+      "year": "2019",
+      "title": "A new golden age for computer architecture",
+      "venue": "Communications of the ACM",
+      "doi": "10.1145/3282307",
+      "url": "https://doi.org/10.1145/3282307",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md",
+        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "International Energy Agency",
+      "year": "2025",
+      "title": "AI is set to drive surging electricity demand from data centres while offering the potential to transform how the energy sector works (",
+      "venue": "Energy and AI",
+      "doi": null,
+      "url": "https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works",
+      "citing_files": [
+        "LoAR/Future_Implications/Future Implications Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Ipsos",
+      "year": "2023",
+      "title": "Global Views on A",
+      "venue": "I",
+      "doi": null,
+      "url": "https://www.ipsos.com/en/global-views-ai-2023",
+      "citing_files": [
+        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Jones, C. I",
+      "year": "1995",
+      "title": "R&D-Based Models of Economic Growth",
+      "venue": "Journal of Political Economy",
+      "doi": "10.1086/262002",
+      "url": "https://doi.org/10.1086/262002",
+      "citing_files": [
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D",
+      "year": "2020",
+      "title": "Scaling Laws for Neural Language Models",
+      "venue": "arXiv preprint arXiv:2001.08361",
+      "doi": null,
+      "url": "https://arxiv.org/abs/2001.08361",
+      "citing_files": [
+        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Kondratieff, N. D",
+      "year": "1935",
+      "title": "The Long Waves in Economic Life (W. F. Stolper, trans.)",
+      "venue": "The Review of Economics and Statistics",
+      "doi": "10.2307/1928486",
+      "url": "https://doi.org/10.2307/1928486",
+      "citing_files": [
+        "Kondratiev Waves/Economics/Economics Deep Dive.md",
+        "Kondratiev Waves/History/History Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Kondratiev wave (datings by Kondratiev, Šmihula and Nefiodow)",
+      "year": "2026",
+      "title": "Wikipedia, accessed 2026-10-17",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://en.wikipedia.org/wiki/Kondratiev_wave",
+      "citing_files": [
+        "Kondratiev Waves/History/History Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Korotayev, A. V., & Tsirel, S. V",
+      "year": "2010",
+      "title": "A Spectral Analysis of World GDP Dynamics: Kondratieff Waves, Kuznets Swings, Juglar and Kitchin Cycles in Global Economic Development, and the 2008-2009 Economic Crisis",
+      "venue": "Structure and Dynamics",
+      "doi": null,
+      "url": "https://escholarship.org/uc/item/9jv108xp",
+      "citing_files": [
+        "Kondratiev Waves/Economics/Economics Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Krizhevsky, A., Sutskever, I., & Hinton, G. E",
+      "year": "2012",
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+      "venue": "Advances in Neural Information Processing Systems",
+      "doi": null,
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+      "citing_files": [
+        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Kurzweil, R",
+      "year": "2001",
+      "title": "The Law of Accelerating Returns",
+      "venue": "KurzweilAI essay (archived copy)",
+      "doi": null,
+      "url": "https://web.archive.org/web/2018/http://www.kurzweilai.net/the-law-of-accelerating-returns",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md",
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Landauer, R",
+      "year": "1961",
+      "title": "Irreversibility and Heat Generation in the Computing Process",
+      "venue": "IBM Journal of Research and Development",
+      "doi": "10.1147/rd.53.0183",
+      "url": "https://doi.org/10.1147/rd.53.0183",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Lawrence Berkeley National Laboratory",
+      "year": "2025",
+      "title": "Berkeley Lab Report Evaluates Increase in Electricity Demand from Data Centers",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://newscenter.lbl.gov/2025/01/15/berkeley-lab-report-evaluates-increase-in-electricity-demand-from-data-centers/",
+      "citing_files": [
+        "LoAR/Future_Implications/Future Implications Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Modis, T",
+      "year": "2002",
+      "title": "Forecasting the growth of complexity and change",
+      "venue": "Technological Forecasting and Social Change",
+      "doi": "10.1016/S0040-1625(01)00172-X",
+      "url": "https://doi.org/10.1016/S0040-1625(01",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "National Academies of Sciences, Engineering, and Medicine",
+      "year": "2020",
+      "title": "Are Generational Categories Meaningful Distinctions for Workforce Management?",
+      "venue": "Publication / Online Repository",
+      "doi": "10.17226/25796",
+      "url": "https://www.nationalacademies.org/news/categorizing-workers-needs-by-generation-such-as-baby-boomers-or-millennials-is-not-supported-by-research-or-useful-for-workforce-management",
+      "citing_files": [
+        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+        "4th Turning/Research Notes.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "National Bureau of Economic Research",
+      "year": "2008",
+      "title": "Determination of the December 2007 Peak in Economic Activity",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.nber.org/news/business-cycle-dating-committee-announcement-december-1-2008",
+      "citing_files": [
+        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "National Bureau of Economic Research",
+      "year": "2024",
+      "title": "US Business Cycle Expansions and Contractions",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Nordhaus, W. D",
+      "year": "2007",
+      "title": "Two Centuries of Productivity Growth in Computing",
+      "venue": "The Journal of Economic History",
+      "doi": "10.1017/S0022050707000072",
+      "url": "https://doi.org/10.1017/S0022050707000072",
+      "citing_files": [
+        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Nordhaus, W. D",
+      "year": "2021",
+      "title": "Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth",
+      "venue": "American Economic Journal: Macroeconomics",
+      "doi": "10.1257/mac.20170105",
+      "url": "https://doi.org/10.1257/mac.20170105",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md",
+        "LoAR/Future_Implications/Future Implications Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Odlyzko, A",
+      "year": "2010",
+      "title": "Collective hallucinations and inefficient markets: The British Railway Mania of the 1840s (preliminary version, January 15, 2010)",
+      "venue": "University of Minnesota",
+      "doi": null,
+      "url": "https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Parker, K",
+      "year": "2023",
+      "title": "How Pew Research Center will report on generations moving forward",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.pewresearch.org/short-reads/2023/05/22/how-pew-research-center-will-report-on-generations-moving-forward/",
+      "citing_files": [
+        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+        "4th Turning/Public Perception/Public Perception Deep Dive.md",
+        "4th Turning/Research Notes.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Perez, C",
+      "year": "2009",
+      "title": "Technological revolutions and techno-economic paradigms",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "http://technologygovernance.eu/files/main/2009070708552121.pdf",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+        "Kondratiev Waves/History/History Deep Dive.md",
+        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
+        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Perez, C",
+      "year": "2009",
+      "title": "The double bubble at the turn of the century: technological roots and structural implications",
+      "venue": "Cambridge Journal of Economics",
+      "doi": "10.1093/cje/bep028",
+      "url": "https://doi.org/10.1093/cje/bep028",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Pew Research Center",
+      "year": "2019",
+      "title": "Defining generations: Where Millennials end and Generation Z begins",
+      "venue": "Pew Research Center",
+      "doi": null,
+      "url": "https://www.pewresearch.org/short-reads/2019/01/17/where-millennials-end-and-generation-z-begins/",
+      "citing_files": [
+        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Pew Research Center",
+      "year": "2023",
+      "title": "Assessing the effects of generation using age-period-cohort analysis (Decoded)",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.pewresearch.org/decoded/2023/05/22/assessing-the-effects-of-generation-using-age-period-cohort-analysis/",
+      "citing_files": [
+        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
+        "4th Turning/Research Notes.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Pew Research Center",
+      "year": "2023",
+      "title": "Growing public concern about the role of artificial intelligence in daily life",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.pewresearch.org/short-reads/2023/08/28/growing-public-concern-about-the-role-of-artificial-intelligence-in-daily-life/",
+      "citing_files": [
+        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Pew Research Center",
+      "year": "2023",
+      "title": "What the data says about Americans' views of artificial intelligence",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/",
+      "citing_files": [
+        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Pew Research Center",
+      "year": "2025",
+      "title": "Public Trust in Government: 1958-2025",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.pewresearch.org/politics/2024/06/24/public-trust-in-government-1958-2024/",
+      "citing_files": [
+        "4th Turning/Public Perception/Public Perception Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Productivity paradox (source of the Solow 1987 quotation, New York Times Book Review, July 12, 1987, p",
+      "year": "1987",
+      "title": "36)",
+      "venue": "Wikipedia, accessed 2026-10-17",
+      "doi": null,
+      "url": "https://en.wikipedia.org/wiki/Productivity_paradox",
+      "citing_files": [
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Rich, R",
+      "year": "2013",
+      "title": "The Great Recession",
+      "venue": "Federal Reserve History",
+      "doi": null,
+      "url": "https://www.federalreservehistory.org/essays/great-recession-of-200709",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Richardson, G",
+      "year": "1929",
+      "title": ", et al",
+      "venue": "Stock Market Crash of 1929",
+      "doi": null,
+      "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+      "citing_files": [
+        "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
+        "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Romer, P. M",
+      "year": "1990",
+      "title": "Endogenous Technological Change",
+      "venue": "Journal of Political Economy",
+      "doi": "10.1086/261725",
+      "url": "https://doi.org/10.1086/261725",
+      "citing_files": [
+        "Kondratiev Waves/Economics/Economics Deep Dive.md",
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Sevilla, J., Besiroglu, T., Cottier, B., You, J., Roldán, E., Villalobos, P., & Erdil, E",
+      "year": "2024",
+      "title": "Can AI scaling continue through 2030? Epoch AI (August 20, 2024)",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://epoch.ai/blog/can-ai-scaling-continue-through-2030",
+      "citing_files": [
+        "LoAR/Future_Implications/Future Implications Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P",
+      "year": "2022",
+      "title": "Compute Trends Across Three Eras of Machine Learning",
+      "venue": "2022 International Joint Conference on Neural Networks (IJCNN)",
+      "doi": "10.1109/IJCNN55064.2022.9892900",
+      "url": "https://doi.org/10.1109/IJCNN55064.2022.9892900",
+      "citing_files": [
+        "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Shiller, R. J",
+      "year": "2017",
+      "title": "Narrative Economics",
+      "venue": "American Economic Review",
+      "doi": "10.1257/aer.107.4.967",
+      "url": "https://doi.org/10.1257/aer.107.4.967",
+      "citing_files": [
+        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Slutzky, E",
+      "year": "1937",
+      "title": "The Summation of Random Causes as the Source of Cyclic Processes",
+      "venue": "Econometrica",
+      "doi": "10.2307/1907241",
+      "url": "https://doi.org/10.2307/1907241",
+      "citing_files": [
+        "Kondratiev Waves/Economics/Economics Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Solow, R. M",
+      "year": "1957",
+      "title": "Technical Change and the Aggregate Production Function",
+      "venue": "The Review of Economics and Statistics",
+      "doi": "10.2307/1926047",
+      "url": "https://doi.org/10.2307/1926047",
+      "citing_files": [
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Strauss–Howe generational theory (turning and generation dates as used by Howe)",
+      "year": "2026",
+      "title": "Wikipedia, accessed 2026-10-17",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory",
+      "citing_files": [
+        "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
+        "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "TOP500",
+      "year": "2025",
+      "title": "Green500, June 2025",
+      "venue": "Publication / Online Repository",
+      "doi": null,
+      "url": "https://www.top500.org/lists/green500/2025/06/",
+      "citing_files": [
+        "LoAR/Critiques/Critiques Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Tetlock, P. C",
+      "year": "2007",
+      "title": "Giving Content to Investor Sentiment: The Role of Media in the Stock Market",
+      "venue": "The Journal of Finance",
+      "doi": "10.1111/j.1540-6261.2007.01232.x",
+      "url": "https://doi.org/10.1111/j.1540-6261.2007.01232.x",
+      "citing_files": [
+        "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "U",
+      "year": "2024",
+      "title": "S",
+      "venue": "Bureau of Labor Statistics",
+      "doi": null,
+      "url": "https://fred.stlouisfed.org/series/OPHNFB",
+      "citing_files": [
+        "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
+    },
+    {
+      "author": "Vinge, V",
+      "year": "1993",
+      "title": "The Coming Technological Singularity: How to Survive in the Post-Human Era",
+      "venue": "Vision-21: Interdisciplinary Science and Engineering in the Era of Cyberspace",
+      "doi": null,
+      "url": "https://ntrs.nasa.gov/citations/19940022855",
+      "citing_files": [
+        "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
+      ],
+      "verification_status": "verified",
+      "verification_source": "Fetched and checked against the cited figure during Step 13 (2026-10-17)"
     }
   ],
   "citations_by_report": {

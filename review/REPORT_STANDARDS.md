@@ -14,7 +14,7 @@ This document formalizes the minimum scholarly standards for all research delive
 1. **Decoupling from Target-Driven Length**: Arbitrary line counts (e.g. >=150 lines) are permanently abandoned as quality proxies. Length is not a goal; analytical density, empirical grounding, and epistemic calibration govern report validity.
 2. **Universal 9-Dimension Rubric**: Every report type must strictly adhere to minimum standards covering **question, scope, summary, method, evidence, competing views, limitations, proportional conclusions, and references**.
 3. **Complete Corpus Census**: 100% of the 153 active reports were independently evaluated and assigned an explicit outcome: `accept` (24 files), `minor revision` (83 files), `major revision` (38 files), or `rebuild` (8 files).
-4. **Actionable Triage of Weak Files**: Exactly 46 weak files (38 Tier 3 and 8 Tier 4 dossiers) were systematically triaged into **rewrite** (15 files), **merge** (24 files), and **delete** (7 files).
+4. **Actionable Triage of Weak Files**: Exactly 46 weak files (38 Tier 3 and 8 Tier 4 dossiers) were systematically triaged into **rewrite** (14 files), **merge** (25 files), and **delete** (7 files).
 
 ---
 

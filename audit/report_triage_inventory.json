@@ -534,7 +534,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Relies on synthetic tables; needs real US Census / UN demographic pyramid time series.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
     },
     {
@@ -954,7 +954,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Padded with boilerplate meta-commentary; needs genuine objective historiographical synthesis.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md"
     },
     {
@@ -1054,7 +1054,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Heavily reliant on repetitive polling generalizations; needs primary survey panel data.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "4th Turning/Public Perception/Public Perception Deep Dive.md"
     },
     {
@@ -1114,7 +1114,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Loose unstructured research notes padded to 150 lines; needs conversion into a focused monograph.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "4th Turning/Research Notes.md"
     },
     {
@@ -1714,7 +1714,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Padded with repetitive sectoral timelines; needs primary econometric capital goods investment data.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
     },
     {
@@ -2054,7 +2054,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Contains recycled Trotsky/Schumpeter blocks; needs modern endogenous growth modeling.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "Kondratiev Waves/Economics/Economics Deep Dive.md"
     },
     {
@@ -2094,7 +2094,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Generic historical recounting; needs specific commodity cycle price data (1780-2026).",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "Kondratiev Waves/History/History Deep Dive.md"
     },
     {
@@ -2114,7 +2114,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Chronological event table with boilerplate descriptions; rewrite to focus on macro inflection points.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
     },
     {
@@ -2174,7 +2174,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Over-reliant on synthetic media narrative tables; needs rigorous media sentiment analysis.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
     },
     {
@@ -2374,7 +2374,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Relies on generic rebuttal framing; rewrite with serious physical (Landauer/von Neumann) constraint modeling.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "LoAR/Critiques/Critiques Deep Dive.md"
     },
     {
@@ -2414,7 +2414,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Speculative extrapolations lacking empirical bounds; rewrite with rigorous forecast calibration.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "LoAR/Future_Implications/Future Implications Deep Dive.md"
     },
     {
@@ -2674,7 +2674,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Theoretical comparisons padded with ASCII boxes; rewrite to rigorously compare Solow vs Kurzweil.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
     },
     {
@@ -2794,7 +2794,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Speculative sci-fi tropes padded to meet line length; rewrite with empirical AI public opinion panels.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
     },
     {
@@ -2954,7 +2954,7 @@
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
       "rationale": "Repetitive recounting of early cybernetics; rewrite with primary hardware compute lineages.",
-      "step13_status": "rewrite pending",
+      "step13_status": "rewritten",
       "current_location": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
     },
     {
@@ -3163,7 +3163,7 @@
     "status_counts": {
       "unchanged (outside Step 13 scope)": 107,
       "merged": 25,
-      "rewrite pending": 14,
+      "rewritten": 14,
       "removed": 7
     },
     "active_reports_after_step13": 121,
