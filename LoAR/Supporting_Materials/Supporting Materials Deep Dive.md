@@ -150,3 +150,41 @@ Independent institutional corroboration across museum collections, patent filing
 ### Epistemological Integrity and Final Archival Verification
 
 Continuous reconciliation between physical artifact performance records and contemporary simulation models provides definitive empirical validation that computing capability has compounded at exponential rates across shifting historical paradigms, establishing the empirical foundation of the Convergence thesis.
+
+## Consolidated from `Bibliography Deep Dive.md` (Step 13)
+
+`LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: methodologically defective, speculative, or empty data stub; Recycled Kurzweil/Trotsky bibliography block without unique analytical prose). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md.orig` (SHA-256 `86e274f0ed6a`).
+
+References cited in `Bibliography Deep Dive.md` and not already listed above:
+
+- **Moore, G. E. (1965)**. *Cramming more components onto integrated circuits*. *Electronics*, 38(8), 114–117.
+- **Moore, G. E. (1975)**. *Progress in digital integrated electronics*. *IEEE International Electron Devices Meeting (IEDM)*, 21, 11–13.
+- **Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.**
+- **Brynjolfsson, E., & McAfee, A. (2014). *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. W. W. Norton & Company.**
+- **Tegmark, M. (2017). *Life 3.0: Being Human in the Age of Artificial Intelligence*. Alfred A. Knopf.**
+- **Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.**
+- **Kelly, K. (2010). *What Technology Wants*. Viking Press.**
+- **Nordhaus, W. D. (2021).** Two Centuries of Productivity Growth in Computing. *Journal of Economic History*, 67(1), 128-159. Comprehensive price-performance index construction tracking computational devices from manual abaci to vacuum tubes and integrated microprocessors.
+- Adams, F. C., & Laughlin, G. (1997). A dying universe: The long-term fate and evolution of astrophysical objects. *Reviews of Modern Physics*, 69(2), 337–372.
+- Frank, M. P. (2002). Physical limits of computing. *Computing in Science & Engineering*, 4(3), 16–26.
+- Good, I. J. (1965). Speculations concerning the first ultraintelligent machine. *Advances in Computers*, 6, 31–88.
+- Lloyd, S. (2000). Ultimate physical limits to computation. *Nature*, 406(6799), 1047–1054.
+- Ulam, S. (1958). Tribute to John von Neumann. *Bulletin of the American Mathematical Society*, 64(3), 1–49.
+- Vinge, V. (1993). The coming technological singularity: How to survive in the post-human era. *VISION-21 Symposium*, NASA CP-10129, 11–22.
+
+## Consolidated from `Glossary Deep Dive.md` (Step 13)
+
+`LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Standalone glossary padded to 150 lines; consolidate into Supporting Materials). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md.orig` (SHA-256 `29ce25418b5c`).
+
+References cited in `Glossary Deep Dive.md` and not already listed above:
+
+- Amdahl, G. M. (1967). *AFIPS Conf. Proc.*, 30, 483–485.
+- Cowen, T. (2011). *The Great Stagnation*. Dutton.
+- Dennard, R. H., et al. (1974). *IEEE J. Solid-State Circuits*, 9(5), 256–268.
+- Gustafson, J. L. (1988). *CACM*, 31(5), 532–533.
+- Kurzweil, R. (2005). *The Singularity Is Near*. Viking.
+- Landauer, R. (1961). *IBM J. Res. Dev.*, 5(3), 183–191.
+- Moore, G. E. (1965). *Electronics*, 38(8), 114–117.
+- Nordhaus, W. D. (2007). *J. Econ. Hist.*, 67(1), 128–159.
+- Sevilla, J., et al. (2022). *arXiv:2202.05924*.
+- Wetterstrand, K. A. (2021). *NHGRI Genome Sequencing Costs*.

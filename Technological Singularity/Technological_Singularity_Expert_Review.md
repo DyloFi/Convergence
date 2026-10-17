@@ -285,3 +285,14 @@ Round 2 implementers must adhere strictly to the following 5 implementation dire
 
 *Report completed by AGI/ASI Alignment Expert.*  
 *Output path*: `Technological Singularity/Technological_Singularity_Expert_Review.md`  
+
+## Step 13 consolidation note (Technological Singularity)
+
+After this review was written, Step 13 of the remediation plan acted on the Step 12 triage for the Technological Singularity pillar. Files named above that were merged or removed no longer exist at those paths; their originals are preserved under `archive/step13_originals/`, and the full change record is `review/step13_changes.md`.
+
+- `Cultural_Impact/Cultural Impact Deep Dive.md`: rewritten from the evidence up
+- `Historical_Development/Historical Development Deep Dive.md`: rewritten from the evidence up
+- `Supporting_Materials/Bibliography/Bibliography Deep Dive.md`: merged into `Supporting_Materials/Supporting Materials Deep Dive.md`
+- `Supporting_Materials/Controversies/Controversies Deep Dive.md`: merged into `Ethical_Considerations/Ethical Considerations Deep Dive.md`
+- `Supporting_Materials/Glossary/Glossary Deep Dive.md`: merged into `Supporting_Materials/Supporting Materials Deep Dive.md`
+- `Supporting_Materials/Sources/Sources Deep Dive.md`: merged into `Supporting_Materials/Supporting Materials Deep Dive.md`

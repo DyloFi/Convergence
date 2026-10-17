@@ -151,3 +151,17 @@ Within `Convergence_Master_Synthesis.md`:
 - Turner, A. M., Smith, L., Shah, R., Critch, A., & Tadepalli, P. (2021). Optimal Policies Tend to Seek Power. *NeurIPS 2021*.
 - Yudkowsky, E. (2004). Coherent Extrapolated Volition. *Machine Intelligence Research Institute Technical Report*.
 - Yudkowsky, E. (2008). Artificial Intelligence as a Positive and Negative Factor in Global Risk. In *Global Catastrophic Risks* (pp. 308–345). Oxford University Press.
+
+## Consolidated from `Controversies Deep Dive.md` (Step 13)
+
+`Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Duplicate controversies stub; merge into Ethical Considerations Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md.orig` (SHA-256 `e2fcf685abd6`).
+
+References cited in `Controversies Deep Dive.md` and not already listed above:
+
+- Erdil, E., & Besiroglu, T. (2023). Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*.
+- Hanson, R. (2008). Economics of the Singularity. *IEEE Spectrum*, 45(6), 45–50.
+- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *American Economic Journal: Macroeconomics*, 13(1), 299–332.
+- Yudkowsky, E. (2013). Intelligence Explosion Microeconomics. *MIRI Technical Report*.
+- Aghion, P., Jones, B. F., & Jones, C. I. (2019). Artificial Intelligence and Economic Growth. *The Economics of Artificial Intelligence: An Agenda*, 237–282. University of Chicago Press.
+- Chalmers, D. J. (2010). The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7–65.
+- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.

@@ -159,3 +159,50 @@ Empirical validation across United Kingdom industrial production indices (1780-2
 - Ravn, M. O., & Uhlig, H. (2002). On Adjusting the Hodrick-Prescott Filter for the Frequency of Observations. *Review of Economics and Statistics*, 84(2), 371-376.
 - Stock, J. H., & Watson, M. W. (1999). Business Cycle Facts: A Review and Empirical Investigation. In J. B. Taylor & M. Woodford (Eds.), *Handbook of Macroeconomics* (Vol. 1A, pp. 3-64). Elsevier.
 - Baxter, M., & King, R. G. (1999). Measuring Business Cycles: Approximate Band-Pass Filters for Economic Time Series. *Review of Economics and Statistics*, 81(4), 575-593.
+
+## Consolidated from `Documentation Deep Dive.md` (Step 13)
+
+`Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Data dictionary stub; merge into parent Data Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md.orig` (SHA-256 `c2257db349b5`).
+
+References cited in `Documentation Deep Dive.md` and not already listed above:
+
+- Box, G. E. P., & Jenkins, G. M. (1976). *Time Series Analysis: Forecasting and Control*. Holden-Day.
+- Hamilton, J. D. (1994). *Time Series Analysis*. Princeton University Press.
+- Harvey, A. C. (1989). *Forecasting, Structural Time Series Models and the Kalman Filter*. Cambridge University Press.
+- Hendry, D. F. (1995). *Dynamic Econometrics*. Oxford University Press.
+- International Organization for Standardization. (2016). *Data quality - Part 61: Data quality management: Process reference model* (ISO Standard No. 8000-61:2016).
+- Chacon, S., & Straub, B. (2014). *Pro Git: Everything you need to know about Git* (2nd ed.). Apress.
+- Buneman, P., Khanna, S., & Tan, W. C. (2001). Why and Where: A Characterization of Data Provenance. In *Database Theory - ICDT 2001* (pp. 316-330). Springer.
+- Moreau, L., Freire, J., Futrelle, J., McGrath, R. E., Myers, J., & Paulson, P. (2008). The Open Provenance Model: An Overview. In *Provenance and Annotation of Data and Processes* (pp. 323-326). Springer.
+- Simmhan, Y. L., Plale, B., & Gannon, D. (2005). A Survey of Data Provenance in E-Science. *ACM SIGMOD Record*, 34(3), 31-36.
+
+## Consolidated from `Historical Deep Dive.md` (Step 13)
+
+`Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Padded historical prices stub; merge empirical points into Data Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md.orig` (SHA-256 `4f16c576159d`).
+
+References cited in `Historical Deep Dive.md` and not already listed above:
+
+- Jevons, W. S. (1884). *Investigations in Currency and Finance*. Macmillan and Co.
+- Clapham, J. H. (1926). *An Economic History of Modern Britain* (Vol. 1). Cambridge University Press.
+- Rostow, W. W. (1978). *The World Economy: History & Prospect*. University of Texas Press.
+- Beveridge, W. (1939). *Prices and Wages in England from the Twelfth to the Nineteenth Century* (Vol. 1). Longmans, Green and Co.
+- Phelps Brown, E. H., & Hopkins, S. V. (1956). Seven Centuries of the Prices of Consumables, Compared with Builders' Wage-Rates. *Economica*, 23(92), 296-314.
+- Fogel, R. W. (1964). *Railroads and American Economic Growth: Essays in Econometric History*. Johns Hopkins University Press.
+- North, D. C. (1981). *Structure and Change in Economic History*. W. W. Norton & Company.
+
+## Consolidated from `Raw Deep Dive.md` (Step 13)
+
+`Kondratiev Waves/Data/Raw/Raw Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: methodologically defective, speculative, or empty data stub; Generic raw data descriptions without original empirical series; merge into Data Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Kondratiev Waves/Data/Raw/Raw Deep Dive.md.orig` (SHA-256 `f99aed29373d`).
+
+References cited in `Raw Deep Dive.md` and not already listed above:
+
+- Beveridge, W. H. (1921). *Weather and Harvest Cycles*. Economic Journal, 31(124), 429–452.
+- Barnett, V., & Lewis, T. (1994). *Outliers in Statistical Data* (3rd ed.). John Wiley & Sons.
+- Grubbs, F. E. (1969). Procedures for Detecting Outlying Observations in Samples. *Technometrics*, 11(1), 1-21.
+- Morgenstern, O. (1963). *On the Accuracy of Economic Observations* (2nd ed.). Princeton University Press.
+- Prescott, E. C. (1986). Theory Ahead of Business-Cycle Measurement. *Carnegie-Rochester Conference Series on Public Policy*, 25, 11-44.
+- Dataverse Project. (2021). *Dataverse: An Open Source Research Data Repository*. Harvard Institute for Quantitative Social Science.
+- Austin, C. C., Bloom, T., Dallmeier-Tiessen, S., Hallett, R., Kambuzuma, D., & Nurnberger, A. (2017). Research Data Repositories: Review of Current Features, Gaps, and Future Directions. *D-Lib Magazine*, 23(11/12), 1-12.
+- Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., .. & Mons, B. (2016). The FAIR Guiding Principles for Scientific Data Management and Stewardship. *Scientific Data*, 3, 160018.
+- Borer, E. T., Seabloom, E. W., Jones, M. B., & Schildhauer, M. (2009). Some Simple Guidelines for Effective Data Management. *Bulletin of the Ecological Society of America*, 90(2), 205-214.
+- Corti, L., Van den Eynden, V., Bishop, L., & Woollard, M. (2019). *Managing and Sharing Research Data: A Guide to Good Practice* (2nd ed.). SAGE Publications.

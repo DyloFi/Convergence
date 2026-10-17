@@ -151,3 +151,17 @@ Integrating the Strauss-Howe thesis with modern evolutionary macro-sociology (Tu
 - Huntington, S. P. (1981). *American Politics: The Promise of Disharmony*. Harvard University Press.
 - Brooks, D. (2005). The Generational Illusion. *The New York Times*, A27.
 - Dalio, R. (2021). *Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail*. Avid Reader Press.
+
+## Consolidated from `The_Fourth_Turning_Book_Details.md` (Step 13)
+
+`4th Turning/Book/The_Fourth_Turning_Book_Details.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Book details stub duplicating chapter summaries from Book Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Book/The_Fourth_Turning_Book_Details.md.orig` (SHA-256 `5a1deb77b7fc`).
+
+References cited in `The_Fourth_Turning_Book_Details.md` and not already listed above:
+
+- Gianos, P. L. (1998). *Politics and Politicians in American Film*. Praeger Publishers.
+- Turchin, P., & Nefedov, S. A. (2009). *Secular Cycles*. Princeton University Press.
+- Putnam, R. D. (2000). *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster.
+- Ferguson, N. (2012). *The Great Degeneration: How Institutions Decay and Economies Die*. Penguin Books.
+- Taylor, P. (2014). *The Next America: Boomers, Millennials, and the Looming Generational Showdown*. PublicAffairs.
+- Kondratiev, N. D. (1935). The Long Waves in Economic Life. *The Review of Economics and Statistics*, 17(6), 105-115.
+- Modelski, G. (1987). *Long Cycles in World Politics*. University of Washington Press.

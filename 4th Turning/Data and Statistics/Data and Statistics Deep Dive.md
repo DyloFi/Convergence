@@ -152,3 +152,20 @@ The quantitative integrity of generational cohort models requires systematic ben
 - Preston, S. H., Heuveline, P., & Guillot, M. (2001). *Demography: Measuring and Modeling Population Processes*. Blackwell Publishers. (Age-period-cohort identification techniques).
 - Ryder, N. B. (1965). The cohort as a concept in the study of social change. *American Sociological Review*, 30(6), 843–861. (Foundational cohort demography).
 - US Social Security Administration. (2024). *The 2024 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance Trust Funds*. (Actuarial solvency models).
+
+## Consolidated from `Data Deep Dive.md` (Step 13)
+
+`4th Turning/Data/Data Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Folder naming collision duplicating Data and Statistics Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Data/Data Deep Dive.md.orig` (SHA-256 `2c36e83237e4`).
+
+References cited in `Data Deep Dive.md` and not already listed above:
+
+- CDC / NCHS. (2024). Births: Final Data for 2023. National Vital Statistics Reports.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- UN Population Division. (2022). World Population Prospects 2022. United Nations.
+- US Census Bureau. (2023). Historical Fertility and Marriage Data Series. US Government Printing Office.
+- Box, G. E., & Jenkins, G. M. (1970). *Time Series Analysis: Forecasting and Control*. Holden-Day. (Methodological standards for ARIMA filtering and lag operators).
+- Hamilton, J. D. (1994). *Time Series Analysis*. Princeton University Press. (Spectral density decomposition and non-stationary historical series).
+- Maddison, A. (2007). *Contours of the World Economy 1-2030 AD*. Oxford University Press. (Historical macroeconomic databases and cliometric benchmarks).
+- Mitchell, B. R. (2003). *International Historical Statistics: The Americas 1750-2000*. Palgrave Macmillan. (Longitudinal demographic and trade archival data).
+- US Bureau of the Census. (1975). *Historical Statistics of the United States, Colonial Times to 1970*. US Government Printing Office. (Primary federal time series).

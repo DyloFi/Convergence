@@ -149,3 +149,19 @@ The Millennial Fourth Turning follows an intricate critical path sequence where 
 - Koselleck, R. (2004). *Futures Past: On the Semantics of Historical Time*. Columbia University Press. (Historical time, modern consciousness, and temporal acceleration).
 - Sorokin, P. A. (1937). *Social and Cultural Dynamics: Fluctuation of Social Relationships, War, and Revolution*. American Book Company. (Long-wave historical fluctuations).
 - Zerubavel, E. (1981). *Hidden Rhythms: Schedules and Calendars in Social Life*. University of Chicago Press. (Sociological analysis of cyclical schedules and collective rhythms).
+
+## Consolidated from `Comparative Timelines Deep Dive.md` (Step 13)
+
+`4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Redundant timeline comparison with high duplication against Timeline Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md.orig` (SHA-256 `bcb12819c399`).
+
+References cited in `Comparative Timelines Deep Dive.md` and not already listed above:
+
+- Friedman, G. (2020). The Storm Before the Calm. Doubleday.
+- Modelski, G. (1987). Long Cycles in World Politics. University of Washington Press.
+- Wallerstein, I. (1974). The Modern World-System. Academic Press.
+- Bergesen, A., & Schoenberg, R. (1980). Long Waves of Colonial Expansion and Contraction, 1415-1969. *Studies in Comparative International Development*, 15(4), 3-26.
+- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press.
+- Sakellaris, P., & Wilson, D. J. (2004). Quantifying Embodied Technological Change. *Review of Economic Dynamics*, 7(1), 1-26.
+- Berry, B. J. (1991). *Long-Wave Rhythms in Economic Development and Political Behavior*. Johns Hopkins University Press.
+- Clark, C. (2012). *The Sleepwalkers: How Europe Went to War in 1914*. Harper.
+- Kennedy, P. (1987). *The Rise and Fall of the Great Powers*. Random House.

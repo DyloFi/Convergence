@@ -443,3 +443,23 @@ Every report must include a context-aware paragraph in Section 4 explicitly mapp
 ---
 *Report completed by Long-Wave Economics Expert.*  
 *File location*: `Kondratiev Waves/Kondratiev_Waves_Expert_Review.md`
+
+## Step 13 consolidation note (Kondratiev Waves)
+
+After this review was written, Step 13 of the remediation plan acted on the Step 12 triage for the Kondratiev Waves pillar. Files named above that were merged or removed no longer exist at those paths; their originals are preserved under `archive/step13_originals/`, and the full change record is `review/step13_changes.md`.
+
+- `Analysis/Notebooks/Notebooks Deep Dive.md`: removed
+- `Analysis/Reports/Reports Deep Dive.md`: merged into `Analysis/Analysis Deep Dive.md`
+- `Analysis/Scripts/Scripts Deep Dive.md`: removed
+- `Case_Studies/Case Studies Deep Dive.md`: rewritten from the evidence up
+- `Data/Documentation/Documentation Deep Dive.md`: merged into `Data/Data Deep Dive.md`
+- `Data/Processed/CSV/CSV Deep Dive.md`: removed
+- `Data/Processed/JSON/JSON Deep Dive.md`: removed
+- `Data/Processed/Processed Deep Dive.md`: removed
+- `Data/Processed/SQLite/SQLite Deep Dive.md`: removed
+- `Data/Raw/Historical/Historical Deep Dive.md`: merged into `Data/Data Deep Dive.md`
+- `Data/Raw/Raw Deep Dive.md`: merged into `Data/Data Deep Dive.md`
+- `Economics/Economics Deep Dive.md`: rewritten from the evidence up
+- `History/History Deep Dive.md`: rewritten from the evidence up
+- `Key_Events/Key Events Deep Dive.md`: rewritten from the evidence up
+- `Media_Analysis/Media Analysis Deep Dive.md`: rewritten from the evidence up

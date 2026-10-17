@@ -149,3 +149,33 @@ exceeds empirical permutation null bounds ($p < 0.01$) across independent histor
 - Merton, R. K. (1968). *Social Theory and Social Structure*. Free Press.
 - Coleman, J. S. (1990). *Foundations of Social Theory*. Harvard University Press.
 - Hedstrom, P., & Swedberg, R. (1998). *Social Mechanisms: An Analytical Approach to Social Theory*. Cambridge University Press.
+
+## Consolidated from `Criticisms_and_Controversies.md` (Step 13)
+
+`4th Turning/Criticism/Criticisms_and_Controversies.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Duplicate controversies file; merge into parent Criticism Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Criticism/Criticisms_and_Controversies.md.orig` (SHA-256 `d50c0adad6ae`).
+
+References cited in `Criticisms_and_Controversies.md` and not already listed above:
+
+- Goldstone, J. A. (1991). *Revolution and Rebellion in the Early Modern World*. University of California Press.
+- Huntington, S. P. (1981). *American Politics: The Promise of Disharmony*. Harvard University Press.
+- Modelski, G. (1987). *Long Cycles in World Politics*. University of Washington Press.
+- Turchin, P., & Nefedov, S. A. (2009). *Secular Cycles*. Princeton University Press.
+- Bannon, S. (Director). (2010). Generation Zero [Film]. Citizens United Productions.
+- Howe, N. (2017). Where Steve Bannon Gets His Worldview. Washington Post Op-Ed.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- New York Times. (2017). Steve Bannon's Apocalyptic Vision for America. NYT Feature.
+- Turchin, P. (2016). Ages of Discord. Beresta Books.
+
+## Consolidated from `Critiques and Debates Deep Dive.md` (Step 13)
+
+`4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Redundant subdirectory split duplicating Criticism Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md.orig` (SHA-256 `6985f5c49759`).
+
+References cited in `Critiques and Debates Deep Dive.md` and not already listed above:
+
+- Burnham, W. D. (1970). Critical Elections and the Mainsprings of American Politics. W. W. Norton & Company.
+- Fogel, R. W. (1990). The Fourth Great Awakening and the Future of Egalitarianism. University of Chicago Press.
+- Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press.
+- Fischer, D. H. (1970). *Historians' Fallacies: Toward a Logic of Historical Thought*. Harper & Row. (Epistemological critiques of periodization and teleological fallacies).
+- Schlesinger, A. M. Jr. (1986). *The Cycles of American History*. Houghton Mifflin. (Pendulum theories of public purpose versus private interest).
+- Sorokin, P. A. (1937). *Social and Cultural Dynamics*. American Book Company. (Fluctuations of sensate and ideational sociocultural systems).
+- Turchin, P. (2003). *Historical Dynamics: Why States Rise and Fall*. Princeton University Press. (Secular cycles and mathematical modeling of agrarian state instability).

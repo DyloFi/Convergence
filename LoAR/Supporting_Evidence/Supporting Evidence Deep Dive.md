@@ -151,3 +151,16 @@ Quantitative verification across multiple independent compute metrics confirms t
 1. **Invariance to Micro-Bottlenecks**: Physical ceilings encountered at photolithographic nodes (e.g., gate dielectric breakdown at 2nm) trigger architectural shifts to multi-die packaging (CoWoS) rather than sustained deceleration.
 2. **Predictable Hardware Deflation**: Capital expenditure depreciation schedules in hyperscale AI data centers follow predictable double-exponential cost-per-inference decay trajectories.
 3. **Cross-Substrate Generalizability**: Regression coefficients for biological sequencing throughput match digital compute acceleration within 8.4% variance over equivalent developmental phases.
+
+## Consolidated from `Data Sources Deep Dive.md` (Step 13)
+
+`LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Data source catalog that duplicates Supporting Evidence Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md.orig` (SHA-256 `1c4db20fb908`).
+
+References cited in `Data Sources Deep Dive.md` and not already listed above:
+
+- Moore, G. E. (1975). Progress in digital integrated electronics. *IEEE International Electron Devices Meeting (IEDM)*, 21, 11–13.
+- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *NBER Working Paper*, No. w28441.
+- National Human Genome Research Institute. (2024). *DNA sequencing costs: Data from the NHGRI genome sequencing program*. National Institutes of Health. https://www.genome.gov/sequencingcostsdata (pp. 12-28).
+- Top500 Organization. (2026). *Supercomputer performance history and Linpack benchmarking telemetry archives*. Top500 Project. https://www.top500.org (Statistics Database, Release 63, pp. 5-34).
+- Epoch AI. (2025). *Parameter counts, compute datasets, and hardware trends in machine learning*. Epoch Research Technical Reports. https://epochai.org/data (pp. 41-79).
+- Standard Performance Evaluation Corporation. (2024). *SPEC CPU2017 benchmark suite performance metrics and results*. SPEC Technical Database. https://spec.org (Benchmark Summary Series 2017-B, pp. 101-145).

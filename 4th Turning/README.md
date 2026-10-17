@@ -2,6 +2,27 @@
 
 > **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
 
+## Step 13 directory changes (4th Turning)
+
+Step 13 consolidated duplicate folders in this pillar, so the directory now holds fewer monographs than the counts given below. Merged or removed:
+
+- `Authors/William_Strauss_Neil_Howe.md`: merged into `Authors/Authors Deep Dive.md`
+- `Book/The_Fourth_Turning_Book_Details.md`: merged into `Book/Book Deep Dive.md`
+- `Comparative Timelines/Comparative Timelines Deep Dive.md`: merged into `Timeline/Timeline Deep Dive.md`
+- `Criticism/Criticisms_and_Controversies.md`: merged into `Criticism/Criticism Deep Dive.md`
+- `Critiques and Debates/Critiques and Debates Deep Dive.md`: merged into `Criticism/Criticism Deep Dive.md`
+- `Data/Data Deep Dive.md`: merged into `Data and Statistics/Data and Statistics Deep Dive.md`
+- `Generational Research/Generational Research Deep Dive.md`: merged into `Generational Theory/Generational Theory Deep Dive.md`
+- `Interviews/Interviews Deep Dive.md`: merged into `Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md`
+- `Media/Media Deep Dive.md`: merged into `Media Analysis/Media Analysis Deep Dive.md`
+- `Modern Applications/Modern Applications Research.md`: merged into `Modern Applications/Modern Applications Deep Dive.md`
+- `Modern Applications/Modern_Applications_Comprehensive_Research.md`: merged into `Modern Applications/Modern Applications Deep Dive.md`
+- `Modern Applications.md`: merged into `Modern Applications/Modern Applications Deep Dive.md`
+- `Pop Culture References/Pop Culture References Deep Dive.md`: removed
+- `Reception/Reception Deep Dive.md`: merged into `Academic Reception/Academic Reception Deep Dive.md`
+
+Originals are preserved under `archive/step13_originals/`; see `review/step13_changes.md`.
+
 ## Executive Summary — README
 This master directory guide provides the architectural blueprint for the 54 research monographs in the 4th Turning directory.
 It outlines the structural organization of research into 9 core thematic clusters covering theoretical and practical domains.

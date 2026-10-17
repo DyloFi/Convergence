@@ -1,5 +1,9 @@
 # Kondratiev Waves Analysis Submodule Overview
 
+## Status note: what this folder actually contains (Step 13)
+
+Read the rest of this README as a design specification, not a code catalog. As of Step 13 (2026-10-17) there is no `Scripts/`, `Notebooks/` or `Reports/` folder and none of the named files (`wave_filtering.py`, `spectral_density.py`, `01_spectral_analysis.ipynb` and the rest) exist in the repository. The folder holds only this README and `Analysis Deep Dive.md`. The `Scripts` and `Notebooks` deep dives were removed because they described code that does not exist, and the `Reports` deep dive was merged into `Analysis Deep Dive.md`. Originals are preserved under `archive/step13_originals/`; see `review/step13_changes.md`.
+
 ## Executive Summary
 This document defines the **Econometric Analysis Architecture and Codebase Specification** for the Kondratiev Waves research repository. Long-wave statistical verification requires sophisticated time-series modeling: Hodrick-Prescott detrending, Baxter-King bandpass filtering, Fourier spectral density estimation, and Augmented Dickey-Fuller unit root testing. Grounded in the works of Nikolai Kondratiev (1925), Joseph Schumpeter (1939), Carlota Perez (2002), and Solomou (1987), this framework structures the Python codebase (`Scripts/`), interactive research environments (`Notebooks/`), and automated analytical outputs (`Reports/`).
 

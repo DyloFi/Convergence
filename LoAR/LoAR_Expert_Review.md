@@ -510,3 +510,15 @@ This domain expert review establishes an uncompromised academic and empirical st
 *Audit Completed by Exponential Tech & Compute Expert*  
 *Target Output Path*: `LoAR/LoAR_Expert_Review.md`  
 *Working Directory*: `.agents/expert_audit_4`
+
+## Step 13 consolidation note (LoAR)
+
+After this review was written, Step 13 of the remediation plan acted on the Step 12 triage for the LoAR pillar. Files named above that were merged or removed no longer exist at those paths; their originals are preserved under `archive/step13_originals/`, and the full change record is `review/step13_changes.md`.
+
+- `Critiques/Critiques Deep Dive.md`: rewritten from the evidence up
+- `Future_Implications/Future Implications Deep Dive.md`: rewritten from the evidence up
+- `Supporting_Materials/Bibliography/Bibliography Deep Dive.md`: merged into `Supporting_Materials/Supporting Materials Deep Dive.md`
+- `Supporting_Materials/Data_Sources/Data Sources Deep Dive.md`: merged into `Supporting_Evidence/Supporting Evidence Deep Dive.md`
+- `Supporting_Materials/Glossary/Glossary Deep Dive.md`: merged into `Supporting_Materials/Supporting Materials Deep Dive.md`
+- `Supporting_Materials/Timeline/Timeline Deep Dive.md`: merged into `Timeline_Analysis/Timeline Analysis Deep Dive.md`
+- `Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md`: rewritten from the evidence up

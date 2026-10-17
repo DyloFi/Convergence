@@ -152,3 +152,16 @@ Auditing generational media coverage requires robust analytical controls:
 - **Controlling for Outlier Outlets**: Filtering out extreme fringe digital commentary to isolate prevailing mainstream and elite media frames.
 - **Dynamic Vocabulary Expansion**: Updating NLP sentiment lexicons to capture emerging youth slang and political terminology.
 - **Automated Bias Correction**: Normalizing sentiment scores against underlying political polarization trends to prevent partisan confounding.
+
+## Consolidated from `Media Deep Dive.md` (Step 13)
+
+`4th Turning/Media/Media Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Redundant folder duplicate of Media Analysis Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Media/Media Deep Dive.md.orig` (SHA-256 `79bcbd9b7002`).
+
+References cited in `Media Deep Dive.md` and not already listed above:
+
+- McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill.
+- Postman, N. (1985). Amusing Ourselves to Death: Public Discourse in the Age of Show Business. Viking.
+- Wu, T. (2010). The Master Switch: The Rise and Fall of Information Empires. Alfred A. Knopf.
+- Anderson, B. (1983). *Imagined Communities: Reflections on the Origin and Spread of Nationalism*. Verso. (Print-capitalism and the creation of national consciousness).
+- Innis, H. A. (1951). *The Bias of Communication*. University of Toronto Press. (Time-biased versus space-biased media and civilizational lifecycles).
+- Lippmann, W. (1922). *Public Opinion*. Harcourt, Brace and Company. (Manufacture of consent, stereotypes, and media gatekeeping).

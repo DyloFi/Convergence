@@ -181,7 +181,11 @@ class TestTechnicalIntegrity(unittest.TestCase):
             inv = json.load(f)
         self.assertGreater(inv["metadata"]["total_claims"], 200)
         self.assertEqual(inv["metadata"]["total_reports_audited"], 153)
-        self.assertGreater(inv["metadata"]["total_reports_with_claims"], 100)
+        # Step 13 merged/removed 32 of the 153 reports, so coverage is measured against the active
+        # corpus (Step 11 baseline: 109 of 153 reports carried claims, about 71%).
+        triage_inv = json.load(open(ROOT / "audit" / "report_triage_inventory.json", encoding="utf-8"))
+        active = triage_inv.get("step13_summary", {}).get("active_reports_after_step13", 153)
+        self.assertGreaterEqual(inv["metadata"]["total_reports_with_claims"], int(0.7 * active))
         self.assertEqual(inv["metadata"]["verified_count"], len(inv["claims"]))
 
     def test_stale_data_refreshed_vintages_and_projections(self):
@@ -205,9 +209,6 @@ class TestTechnicalIntegrity(unittest.TestCase):
         self.assertIn("16 hours", loar_text)
         self.assertIn("Opus 4.5", loar_text)
         self.assertIn("Opus 4.6", loar_text)
-
-if __name__ == "__main__":
-    unittest.main()
 
     def test_report_standards_definitions_step12(self):
         """Report standards document must exist and define all 9 dimensions across all report types."""
@@ -246,7 +247,13 @@ if __name__ == "__main__":
 
         for r in rows:
             path = ROOT / r["file_path"]
-            self.assertTrue(path.exists(), f"Target file does not exist: {r['file_path']}")
+            # Step 13 executed the merge/delete dispositions: those files are archived, not active.
+            if r["triage_disposition"] in ("merge", "delete"):
+                self.assertFalse(path.exists(), f"Step 13 should have removed {r['file_path']}")
+                self.assertTrue((ROOT / "archive" / "step13_originals" / (r["file_path"] + ".orig")).exists(),
+                                f"Original not preserved for {r['file_path']}")
+            else:
+                self.assertTrue(path.exists(), f"Target file does not exist: {r['file_path']}")
             self.assertIn(r["outcome"], valid_outcomes, f"Invalid outcome {r['outcome']} for {r['file_path']}")
             self.assertIn(r["triage_disposition"], valid_triage, f"Invalid triage disposition {r['triage_disposition']} for {r['file_path']}")
             self.assertTrue(int(r["word_count"]) > 0, f"Invalid word count for {r['file_path']}")
@@ -269,3 +276,7 @@ if __name__ == "__main__":
         self.assertEqual(inv["total_reports_audited"], 153)
         self.assertEqual(inv["summary_statistics"]["weak_tier3_tier4_total"], 46)
         self.assertEqual(len(inv["reports"]), 153)
+
+
+if __name__ == "__main__":
+    unittest.main()

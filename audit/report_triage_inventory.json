@@ -113,7 +113,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/4th_Turning_Expert_Review.md"
     },
     {
       "file_path": "4th Turning/Academic Reception/Academic Reception Deep Dive.md",
@@ -131,7 +133,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Academic Reception/Academic Reception Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Alternative Theories/Alternative Theories Deep Dive.md",
@@ -149,7 +153,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Alternative Theories/Alternative Theories Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Archetypes/Archetypes Deep Dive.md",
@@ -167,7 +173,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Archetypes/Archetypes Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Authors/Authors Deep Dive.md",
@@ -185,7 +193,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Authors/Authors Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Authors/William_Strauss_Neil_Howe.md",
@@ -203,7 +213,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Short biographical monograph that duplicates Authors Deep Dive analysis."
+      "rationale": "Short biographical monograph that duplicates Authors Deep Dive analysis.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Authors/Authors Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Book/Book Deep Dive.md",
@@ -221,7 +233,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Book/Book Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Book/The_Fourth_Turning_Book_Details.md",
@@ -239,7 +253,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Book details stub duplicating chapter summaries from Book Deep Dive."
+      "rationale": "Book details stub duplicating chapter summaries from Book Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Book/Book Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Case Studies/Case Studies Deep Dive.md",
@@ -257,7 +273,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Case Studies/Case Studies Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Comparative Analysis/Comparative Analysis Deep Dive.md",
@@ -275,7 +293,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Comparative Analysis/Comparative Analysis Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Comparative Timelines/Comparative Timelines Deep Dive.md",
@@ -293,7 +313,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Redundant timeline comparison with high duplication against Timeline Deep Dive."
+      "rationale": "Redundant timeline comparison with high duplication against Timeline Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Timeline/Timeline Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Comparisons/Comparisons Deep Dive.md",
@@ -311,7 +333,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Comparisons/Comparisons Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Concept/Concept Deep Dive.md",
@@ -329,7 +353,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Concept/Concept Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Concept/Core_4th_Turning_Theory.md",
@@ -347,7 +373,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Concept/Core_4th_Turning_Theory.md"
     },
     {
       "file_path": "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md",
@@ -365,7 +393,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Contradictory Evidence/Contradictory Evidence Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Criticism/Criticism Deep Dive.md",
@@ -383,7 +413,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Criticism/Criticism Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Criticism/Criticisms_and_Controversies.md",
@@ -401,7 +433,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Duplicate controversies file; merge into parent Criticism Deep Dive."
+      "rationale": "Duplicate controversies file; merge into parent Criticism Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Criticism/Criticism Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Critiques and Debates/Critiques and Debates Deep Dive.md",
@@ -419,7 +453,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Redundant subdirectory split duplicating Criticism Deep Dive."
+      "rationale": "Redundant subdirectory split duplicating Criticism Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Criticism/Criticism Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md",
@@ -437,7 +473,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Cultural Impact/Cultural Impact Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Data/Data Deep Dive.md",
@@ -455,7 +493,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Folder naming collision duplicating Data and Statistics Deep Dive."
+      "rationale": "Folder naming collision duplicating Data and Statistics Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md",
@@ -473,7 +513,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Data and Statistics/Data and Statistics Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md",
@@ -491,7 +533,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Relies on synthetic tables; needs real US Census / UN demographic pyramid time series."
+      "rationale": "Relies on synthetic tables; needs real US Census / UN demographic pyramid time series.",
+      "step13_status": "rewrite pending",
+      "current_location": "4th Turning/Demographic Trends/Demographic Trends Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Economic Implications/Economic Implications Deep Dive.md",
@@ -509,7 +553,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Economic Implications/Economic Implications Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md",
@@ -527,7 +573,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Environmental Factors/Environmental Factors Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md",
@@ -545,7 +593,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Future Scenarios/01_21st_Century_Crisis_Projections.md"
     },
     {
       "file_path": "4th Turning/Future Scenarios/Future Scenarios Deep Dive.md",
@@ -563,7 +613,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Future Scenarios/Future Scenarios Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Generational Research/Generational Research Deep Dive.md",
@@ -581,7 +633,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Folder naming collision duplicating Generational Theory Deep Dive."
+      "rationale": "Folder naming collision duplicating Generational Theory Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Generational Theory/Generational Theory Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Generational Theory/01_Generational_Cycle_Framework.md",
@@ -599,7 +653,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Generational Theory/01_Generational_Cycle_Framework.md"
     },
     {
       "file_path": "4th Turning/Generational Theory/Generational Theory Deep Dive.md",
@@ -617,7 +673,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Generational Theory/Generational Theory Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Geopolitical Shifts/Geopolitical Shifts Deep Dive.md",
@@ -635,7 +693,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Geopolitical Shifts/Geopolitical Shifts Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md",
@@ -653,7 +713,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Global Perspectives/Global Perspectives Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md",
@@ -671,7 +733,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Historical Parallels/01_American_Saeculum_Case_Studies.md"
     },
     {
       "file_path": "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md",
@@ -689,7 +753,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Historical Parallels/Historical Parallels Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Interviews/Interviews Deep Dive.md",
@@ -707,7 +773,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Redundant folder duplicate of Interviews and Expert Opinions."
+      "rationale": "Redundant folder duplicate of Interviews and Expert Opinions.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md",
@@ -725,7 +793,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Key Events/Key Events Deep Dive.md",
@@ -743,7 +813,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Key Events/Key Events Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Media/Media Deep Dive.md",
@@ -761,7 +833,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Redundant folder duplicate of Media Analysis Deep Dive."
+      "rationale": "Redundant folder duplicate of Media Analysis Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Media Analysis/Media Analysis Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Media Analysis/Media Analysis Deep Dive.md",
@@ -779,7 +853,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Media Analysis/Media Analysis Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Modern Applications/Modern Applications Deep Dive.md",
@@ -797,7 +873,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Modern Applications/Modern Applications Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Modern Applications/Modern Applications Research.md",
@@ -815,7 +893,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Duplicate research notes file padded to pass line thresholds; merge into Deep Dive."
+      "rationale": "Duplicate research notes file padded to pass line thresholds; merge into Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Modern Applications/Modern Applications Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md",
@@ -833,7 +913,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Duplicate comprehensive research variant; merge into Deep Dive."
+      "rationale": "Duplicate comprehensive research variant; merge into Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Modern Applications/Modern Applications Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Modern Applications.md",
@@ -851,7 +933,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Loose file duplicate outside subdirectory; consolidate into Modern Applications Deep Dive."
+      "rationale": "Loose file duplicate outside subdirectory; consolidate into Modern Applications Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Modern Applications/Modern Applications Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md",
@@ -869,7 +953,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Padded with boilerplate meta-commentary; needs genuine objective historiographical synthesis."
+      "rationale": "Padded with boilerplate meta-commentary; needs genuine objective historiographical synthesis.",
+      "step13_status": "rewrite pending",
+      "current_location": "4th Turning/Neutral Analyses/Neutral Analyses Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Policy Implications/Policy Implications Deep Dive.md",
@@ -887,7 +973,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Policy Implications/Policy Implications Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Political Implications/Political Implications Deep Dive.md",
@@ -905,7 +993,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Political Implications/Political Implications Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Pop Culture References/Pop Culture References Deep Dive.md",
@@ -923,7 +1013,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Speculative, unfalsifiable pop culture mapping without empirical demographic support."
+      "rationale": "Speculative, unfalsifiable pop culture mapping without empirical demographic support.",
+      "step13_status": "removed",
+      "current_location": "archive/step13_originals/4th Turning/Pop Culture References/Pop Culture References Deep Dive.md.orig"
     },
     {
       "file_path": "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md",
@@ -941,7 +1033,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Predictions and Forecasts/Predictions and Forecasts Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Public Perception/Public Perception Deep Dive.md",
@@ -959,7 +1053,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Heavily reliant on repetitive polling generalizations; needs primary survey panel data."
+      "rationale": "Heavily reliant on repetitive polling generalizations; needs primary survey panel data.",
+      "step13_status": "rewrite pending",
+      "current_location": "4th Turning/Public Perception/Public Perception Deep Dive.md"
     },
     {
       "file_path": "4th Turning/README.md",
@@ -977,7 +1073,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Structural navigation",
-      "rationale": "Serves organizational directory orientation."
+      "rationale": "Serves organizational directory orientation.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/README.md"
     },
     {
       "file_path": "4th Turning/Reception/Reception Deep Dive.md",
@@ -995,7 +1093,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Redundant split between Reception and Academic Reception."
+      "rationale": "Redundant split between Reception and Academic Reception.",
+      "step13_status": "merged",
+      "current_location": "4th Turning/Academic Reception/Academic Reception Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Research Notes.md",
@@ -1013,7 +1113,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Loose unstructured research notes padded to 150 lines; needs conversion into a focused monograph."
+      "rationale": "Loose unstructured research notes padded to 150 lines; needs conversion into a focused monograph.",
+      "step13_status": "rewrite pending",
+      "current_location": "4th Turning/Research Notes.md"
     },
     {
       "file_path": "4th Turning/Social Movements/Social Movements Deep Dive.md",
@@ -1031,7 +1133,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Social Movements/Social Movements Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md",
@@ -1049,7 +1153,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Supporting Evidence/Supporting Evidence Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md",
@@ -1067,7 +1173,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Technology and the 4th Turning/Technology and the 4th Turning Deep Dive.md"
     },
     {
       "file_path": "4th Turning/Timeline/Timeline Deep Dive.md",
@@ -1085,7 +1193,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "4th Turning/Timeline/Timeline Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Changing World Orders Overview.md",
@@ -1103,7 +1213,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None",
-      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage."
+      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Changing World Orders Overview.md"
     },
     {
       "file_path": "Changing World Orders/Changing_World_Orders_Expert_Review.md",
@@ -1121,7 +1233,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Changing_World_Orders_Expert_Review.md"
     },
     {
       "file_path": "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md",
@@ -1139,7 +1253,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Current_Geopolitical/01_US_China_Competition_and_Multipolarity.md"
     },
     {
       "file_path": "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md",
@@ -1157,7 +1273,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Current_Geopolitical/Current Geopolitical Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md",
@@ -1175,7 +1293,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Expert_Perspectives/Expert Perspectives Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Foundations/00_Research_Plan.md",
@@ -1193,7 +1313,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Foundations/00_Research_Plan.md"
     },
     {
       "file_path": "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md",
@@ -1211,7 +1333,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Foundations/01_Big_Cycle_Framework_Ray_Dalio.md"
     },
     {
       "file_path": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md",
@@ -1229,7 +1353,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Foundations/02_Empirical_Macro_Debt_Reserves_and_Institutional_Decay.md"
     },
     {
       "file_path": "Changing World Orders/Foundations/Foundations Deep Dive.md",
@@ -1247,7 +1373,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Foundations/Foundations Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md",
@@ -1265,7 +1393,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Future_Scenarios/Future Scenarios Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md",
@@ -1283,7 +1413,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Historical_Analysis/Historical Analysis Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md",
@@ -1301,7 +1433,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md",
@@ -1319,7 +1453,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Supporting_Materials/Definitions/Definitions Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md",
@@ -1337,7 +1473,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Supporting_Materials/Policy_Implications/Policy Implications Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -1355,7 +1493,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md",
@@ -1373,7 +1513,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Supporting_Materials/Theories/Theories Deep Dive.md"
     },
     {
       "file_path": "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md",
@@ -1391,7 +1533,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Changing World Orders/Theoretical_Frameworks/Theoretical Frameworks Deep Dive.md"
     },
     {
       "file_path": "Convergence_Master_Synthesis.md",
@@ -1409,7 +1553,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Convergence_Master_Synthesis.md"
     },
     {
       "file_path": "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md",
@@ -1427,7 +1573,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Academic_Reception/Academic Reception Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Analysis/Analysis Deep Dive.md",
@@ -1445,7 +1593,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Analysis/Analysis Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md",
@@ -1463,7 +1613,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Code notebook placeholder describing hypothetical Jupyter notebooks; delete."
+      "rationale": "Code notebook placeholder describing hypothetical Jupyter notebooks; delete.",
+      "step13_status": "removed",
+      "current_location": "archive/step13_originals/Kondratiev Waves/Analysis/Notebooks/Notebooks Deep Dive.md.orig"
     },
     {
       "file_path": "Kondratiev Waves/Analysis/README.md",
@@ -1481,7 +1633,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Structural navigation",
-      "rationale": "Serves organizational directory orientation."
+      "rationale": "Serves organizational directory orientation.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Analysis/README.md"
     },
     {
       "file_path": "Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md",
@@ -1499,7 +1653,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Generic reporting stub duplicating parent Analysis Deep Dive."
+      "rationale": "Generic reporting stub duplicating parent Analysis Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "Kondratiev Waves/Analysis/Analysis Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Analysis/Scripts/Scripts Deep Dive.md",
@@ -1517,7 +1673,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Hypothetical Python scripts documentation; delete."
+      "rationale": "Hypothetical Python scripts documentation; delete.",
+      "step13_status": "removed",
+      "current_location": "archive/step13_originals/Kondratiev Waves/Analysis/Scripts/Scripts Deep Dive.md.orig"
     },
     {
       "file_path": "Kondratiev Waves/Authors/Authors Deep Dive.md",
@@ -1535,7 +1693,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Authors/Authors Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md",
@@ -1553,7 +1713,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Padded with repetitive sectoral timelines; needs primary econometric capital goods investment data."
+      "rationale": "Padded with repetitive sectoral timelines; needs primary econometric capital goods investment data.",
+      "step13_status": "rewrite pending",
+      "current_location": "Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md",
@@ -1571,7 +1733,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Comparative_Analysis/Comparative Analysis Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md",
@@ -1589,7 +1753,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Concept/01_Structural_Mechanisms_of_Long_Waves.md"
     },
     {
       "file_path": "Kondratiev Waves/Concept/Concept Deep Dive.md",
@@ -1607,7 +1773,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Concept/Concept Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md",
@@ -1625,7 +1793,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Concept/Core_Kondratiev_Theory.md"
     },
     {
       "file_path": "Kondratiev Waves/Concept/README.md",
@@ -1643,7 +1813,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Structural navigation",
-      "rationale": "Serves organizational directory orientation."
+      "rationale": "Serves organizational directory orientation.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Concept/README.md"
     },
     {
       "file_path": "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md",
@@ -1661,7 +1833,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Contradictory_Evidence/Contradictory Evidence Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Criticism/Criticism Deep Dive.md",
@@ -1679,7 +1853,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Criticism/Criticism Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Data/Data Deep Dive.md",
@@ -1697,7 +1873,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Data/Data Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Data/Documentation/Documentation Deep Dive.md",
@@ -1715,7 +1893,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Data dictionary stub; merge into parent Data Deep Dive."
+      "rationale": "Data dictionary stub; merge into parent Data Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "Kondratiev Waves/Data/Data Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Data/Processed/CSV/CSV Deep Dive.md",
@@ -1733,7 +1913,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Redundant CSV export placeholder with synthetic line expansion."
+      "rationale": "Redundant CSV export placeholder with synthetic line expansion.",
+      "step13_status": "removed",
+      "current_location": "archive/step13_originals/Kondratiev Waves/Data/Processed/CSV/CSV Deep Dive.md.orig"
     },
     {
       "file_path": "Kondratiev Waves/Data/Processed/JSON/JSON Deep Dive.md",
@@ -1751,7 +1933,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Redundant format stub describing JSON formatting rather than macroeconomic wave data."
+      "rationale": "Redundant format stub describing JSON formatting rather than macroeconomic wave data.",
+      "step13_status": "removed",
+      "current_location": "archive/step13_originals/Kondratiev Waves/Data/Processed/JSON/JSON Deep Dive.md.orig"
     },
     {
       "file_path": "Kondratiev Waves/Data/Processed/Processed Deep Dive.md",
@@ -1769,7 +1953,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Redundant pipeline stage stub with zero empirical datasets."
+      "rationale": "Redundant pipeline stage stub with zero empirical datasets.",
+      "step13_status": "removed",
+      "current_location": "archive/step13_originals/Kondratiev Waves/Data/Processed/Processed Deep Dive.md.orig"
     },
     {
       "file_path": "Kondratiev Waves/Data/Processed/SQLite/SQLite Deep Dive.md",
@@ -1787,7 +1973,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Empty SQLite schema stub padded with generic table text; no actual database queries."
+      "rationale": "Empty SQLite schema stub padded with generic table text; no actual database queries.",
+      "step13_status": "removed",
+      "current_location": "archive/step13_originals/Kondratiev Waves/Data/Processed/SQLite/SQLite Deep Dive.md.orig"
     },
     {
       "file_path": "Kondratiev Waves/Data/README.md",
@@ -1805,7 +1993,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Structural navigation",
-      "rationale": "Serves organizational directory orientation."
+      "rationale": "Serves organizational directory orientation.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Data/README.md"
     },
     {
       "file_path": "Kondratiev Waves/Data/Raw/Historical/Historical Deep Dive.md",
@@ -1823,7 +2013,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Padded historical prices stub; merge empirical points into Data Deep Dive."
+      "rationale": "Padded historical prices stub; merge empirical points into Data Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "Kondratiev Waves/Data/Data Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Data/Raw/Raw Deep Dive.md",
@@ -1841,7 +2033,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Generic raw data descriptions without original empirical series; merge into Data Deep Dive."
+      "rationale": "Generic raw data descriptions without original empirical series; merge into Data Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "Kondratiev Waves/Data/Data Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Economics/Economics Deep Dive.md",
@@ -1859,7 +2053,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Contains recycled Trotsky/Schumpeter blocks; needs modern endogenous growth modeling."
+      "rationale": "Contains recycled Trotsky/Schumpeter blocks; needs modern endogenous growth modeling.",
+      "step13_status": "rewrite pending",
+      "current_location": "Kondratiev Waves/Economics/Economics Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md",
@@ -1877,7 +2073,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Future_Scenarios/Future Scenarios Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/History/History Deep Dive.md",
@@ -1895,7 +2093,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Generic historical recounting; needs specific commodity cycle price data (1780-2026)."
+      "rationale": "Generic historical recounting; needs specific commodity cycle price data (1780-2026).",
+      "step13_status": "rewrite pending",
+      "current_location": "Kondratiev Waves/History/History Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Key_Events/Key Events Deep Dive.md",
@@ -1913,7 +2113,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Chronological event table with boilerplate descriptions; rewrite to focus on macro inflection points."
+      "rationale": "Chronological event table with boilerplate descriptions; rewrite to focus on macro inflection points.",
+      "step13_status": "rewrite pending",
+      "current_location": "Kondratiev Waves/Key_Events/Key Events Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Kondratiev Waves Overview.md",
@@ -1931,7 +2133,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None",
-      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage."
+      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Kondratiev Waves Overview.md"
     },
     {
       "file_path": "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md",
@@ -1949,7 +2153,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Kondratiev_Waves_Expert_Review.md"
     },
     {
       "file_path": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md",
@@ -1967,7 +2173,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Over-reliant on synthetic media narrative tables; needs rigorous media sentiment analysis."
+      "rationale": "Over-reliant on synthetic media narrative tables; needs rigorous media sentiment analysis.",
+      "step13_status": "rewrite pending",
+      "current_location": "Kondratiev Waves/Media_Analysis/Media Analysis Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md",
@@ -1985,7 +2193,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Modern_Applications/Modern Applications Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md",
@@ -2003,7 +2213,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Policy_Implications/Policy Implications Deep Dive.md"
     },
     {
       "file_path": "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md",
@@ -2021,7 +2233,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Technology/01_The_6th_Kondratiev_Wave_AI_Biotech_CleanTech.md"
     },
     {
       "file_path": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md",
@@ -2039,7 +2253,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Technology/02_Verifiable_Cryptographic_Systems_and_Institutional_Trust_Bridge.md"
     },
     {
       "file_path": "Kondratiev Waves/Technology/Technology Deep Dive.md",
@@ -2057,7 +2273,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Kondratiev Waves/Technology/Technology Deep Dive.md"
     },
     {
       "file_path": "LoAR/Applications/Applications Deep Dive.md",
@@ -2075,7 +2293,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Applications/Applications Deep Dive.md"
     },
     {
       "file_path": "LoAR/Core_Concepts/00_Research_Plan.md",
@@ -2093,7 +2313,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Core_Concepts/00_Research_Plan.md"
     },
     {
       "file_path": "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md",
@@ -2111,7 +2333,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Core_Concepts/01_Kurzweil_Law_of_Accelerating_Returns_Framework.md"
     },
     {
       "file_path": "LoAR/Core_Concepts/Core Concepts Deep Dive.md",
@@ -2129,7 +2353,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Core_Concepts/Core Concepts Deep Dive.md"
     },
     {
       "file_path": "LoAR/Critiques/Critiques Deep Dive.md",
@@ -2147,7 +2373,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Relies on generic rebuttal framing; rewrite with serious physical (Landauer/von Neumann) constraint modeling."
+      "rationale": "Relies on generic rebuttal framing; rewrite with serious physical (Landauer/von Neumann) constraint modeling.",
+      "step13_status": "rewrite pending",
+      "current_location": "LoAR/Critiques/Critiques Deep Dive.md"
     },
     {
       "file_path": "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md",
@@ -2165,7 +2393,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Expert_Opinions/Expert Opinions Deep Dive.md"
     },
     {
       "file_path": "LoAR/Future_Implications/Future Implications Deep Dive.md",
@@ -2183,7 +2413,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Speculative extrapolations lacking empirical bounds; rewrite with rigorous forecast calibration."
+      "rationale": "Speculative extrapolations lacking empirical bounds; rewrite with rigorous forecast calibration.",
+      "step13_status": "rewrite pending",
+      "current_location": "LoAR/Future_Implications/Future Implications Deep Dive.md"
     },
     {
       "file_path": "LoAR/Historical_Context/Historical Context Deep Dive.md",
@@ -2201,7 +2433,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Historical_Context/Historical Context Deep Dive.md"
     },
     {
       "file_path": "LoAR/Key_Principles/Key Principles Deep Dive.md",
@@ -2219,7 +2453,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Key_Principles/Key Principles Deep Dive.md"
     },
     {
       "file_path": "LoAR/Law of Accelerating Returns Overview.md",
@@ -2237,7 +2473,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None",
-      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage."
+      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Law of Accelerating Returns Overview.md"
     },
     {
       "file_path": "LoAR/LoAR_Expert_Review.md",
@@ -2255,7 +2493,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/LoAR_Expert_Review.md"
     },
     {
       "file_path": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md",
@@ -2273,7 +2513,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md"
     },
     {
       "file_path": "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md",
@@ -2291,7 +2533,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Supporting_Evidence/02_Empirical_Time_Series_Compute_Adoption_and_RWA.md"
     },
     {
       "file_path": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md",
@@ -2309,7 +2553,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md"
     },
     {
       "file_path": "LoAR/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
@@ -2327,7 +2573,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Recycled Kurzweil/Trotsky bibliography block without unique analytical prose."
+      "rationale": "Recycled Kurzweil/Trotsky bibliography block without unique analytical prose.",
+      "step13_status": "merged",
+      "current_location": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "LoAR/Supporting_Materials/Data_Sources/Data Sources Deep Dive.md",
@@ -2345,7 +2593,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Data source catalog that duplicates Supporting Evidence Deep Dive."
+      "rationale": "Data source catalog that duplicates Supporting Evidence Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "LoAR/Supporting_Evidence/Supporting Evidence Deep Dive.md"
     },
     {
       "file_path": "LoAR/Supporting_Materials/Glossary/Glossary Deep Dive.md",
@@ -2363,7 +2613,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Standalone glossary padded to 150 lines; consolidate into Supporting Materials."
+      "rationale": "Standalone glossary padded to 150 lines; consolidate into Supporting Materials.",
+      "step13_status": "merged",
+      "current_location": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -2381,7 +2633,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md",
@@ -2399,7 +2653,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Redundant duplicate timeline stub duplicating Timeline Analysis Deep Dive."
+      "rationale": "Redundant duplicate timeline stub duplicating Timeline Analysis Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
     },
     {
       "file_path": "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md",
@@ -2417,7 +2673,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Theoretical comparisons padded with ASCII boxes; rewrite to rigorously compare Solow vs Kurzweil."
+      "rationale": "Theoretical comparisons padded with ASCII boxes; rewrite to rigorously compare Solow vs Kurzweil.",
+      "step13_status": "rewrite pending",
+      "current_location": "LoAR/Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md"
     },
     {
       "file_path": "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md",
@@ -2435,7 +2693,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "LoAR/Timeline_Analysis/Timeline Analysis Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md",
@@ -2453,7 +2713,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Accelerating_Returns/Accelerating Returns Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Core_Concepts/00_Research_Overview.md",
@@ -2471,7 +2733,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None",
-      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage."
+      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Core_Concepts/00_Research_Overview.md"
     },
     {
       "file_path": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md",
@@ -2489,7 +2753,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Core_Concepts/01_Definition_Origins_and_Conceptual_Frameworks.md"
     },
     {
       "file_path": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md",
@@ -2507,7 +2773,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Core_Concepts/Core Concepts Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md",
@@ -2525,7 +2793,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Speculative sci-fi tropes padded to meet line length; rewrite with empirical AI public opinion panels."
+      "rationale": "Speculative sci-fi tropes padded to meet line length; rewrite with empirical AI public opinion panels.",
+      "step13_status": "rewrite pending",
+      "current_location": "Technological Singularity/Cultural_Impact/Cultural Impact Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md",
@@ -2543,7 +2813,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Current_AI_State/01_Frontier_Models_AGI_Pathways_and_Capabilities.md"
     },
     {
       "file_path": "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md",
@@ -2561,7 +2833,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Current_AI_State/Current AI State Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md",
@@ -2579,7 +2853,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md",
@@ -2597,7 +2873,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Expert_Analysis/Expert Analysis Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Expert_Predictions/01_Forecasting_Scorecards_AGI_Consensus_and_Historical_Calibration.md",
@@ -2615,7 +2893,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Expert_Predictions/01_Forecasting_Scorecards_AGI_Consensus_and_Historical_Calibration.md"
     },
     {
       "file_path": "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md",
@@ -2633,7 +2913,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Expert_Predictions/Expert Predictions Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md",
@@ -2651,7 +2933,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Future_Scenarios/Future Scenarios Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md",
@@ -2669,7 +2953,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Repetitive recounting of early cybernetics; rewrite with primary hardware compute lineages."
+      "rationale": "Repetitive recounting of early cybernetics; rewrite with primary hardware compute lineages.",
+      "step13_status": "rewrite pending",
+      "current_location": "Technological Singularity/Historical_Development/Historical Development Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md",
@@ -2687,7 +2973,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Policy_Implications/Policy Implications Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md",
@@ -2705,7 +2993,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Societal_Impacts/Societal Impacts Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md",
@@ -2723,7 +3013,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Methodologically defective, speculative, or empty data stub",
-      "rationale": "Recycled generic AI bibliography block without unique analytical prose."
+      "rationale": "Recycled generic AI bibliography block without unique analytical prose.",
+      "step13_status": "merged",
+      "current_location": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Supporting_Materials/Controversies/Controversies Deep Dive.md",
@@ -2741,7 +3033,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Duplicate controversies stub; merge into Ethical Considerations Deep Dive."
+      "rationale": "Duplicate controversies stub; merge into Ethical Considerations Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "Technological Singularity/Ethical_Considerations/Ethical Considerations Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md",
@@ -2759,7 +3053,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Padded glossary stub; merge into Supporting Materials Deep Dive."
+      "rationale": "Padded glossary stub; merge into Supporting Materials Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md",
@@ -2777,7 +3073,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure",
-      "rationale": "Padded source index; merge into Supporting Materials Deep Dive."
+      "rationale": "Padded source index; merge into Supporting Materials Deep Dive.",
+      "step13_status": "merged",
+      "current_location": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md",
@@ -2795,7 +3093,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Supporting_Materials/Supporting Materials Deep Dive.md"
     },
     {
       "file_path": "Technological Singularity/Technological Singularity Overview.md",
@@ -2813,7 +3113,9 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "None",
-      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage."
+      "rationale": "Core architectural deliverable with comprehensive cross-pillar coverage.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Technological Singularity Overview.md"
     },
     {
       "file_path": "Technological Singularity/Technological_Singularity_Expert_Review.md",
@@ -2831,7 +3133,9 @@
       "has_competing_views": true,
       "has_references": true,
       "deficiency_summary": "None (Publication-grade benchmark)",
-      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats."
+      "rationale": "Rigorous empirical/theoretical depth, verified primary data citations, balanced epistemic caveats.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Technological_Singularity_Expert_Review.md"
     },
     {
       "file_path": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md",
@@ -2849,7 +3153,20 @@
       "has_competing_views": false,
       "has_references": true,
       "deficiency_summary": "Minor template padding or standard disclaimer redundancy",
-      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning."
+      "rationale": "Substantive domain content present; requires minor de-padding, heading qualification, and reference tuning.",
+      "step13_status": "unchanged (outside Step 13 scope)",
+      "current_location": "Technological Singularity/Timeline_Milestones/Timeline Milestones Deep Dive.md"
     }
-  ]
+  ],
+  "step13_summary": {
+    "date": "2026-10-17",
+    "status_counts": {
+      "unchanged (outside Step 13 scope)": 107,
+      "merged": 25,
+      "rewrite pending": 14,
+      "removed": 7
+    },
+    "active_reports_after_step13": 121,
+    "change_record": "review/step13_changes.md"
+  }
 }

@@ -1,7 +1,7 @@
 # Law of Accelerating Returns Overview
 
 ## Executive Summary — Law of Accelerating Returns
-The **Law of Accelerating Returns (LoAR)**, formulated by computer scientist and futurist Ray Kurzweil (2001, 2005), posits that technological progress does not proceed at a constant linear rate, nor merely at a simple exponential rate, but at a **double-exponential** rate over multi-decadal and secular horizons. This acceleration occurs because the outputs of one generation of technological innovation are systematically reused as foundational inputs to design, simulate, and manufacture the next generation of superior technology. This self-reinforcing evolutionary feedback loop has governed computational throughput for over 130 years, transitioning across five distinct physical paradigms (Electromechanical Tabulators $\rightarrow$ Electro-Mechanical Relays $\rightarrow$ Vacuum Tubes $\rightarrow$ Discrete Transistors $\rightarrow$ Integrated Silicon Microprocessors) and currently entering a 6th post-silicon multi-physics paradigm (3D GAAFET/CFET, Co-Packaged Photonics, Neuromorphic Chips, and Quantum Architectures). This master overview provides a comprehensive analytical roadmap for the 19 research reports in the `LoAR` repository, establishing the theoretical, physical, and empirical foundations of exponential compute expansion.
+The **Law of Accelerating Returns (LoAR)**, formulated by computer scientist and futurist Ray Kurzweil (2001, 2005), posits that technological progress does not proceed at a constant linear rate, nor merely at a simple exponential rate, but at a **double-exponential** rate over multi-decadal and secular horizons. This acceleration occurs because the outputs of one generation of technological innovation are systematically reused as foundational inputs to design, simulate, and manufacture the next generation of superior technology. This self-reinforcing evolutionary feedback loop has governed computational throughput for over 130 years, transitioning across five distinct physical paradigms (Electromechanical Tabulators $\rightarrow$ Electro-Mechanical Relays $\rightarrow$ Vacuum Tubes $\rightarrow$ Discrete Transistors $\rightarrow$ Integrated Silicon Microprocessors) and currently entering a 6th post-silicon multi-physics paradigm (3D GAAFET/CFET, Co-Packaged Photonics, Neuromorphic Chips, and Quantum Architectures). This master overview provides a comprehensive analytical roadmap for the 15 research reports in the `LoAR` repository (19 before the Step 13 consolidation), establishing the theoretical, physical, and empirical foundations of exponential compute expansion.
 
 ---
 
@@ -39,8 +39,8 @@ $$P(t) = P_0 \cdot 2^{2^{k \cdot t}}$$
 └── [ End Figure 1: LoAR Law of Accelerating Returns Overview ] ────┘
 ```end-loar-law-of-accelerating-returns-overview-1
 
-### 1.2 Comprehensive Research Directory Taxonomy (19 Reports)
-The `LoAR` domain directory consists of 19 specialized research reports structured into 9 analytical modules:
+### 1.2 Comprehensive Research Directory Taxonomy (15 Reports)
+The `LoAR` domain directory consists of 15 research reports (19 before the Step 13 consolidation, which merged four `Supporting_Materials` subfiles into their parent reports):
 
 1. **`Law of Accelerating Returns Overview.md`**: Master synthesis, mathematical taxonomy, 120-year compute trajectory, and theoretical foundation.
 2. **`Applications/Applications Deep Dive.md`**: Real-world deployment metrics in frontier AI model training (Epoch AI, 2024), protein structure prediction (AlphaFold 3), genomic synthesis, and material design.
@@ -54,11 +54,8 @@ The `LoAR` domain directory consists of 19 specialized research reports structur
 10. **`Key_Principles/Key Principles Deep Dive.md`**: Formalization of Substrate Independence, Information Density Scaling, and Cross-Paradigm Transition Probabilities.
 11. **`Supporting_Evidence/01_Empirical_Data_Moore_Law_Sequencing_Compute.md`**: Primary repository for all 5 empirical time-series tables (CPS/$, FLOPS/W, Lithography, AI Training FLOPs, Genomic Sequencing Costs).
 12. **`Supporting_Evidence/Supporting Evidence Deep Dive.md`**: Statistical regression validation, $R^2$ exponential fits, and empirical dataset methodologies (NHGRI, Epoch AI, IEEE).
-13. **`Supporting_Materials/Bibliography/Bibliography Deep Dive.md`**: Fully annotated primary academic reference collection formatted in APA style.
-14. **`Supporting_Materials/Data_Sources/Data Sources Deep Dive.md`**: Open-access schema specifications and links for FRED, Epoch AI, NHGRI, and IEEE Xplore databases.
-15. **`Supporting_Materials/Glossary/Glossary Deep Dive.md`**: 40+ entry technical lexicon spanning semiconductor physics, thermodynamics, and computer architecture.
-16. **`Supporting_Materials/Supporting Materials Deep Dive.md`**: Analytical methodologies, quantitative tools, and verification code scripts.
-17. **`Supporting_Materials/Timeline/Timeline Deep Dive.md`**: Detailed chronological matrix mapping 136 years of microarchitectural milestones.
+13. **`Supporting_Materials/Supporting Materials Deep Dive.md`**: Analytical methodologies and quantitative tools. Since Step 13 it also carries the reference entries from the former `Supporting_Materials/Bibliography` and `Supporting_Materials/Glossary` files, which were merged into it.
+14. *(merged, Step 13)* The former `Supporting_Materials/Data_Sources` file now sits inside `Supporting_Evidence/Supporting Evidence Deep Dive.md`, and the former `Supporting_Materials/Timeline` file inside `Timeline_Analysis/Timeline Analysis Deep Dive.md`. Originals are preserved under `archive/step13_originals/`; see `review/step13_changes.md`.
 18. **`Theoretical_Comparisons/Theoretical Comparisons Deep Dive.md`**: Cross-domain comparative study evaluating LoAR alongside Perez's Techno-Economic Paradigms, Kondratiev Long Waves, and General Purpose Technologies (GPTs).
 19. **`Timeline_Analysis/Timeline Analysis Deep Dive.md`**: Quantitative doubling time comparison across computing eras (18-month Moore's Law vs 3.4-month AI scaling vs 7-month DNA sequencing).
 

@@ -152,3 +152,14 @@ The methodological rigor developed across Strauss and Howe's body of work aligns
 - Howe, N., & Strauss, W. (2000). Millennials Rising: The Next Great Generation. Vintage Books.
 - Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
 - Strauss, W. (1994). The Capitol Steps: History of Political Satire. Congressional Press.
+
+## Consolidated from `William_Strauss_Neil_Howe.md` (Step 13)
+
+`4th Turning/Authors/William_Strauss_Neil_Howe.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Short biographical monograph that duplicates Authors Deep Dive analysis). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Authors/William_Strauss_Neil_Howe.md.orig` (SHA-256 `3d7dcfa81853`).
+
+References cited in `William_Strauss_Neil_Howe.md` and not already listed above:
+
+- Concord Coalition. (1995). The Entitlement Crisis and Intergenerational Equity. Special Report.
+- Washington Post. (2007). Obituary: William Strauss, 60, Co-Founder of Capitol Steps and Author. Washington Post Archives.
+- Howe, N. (2009). *Millennials in the Workplace: Human Resource Strategies for a New Generation*. LifeCourse Associates.
+- Strauss, W. (1995). "Generational Cycles in American History: A Cliometric Evaluation." *Cliodynamics Review*, 4(1), 77-94.

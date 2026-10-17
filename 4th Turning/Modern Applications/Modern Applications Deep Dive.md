@@ -160,3 +160,39 @@ Capital allocators should execute an aggressive three-phase deployment roadmap:
 1. **Phase 1: Liquidity & Solvency Preservation (2026–2027)**: Maximize short-term liquid reserves, eliminate floating-rate debt, and reduce exposure to vulnerable consumer credit.
 2. **Phase 2: Strategic Tangible Capex Allocation (2027–2030)**: Acquire distressed physical manufacturing facilities, critical energy assets, and prime agricultural land during climax market dislocations.
 3. **Phase 3: Post-Climax Re-Equitization (2030–2035)**: Aggressively fund high-growth infrastructure, sovereign compute platforms, and industrial automation to capture the massive productivity boom of the new First Turning High.
+
+## Consolidated from `Modern Applications Research.md` (Step 13)
+
+`4th Turning/Modern Applications/Modern Applications Research.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Duplicate research notes file padded to pass line thresholds; merge into Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Modern Applications/Modern Applications Research.md.orig` (SHA-256 `3e1b9f8469c6`).
+
+References cited in `Modern Applications Research.md` and not already listed above:
+
+- Anduril Industries. (2023). Autonomous Defense Systems Whitepaper. Anduril Technical Reports.
+- TSMC. (2023). Annual Report: US Gigafactory Expansion. TSMC Investor Relations.
+- US Dept of Commerce. (2022). The CHIPS and Science Act of 2022. US Government Printing Office.
+
+## Consolidated from `Modern_Applications_Comprehensive_Research.md` (Step 13)
+
+`4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Duplicate comprehensive research variant; merge into Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Modern Applications/Modern_Applications_Comprehensive_Research.md.orig` (SHA-256 `b0e15167f18e`).
+
+References cited in `Modern_Applications_Comprehensive_Research.md` and not already listed above:
+
+- Christensen, C. M. (1997). The Innovator's Dilemma. Harvard Business School Press.
+- Dalio, R. (2021). Principles for Dealing with the Changing World Order. Simon & Schuster.
+- Chandler, A. D. Jr. (1977). *The Visible Hand: The Managerial Revolution in American Business*. Harvard University Press. (The emergence of large-scale managerial enterprise).
+- Hamel, G., & Prahalad, C. K. (1994). *Competing for the Future*. Harvard Business School Press. (Core competencies and strategic architecture).
+- Kaplan, R. S., & Norton, D. P. (1996). *The Balanced Scorecard: Translating Strategy into Action*. Harvard Business School Press. (Multi-factor organizational performance measurement).
+- Mintzberg, H. (1994). *The Rise and Fall of Strategic Planning*. Free Press. (Critique of formal planning and the necessity of emergent strategy).
+- Porter, M. E. (1990). *The Competitive Advantage of Nations*. Free Press. (National industrial clusters and the microeconomic foundations of prosperity).
+
+## Consolidated from `Modern Applications.md` (Step 13)
+
+`4th Turning/Modern Applications.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Loose file duplicate outside subdirectory; consolidate into Modern Applications Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Modern Applications.md.orig` (SHA-256 `f9181975b7b0`).
+
+References cited in `Modern Applications.md` and not already listed above:
+
+- US Chamber of Commerce. (2024). Supply Chain Resilience & Industrial Strategy. Policy Report.
+- Bower, J. L., & Christensen, C. M. (1995). *Disruptive Technologies: Catching the Wave*. Harvard Business Review, 73(1), 43-53. (Technological disruption and strategic agility).
+- Drucker, P. F. (1993). *Post-Capitalist Society*. HarperBusiness. (Knowledge economy shifts and changing institutional roles).
+- Porter, M. E. (1985). *Competitive Advantage: Creating and Sustaining Superior Performance*. Free Press. (Value chain integration and defensible strategic moats).
+- Rumelt, R. (2011). *Good Strategy/Bad Strategy: The Difference and Why It Matters*. Crown Business. (Diagnosing core challenges and concentrating organizational power).

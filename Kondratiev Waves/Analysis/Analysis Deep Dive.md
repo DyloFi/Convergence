@@ -151,3 +151,12 @@ Empirical spectral peaks consistently concentrate in the narrow frequency band $
 
 - Christiano, L. J., & Fitzgerald, T. J. (2003). The Band Pass Filter. *International Economic Review*, 44(2), 435-465.
 - Gençay, R., Selçuk, F., & Whitcher, B. (2002). *An Introduction to Wavelets and Other Filtering Methods in Finance and Economics*. Academic Press.
+
+## Consolidated from `Reports Deep Dive.md` (Step 13)
+
+`Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Generic reporting stub duplicating parent Analysis Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Kondratiev Waves/Analysis/Reports/Reports Deep Dive.md.orig` (SHA-256 `ae8a90030999`).
+
+References cited in `Reports Deep Dive.md` and not already listed above:
+
+- Perez, C. (2010). Technological Revolutions and Techno-Economic Paradigms. *Cambridge Journal of Economics*, 34(1), 185-202.
+- Tylecote, A. (1992). *The Long Wave in the World Economy: The Present Crisis in Historical Perspective*. Routledge.

@@ -149,3 +149,78 @@ The deployment of gigawatt-scale artificial intelligence clusters faces four str
 - Jouppi, N. P., et al. (2023). TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings. *ACM/IEEE International Symposium on Computer Architecture (ISCA)*, 1–14.
 - NVIDIA Corporation. (2024). *NVIDIA Blackwell Architecture Technical Brief: Advancing Generative AI and Accelerated Computing*. NVIDIA Whitepaper.
 - Ho, R. (2022). Optical Interconnects for High-Performance Computing and Data Centers. *IEEE Micro*, 42(2), 22–31.
+
+## Consolidated from `Bibliography Deep Dive.md` (Step 13)
+
+`Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: methodologically defective, speculative, or empty data stub; Recycled generic AI bibliography block without unique analytical prose). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Technological Singularity/Supporting_Materials/Bibliography/Bibliography Deep Dive.md.orig` (SHA-256 `4b66df2e2fe2`).
+
+References cited in `Bibliography Deep Dive.md` and not already listed above:
+
+- **Bostrom, N. (2006)**. What is a Singleton? *Linguistic and Philosophical Investigations*, 5(2), 48–54.
+- **Good, I. J. (1965)**. Speculations Concerning the First Ultraintelligent Machine. *Advances in Computers*, 6, 31–88.
+- **Kurzweil, R. (1999)**. *The Age of Spiritual Machines: When Computers Exceed Human Intelligence*. Viking Press.
+- **Moravec, H. (1988)**. *Mind Children: The Future of Robot and Human Intelligence*. Harvard University Press.
+- **Sandberg, A., & Bostrom, N. (2008)**. Whole Brain Emulation: A Roadmap. *Future of Humanity Institute Technical Report*.
+- **Ulam, S. (1958)**. Tribute to John von Neumann. *Bulletin of the American Mathematical Society*, 64(3), 1–49.
+- **Vinge, V. (1993)**. The Coming Technological Singularity: How to Survive in the Post-Human Era. *Vision-21: Interdisciplinary Science and Engineering in the Space Era*, NASA CP-10129, 11–22.
+- **Christiano, P. F., Leike, J., Brown, T., Martic, M., Legg, S., & Amodei, D. (2017)**. Deep Reinforcement Learning from Human Preferences. *Advances in Neural Information Processing Systems (NeurIPS)*, 30.
+- **Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019)**. Risks from Learned Optimization in Advanced Machine Learning Systems. *arXiv preprint arXiv:1906.01820*.
+- **Turner, A. M., Smith, L., Shah, R., Critch, A., & Tadepalli, P. (2021)**. Optimal Policies Tend to Seek Power. *Advances in Neural Information Processing Systems (NeurIPS)*, 34.
+- **Yudkowsky, E. (2004)**. Coherent Extrapolated Volition. *Machine Intelligence Research Institute Technical Report*.
+- **Yudkowsky, E. (2013)**. Intelligence Explosion Microeconomics. *Machine Intelligence Research Institute (MIRI) Technical Report*.
+- **Borkar, S., & Chien, A. A. (2011)**. The Future of Microprocessors. *Communications of the ACM*, 54(5), 67–77.
+- **Erdil, E., & Besiroglu, T. (2023)**. Algorithmic Progress in Machine Learning. *Epoch AI Technical Report*.
+- **Grace, K., Stewart, H., Sandkühler, J. F., Thomas, B., Weinstein-Raun, B., & Brauner, J. (2024)**. Thousands of AI Authors Share Views on AI Progress. *arXiv preprint arXiv:2401.03743*.
+- **Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., .. & Sifre, L. (2022)**. Training Compute-Optimal Large Language Models. *arXiv preprint arXiv:2203.15556*.
+- **Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., .. & Amodei, D. (2020)**. Scaling Laws for Neural Language Models. *arXiv preprint arXiv:2001.08361*.
+- **Landauer, R. (1961)**. Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
+- **Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Houlden, M., & Villalobos, P. (2022)**. Compute Trends Across Three Eras of Machine Learning. *IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)*.
+- **Acemoglu, D., & Restrepo, P. (2018)**. The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment. *American Economic Review*, 108(6), 1488–1542.
+- **Dafoe, A. (2018)**. AI Governance: A Research Agenda. *Center for the Governance of AI, Future of Humanity Institute*.
+- **Fish, A., & Heim, L. (2023)**. Hardware Governance: Technical Mechanisms for AI Control. *Centre for the Governance of AI*.
+- **Hanson, R. (2008)**. Economics of the Singularity. *IEEE Spectrum*, 45(6), 45–50.
+- **Hanson, R. (2016)**. *The Age of Em: Work, Love, and Life when Robots Rule the Earth*. Oxford University Press.
+- **Maas, M. M. (2019)**. How Viable is International AI Governance? Lessons from Nuclear Non-Proliferation. *International Studies Review*, 21(3), 471–493.
+- **Nordhaus, W. D. (2021)**. Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *American Economic Journal: Macroeconomics*, 13(1), 299–332.
+- **Shavit, Y. (2023)**. What Does It Take to Catch a Supercomputer? Hardware-Enabled Governance for AI Safety. *arXiv preprint arXiv:2303.11341*.
+- **Aghion, P., Jones, B. F., & Jones, C. I. (2019)**. Artificial Intelligence and Economic Growth. In *The Economics of Artificial Intelligence: An Agenda* (pp. 237–282). University of Chicago Press.
+- **Armstrong, S., Bostrom, N., & Shulman, C. (2016)**. Racing to the Precipice: A Model of Artificial Intelligence Development. *AI & Society*, 31(2), 201–206.
+- **Bostrom, N. (2002)**. Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards. *Journal of Evolution and Technology*, 9(1), 1–30.
+- **Christiano, P. (2019)**. What Failure Looks Like. *Alignment Forum Technical Monograph*, 1–18.
+- **Davidson, T. (2023)**. Could Advanced AI Drive Explosive Economic Growth? *Open Philanthropy Research Report*, 1–74.
+- **Grace, K., Salvatier, J., Dafoe, A., Zhang, B., & Evans, O. (2018)**. When Will AI Exceed Human Performance? Evidence from AI Experts. *Journal of Artificial Intelligence Research*, 62, 729–754.
+- **Hanson, R. (2001)**. Economic Growth Given Machine Intelligence. *University of California Berkeley Working Paper*, 1–32.
+- **Hubinger, E. (2020)**. Overview of Inner Alignment Issues. *Alignment Newsletter*, 67, 1–12.
+- **Karpovich, A., & Jones, M. (2024)**. Frontier Model Compute Tracking and Datacenter Energetics. *Energy Informatics Review*, 4(1), 45–62.
+- **Leike, J., Krueger, D., Everitt, T., Martic, M., Maini, V., & Legg, S. (2018)**. Scalable Agent Alignment via Reward Modeling. *arXiv preprint arXiv:1811.07871*.
+- **Ngo, R., Chan, L., & Mindermann, S. (2024)**. The Alignment Problem from a Deep Learning Perspective. *ICLR 2024 Workshop Proceedings*.
+- **Omohundro, S. M. (2008)**. The Basic AI Drives. *Artificial General Intelligence*, 171, 483–492.
+- **Sutton, R. (2019)**. The Bitter Lesson. *Incomplete Ideas Blog*, 1–4.
+- **Yudkowsky, E. (2001)**. General Intelligence and Seed AI: Creating Complete Minds Capable of Open-Ended Self-Improvement. *Singularity Institute for Artificial Intelligence*.
+- **Amodei, D., & Hernandez, D. (2018)**. AI and Compute. *OpenAI Research Blog*, 1–5.
+- **Armstrong, S., & Sandberg, A. (2013)**. Eternity in Six Hours: Intergalactic Spreading of Intelligent Life and Sharp Transition Curves. *Acta Astronautica*, 89, 1–13.
+- **Nordhaus, W. D. (2015)**. Two Centuries of Productivity Growth in Computing. *Journal of Economic History*, 67(1), 128–159.
+- **Shanahan, M. (2015)**. *The Technological Singularity*. MIT Press.
+- **Chalmers, D. J. (2010)**. The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7–65.
+
+## Consolidated from `Glossary Deep Dive.md` (Step 13)
+
+`Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Padded glossary stub; merge into Supporting Materials Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Technological Singularity/Supporting_Materials/Glossary/Glossary Deep Dive.md.orig` (SHA-256 `55d5ed0ab4f1`).
+
+References cited in `Glossary Deep Dive.md` and not already listed above:
+
+- Bremermann, H. J. (1962). Optimization Through Evolution and Recombination. *Self-Organizing Systems*, 93–106. Spartan Books.
+- Margolus, N., & Levitin, L. B. (1998). The Maximum Speed of Dynamical Evolution. *Physica D: Nonlinear Phenomena*, 120(1-2), 188–195.
+- Wolfram, S. (2002). *A New Kind of Science*. Wolfram Media.
+- Bekenstein, J. D. (1981). Universal Upper Bound on the Entropy-to-Energy Ratio for Bounded Systems. *Physical Review D*, 23(2), 287–298.
+- Lloyd, S. (2000). Ultimate Physical Limits to Computation. *Nature*, 406(6799), 1047–1054.
+
+## Consolidated from `Sources Deep Dive.md` (Step 13)
+
+`Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Padded source index; merge into Supporting Materials Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/Technological Singularity/Supporting_Materials/Sources/Sources Deep Dive.md.orig` (SHA-256 `e8e3864f432a`).
+
+References cited in `Sources Deep Dive.md` and not already listed above:
+
+- Epoch AI. (2024). *Key Trends in Artificial Intelligence: Historical and Modern Compute Trajectories*. Epoch Research Report.
+- MLCommons. (2023). *MLPerf Inference Benchmark Suite: Design and Implementation*. IEEE Micro, 40(3), 8–16.
+- Princeton NLP. (2024). *SWE-bench: Can Language Models Resolve Real-World GitHub Issues?* International Conference on Learning Representations (ICLR).

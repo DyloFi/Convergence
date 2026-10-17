@@ -151,3 +151,15 @@ Calibrated coefficients over 136 years of historical performance data yield secu
 ### Long-Run Harmonic Trajectory Synthesis
 
 Spectral filtering over century-scale computational history shows that while micro-level technological innovations exhibit cyclical volatility driven by corporate capital expenditure budgets and lithography tooling cadences, the macro-level trajectory maintains rigorous phase alignment with the Law of Accelerating Returns. The secular exponential trend functions as an underlying attractor across diverse physical computing media.
+
+## Consolidated from `Timeline Deep Dive.md` (Step 13)
+
+`LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: methodologically defective, speculative, or empty data stub; Redundant duplicate timeline stub duplicating Timeline Analysis Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/LoAR/Supporting_Materials/Timeline/Timeline Deep Dive.md.orig` (SHA-256 `137e47b00bb7`).
+
+References cited in `Timeline Deep Dive.md` and not already listed above:
+
+- Moravec, H. (1998). When will computer hardware match the human brain?. *Journal of Evolution and Technology*, 1.
+- International Roadmap for Devices and Systems. (2024). *Beyond CMOS and emerging research devices: 2024 edition*. IEEE Computer Society Press (pp. 55-112).
+- Kurzweil, R. (2024). *The Singularity is Nearer: When we merge with AI*. Viking Press / Penguin Random House (Chapter 2, pp. 45-88).
+- Shalf, J. (2020). *The future of computing beyond Moore's Law*. Philosophical Transactions of the Royal Society A, 378(2166), 20190061 (pp. 1-15).
+- Markov, I. L. (2014). *Limits on fundamental limits to computation*. Nature, 512(7513), 147-154. https://doi.org/10.1038/nature13570 (pp. 147-153).

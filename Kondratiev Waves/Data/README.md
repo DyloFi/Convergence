@@ -1,5 +1,9 @@
 # Kondratiev Waves Data Submodule Overview
 
+## Status note: what this folder actually contains (Step 13)
+
+Read the rest of this README as a design specification, not a catalog. As of Step 13 (2026-10-17) the repository stores **no** raw or processed long-wave datasets: there are no CSV, JSON or SQLite files and no `Raw/`, `Historical/`, `Modern/` or `Documentation/` data folders. The dataset IDs below (`DS-KW1-PRICE` and the rest) name series that have not been compiled into the repo. The folder holds only this README and `Data Deep Dive.md`, which absorbed the former `Raw`, `Raw/Historical` and `Documentation` deep dives. The four `Processed/` deep dives (CSV, JSON, SQLite and the parent) were removed because they described files that do not exist. Originals are preserved under `archive/step13_originals/`; see `review/step13_changes.md`.
+
 ## Executive Summary — Data Architecture Guide
 This document defines the data architecture, empirical schema taxonomy, and data management infrastructure for the **Kondratiev Waves Research Domain**. Long-wave econometric research requires multi-century macroeconomic time series—including wholesale price indices (Sauerbeck/BLS), long-term bond yields, pig iron and steel output, fixed capital formation, patent counts, and GPU compute scaling metrics. Grounded in the works of Nikolai Kondratiev (1925), Joseph Schumpeter (1939), Carlota Perez (2002), and Solomou (1987), this guide details the pipeline from raw historical archives to clean CSV, JSON, and SQLite database storage formats.
 

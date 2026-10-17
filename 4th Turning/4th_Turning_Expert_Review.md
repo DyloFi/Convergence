@@ -298,3 +298,26 @@ All subfolder reports expanded in Round 2 MUST contain formal in-text citations 
 ---
 *Domain Expert Review completed by Generational Theory Expert.*  
 *Output File Location*: `4th Turning/4th_Turning_Expert_Review.md`
+
+## Step 13 consolidation note (4th Turning)
+
+After this review was written, Step 13 of the remediation plan acted on the Step 12 triage for the 4th Turning pillar. Files named above that were merged or removed no longer exist at those paths; their originals are preserved under `archive/step13_originals/`, and the full change record is `review/step13_changes.md`.
+
+- `Authors/William_Strauss_Neil_Howe.md`: merged into `Authors/Authors Deep Dive.md`
+- `Book/The_Fourth_Turning_Book_Details.md`: merged into `Book/Book Deep Dive.md`
+- `Comparative Timelines/Comparative Timelines Deep Dive.md`: merged into `Timeline/Timeline Deep Dive.md`
+- `Criticism/Criticisms_and_Controversies.md`: merged into `Criticism/Criticism Deep Dive.md`
+- `Critiques and Debates/Critiques and Debates Deep Dive.md`: merged into `Criticism/Criticism Deep Dive.md`
+- `Data/Data Deep Dive.md`: merged into `Data and Statistics/Data and Statistics Deep Dive.md`
+- `Demographic Trends/Demographic Trends Deep Dive.md`: rewritten from the evidence up
+- `Generational Research/Generational Research Deep Dive.md`: merged into `Generational Theory/Generational Theory Deep Dive.md`
+- `Interviews/Interviews Deep Dive.md`: merged into `Interviews and Expert Opinions/Interviews and Expert Opinions Deep Dive.md`
+- `Media/Media Deep Dive.md`: merged into `Media Analysis/Media Analysis Deep Dive.md`
+- `Modern Applications/Modern Applications Research.md`: merged into `Modern Applications/Modern Applications Deep Dive.md`
+- `Modern Applications/Modern_Applications_Comprehensive_Research.md`: merged into `Modern Applications/Modern Applications Deep Dive.md`
+- `Modern Applications.md`: merged into `Modern Applications/Modern Applications Deep Dive.md`
+- `Neutral Analyses/Neutral Analyses Deep Dive.md`: rewritten from the evidence up
+- `Pop Culture References/Pop Culture References Deep Dive.md`: removed
+- `Public Perception/Public Perception Deep Dive.md`: rewritten from the evidence up
+- `Reception/Reception Deep Dive.md`: merged into `Academic Reception/Academic Reception Deep Dive.md`
+- `Research Notes.md`: rewritten from the evidence up

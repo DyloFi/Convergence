@@ -159,3 +159,18 @@ The convergence of expert opinion across divergent academic fields reveals a pow
 - **Structural Vulnerability is Systemic**: The crisis is not caused by individual political personalities, but by the simultaneous exhaustion of fiscal, institutional, and cultural capital.
 - **The Primacy of Operational Competence**: As ideological posturing collapses under the weight of real-world emergencies, society will elevate leaders and managers with proven operational track records.
 - **The Impetus for Institutional Re-founding**: Every expert consensus panel concludes that the current cycle will culminate in a formal restructuring of domestic governance and international alliances.
+
+## Consolidated from `Interviews Deep Dive.md` (Step 13)
+
+`4th Turning/Interviews/Interviews Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Redundant folder duplicate of Interviews and Expert Opinions). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Interviews/Interviews Deep Dive.md.orig` (SHA-256 `30bf8fa0cb96`).
+
+References cited in `Interviews Deep Dive.md` and not already listed above:
+
+- C-SPAN Archives. (1991). Booknotes: Interview with William Strauss and Neil Howe on Generations. C-SPAN Video Library.
+- Howe, N., & Strauss, W. (1991). Generations: The History of America's Future. William Morrow & Company.
+- Howe, N. (2008). Interview on Global Financial Catalyst and the Fourth Turning. Yahoo Finance Press.
+- National Press Club. (1997). Luncheon Address by Neil Howe and William Strauss. NPC Archives.
+- Terkel, S. (1970). *Hard Times: An Oral History of the Great Depression*. Pantheon Books. (Classic methodology for oral generational history during crisis climaxes).
+- Terkel, S. (1984). *The Good War: An Oral History of World War Two*. Pantheon Books. (Documenting Hero cohort civic mobilization and postwar institutional founding).
+- Wuthnow, R. (1976). *The Consciousness Reformation*. University of California Press. (In-depth interviews tracking spiritual values during the Second Turning Awakening).
+- Yankelovich, D. (1981). *New Rules: Searching for Self-Fulfillment in a World Turned Upside Down*. Random House. (Field interview analysis of cultural shifting during Unraveling).

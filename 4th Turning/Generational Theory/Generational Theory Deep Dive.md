@@ -152,3 +152,16 @@ To advance the scientific understanding of generational dynamics, future researc
 2. **Cross-National Demographic Harmonization**: Developing standardized demographic indices that control for varying immigration rates and cultural birth-cohort definitions.
 3. **Inter-Archetype Psychometric Benchmarking**: Administering standardized psychometric evaluations across active generational cohorts to quantify variations in risk tolerance, institutional trust, and civic duty.
 4. **Integration with Complex Adaptive Systems**: Modeling generational succession as a coupled non-linear feedback loop within the broader macroeconomic and geopolitical environment.
+
+## Consolidated from `Generational Research Deep Dive.md` (Step 13)
+
+`4th Turning/Generational Research/Generational Research Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Folder naming collision duplicating Generational Theory Deep Dive). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Generational Research/Generational Research Deep Dive.md.orig` (SHA-256 `8a6f635f82b2`).
+
+References cited in `Generational Research Deep Dive.md` and not already listed above:
+
+- Bourdieu, P. (1984). Distinction: A Social Critique of the Judgement of Taste. Harvard University Press.
+- Mason, K. O., et al. (1973). Some Methodological Issues in Cohort Analysis of Archival Data. American Sociological Review, 38(2), 242-258.
+- Pew Research Center. (2021). Gen Z, Millennials and Gen X Stand Out for Climate Change Engagement. Pew Reports.
+- Strauss, W., & Howe, N. (1991). Generations: The History of America's Future, 1584 to 2069. William Morrow & Company.
+- Twenge, J. M. (2017). iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious. Atria Books.
+- Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis: New Models, Methods, and Empirical Applications. CRC Press.

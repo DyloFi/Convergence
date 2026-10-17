@@ -151,3 +151,19 @@ Generational dynamics within the Strauss-Howe architecture exhibit profound math
 - Turchin, P. (2016). Ages of Discord. Beresta Books.
 - Wilentz, S. (1997). Over the Horizon: Review of The Fourth Turning. The New Republic, 216(12), 32-37.
 - Yang, Y., & Land, K. C. (2013). Age-Period-Cohort Analysis. CRC Press.
+
+## Consolidated from `Reception Deep Dive.md` (Step 13)
+
+`4th Turning/Reception/Reception Deep Dive.md` was merged into this report on 2026-10-17 under the Step 12 triage (reason given: heavy reliance on boilerplate, artificial line expansion, or duplicate folder structure; Redundant split between Reception and Academic Reception). Its narrative sections repeated this report and its figures were not tied to sources, so they were not copied here. The original is kept at `archive/step13_originals/4th Turning/Reception/Reception Deep Dive.md.orig` (SHA-256 `7a626c10c2e9`).
+
+References cited in `Reception Deep Dive.md` and not already listed above:
+
+- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
+- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
+- New York Times. (1991). The Generation Game: Book Review. NYT Arts & Culture.
+- Time Magazine. (1997). Prophecy of Winter: The Fourth Turning Review. Time Archives.
+- Butterfield, H. (1931). *The Whig Interpretation of History*. G. Bell and Sons. (Critique of teleological historical narratives and linear triumphalism).
+- Carr, E. H. (1961). *What Is History?* Macmillan. (Historiographical methodology, bias, and the sociology of historical knowledge).
+- Collingwood, R. G. (1946). *The Idea of History*. Oxford University Press. (Philosophy of history, historical re-enactment, and periodization).
+- Popper, K. R. (1957). *The Poverty of Historicism*. Routledge. (Epistemological critique of historical determinism and prophecy).
+- Wilentz, S. (2008). *The Age of Reagan: A History, 1974-2008*. Harper. (Orthodox narrative history emphasizing contingent political maneuvering).
