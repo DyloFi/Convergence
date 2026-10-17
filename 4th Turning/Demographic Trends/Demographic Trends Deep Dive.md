@@ -1,154 +1,88 @@
-# 4th Turning: Demographic Inversion, Birth Rates & Cohort Sizing
+# 4th Turning: What US Birth Data Says About Generations and Turnings
 
-## Executive Summary — Demographic Inversion, Birth Rates & Cohort Sizing
-This research monograph analyzes demographic inversion, fertility collapses, and cohort sizing shifts across the saeculum.
-It evaluates how population aging, urban concentration, and birth rate busts impact Fourth Turning crisis climaxes.
-The study models the intergenerational transfer burden as large retiring cohorts depend on smaller youth workforces.
-It provides demographic forecasting models for healthcare systems, housing markets, and sovereign budget planners.
+*Rewritten from the evidence up in Step 13 (2026-10-17). The previous version, which relied on invented fertility tables, is preserved at `archive/step13_originals/4th Turning/Demographic Trends/Demographic Trends Deep Dive.md.orig`.*
 
-### Key Research Takeaways for Demographic Inversion, Birth Rates & Cohort Sizing
-- **Core Theoretical Insight**: The historical evolution of demographic inversion, birth rates & cohort sizing is bound by 80-year saecular turning dynamics and cohort age-bracket shifts.
-- **Strategic Imperative**: Institutional leaders must adapt demographic inversion, birth rates & cohort sizing frameworks from Third-Turning individualist optimization toward Fourth-Turning civic resilience.
+## Executive Summary
 
-## 1. Theoretical Framework & Generational Mechanics — Demographic Inversion, Birth Rates & Cohort Sizing
-Demographic inversion—where aging elder cohorts outnumber young workforce entry cohorts—transforms saecular crisis dynamics.
-Understanding cohort size differentials is essential for modeling future fiscal stress and labor market realignments.
+Strauss and Howe divide American history into roughly 20-year turnings and assign each birth cohort to a generation. If those divisions describe something real in the population itself, it should show up in births and fertility. Using the National Center for Health Statistics (NCHS) annual series for 1909-2018, plus CDC figures for 2023-2024, the answer is mixed and mostly negative. The post-war baby boom is a real demographic event with sharp edges: births jumped 19.3% in 1946 and peaked at 4.3 million in 1957. It is the only generation the Census Bureau defines from birth data. None of the other generational boundaries shows up as a break in the series. Fertility has declined over the long run, from a general fertility rate of 126.8 per 1,000 women in 1909 to 59.1 in 2018, with one large interruption (the boom). Crisis turnings do have low fertility (1930s, post-2008), but the steepest decline came in an Awakening (1964-1984), and the lowest point of that decline (1976) sits in the middle of it. Birth data supports describing the boom as a cohort. It does not support the claim that fertility moves in step with turnings.
 
-### 1.1 Archetype Dynamics in Demographic Inversion, Birth Rates & Cohort Sizing
-- **Prophet Generation (Idealist)**: Boomer elder cohort currently retiring in massive numbers, placing unprecedented demand on sovereign entitlement funds.
-- **Nomad Generation (Reactive)**: Gen X midlife cohort managing corporate and governmental systems while bearing heavy tax and eldercare burdens.
-- **Hero Generation (Civic)**: Millennial civic cohort entering peak earning and leadership years, driving institutional rebuilds despite small savings.
-- **Artist Generation (Adaptive)**: Gen Z adaptive youth cohort entering an inverted labor market characterized by worker shortages and high automation.
+## Question and scope
 
-### 1.2 Saecular Phase Mapping for Demographic Inversion, Birth Rates & Cohort Sizing
-1. **First Turning (High)**: Expanding demographic pyramid: High birth rates create a young, growing population with a low elder dependency ratio.
-2. **Second Turning (Awakening)**: Demographic stabilization: Birth rates drop to replacement level as cultural focus shifts to individual fulfillment.
-3. **Third Turning (Unraveling)**: Demographic aging: Low birth rates and extended lifespans create an aging society with rising entitlement liabilities.
-4. **Fourth Turning (Crisis)**: Demographic inversion: Ultra-low fertility and massive elder retirement force total sovereign pension and healthcare resets.
+**Question.** Do US birth counts and fertility rates show the breaks and phase pattern that the Strauss-Howe generational and turning boundaries imply?
 
-## 2. Quantitative Data, Empirical Metrics & Case Studies — Demographic Inversion, Birth Rates & Cohort Sizing
-### Quantitative Indicator Matrix — Demographic Inversion, Birth Rates & Cohort Sizing
-| Generational Cohort | Birth Year Range | Estimated US Cohort Size | Labor Market Entry Status | Elder Dependency Impact |
-| :--- | :---: | :---: | :---: | :--- |
-| Baby Boom Generation | 1943 - 1960 | 71.6 Million | Peak Retirement / Elderhood | Massive Entitlement Outflow Burden |
-| Generation X | 1961 - 1981 | 65.2 Million (Smaller) | Senior Leadership & Management | Bears Dual Caregiver & Tax Burden |
-| Millennial Generation | 1982 - 2004 | 72.2 Million (Large) | Prime Workforce & Midlife Execution | Drives Tax Base & Institutional Rebuild |
-| Generation Z / Alpha | 2005 - 2025 | 68.0 Million (Declining) | Youth Entry & Education | Faces High Worker-to-Retiree Burden Ratio |
+**Scope.** United States only, 1909-2024. Births and the general fertility rate (GFR, births per 1,000 women aged 15-44) come from NCHS. The total fertility rate (TFR) comes from published CDC and Census figures. Generation and turning dates are Strauss and Howe's as currently used by Howe. Not covered: migration (which changes cohort size after birth), mortality, and other countries.
 
-### 2.1 Granular Historical Case Studies in Demographic Inversion, Birth Rates & Cohort Sizing
-- **Case Study 1: The US Entitlement Insolvency Horizon (2024-2033)**: Social Security and Medicare trust funds face projected depletion windows as the full Boomer cohort reaches age 70+.
-- **Case Study 2: Japan's Extreme Demographic Inversion Baseline (1990-2024)**: Japan served as an early preview of demographic inversion, experiencing 30 years of economic stagnation and ultra-low fertility.
-- **Case Study 3: The European Labor Shortage & Automation Shift (2020-2026)**: Declining youth cohorts in Germany and Italy forced rapid adoption of robotics and industrial AI to offset workforce contraction.
+## Methodology
 
-### 2.2 Sectoral & Institutional Impact Matrix for Demographic Inversion, Birth Rates & Cohort Sizing
-- **Sovereign Budget Restructuring**: Forces federal governments to overhaul entitlement spending and tax structures during Fourth Turning crisis climaxes.
-- **Labor Market Wage Dynamics**: Worker scarcity caused by demographic inversion increases structural wage pressure, favoring young entry-level workers.
-- **Healthcare System Strain**: Unprecedented demand for senior medical care diverts capital from infrastructure investment toward healthcare services.
-- **Housing Supply Realignment**: Shift from suburban Boomer McMansions to multi-family urban housing tailored for Millennial and Gen Z preferences.
+1. Load the NCHS series (`data/nchs_births_gfr_us_1909_2018.csv`, unchanged from data.cdc.gov dataset e6fc-ccez). NCHS adjusts births before 1959 for under-registration.
+2. For each Strauss-Howe generation, compute mean births per year and mean GFR. Means are used because the generations differ in length (18 to 24 years).
+3. For each turning, record GFR at its start and end, its mean and its low year.
+4. List the largest one-year changes in births, to see whether any generational boundary coincides with a demographic break.
 
-## 3. Comparative Perspectives & Counter-Theories — Demographic Inversion, Birth Rates & Cohort Sizing
-Immigration advocates argue that high international immigration can offset domestic low fertility and demographic aging.
-Automation economists contend AI and robotics will eliminate labor shortages, making worker-to-retiree ratios irrelevant.
+`scripts/step13_demography_check.py` reproduces every number in the two tables below.
 
-### 3.1 Interdisciplinary Counter-Perspectives in Demographic Inversion, Birth Rates & Cohort Sizing
-1. **High Immigration Replacement Model**: Posits that robust net immigration neutralizes domestic fertility decline, maintaining a balanced labor-to-retiree ratio.
-2. **Post-Scarcity AI Productivity Surge**: Argues generative AI and humanoid robotics will boost worker productivity tenfold, funding entitlement liabilities effortlessly.
-3. **Global Demographic Convergence**: Notes that global fertility is declining everywhere, making international replacement immigration unsustainable long-term.
+## Empirical Evidence
 
-## 4. Strategic Implications & Future Trajectories (2026–2035+) — Demographic Inversion, Birth Rates & Cohort Sizing
-Enterprise HR and strategic planning teams must adapt workflows to a structurally smaller, highly automated workforce.
-Governments must proactively reform entitlement models before insolvency forces catastrophic emergency cuts.
+### Births and fertility by generation
 
-### 4.1 Institutional Adaptation & Risk Management in Demographic Inversion, Birth Rates & Cohort Sizing
-- **Demographic Automation Deployment**: Invest heavily in robotics and AI workflows to offset projected youth labor shortages in manufacturing and services.
-- **Entitlement Sustainability Reform**: Implement progressive means-testing and gradual age adjustments for sovereign pensions to prevent fiscal collapse.
-- **Intergenerational Wealth Transfer Structuring**: Design financial products that facilitate efficient capital transfer from retiring Boomers to emerging Millennial families.
-### Saecular Demographic Transitions and Generational Waves
+| Strauss-Howe generation (birth years) | Mean births per year | Mean GFR |
+| :--- | ---: | ---: |
+| G.I. (1901-1924; data from 1909) | 2.90 million | 120.5 |
+| Silent (1925-1942) | 2.58 million | 85.8 |
+| Boom (1943-1960) | 3.79 million | 110.2 |
+| 13th / Gen X (1961-1981) | 3.58 million | 82.5 |
+| Millennial (1982-2005) | 3.94 million | 66.3 |
+| Homeland (2006-; data to 2018) | 4.03 million | 64.0 |
 
-Demographic structure serves as the biological scaffolding for generational turning dynamics. Shifting cohort sizes, age dependency ratios, urbanization rates, and labor force participation profiles create the underlying physical constraints within which social moods evolve.
+Two things stand out. First, birth counts and fertility point in different directions. The Millennial years produced more births per year than the Boom years even though fertility was 40% lower, because the Boom generation itself had become parents. The Homeland average is high partly because 2007 has the most births in the whole NCHS series (4,316,233). Second, the Boom is the only generation whose fertility clearly differs from its neighbours.
 
-| Demographic Dimension | Prophet (Idealist) | Nomad (Reactive) | Hero (Civic) | Artist (Adaptive) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Birth Cohort Size** | Expanding / Massive bulge | Contracting / Hollow cohort | Expanding / Demographic wave | Compressed / Stagnant cohort |
-| **Childhood Social Climate** | Indulged, post-crisis optimism | Under-protected, latchkey autonomy | Tight-knit, hyper-protected | Over-regulated, crisis-sheltered |
-| **Midlife Role** | Visionary ideological leaders | Pragmatic institutional managers | Civic executors and state builders | Consensual technocrats |
-| **Elderhood Contribution** | Uncompromising moral mentors | Pragmatic elder statesmen | Revered victorious ancestors | Gentle consensus stewards |
+### Fertility by turning
 
-### Generational Dependency Ratio and Macro-Fiscal Solvency
+| Turning (Strauss-Howe dates) | GFR, first year | GFR, last year | Mean | Low (year) |
+| :--- | ---: | ---: | ---: | :--- |
+| Unraveling 1908-1929 | 126.8 | 93.8 | 116.5 | 93.8 (1928) |
+| Crisis 1929-1946 | 89.3 | 85.9 | 83.0 | 75.8 (1936) |
+| High 1946-1964 | 101.9 | 108.3 | 114.0 | 101.9 (1946) |
+| Awakening 1964-1984 | 104.7 | 65.7 | 76.4 | 65.0 (1976) |
+| Unraveling 1984-2008 | 65.5 | 69.3 | 66.5 | 63.6 (1997) |
+| Crisis 2008- (data to 2018) | 68.1 | 59.1 | 63.1 | 59.1 (2018) |
 
-Let $D(t)$ denote the age dependency ratio, defined as the ratio of non-working population (children under 20 and retirees over 65) to the active working-age cohort $[20, 64]$:
+### Where the real breaks are
 
-$$D(t) = \frac{P_{[0, 19]}(t) + P_{[65, \infty)}(t)}{P_{[20, 64]}(t)}$$
+The three largest one-year rises in births were 1946 (+19.3%), 1947 (+11.9%) and 1942 (+10.6%). The three largest falls were 1972 (-8.4%), 1919 (-7.1%) and 1965 (-6.6%). The 1946 jump and the 1965 fall bracket the boom, matching the Census Bureau's 1946-1964 definition. Strauss and Howe date the Boom generation 1943-1960 instead, which puts their boundaries about three years earlier than the demographic edges. Pew Research Center notes that the Baby Boomers are "the only generation officially designated by the U.S. Census Bureau" and that "there are no comparably definitive thresholds" for later generations.
 
-During the Third Turning Unraveling, $D(t)$ experiences a temporary demographic dividend as workforce participation peaks. However, as the Fourth Turning commences, the massive Prophet elder cohort enters retirement while the Hero cohort faces compressed real wages, driving $D(t)$ toward historic highs:
+Published TFR figures tell the same story. TFR peaked at 3.77 births per woman in 1957, fell from 2.91 in 1965 to 1.84 in 1980, rose to 2.08 in 1990 and stayed roughly flat until 2007. It then declined to 1.73 in 2018. Except for 2006 and 2007 it has been below replacement (2.1) since 1971. The provisional 2024 figures are 3,622,673 births and a TFR of 1,626.5 per 1,000 women, slightly up on 2023. Births fell by an average of 2% a year from 2015 to 2020 and have fluctuated since.
 
-$$\frac{d D(t)}{dt} > 0 \implies \text{Severe fiscal strain on entitlement structures and sovereign deficits}$$
+### Reading the evidence against the claim
 
-This demographic scissor dynamic creates unavoidable fiscal pressure that accelerates the breakdown of Third Turning entitlement systems, compelling radical Fourth Turning institutional reorganization.
+- **Supported:** the Boom is a real cohort defined by a demographic surge. Crisis periods (the 1930s and the post-2008 years) have below-trend fertility.
+- **Not supported:** the idea that fertility rises and falls with the four turnings. Fertility fell fastest during an Awakening, stayed flat through an Unraveling, and reached its 20th-century low (1976) mid-Awakening. Over the whole period, the main pattern is a long decline interrupted once.
+- **Not testable with this data:** whether the Boom's size *caused* any later turning. Cohort size is consistent with many causal stories.
 
-### Empirical Demographic Telemetry
+## Competing views and counterarguments
 
-- **Aging Trajectory**: The median age in OECD nations has expanded from 28.5 years in 1960 to over 42.0 years by 2026, creating unprecedented structural fiscal drag during the current crisis climax.
-- **Urbanization Vectors**: Population concentration in metropolitan clusters concentrates political polarization, aligning geographic sorting with generational archetype fissures.
-- **Intergenerational Transfers**: The transition of Baby Boomer housing equity and liquid capital toward Millennial and Zoomer cohorts will represent the largest asset redistribution in global history.
-### Global Demographic Divergence Across Major Civilizational Spheres
+- **Demographic transition and economics.** Mainstream demography explains the long decline through falling child mortality, urbanisation, women's education and paid work, contraception and the rising cost of children. The boom is usually explained by post-war prosperity, earlier marriage and a catch-up in births delayed by the Depression and the war. These accounts explain the data at least as well as a turning cycle, without assuming one.
+- **The strongest case for Strauss and Howe.** One could argue that the theory is about generational *mood*, not birth volume, so a fertility test is beside the point. That is fair to the core theory. But earlier versions of this report, and other reports in this pillar, make explicit fertility claims ("Fourth Turning: TFR hits historical lows"), and those claims are what this file tests.
+- **Coincidence of crises and low fertility.** Low fertility in crises is real, but both crises here also had recessions (1929-1933, 2007-2009). Economic downturns lower fertility directly, so the link does not need a generational cycle to explain it.
 
-The interaction between saecular generational archetypes and contemporary demographic transitions reveals stark structural divergences across major geopolitical powers during the 21st-century climax:
+## Limitations
 
-| Civilizational Power | Median Age (2026) | Working-Age Population Trend | Generational Archetype Balance | Macro-Demographic Strategic Posture |
-| :--- | :--- | :--- | :--- | :--- |
-| **United States** | 39.1 Years | Modest growth via immigration | Large Millennial Hero cohort ascending | Dynamic internal realignment; acute polarization |
-| **European Union** | 44.8 Years | Severe structural contraction | Aging Boomer Prophet / Gen X Nomad dominance | High welfare state fragility; defensive regional integration |
-| **China** | 40.2 Years | Rapid decline (post-one-child drag) | Compressed youth cohorts, elder surge | Sovereign industrial acceleration before aging window closes |
-| **Global South (India/Africa)** | 28.4 Years | Massive demographic expansion | Dominant youth cohorts entering labor force | Rising economic ambition; vulnerability to ecological shocks |
+- One country with about 110 years of data covers only about one and a half saecula, so any test of an 80-year cycle has very little power.
+- GFR and TFR measure period fertility. Completed cohort fertility would answer a slightly different question and is not used here.
+- Pre-1959 births are NCHS estimates adjusted for under-registration.
+- Cohort sizes change after birth through immigration and mortality. The Millennial generation, for example, is larger as adults than its births alone imply.
+- Turning dates come from the theory itself, and Howe has adjusted them over time (the current crisis is dated from 2008). Testing a theory against boundaries it defines carries a risk of fitting after the fact.
 
-### Intergenerational Labor Market Compression Dynamics
+## Conclusion
 
-The wage elasticity of generational cohort replacement can be formalized using a constant elasticity of substitution (CES) production function across youth ($Y$) and mature ($M$) labor inputs:
+The birth record backs one generational boundary, the post-war boom, and gives no support to the others. Fertility does not move in step with the four turnings. The long decline since 1909 and the single boom-era interruption are better explained by standard demographic and economic accounts. The pillar should treat cohort size as context for the 2026-2035 discussion (an ageing population and below-replacement fertility are well measured), not as evidence that a Fourth Turning is underway.
 
-$$Q = A \left[ \theta (L_Y)^\rho + (1 - \theta) (L_M)^\rho \right]^{\frac{1}{\rho}}, \quad \sigma = \frac{1}{1 - \rho}$$
+## References
 
-The relative wage ratio $w_Y / w_M$ is governed by:
-
-$$\ln\left(\frac{w_Y}{w_M}\right) = \ln\left(\frac{\theta}{1 - \theta}\right) - \frac{1}{\sigma} \ln\left(\frac{L_Y}{L_M}\right)$$
-
-During the Third Turning Unraveling, when youth cohorts expand relative to midlife managers ($L_Y / L_M \uparrow$), relative youth wages $w_Y / w_M$ suffer severe downward compression. This economic immiseration fuels the classic Hero archetype grievance, driving youth mobilization toward collective political and institutional upheaval during the Fourth Turning.
-
-### Macro-Demographic Scaffolding of the 21st-Century Climax
-
-1. **Retirement Wave Inflexion**: Peak Baby Boomer retirement (2020–2028) shifts sovereign public finances from accumulation to massive entitlement payout regimes.
-2. **Civic Youth Consolidation**: Millennial and Gen Z voters achieve structural electoral majorities by 2028, ending four decades of Baby Boomer cultural and legislative hegemony.
-3. **Housing Market Turnover**: The physical release of elder suburban housing stock during the 2030s will facilitate family formation among post-crisis Artist cohorts.
-### Spatial Demographics and Generational Migration Vectors
-
-Generational turning phases drive distinct geographic migration patterns that reshape regional political landscapes and infrastructure demands:
-
-```
-+-----------------------------------------------------------------------------+
-|               SPATIAL DEMOGRAPHIC PATTERNS ACROSS SAECULAR PHASES          |
-+-----------------------------------------------------------------------------+
-| 1st Turning (High): Suburban Expansion, Levittown Master-Planned Tracts     |
-| 2nd Turning (Awakening): Rural Communes, Urban Academic Counter-Enclaves    |
-| 3rd Turning (Unraveling): Exurban Sprawl, Gated Communities, Coastal Flight|
-| 4th Turning (Crisis): Regional Sorting, Civic Densification, Rustbelt Reshore|
-+-----------------------------------------------------------------------------+
-```
-
-1. **Ideological Geographic Sorting**: The late Third Turning witnessed intense regional sorting, concentrating contrasting generational cohorts into distinct geographic clusters.
-2. **Crisis-Driven Relocation**: Rising cost of living and remote work models accelerate the migration of Millennial Hero families toward resilient secondary and tertiary cities.
-3. **Infrastructural Renewal Pressures**: Shifting demographic mass compels state and local governments to rehabilitate legacy transportation, water, and power grids.
-
-## Academic References & Bibliography — Demographic Inversion, Birth Rates & Cohort Sizing
-- Eberstadt, N. (2016). Men Without Work: America's Invisible Crisis. Templeton Press.
-- Howe, N., & Strauss, W. (1997). The Fourth Turning: An American Prophecy. Crown Publishing Group.
-- Howe, N. (2023). The Fourth Turning Is Here. Simon & Schuster.
-- OECD. (2023). Pensions at a Glance 2023: OECD and G20 Indicators. OECD Publishing.
-- UN Population Division. (2022). World Population Prospects. United Nations.
-- US Social Security Trustees. (2024). Annual Report of the Board of Trustees. US Government Printing Office.
-### Spatial and Demographic Comparative Literature
-
-- Easterlin, R. A. (1980). *Birth and Fortune: The Impact of Numbers on Personal Welfare*. Basic Books. (Easterlin cohort size effect on wages and family formation).
-- Frey, W. H. (2018). *Diversity Explosion: How New Racial Demographics are Remaking America*. Brookings Institution Press. (Spatial sorting and generational diversity shifts).
-- Kotkin, J. (2010). *The Next Hundred Million: America in 2050*. Penguin Press. (Suburban demographic evolution and regional migration corridors).
-- Lutz, W., Sanderson, W., & Scherbov, S. (2008). The coming acceleration of global population ageing. *Nature*, 451(7179), 716–719. (Global demographic aging projections).
-- United Nations Department of Economic and Social Affairs. (2024). *World Population Prospects 2024*. UN Publications. (Comparative global dependency ratio series).
+- Centers for Disease Control and Prevention, NCHS. Births and General Fertility Rates: United States, 1909-2018 (dataset e6fc-ccez). https://data.cdc.gov/api/views/e6fc-ccez/rows.csv?accessType=DOWNLOAD
+- CDC (2020). QuickStats: Expected Number of Births over a Woman's Lifetime, United States, 1940-2018. *MMWR* 69(1):20. https://www.cdc.gov/mmwr/volumes/69/wr/mm6901a5.htm
+- Hamilton, B. E., Martin, J. A., & Osterman, M. J. K. (2025). Births: Provisional data for 2024. *Vital Statistics Rapid Release* No. 38. https://www.cdc.gov/nchs/data/vsrr/vsrr038.pdf
+- Colby, S. L., & Ortman, J. M. (2014). *The Baby Boom Cohort in the United States: 2012 to 2060* (P25-1141). U.S. Census Bureau. https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf
+- Pew Research Center (2019). Defining generations: Where Millennials end and Generation Z begins. Pew Research Center. https://www.pewresearch.org/short-reads/2019/01/17/where-millennials-end-and-generation-z-begins/
+- Strauss, W., & Howe, N. (1991). *Generations: The History of America's Future, 1584 to 2069*. William Morrow.
+- Strauss–Howe generational theory (turning and generation dates as used by Howe). Wikipedia, accessed 2026-10-17. https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory

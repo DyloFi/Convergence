@@ -93,6 +93,12 @@ STANDARD_HEADINGS: Set[str] = {
     "fourier fast spectral density estimation",
     "theoretical framework & generational mechanics",
     "comparative perspectives & counter-theories",
+    # Step 13: section headings mandated by review/REPORT_STANDARDS.md (question, scope,
+    # competing views, limitations, proportional conclusions) for rewritten reports.
+    "question and scope",
+    "competing views and counterarguments",
+    "limitations",
+    "conclusion",
 }
 
 BOILERPLATE_PATTERNS: List[Tuple[str, str, str, str]] = [
