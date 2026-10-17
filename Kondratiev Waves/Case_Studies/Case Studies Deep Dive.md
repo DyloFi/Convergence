@@ -1,153 +1,71 @@
-# Empirical Historical Case Studies
+# Kondratiev Waves: Three Crashes Tested Against the Perez "Turning Point" Pattern
 
-## Executive Summary — Case Studies
-This research monograph provides an in-depth empirical analysis of **Three Benchmark Turning Point Crises** in long-wave economic history. Grounded in the theoretical frameworks of Carlota Perez (2002), Joseph Schumpeter (1939), Nikolai Kondratiev (1925), and Charles Kindleberger (1978), this report examines: (1) The 1847 British Railway Mania Crash (Transition from 1st to 2nd Wave), (2) The 1929 Wall Street Crash & Great Depression Reset (3rd Wave Turning Point), and (3) The 2000 Dot-Com / 2008 Great Financial Crisis (5th Wave Turning Point). Each case study details pre-crash financial frenzy, asset bubble mechanics, state institutional interventions, and subsequent deployment golden ages.
+*Rewritten from the evidence up in Step 13 (2026-10-17). The previous version, padded with repeated sectoral timelines and unsourced percentages, is preserved at `archive/step13_originals/Kondratiev Waves/Case_Studies/Case Studies Deep Dive.md.orig`.*
 
---------------
+## Executive Summary
 
-## 1. Theoretical Framework & Case Study Architecture (Case Studies)
+Carlota Perez argues that each technological revolution goes through an installation period, driven by financial speculation, that ends in a crash. A "turning point" of institutional reform follows, and then a deployment period in which the technology spreads through the economy. This report tests that sequence against three crashes the pillar uses as benchmarks: the British Railway Mania collapse of the late 1840s, the 1929-1933 crash and Depression, and the 2000-2002 dot-com crash followed by the 2007-2009 financial crisis. All three fit the first half of the pattern well. Each was a speculative boom tied to the leading technology of its day, and each collapsed. The timing does not support a regular cycle. The gap between Perez's "big bang" for each revolution and the crash ranges from 18 years (1829 to 1847) to 29 or 37 years (1971 to 2000 or 2008). The modern case needs two bubbles, which Perez herself called a "double bubble". The case studies support Perez's framework as a description of how technology booms end. They do not support using it to time the next crash.
 
-In Carlota Perez's (2002) long-wave framework, every technological revolution generates a structural crisis at the boundary between the **Installation Phase** (Irruption/Frenzy led by Financial Capital) and the **Deployment Phase** (Synergy/Maturity led by Production Capital):
+## Question and scope
 
-```text-kondratiev-waves-case-studies-case-studies-deep-dive-1
-┌── [ Figure 1: Kondratiev Waves Case Studies Case Studies Deep Dive Architecture ] ──┐
-│                     PEREZ TURNING POINT CRISIS MECHANISM                                  │
-├── [ Kondratiev Waves Case Studies Case Studies Deep Dive Section 1 Dynamics ] ──┤
-│ [Financial Capital Frenzy] ──> [Asset Bubble Burst] ──> [State Regulatory Re-Alignment]  │
-│                                                                    │                      │
-│ [Golden Age Synergy Deployment] <──────────────────────────────────┘                      │
-└── [ End Figure 1: Kondratiev Waves Case Studies Case Studies Deep Dive ] ──┘
-```end-kondratiev-waves-case-studies-case-studies-deep-dive-1
+**Question.** Do the 1840s, 1929-1933 and 2000-2009 crises show the Perez sequence (technology-led speculative boom → crash → institutional reset → deployment), and is the timing regular enough to forecast with?
 
-### 1.1 The Anatomy of Turning Point Crises
-1. **Financial Frenzy & Asset Decoupling**: Financial capital inflates speculative valuations far above underlying real economic productivity yields.
-2. **Structural Collapse**: Bursting bubbles destroy financial wealth, trigger banking panics, and expose systemic debt overhangs (Kindleberger, 1978).
-3. **Institutional & Regulatory Recalibration**: State intervention, regulatory reforms, and central bank re-structuring realign financial capital with production capital.
+**Scope.** Britain for the 1840s; the United States for 1929-1933 and 2000-2009. Evidence is limited to dated, sourced facts: market peaks and troughs, NBER recession dates, investment and GDP measures, and Perez's own dating of the revolutions. Not covered: the other two Perez crashes (the 1790s canal panics and the 1890s) and non-Anglo-American markets.
 
+## Methodology
 
-## 2. Quantitative Data, Empirical Metrics & Historical Case Studies (Case Studies) (Case Studies Deep Dive)
+For each case I record (1) the technology at the centre of the boom, (2) the size of the boom, (3) the crash and its depth, (4) the recession or depression that followed, using NBER dates where they exist, and (5) the time since Perez's "big bang" for that revolution. Perez's dates come from her own table of five revolutions (Perez 2009, reproducing Perez 2002): Arkwright's mill 1771, the *Rocket* 1829, Carnegie's Bessemer plant 1875, the first Model T 1908, and the Intel microprocessor 1971.
 
-### 2.1 Case Study 1 — The 1847 British Railway Mania Crash (1st -> 2nd Wave Transition)
-- **Pre-Crash Frenzy (1844–1846)**: Parliament authorized over 9,500 miles of new railway lines. Speculative railway shares inflated 100% to 300%.
-- **The Crash (1847)**: Bank of England raised interest rates due to wheat crop failures; railway stock prices collapsed 65%, causing widespread commercial bankruptcies.
-- **Institutional Outcome**: British Joint Stock Companies Act and Railway Regulation Act consolidated rail lines under production capital, launching 2nd Wave deployment.
+## Empirical Evidence
 
-### 2.2 Case Study 2
-- **Pre-Crash Frenzy (1924–1929)**: Mass-production Fordism and electrification fueled a historic margin-debt stock bubble. The S&P composite index surged 300%.
-- **The Crash (1929–1933)**: Dow Jones Industrial Average dropped 89% from peak (381 to 41). Over 9,000 US banks failed; GDP contracted 26%.
-- **Institutional Outcome**: New Deal Glass-Steagall Act (1933), SEC establishment (1934), and WWII state planning realigned production capital.
+### Case 1: the British Railway Mania (big bang 1829; crash late 1840s)
 
-### 2.3 Case Study 3
-- **Pre-Crash Frenzy (1995–2007)**: NASDAQ tech bubble (1999) followed by subprime mortgage securitization frenzy.
-- **The Crash (2000–2008)**: NASDAQ collapsed 78% (2000–2002); Lehman Brothers collapsed in 2008, wiping out $30 trillion in global wealth.
-- **Institutional Outcome**: ZIRP, Quantitative Easing, Dodd-Frank Act (2010), ushering in the smartphone/cloud deployment age (2008–2020).
+Andrew Odlyzko describes the Mania as "by many measures the greatest technology mania in history" and its collapse as "one of the greatest financial crashes". By 1845 railway revenues were already over 1% of British GDP and about 10% of total government spending. The lines being promoted were expected to raise revenues above 10% of GDP. Construction spending peaked in 1847, *after* the speculative peak, because so much had already been spent that finishing the lines seemed better than abandoning them. Share prices slid through the late 1840s. At the end of 1849 they touched their lowest level of the decade, and of the rest of the century. New mileage sanctioned by Parliament fell to just 8 miles in 1850. The network that was built went on to carry Britain's mid-Victorian expansion, which matches Perez's deployment phase.
 
-### Quantitative Comparative Matrix Across the Three Benchmark Case Studies
+### Case 2: the 1929 crash and Depression (big bang 1908; crash 1929)
 
-| Case Study Feature | Case Study 1: 1847 Railway Mania | Case Study 2: 1929 Great Depression | Case Study 3: 2000/2008 GFC |
-| :---: | :---- | :----- | :------: |
-| **Parent K-Wave Cycle** | K-Wave 1 -> K-Wave 2 Transition | K-Wave 3 Turning Point Crisis | K-Wave 5 Turning Point Crisis |
-| **Core Technology Speculation**| Steam Railway Line Charters | Mass Auto Production & Electricity| Commercial Internet & Mortgages |
-| **Peak-to-Trough Asset Decline**| -65% (British Rail Stocks) | -89% (Dow Jones, 1929–1932) | -78% (NASDAQ) / -57% (S&P 500) |
-| **Real GDP Contraction (% GDP)**| -3.5% (UK GDP, 1847) | -26.7% (US Real GDP, 1929–1933) | -4.3% (US GDP, 2008–2009) |
-| **Key State Legislation Enacted**| Railway Regulation Act 1844 | Glass-Steagall Act & SEC (1933–34)| Dodd-Frank Act & Federal Reserve QE |
-| **Subsequent Deployment Era** | 2nd Wave Rail/Steel Expansion | Post-WWII Fordist Golden Age | 5th Wave Cloud & Mobile Synergy |
+The Dow Jones Industrial Average fell nearly 13% on 28 October 1929 and nearly 12% the next day. By mid-November it had lost almost half its value. It bottomed in summer 1932 at 41.22, 89% below its peak, and did not regain its 1929 high until November 1954. NBER dates the contraction from August 1929 to March 1933, 43 months. The money supply fell by nearly 30% between autumn 1930 and winter 1933, and prices fell by about as much. That deflation, which the Federal Reserve failed to stop, deepened the Depression. The 1930s produced the institutional reset Perez's model expects (New Deal financial regulation), followed by the post-war mass-production boom.
 
+### Case 3: dot-com and the 2007-2009 crisis (big bang 1971; crashes 2000 and 2008)
 
-## 3. Comparative Perspectives, Critiques & Counter-Theories (Case Studies) (Case Studies Deep Dive)
+The Nasdaq Composite peaked at 5,048.62 on 10 March 2000 and had fallen about 78% by October 2002. NBER dates a short recession from March to November 2001 (8 months). The larger crash came later. NBER dates the Great Recession from December 2007 to June 2009 (18 months, the longest since World War II). Real GDP fell 4.3% from peak to trough, unemployment peaked at 10% in October 2009, home prices fell about 30% from mid-2006 to mid-2009, and the S&P 500 fell 57% from October 2007 to March 2009. Perez interprets the two episodes as one "double bubble": a technology bubble (2000) and an easy-liquidity bubble (2007-2008), together ending the installation period of the ICT revolution.
 
-Case study interpretations face major econometric and theoretical counter-arguments:
+### Timing across the cases
 
-1. **Slutsky-Yule Filter Artifact Critique (Solomou, 1987)**: Econometricians argue that interpreting 1847, 1929, and 2008 as predictable turning points of 50-year waves is flawed. Moving-average filters generate spurious periodicities from random historical shocks.
-2. **Unit Roots & Stochastic Structural Breaks (Nelson & Plosser, 1982)**: Macroeconomic time series contain unit roots $I(1)$:
-$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
-   Events like the 1929 Crash or 2008 GFC represent unpredicted stochastic structural breaks rather than deterministic points on a sinusoidal wave.
-3. **Monetarist Explanation of Great Depression (Friedman & Schwartz, 1963)**: Monetarists argue that the 1929 Depression was caused by Federal Reserve monetary policy blunders rather than an inevitable long-wave turning point crisis.
+| Revolution (Perez) | Big bang | Crash used here | Years from big bang to crash |
+| :--- | :---: | :---: | :---: |
+| Steam and railways | 1829 | 1847-1849 | 18-20 |
+| Oil, automobile, mass production | 1908 | 1929 | 21 |
+| Information and telecommunications | 1971 | 2000 / 2008 | 29 / 37 |
 
+## Competing views and counterarguments
 
-## 4. Strategic Implications & Future Trajectories (2026–2035+) (Case Studies) (Case Studies Deep Dive)
+- **Generic boom-bust explanations.** Kindleberger-style accounts of manias, panics and crashes explain all three episodes through credit expansion, displacement and herd behaviour, without needing a long wave. The technology link in each case is real, but many credit booms (for example in housing) have no new technology at their centre.
+- **Different causes of each crash.** Monetary contraction and bank failures dominate most accounts of the Depression's depth. Mortgage credit and leverage dominate accounts of 2008. A single "turning point" label can hide the fact that the mechanisms differed.
+- **The strongest case for Perez.** In every case the crash came after a period of heavy investment in the new infrastructure (railways, cars and electrification, the internet), and the infrastructure stayed and was later used productively. Odlyzko's 1847 spending peak shows investment continuing after speculation had turned. This "overbuild, crash, then deploy" pattern is the part of the framework the evidence supports best.
+- **Selection.** Three cases chosen because they fit cannot confirm a theory. A fair test would also count booms tied to new technology that did not end in a systemic crash, and crashes not tied to technology.
 
-Analyzing historical case studies provides essential guidance for navigating the anticipated 6th K-Wave Turning Point Crisis (projected c. 2035):
-- **Anticipating AI Capital Bubble Correction**: Preparing corporate balance sheets for an eventual valuation adjustment in unmonetized AI infrastructure buildouts.
-- **Regulatory Strategy**: Designing state policies (e.g., EU AI Act, compute governance treaties) to facilitate a smooth transition from 6th Wave Frenzy into AGI Deployment Synergy.
+## Limitations
 
-### Cross-Domain Macro-Synthesis (Case Studies Deep Dive)
-- **4th Turning (Turning Point Crises & Paradigm Shifts in Kondratiev Waves)**: Turning Point crises (1847, 1929, 2008) consistently overlap with 4th Turning Crisis saecula, accelerating political realignment.
-- **Law of Accelerating Returns**: Exponential hardware scaling accelerates frenzy dynamics, shortening the interval between technological irruption and asset bubble collapse.
+- Three cases, picked by the theory's supporters, give no statistical power.
+- British data for the 1840s rest mainly on Odlyzko's reconstruction from contemporary sources. His paper is marked "preliminary version" (2010).
+- Market indices measure different things across eras: an index of a few established railway lines, the 30-stock Dow, and the Nasdaq Composite.
+- Dating the start of a revolution ("big bang") is a judgement. Moving it by a few years changes the intervals in the timing table.
+- The Nasdaq peak and decline figures come from a secondary summary (Wikipedia) rather than an exchange data file. They are widely reported and consistent with each other.
 
+## Conclusion
 
-### Empirical Historical Taxonomy of Five Kondratiev Waves
+The three crashes support Perez's description of how technology-led speculative booms end: a crash after heavy infrastructure investment, followed by reform and wider use of the technology. They do not support a regular long-wave clock. The interval from a revolution's start to its crash varies by about 20 years across just three cases, and the latest case needs two crashes to fit. For the Convergence model, the AI investment boom of the 2020s should be judged on its own financial indicators (leverage, valuations, the gap between capital spending and revenue), with the Perez pattern used as a set of questions to ask, not a forecast date.
 
-Historical long waves are anchored in general-purpose technologies that radically reshape the cost structure of global transport, energy, and information systems:
+## References
 
-| Wave | Core General Purpose Technology | Installation Epoch | Bubble Climax Event | Deployment Epoch | Global Hegemon |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **K1** | Water Power, Mechanized Cotton Textiles | 1780-1800 | British Canal Mania (1793) | 1800-1842 | Great Britain |
-| **K2** | Steam Engine, Iron Rails, Steamships | 1842-1857 | British Railway Mania (1847) | 1857-1897 | Great Britain |
-| **K3** | Steel, Heavy Engineering, Electricity | 1897-1913 | US Panic of 1907 | 1913-1944 | Transatlantic / USA |
-| **K4** | Automobiles, Petrochemicals, Mass Production | 1944-1971 | Post-War Boom Peak | 1971-2008 | United States |
-| **K5** | Microelectronics, Telecommunications, Software | 1971-2000 | Dot-Com Crash (2000) | 2000-2025 | United States |
-| **K6** | Artificial Intelligence, Synthetic Biology, Clean Energy | 2025-2050 | Projected Sovereign AI Crunch | 2050-2075 | Multipolar |
-
-### Case Study Anatomy: The K2 Railway Mania (1840-1850)
-
-The British Railway Mania represents an archetypal Perezian Installation Phase:
-- **Capital Overaccumulation**: Over 200 separate railway Acts were passed by the British Parliament in 1845 alone, authorizing £130 million in capital expenditures (exceeding 25% of British GDP).
-- **Network Externalities Equation**: Network utility expanded exponentially according to Metcalfe-type scaling:
-
-$$U_{\text{rail}}(N) = \phi_{\text{case}} N(N-1) - C_{\text{capex}}(N)$$
-
-- **Financial Crash**: The collapse of share prices between 1845 and 1847 wiped out speculative paper wealth but left behind 6,000 miles of operational iron track that enabled the Victorian mid-century export boom.
-
-### Case Study Anatomy: The K5 Telecommunications & Internet Cycle (1990-2008)
-
-The microelectronics revolution followed the identical structural sequence:
-- **Fiber Optic Infrastructure Buildout**: Between 1996 and 2001, global telecommunications firms laid over 90 million miles of long-haul fiber optic cable, resulting in 95% dark fiber capacity.
-- **Speculative Climax**: The NASDAQ Composite peaked at 5,048 in March 2000 at an aggregate P/E ratio exceeding 175.
-- **Deployment Fruition**: Following the dot-com liquidation, the cheap, ubiquitous broadband foundation paved the way for cloud computing, global smartphone adoption, and algorithmic software platforms.
-
-### Quantitative Synthesis and Convergence Dynamics
-
-Empirical analysis of historical case studies demonstrates recurring macro invariants:
-1. **Capital Destruction Ratio**: Across all five completed waves, between 40% and 65% of speculative equity value was liquidated during the mid-cycle financial crisis without impairing the physical utility of the underlying general-purpose infrastructure.
-2. **Pillar Convergence**: Each K-wave downswing (1830s, 1880s, 1930s, 1970s, 2010s) coincided precisely with a Fourth Turning Crisis era and Dalio's late-stage internal and external conflict cycles.
-
-
-### Quantitative Comparative Matrix Across Empirical Case Studies
-
-Systematic analysis across historical long-wave case studies demonstrates invariant structural parameters in capital destruction and infrastructure retention:
-
-| Wave & Core Technological Cluster | Speculative Apex Year | Peak Drawdown in Financial Assets | Retained Infrastructure Asset Base | Post-Crisis Regulatory Realignment |
-| :--- | :--- | :--- | :--- | :--- |
-| 1st Wave: Water-Powered Mechanized Textiles | 1825 Panic | -48% Equity Liquidation | Integrated canal and early steam textile mills | Repeal of Bubble Act (1825), Bank Charter Act |
-| 2nd Wave: Steam Power, Railways & Bessemer Steel | 1873 Panic | -55% Railway Securities | 200,000 km transcontinental rail network | Interstate Commerce Act (1887), Anti-Trust Foundations |
-| 3rd Wave: Heavy Engineering, Electrification, Chemicals | 1929 Great Crash | -62% Industrial Indices | National electrical grid, chemical synthesis facilities | New Deal Framework, Glass-Steagall, SEC Creation (1934) |
-| 4th Wave: Mass Production, Automotive, Petrochemicals | 1973 Oil Shock / Stagflation | -44% Real Capital Value | Interstate highway system, commercial aviation fleet | Bretton Woods Collapse, Deregulation Waves (1978-1981) |
-| 5th Wave: Information Technology, Telecommunications | 2000 Dot-Com Crash | -58% Nasdaq Tech Composite | Global terrestrial fiber-optic network, server farms | Sarbanes-Oxley (2002), Cloud Platform Dominance |
-
-3. **Structural Invariance Across Crises**: In all historical case studies, financial capital destruction operated as a necessary market clearing mechanism that wrote down debt claims to align with underlying productivity frontiers.
-
-## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Case Studies Deep Dive Citation).
-- Friedman, M., & Schwartz, A. J. (1963). *A Monetary History of the United States, 1867–1960*. Princeton University Press.
+- Perez, C. (2009). *Technological revolutions and techno-economic paradigms*. Working Papers in Technology Governance and Economic Dynamics No. 20, Tallinn University of Technology / The Other Canon Foundation. http://technologygovernance.eu/files/main/2009070708552121.pdf
+- Perez, C. (2009). The double bubble at the turn of the century: technological roots and structural implications. *Cambridge Journal of Economics*, 33(4), 779-805. https://doi.org/10.1093/cje/bep028
+- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar.
 - Kindleberger, C. P. (1978). *Manias, Panics, and Crashes: A History of Financial Crises*. Basic Books.
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Case Studies Deep Dive Citation).
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
-- Kindleberger, C. P. (1978). *Manias, Panics, and Crashes: A History of Financial Crises*. Basic Books. (Case Studies Asset Bubbles).
-- Minsky, H. P. (1982). *Can "It" Happen Again? Essays on Instability and Finance*. M.E. Sharpe. (Case Studies Financial Instability).
-- Perez, C. (2009). *The Double Bubble at the Turn of the Century: Technological Roots and Structural Implications*. Cambridge Journal of Economics, 33(4), 779-805. (Case Studies Techno-Economic Cycles).
-- Reinhart, C. M., & Rogoff, K. S. (2009). *This Time Is Different: Eight Centuries of Financial Folly*. Princeton University Press. (Case Studies Historical Drawdowns).
-- Bordo, M. D., Eichengreen, B., Klingebiel, D., & Martinez-Peria, M. S. (2001). *Is the Crisis Problem Growing More Severe?* Economic Policy, 16(32), 51-82. (Case Studies Global Crises).
-- Cassis, Y. (2011). *Crises and Opportunities: The Shaping of Modern Finance*. Oxford University Press. (Case Studies Financial Centers).
-- Crafts, N. (2004). *Steam as a General Purpose Technology: A Growth Accounting Perspective*. Economic Journal, 114(495), 338-351. (Case Studies Steam Electrification).
-- David, P. A. (1990). *The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox*. American Economic Review, 80(2), 355-361. (Case Studies Transition Lags).
-- Eichengreen, B. (1992). *Golden Fetters: The Gold Standard and the Great Depression, 1919-1939*. Oxford University Press. (Case Studies Monetary Shocks).
-- Field, A. J. (2011). *A Great Leap Forward: 1930s Depression and U.S. Economic Growth*. Yale University Press. (Case Studies Interwar TFP).
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth*. Princeton University Press. (Case Studies Great Inventions).
-- Jovanovic, B., & Rousseau, P. L. (2005). *General Purpose Technologies*. Handbook of Economic Growth, 1, 1181-1224. (Case Studies Technology Diffusion).
-- Lipsey, R. G., Carlaw, K. I., & Bekar, C. T. (2005). *Economic Transformations: General Purpose Technologies and Long-Term Economic Growth*. Oxford University Press. (Case Studies Structural Shifts).
-- Mokyr, J. (1990). *The Lever of Riches: Technological Creativity and Economic Progress*. Oxford University Press. (Case Studies Industrial Inventions).
-- Temin, P. (1989). *Lessons from the Great Depression*. MIT Press. (Case Studies Structural Traumas).
+- Odlyzko, A. (2010). Collective hallucinations and inefficient markets: The British Railway Mania of the 1840s (preliminary version, January 15, 2010). University of Minnesota. https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+- Richardson, G., et al. Stock Market Crash of 1929. Federal Reserve History. https://www.federalreservehistory.org/essays/stock-market-crash-of-1929
+- Federal Reserve History. The Great Depression. https://www.federalreservehistory.org/essays/great-depression
+- Rich, R. (2013). The Great Recession. Federal Reserve History. https://www.federalreservehistory.org/essays/great-recession-of-200709
+- National Bureau of Economic Research. US Business Cycle Expansions and Contractions. https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions
+- Dot-com bubble (Nasdaq Composite peak and decline). Wikipedia, accessed 2026-10-17. https://en.wikipedia.org/wiki/Dot-com_bubble

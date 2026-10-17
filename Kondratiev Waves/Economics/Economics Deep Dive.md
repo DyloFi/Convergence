@@ -1,154 +1,76 @@
-# Econometric Indicators & Macroeconomic Dynamics in Kondratiev Long Waves
+# Kondratiev Waves: How Strong Is the Macroeconomic Evidence?
+
+*Rewritten from the evidence up in Step 13 (2026-10-17). The previous version, built from recycled Trotsky and Schumpeter passages and an unsourced "time-series matrix", is preserved at `archive/step13_originals/Kondratiev Waves/Economics/Economics Deep Dive.md.orig`.*
 
 ## Executive Summary
-This research monograph provides an in-depth econometric analysis of the **Macroeconomic Indicators and Financial Dynamics** governing Kondratiev Waves. Grounded in empirical price and capital time-series compiled by Nikolai Kondratiev (1925), Joseph Schumpeter (1939), Carlota Perez (2002), and Solomou (1987), this report examines long-term commodity price indices (Sauerbeck/BLS), long-term real interest rates, fixed capital investment ratios, sovereign debt-to-GDP dynamics, and income distribution shifts across all six K-Wave cycles.
 
------------------
+Nikolai Kondratiev's 1935 English-language article, "The Long Waves in Economic Life", claimed 50-60 year waves in prices, interest rates, wages, trade and output. Ninety years on, the evidence divides by indicator. Long waves in **prices** before World War II are widely accepted, but the pattern disappears from price indices after 1945. Evidence in **output** is contested. Kondratiev's own production series relied on fitting elaborate trend curves and smoothing the residuals, a method criticised since the 1940s because it can manufacture waves. As Slutsky showed in 1937, smoothing random shocks can produce cycles. The best recent support comes from Korotayev and Tsirel (2010). Their spectral analysis of world GDP growth from 1871 to 2007 found a 52-53 year component at a combined significance of 4-5%, on a series no longer than three cycles. Modern growth theory explains long-run growth through investment in ideas and creative destruction (Romer 1990; Aghion and Howitt 1992), and does not require a fixed-period wave. The fair verdict: long waves are a live, weakly supported hypothesis about output, and a description of pre-1945 prices. They are not an established macroeconomic regularity to forecast with.
 
-## 1. Theoretical Framework & Econometric Indicators (Economics)
+## Question and scope
 
-Long-wave economic analysis evaluates macroeconomic dynamics across four primary empirical indicators:
+**Question.** For which macroeconomic indicators is there statistical evidence of 40-60 year Kondratiev waves, how strong is it, and how does modern growth theory treat long swings?
 
-### 1.1 Wholesale Commodity Price Trajectories
-Nikolai Kondratiev (1925, 1935) demonstrated that wholesale commodity prices provide the clearest empirical signal of K-Wave phases:
-- **A-Phase (Upswing) (Econometric Indicators & Macroeconomic Dynamics in Kondratiev Long Waves)**: Industrial demand outstrips raw material capacity, driving secular inflation in agricultural commodities, metals, and energy.
-- **B-Phase (Downswing) (Econometric Indicators & Macroeconomic Dynamics in Kondratiev Long Waves)**: Fixed capital capacity saturation generates persistent deflationary pressures, lower profit margins, and commodity debt liquidation.
+**Scope.** The indicators Kondratiev used (prices, interest rates, production) and world GDP growth. Evidence comes from Kondratiev's article, the review of the econometric literature in Korotayev and Tsirel (2010), and their spectral results. Not covered: wave datings and named waves (see `History/History Deep Dive.md`), and individual crises (see `Case_Studies/Case Studies Deep Dive.md`).
 
-### 1.2 Long-Term Interest Rates & Fixed Capital Reinvestment
-Bond yields and real interest rates exhibit distinct cyclical behavior (Kondratiev, 1925):
-- **Spring / Summer**: High demand for loanable capital to fund infrastructure buildouts drives real interest rates up.
-- **Autumn / Winter**: Debt liquidation, excess savings, and central bank easing push interest rates to historical lows, eventually creating cheap financing conditions for the next wave's infrastructure.
+## Methodology
 
-### 1.3 Income Share Shifts — Capital vs. Labor Ratio
-Carlota Perez (2002) notes that during Perez Frenzy periods (late A-phase), wealth inequality surges as financial asset returns outpace real wage growth. Turning Point crises force institutional realignments that expand labor's share of income during Deployment Golden Ages.
+1. Separate the claim by indicator, because the evidence differs sharply between prices and output.
+2. For each, record what the strongest supporting study found and what the main methodological objections are.
+3. Note the statistical power problem: a 50-year cycle can appear at most two or three times in any reliable series.
+4. Compare the long-wave claim with what modern growth models predict.
 
+No new estimation is done here. The repository holds no long-run datasets (see `Kondratiev Waves/Data/README.md`). A replication would need, for example, the Bank of England's "A millennium of macroeconomic data" (version 3.1, to 2016) for the UK and Maddison-type world GDP estimates.
 
-## 2. Quantitative Data, Empirical Metrics & Historical Case Studies (Economics) (Economics Deep Dive)
+## Empirical Evidence
 
-Empirical analysis requires examining macro time-series data spanning commodity prices, interest rates, capital investment, and debt ratios across K-Waves 1–6.
+### Prices: strong before 1945, absent after
 
-### Quantitative Econometric Time-Series Matrix (1780–2026+)
+Korotayev and Tsirel summarise the literature: "The presence of K-waves in price dynamics (at least till the 2nd World War) has found a very wide empirical support". They add that "the K-wave pattern ceased to be traced in the price indices after the 2nd World War", citing Goldstein (1988). A likely reason is the change of monetary regime. Under the gold standard, price levels rose and fell over long periods. Under post-war fiat money, prices mostly rose. A wave that depends on the monetary regime is a weak basis for a law of capitalist development.
 
-| K-Wave Cycle | Wholesale Price Index Shift (Sauerbeck/BLS) | Long-Term Real Interest Rate (Consols/Treasuries) | Fixed Capital Formation (% of GDP) | Sovereign Debt Peak (% GDP) | Labor Share of Income Shift |
-| :---- | :-----: | :------: | :---: | :----: | :----- |
-| **K-Wave 1 (1780–1848)** | 112 (1780) -> 197 (1815 Peak) -> 84 (1848) | 5.4% (1812) -> 2.8% (1845) | 8.5% (UK, 1815) | 260% (UK Napoleonic Peak) | Declining (Early Factory Era) |
-| **K-Wave 2 (1848–1896)** | 118 (1848) -> 154 (1873 Peak) -> 68 (1896) | 4.8% (1873) -> 2.4% (1895) | 14.2% (US/UK, 1870) | 33% (US Post-Civil War) | Rising (Victorian Synergy) |
-| **K-Wave 3 (1896–1945)** | 46.5 (1896) -> 154.4 (1920) -> 64.8 (1933)| 6.5% (1920) -> 1.8% (1935) | 16.8% (US/Ger, 1925)| 120% (US WWII Peak) | Peak Inequality (1929) -> New Deal |
-| **K-Wave 4 (1945–1991)** | CPI: 2.3% (1945) -> 13.5% (1980 Peak)| 2.1% (1955) -> 8.5% (1982) | 18.5% (OECD, 1968) | 32% (US, 1975 Trough) | Golden Age Equality -> Financialization |
-| **K-Wave 5 (1991–2020)** | Tech Deflation / Asset Price Inflation | 5.0% (1994) -> -1.2% (2020)| 21.0% (Global, 1999) | 108% (US GFC Peak) | Gilded Age Inequality Surge |
-| **K-Wave 6 (2020–2070+)**| Energy & Compute Volatility | Real Positive (2023–2026+)| 25.0% (Est. 2030) | > 120% (Global Benchmark) | Cognitive Automation Disruption |
+### Output: contested, with a method problem
 
+Kondratiev also claimed long waves in world coal and pig-iron production. His method was to fit a long-term trend (often a cubic function), then smooth the residuals with moving averages. Critics from Garvy (1943) to Goldstein (1988) argued that this "casts doubt on the theoretical meaning and parsimony of the resulting long waves". The concern is sharpened by Slutsky's 1937 result that summing random disturbances can generate apparently regular cycles. Any long-wave finding that depends on detrending and smoothing has to rule out a filtering artefact.
 
-## 3. Comparative Perspectives, Critiques & Counter-Theories (Economics) (Economics Deep Dive)
+### World GDP: the best recent support, and its limits
 
-Econometric verification of long-wave indicators remains one of the most disputed areas in quantitative economics:
+Korotayev and Tsirel ran a spectral analysis of annual world GDP growth rates for 1871-2007, built from Maddison and World Bank estimates. Their results:
 
-1. **Spectral Analysis & Filter Artifacts (Solomou, 1987; Kuznets, 1930)**: Solomou showed that moving-average detrending filters applied to Sauerbeck price data artificially induce 50-year periodicities (the Slutsky-Yule Effect). When raw un-filtered GDP series undergo Fourier spectral density analysis, 50-year cycles lack statistical significance.
-2. **Unit Roots & Stochastic Random Walks (Nelson & Plosser, 1982)**: Macroeconomic series possess unit roots $I(1)$ and follow non-stationary random walks:
-$$Y_{t, \text{kondratiev\_wave}} = \mu_{\text{kondratiev\_wave}} + Y_{t-1, \text{kondratiev\_wave}} + \epsilon_{t, \text{kondratiev\_wave}}$$
-   This provides empirical evidence macroeconomic indicators undergo permanent structural breaks rather than temporary deviations around a deterministic 50-year sine wave.
-3. **Marxist Exogenous Shock Model (Trotsky, 1923; Mandel, 1975)**: Leon Trotsky rejected Kondratiev's endogenous cycle, arguing that long-term macroeconomic trends are governed by non-periodic political events, colonial conquests, and class struggles over the rate of profit $\frac{s}{c+v}$.
-4. **Neoclassical Growth Models (Solow, 1956)**: Solow's exogenous growth model attributes output growth to smooth continuous total factor productivity $A(t) = A_0 e^{gt}$, rejecting rigid wave periodicity.
+| Component | Period found | Significance reported |
+| :--- | :--- | :--- |
+| Kondratiev wave (with its third harmonic) | about 52-53 years | combined 4-5% (0.04 < p < 0.05) |
+| Juglar cycle | 7-9 years (reduced spectrum) | about 2-3% |
+| Kitchin cycle | shorter | about 2-3% in one specification |
 
+The authors note that this significance was reached "on the basis of series of observations that cover a period that does not exceed the length of three cycles". They also note that the "turbulent 2nd–4th decades of the 20th century", with two world wars and the Depression, dominate the variation in the series. A result at p of about 0.045, on fewer than three cycles, with much of the signal coming from 1914-1945, is suggestive but not robust.
 
-## 4. Strategic Implications & Future Trajectories (2026–2035+) (Economics) (Economics Deep Dive)
+### What modern growth theory says
 
-Understanding long-wave econometric indicators empowers corporate CFOs, central bankers, and institutional asset allocators during the 6th K-Wave (2020–2070+):
-- **Capital Structure & Debt Management**: Navigating higher structural capital costs during the early 6th Wave A-phase expansion while managing legacy sovereign debt burdens.
-- **Sector Allocation**: Rotating capital out of hyper-financialized 5th wave platform assets into capital-intensive physical infrastructure (AI compute grids, modular nuclear power, bio-manufacturing foundries).
+Endogenous growth models explain sustained growth through deliberate investment in new ideas (Romer 1990). Schumpeterian models (Aghion and Howitt 1992) add creative destruction: each innovation makes earlier ones obsolete. These models can produce irregular swings when major innovations arrive in clusters or take decades to spread. They do not predict a fixed 50-year period. Long swings are compatible with modern theory. Clockwork waves are not required by it.
 
-### Cross-Domain Macro-Synthesis (Economics Deep Dive)
-- **4th Turning (Econometric Indicators & Macroeconomic Dynamics in Kondratiev Long Waves)**: Macroeconomic Winter deflationary resets align with 4th Turning Crisis saecula, driving systemic fiscal restructuring.
-- **Law of Accelerating Returns**: High-velocity compute scaling compresses asset depreciation lifecycles, accelerating economic turnover across K-Wave phases.
+## Competing views and counterarguments
 
-## Macroeconomic Capital Accumulation and Long-Wave Dynamics
+- **For long waves.** Supporters argue that each great surge has a clear technological core (steam, steel and electricity, oil and cars, ICT) and that the clustering of innovations, infrastructure investment and finance makes 40-60 year swings plausible. The Korotayev-Tsirel result shows a statistically detectable long component in world output, which earlier sceptics said did not exist.
+- **Against.** Sceptics reply that the waves are irregular, that the post-1945 price wave vanished, that significance hinges on two world wars, and that filtering methods can create cycles from noise.
+- **A middle reading.** "Long swings of variable length tied to technological revolutions" (closer to Perez) is better supported than "a 50-60 year cycle". The second implies forecastable turning points, and the evidence does not support that.
 
-Long-wave economic oscillations reflect deep structural imbalances between fixed capital formation and circulating capital returns. Following the formal growth accounting framework of Ernst Mandel and Christopher Freeman, the rate of profit across a 50-year Kondratiev cycle exhibits endogenous non-linearities driven by technological exhaustion and capital over-accumulation.
+## Limitations
 
-Let aggregate output $Y_t$ be governed by a generalized production function with embodied technological vintages $A_t$:
+- This report reviews published evidence and does not re-estimate anything. Korotayev and Tsirel's numbers are taken as reported.
+- World GDP before 1950 rests on reconstructed estimates (Maddison), with large uncertainty, especially for non-Western economies.
+- Spectral analysis on series of roughly 140 years can resolve a 50-year component only loosely. Significance tests assume a noise model that may not fit series with structural breaks.
+- Kondratiev's article (1935, translated by W. F. Stolper) is cited from its bibliographic record. Its contents are summarised through the secondary literature cited.
 
-$$Y_t = F(K_{t, fixed}, K_{t, circulating}, L_t; A_t)$$
+## Conclusion
 
-where capital stock accumulation evolves with gestation delay $\tau_g$:
+The macroeconomic case for Kondratiev waves is strongest for pre-1945 prices and weakest for anything that would let us forecast. In output, the best evidence reaches borderline significance on fewer than three cycles, with heavy dependence on 1914-1945. For the Convergence model, long waves should be treated as a hypothesis that frames questions about technology-driven investment swings. It should not be used as a timing device for 2026-2035.
 
-$$\frac{dK_{t, fixed}}{dt} = I_{t - \tau_g} - \delta_{depr} K_{t, fixed}$$
+## References
 
-During the expansive A-phase (Spring and Summer), the marginal efficiency of capital $r_t = \frac{\partial Y_t}{\partial K_t} - \delta_{depr}$ substantially exceeds prevailing real interest rates $i_t$, inducing widespread debt-financed infrastructure and capital goods deployment. In the late B-phase (Autumn transition to Winter), excess capacity in established techno-economic sectors depresses profit margins below debt-servicing thresholds:
-
-$$r_t < i_t + \sigma_{risk}$$
-
-### Empirical Macroeconomic Indicators Across Long Waves
-
-| Kondratiev Wave Era | Dominant Capital Asset Class | Real Return on Capital (%) | Debt-to-GDP Inflection Point | Real Wage Growth Rate (%) |
-| :--- | :--- | :--- | :--- | :--- |
-| First (1780-1842) | Textile Mills & Canals | 8.4% -> 2.1% | 1815 Post-Napoleonic Peak | +0.4% p.a. |
-| Second (1842-1897) | Steam Engines & Rail Networks | 9.2% -> 1.8% | 1873 Panic Inflection | +1.2% p.a. |
-| Third (1897-1945) | Heavy Engineering & Steel | 10.5% -> 2.4% | 1929 Great Crash Peak | +1.8% p.a. |
-| Fourth (1945-1991) | Petrochemicals & Automobiles | 11.2% -> 3.1% | 1973 Stagflation Bound | +2.6% p.a. |
-| Fifth (1991-2020) | Microelectronics & Software | 12.8% -> 4.2% | 2008 Global Financial Crisis | +0.9% p.a. |
-| Sixth (2020-2070+) | Autonomous Systems & Genomics | Projected 14.5% Initial | 2024 Sovereign Debt Surge | Divergent Skilled Return |
-
-### Mathematical Model of Gestation Lag Instability
-
-The core macroeconomic vulnerability identified by Kondratiev and Forrester is the non-linear interaction between capital goods ordering and secondary multiplier effects. The dynamic response of capital goods production $X_t$ to consumer goods demand $C_t$ is described by the accelerator-multiplier delay equation:
-
-$$\tau_a \frac{dX_t}{dt} + X_t = \alpha \frac{dC_t}{dt} + \beta (C_t - \bar{C})$$
-
-When the characteristic gestation lag $\tau_g$ exceeds half the natural innovation adoption cycle, the roots of the characteristic equation cross the imaginary axis into positive real territory, triggering endogenous limit cycles of 48 to 60 years.
-
-### Econometric Spectral Estimation and Cycle Decomposition
-
-To distinguish genuine endogenous long waves from stochastic autoregressive trends, modern econometric analyses employ Maximum Entropy Spectral Analysis (MESA) and continuous Morlet wavelet decomposition. Applied to multi-century industrial commodity series, the spectral power density $S(f)$ exhibits statistically significant power peaks at frequency band $f \in [0.016, 0.021]$ year$^{-1}$, corresponding to harmonic periods $T = 48 - 60$ years.
-
-Let the observed time series $z_t$ decompose into a low-frequency secular trend $g_t$, a long-wave component $k_t$, and a stochastic disturbance $\epsilon_t$:
-
-$$z_t = g_t + k_t + \epsilon_t, \quad k_t = \sum_{m=1}^{M} A_m \cos(2\pi f_m t + \phi_m)$$
-
-Filtered price series across British and American industrial history confirm that long waves account for 38% to 54% of total low-frequency variance, satisfying the Frisch-Waugh-Lovell orthogonality criteria against business-cycle shocks.
-
-### Cross-Cycle Economic Synthesis and Convergence Coupling
-
-The macroeconomic oscillations of the Kondratiev wave directly synchronize with the debt and technology dynamics established in Convergence_Master_Synthesis.md:
-
-1. **Ray Dalio Long-Term Debt Cycle Coupling**: The expansionary A-phase of the Kondratiev wave coincides with the aggressive credit deployment phase of the long-term debt cycle. As capital productivity falls in the late B-phase, private debt service burdens become unsustainable, triggering systemic deleveraging crises.
-2. **Strauss-Howe Generational Climax Alignment**: Kondratiev Winter depressions consistently align with Fourth Turning Crisis climaxes (such as the 1930s Great Depression and the 1870s Long Depression), wherein institutional structures are liquidated and rebuilt.
-3. **Kurzweil Compute Acceleration Interaction**: As the 6th Kondratiev wave matures, algorithmic compute scaling accelerates capital substitution rates, compressing the historical 50-year gestational cycle toward shorter deployment intervals.
-
-## Academic References & Bibliography
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press. (Economics Deep Dive Citation).
-- Kondratiev, N. D. (1925). *The Major Economic Cycles*. Voprosy Konyunktury, 1(1), 28–79. (Economics Deep Dive Citation).
-- Kondratiev, N. D. (1935). *The Long Waves in Economic Life*. The Review of Economics and Statistics, 17(6), 105–115.
-- Mandel, E. (1975). *Late Capitalism*. Humanities Press.
-- Nelson, C. R., & Plosser, C. R. (1982). *Trends and random walks in macroeconomic time series: Some evidence and implications*. Journal of Monetary Economics, 10(2), 139–162.
-- Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar Publishing.
-- Schumpeter, J. A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
-- Solomou, S. (1987). *Phases of Economic Growth, 1850–1973: Kondratieff Waves and Kuznets Swings*. Cambridge University Press.
-- Solow, R. M. (1956). *A Contribution to the Theory of Economic Growth*. The Quarterly Journal of Economics, 70(1), 65–94.
-- Trotsky, L. (1923). *The Curve of Capitalist Development*. Pravda (June 1923).
-### Economic Theory Integration & Macro-Historical Synthesis
-Bridges long-wave empirical findings with foundational macroeconomic theories:
-- **Schumpeterian Creative Destruction**: Connects technological innovation clusters with cyclical economic restructuring.
-- **Keynesian Effective Demand & Capital Accumulation**: Explains how long-term investment cycles affect aggregate demand and employment.
-- **Neo-Institutional Realignment**: Examines how institutional structures adapt to facilitate technoeconomic paradigm shifts.
-- Freeman, C., & Louçã, F. (2001). *As Time Goes By: From the Industrial Revolutions to the Information Revolution*. Oxford University Press.
-- Mandel, E. (1980). *Long Waves of Capitalist Development: The Marxist Interpretation*. Cambridge University Press.
-- Metz, R. (2011). Do long waves exist? Empirically checking the Kondratieff hypothesis. *Cliometrica*, 5(3), 205-238.
-- Forrester, J. W. (1977). Growth cycles. *De Economist*, 125(4), 525-543.
-- Aghion, P., Antonin, C., & Bunel, S. (2021). *The Power of Creative Destruction: Economic Upheaval and the Wealth of Nations*. Harvard University Press.
-- Arrow, K. J. (1962). The economic implications of learning by doing. *Review of Economic Studies*, 29(3), 155-173.
-- Bils, M., & Klenow, P. J. (2000). Using consumer theory to test for quality-adjusted price deflation. *Journal of Political Economy*, 108(5), 1019-1045.
-- Boyer, R. (1990). *The Regulation School: A Critical Introduction*. Columbia University Press.
-- Clark, C. (1940). *The Conditions of Economic Progress*. Macmillan & Co.
-- Crafts, N. (2004). Steam as a general purpose technology: A growth accounting perspective. *Economic Journal*, 114(495), 338-351.
-- David, P. A. (1990). The dynamo and the computer: An historical perspective on the modern productivity paradox. *American Economic Review*, 80(2), 355-361.
-- Domar, E. D. (1946). Capital expansion, rate of growth, and employment. *Econometrica*, 14(2), 137-147.
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.
-- Harrod, R. F. (1939). An essay in dynamic theory. *Economic Journal*, 49(193), 14-33.
-- Helpman, E. (Ed.). (1998). *General Purpose Technologies and Economic Growth*. MIT Press.
-- Hicks, J. R. (1932). *The Theory of Wages*. Macmillan & Co.
-- Kaldor, N. (1957). A model of economic growth. *Economic Journal*, 67(268), 591-624.
-- Kalecki, M. (1937). A theory of the business cycle. *Review of Economic Studies*, 4(2), 77-97.
-- Kendrick, J. W. (1961). *Productivity Trends in the United States*. Princeton University Press for NBER.
-- Kuznets, S. (1971). *Economic Growth of Nations: Total Output and Production Structure*. Harvard University Press.
-- Lucas, R. E., Jr. (1988). On the mechanics of economic development. *Journal of Monetary Economics*, 22(1), 3-42.
-- Maddison, A. (2007). *Contours of the World Economy 1-2030 AD: Essays in Macro-Economic History*. Oxford University Press.
+- Kondratieff, N. D. (1935). The Long Waves in Economic Life (W. F. Stolper, trans.). *The Review of Economics and Statistics*, 17(6), 105-115. https://doi.org/10.2307/1928486
+- Korotayev, A. V., & Tsirel, S. V. (2010). A Spectral Analysis of World GDP Dynamics: Kondratieff Waves, Kuznets Swings, Juglar and Kitchin Cycles in Global Economic Development, and the 2008-2009 Economic Crisis. *Structure and Dynamics*, 4(1), 3-57. https://escholarship.org/uc/item/9jv108xp
+- Slutzky, E. (1937). The Summation of Random Causes as the Source of Cyclic Processes. *Econometrica*, 5(2), 105ff. https://doi.org/10.2307/1907241
+- Romer, P. M. (1990). Endogenous Technological Change. *Journal of Political Economy*, 98(5, Part 2), S71-S102. https://doi.org/10.1086/261725
+- Aghion, P., & Howitt, P. (1992). A Model of Growth Through Creative Destruction. *Econometrica*, 60(2), 323-351. https://doi.org/10.2307/2951599
+- Bank of England. A millennium of macroeconomic data (version 3.1). https://www.bankofengland.co.uk/statistics/research-datasets
+- Goldstein, J. S. (1988). *Long Cycles: Prosperity and War in the Modern Age*. Yale University Press. (Cited via Korotayev & Tsirel 2010.)
+- Garvy, G. (1943). Kondratieff's Theory of Long Cycles. *The Review of Economics and Statistics*, 25(4), 203ff. https://doi.org/10.2307/1927337
