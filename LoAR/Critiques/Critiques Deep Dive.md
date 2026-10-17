@@ -1,154 +1,75 @@
-# Critiques Deep Dive
+# LoAR: Which Critiques of the Law of Accelerating Returns Hold Up?
 
-## Executive Summary — Critiques
-This research monograph presents an exhaustive, publication-grade academic analysis of the primary **Critiques** and counter-theories challenging Ray Kurzweil’s Law of Accelerating Returns (LoAR). While LoAR asserts that computational capacity and technological progress grow double-exponentially, leading macroeconomic, statistical, and computer science literature challenges this formulation. This report evaluates five major academic objections: William Nordhaus’s Total Factor Productivity paradox, Robert Gordon’s macro-economic stagnation thesis, Tyler Cowen’s low-hanging fruit hypothesis, Theodore Modis’s logistic S-curve saturation models, and physical silicon breakdown boundaries (Dennard leakage, Landauer bounds, Amdahl parallel limits).
+*Rewritten from the evidence up in Step 13 (2026-10-17). The previous version, which framed critiques generically and stated physical limits with garbled units, is preserved at `archive/step13_originals/LoAR/Critiques/Critiques Deep Dive.md.orig`.*
 
----------
+## Executive Summary
 
-## 1. Theoretical & Macroeconomic Counter-Theories (Critiques)
+Ray Kurzweil's 2001 essay states the Law of Accelerating Returns (LoAR): technological progress, and computing price-performance in particular, grows not just exponentially but "double" exponentially, so the 21st century will bring "more like 20,000 years of progress (at today's rate)". This report tests four lines of criticism against primary evidence. **Physics:** Landauer's limit is real and has been confirmed experimentally (Bérut et al., 2012), but the most efficient supercomputer in June 2025 still used about 5 billion times the Landauer energy per 64-bit operation. Thermodynamics is not the binding constraint this decade. **Architecture:** Hennessy and Patterson document that Dennard scaling faded between 2007 and 2012, cutting general-purpose processor gains to a few percent a year. Progress continued through specialised hardware. **Economics of innovation:** Bloom, Jones, Van Reenen and Webb (2020) find that sustaining Moore's Law now takes more than 18 times as many researchers as in the early 1970s, so the exponential holds only because effort grows exponentially. **Macroeconomics:** Nordhaus's tests (2015/2021) "suggest that the Singularity is not near". The verdict: the physics critique is overstated, while the economic critiques hold. Exponential trends in computing are real but bought with rising effort, and they have not produced the economy-wide acceleration LoAR predicts.
 
-### 1.1 William Nordhaus — The Solow Computer Paradox & TFP Stagnation
-Yale economist William Nordhaus (2007, 2021) conducted extensive historical studies tracking computational price-performance from manual calculation (1850) to modern supercomputers. Nordhaus demonstrated that while computation cost per operation dropped exponentially by over 17 orders of magnitude, macro-level Total Factor Productivity (TFP) growth in the aggregate economy remained modest ($\sim 1.52.0\%$ per year).
+## Question and scope
 
-Under standard Cobb-Douglas production functions ($Y = A \cdot K^\alpha L^{1-\alpha}$), output $Y$ is driven by total factor productivity $A$, capital stock $K$, and labor $L$. Nordhaus proves that information technology represents only a fraction of total capital $K$. The rapid decline in compute costs has failed to produce proportional acceleration in overall GDP growth, confirming Robert Solow’s famous 1987 observation: *"You can see the computer age everywhere but in the productivity statistics."*
+**Question.** Which critiques of LoAR are supported by evidence: physical limits, the end of classical transistor scaling, falling research productivity, or the absence of macroeconomic acceleration?
 
-### 1.2 Robert Gordon & Tyler Cowen — The Great Stagnation Thesis
-Northwestern economist Robert J. Gordon (2016) argues that the "Special Century" (1870–1970) generated fundamental step-change innovations—electricity, indoor plumbing, internal combustion engines, pharmaceuticals, and commercial aviation—that transformed human standard of living far more fundamentally than digital information technology.
+**Scope.** LoAR as stated in Kurzweil's 2001 essay. Four critiques, each tested on primary or peer-reviewed sources. Logistic (S-curve) saturation (Modis 2002) is discussed as a competing model. Not covered: AI-specific capability forecasts (see the Technological Singularity pillar) and the energy outlook (see `Future_Implications/Future Implications Deep Dive.md`).
 
-Similarly, Tyler Cowen (2011) posits the **Low-Hanging Fruit Hypothesis**, demonstrating that modern society has consumed the easily harvested scientific and economic opportunities. Consequently, maintaining constant rates of innovation requires exponentially increasing R&D capital and researcher headcount (Bloom et al., 2020), directly contradicting LoAR's assertion of accelerating returns on capital.
+## Methodology
 
-### 1.3 Theodore Modis — Logistic Saturation & Milestone Selection Bias
-Physicist Theodore Modis (2002, 2005) provides a rigorous mathematical critique of Kurzweil's milestone data. Modis demonstrates that all real-world natural and technological growth processes obey sigmoidal logistic differential equations with finite asymptotic upper bounds $K$:
+For each critique I state the claim, the strongest evidence for it, and whether the evidence bears on LoAR's core claim (sustained, accelerating exponential progress) or only on one technology. Where a number can be checked by arithmetic (the Landauer comparison), the calculation is shown.
 
-$$\frac{dP(t)}{dt} = r \cdot P(t) \left( 1 - \frac{P(t)}{K} \right)$$
+## Empirical Evidence
 
-Modis argues that Kurzweil's claim of double-exponential growth ($P(t) = P_0 \cdot 2^{2^{kt}}$) is an artifact of **retrospective milestone selection bias**, wherein historical events are selected selectively to fit an accelerating curve, ignoring stalled technologies and failed paradigms.
+### 1. Thermodynamic limits (Landauer)
 
-```text-loar-critiques-critiques-deep-dive-1
-┌── [ Figure 1: LoAR Critiques Critiques Deep Dive Architecture ] ───────────┐
-│              MODIS LOGISTIC SATURATION VS. KURZWEIL DOUBLE EXPONENTIAL   │
-├── [ LoAR Critiques Critiques Deep Dive Section 1 Dynamics ] ──────┤
-│                                               │
-│  Performance P(t)                                                        │
-│     ▲                                       / Kurzweil Double Exponential│
-│     │                                      /                             │
-│     │                                .----' Modis Logistic Asymptote K   │
-│     │                             .-'                                    │
-│     │                          .-'                                       │
-│     │                       .-'                                          │
-│     │                   _.-'                                             │
-│     └──────────────────┴──────────────────────────────────────► Time     │
-│                        Inflection Point (Maximum Growth Rate)            │
-└── [ End Figure 1: LoAR Critiques Critiques Deep Dive ] ───────────┘
-```end-loar-critiques-critiques-deep-dive-1
+Landauer (1961) showed that erasing one bit of information must dissipate at least kT ln 2 of energy. At 300 K this is 1.380649 × 10⁻²³ J/K × 300 K × 0.693 ≈ 2.87 × 10⁻²¹ J. Bérut et al. (2012) confirmed the bound experimentally with a colloidal particle in an optical trap.
 
+How close is practical computing? The top system on the June 2025 Green500 list, JEDI (EuroHPC/FZJ), achieved 72.73 GFlops per watt. That is 1/(72.73 × 10⁹) ≈ 1.37 × 10⁻¹¹ J per 64-bit floating-point operation, about 4.8 × 10⁹ times the Landauer energy for one bit. Even if an operation erases a few hundred bits, practical hardware is still millions of times above the limit. The Landauer critique is correct in principle but irrelevant to 2026-2035.
 
-## 2. Quantitative Empirical Metrics & Historical Comparative Counter-Data (Critiques)
+### 2. The end of Dennard scaling
 
-### 2.1 Macroeconomic TFP vs. Compute Cost Trajectory (1900–2026)
-Cross-referencing historical compute speed against macroeconomic productivity growth highlights the disconnect asserted by economic critics (Nordhaus, 2007; Gordon, 2016; FRED, 2026).
+Hennessy and Patterson (2019) report that Moore's Law "began to slow sometime around 2000" and that by 2018 there was "a roughly 15-fold gap" between Moore's prediction and actual capability. Dennard scaling (near-constant power per mm² as transistors shrink) "began to slow significantly in 2007 and faded to almost nothing by 2012". Together with Amdahl's Law, this limits general-purpose processor gains "to only a few percent per year". Their answer is domain-specific architectures. Google's first TPU, for example, was 29 times faster than a contemporary CPU on Google's inference workloads and more than 80 times more energy-efficient. This critique hits general-purpose CPUs hard. It hits LoAR less, because LoAR's claim is about computation per dollar across paradigms, and specialised accelerators continued the trend for the workloads that matter most for AI.
 
-| Era / Decade | Compute Price-Performance Growth (Ops/$ Annual Rate) | US Total Factor Productivity (TFP) Annual Growth Rate | Dominant Economic / Infrastructure Shift |
-| :---- | :----- | :------ | :---: |
-| **1900–1940** | $+15\%$ | $+1.9\%$ |Electrification, Internal Combustion Engine, Mass Assembly Lines (Critiques, Coun) |
-| **1940–1970** | $+35\%$ | $+2.4\%$ |Interstate Highways, Commercial Aviation, Antibiotics, Petrochemicals (Critiques, Coun) |
-| **1970–2000** | $+55\%$ | $+1.1\%$ |Mainframe Computing, Microprocessors, Personal Computers, Early Web (Critiques, Coun) |
-| **2000–2020** | $+40\%$ | $+0.9\%$ |Mobile Smartphones, Cloud Datacenters, Social Media platforms (Critiques, Coun) |
-| **2020–2026** | $+65\%$ (AI Scaling) | $+1.2\%$ |Frontier Deep Learning, Megawatt AI Clusters, LLM Automation (Critiques, Coun) |
+### 3. Rising cost of progress (research productivity)
 
+Bloom et al. (2020) find, across industries, products and firms, that research effort is rising substantially while research productivity is falling sharply. Their headline example: the number of researchers needed to double chip density is more than 18 times larger than in the early 1970s. "Ideas, and the exponential growth they imply, are getting harder to find." This is the strongest critique. It shows that the exponential in chips is not self-sustaining, as LoAR's feedback story implies. It depends on exponentially growing inputs, which cannot continue forever.
 
-## 3. Physical Limits, Architectural Constraints & Hardware Barriers (Critiques)
+### 4. No macroeconomic acceleration (yet)
 
-### 3.1 Physics Limits Governing Hardware Acceleration
-Computer architecture literature highlights fundamental physical walls that challenge indefinite acceleration (Hennessy & Patterson, 2017):
+Nordhaus builds a growth model in which a "Singularity" occurs if information can substitute well enough for conventional inputs. He tests it on the macro data. His conclusion is direct: "The tests suggest that the Singularity is not near." The key question, he writes, "is the substitutability between information and conventional inputs."
 
-1. **Dennard Scaling Breakdown (2005) (Critiques, Counter-Theories & Limits Monograph)**: Power density $P = C V_{dd}^2 f$ spiked as sub-threshold leakage current ($I_{} \propto \exp((V_{gs}-V_{th})/nV_T)$) caused thermal runaway, leading to Dark Silicon (Dennard et al., 1974).
-2. **Landauer’s Bound**: Thermodynamic bit erasure dissipates a minimum energy $E_{} = k_B T \ln 2 \approx 2.87 \times 10^{-21}$ at $300$ (Landauer, 1961). Current CMOS tensor accelerators dissipate $\sim 5 \times 10^{-17}$, imposing thermal barriers on datacenter energy density.
-3. **Amdahl's Parallel Limit**: Latency speedup $S_{} = \frac{1}{(1-p) + \frac{p}{s}}$ proves that any non-parallelizable serial fraction $1-p$ hard-caps parallel processing efficiency (Amdahl, 1967).
+### Summary
 
+| Critique | Evidence | Does it refute LoAR's core claim? |
+| :--- | :--- | :--- |
+| Thermodynamic (Landauer) | Limit confirmed; best 2025 hardware is ~10⁹ times above it per bit | No, not on any relevant horizon |
+| End of Dennard scaling | General-purpose CPU gains slowed after the mid-2000s | Partly: one paradigm saturated; specialised hardware continued |
+| Research productivity | 18× more researchers needed for Moore's Law than in the early 1970s | Yes, for the "self-reinforcing" mechanism: progress depends on rising inputs |
+| Macro acceleration | Nordhaus: Singularity "not near" | Yes, for the claim that computing gains are already accelerating overall growth |
 
-## 4. Strategic Implications & Synthesis of the Critique Debate (2026–2035+) (Critiques) (Critiques Deep Dive)
-While Kurzweil's LoAR accurately describes specialized domain metrics (such as transistor count, AI FLOPs, and DNA sequencing costs), critics correctly highlight that macro-economic transformation is constrained by physical energy infrastructure, regulatory latency, and institutional inertia. Resolving this debate in the 2026–2035 window depends on whether frontier AI models can achieve autonomous scientific discovery, thereby breaking the R&D cost curve identified by Bloom et al. (2020).
+## Competing views and counterarguments
 
+- **Kurzweil's reply: paradigm shifts.** LoAR expects each technology to follow an S-curve and the overall trend to continue as new paradigms take over. Dennard's end followed by GPUs and AI accelerators fits this story. The question is whether paradigm shifts keep arriving on schedule, and LoAR assumes rather than demonstrates that.
+- **Logistic saturation (Modis 2002).** Modis models complexity and change as following logistic curves, implying that the rate of change eventually peaks and declines. On this reading, apparent double-exponential growth is the steep middle of an S-curve.
+- **AI may change the research-productivity picture.** If AI systems become effective researchers, the "harder to find ideas" constraint could loosen, since the research labour force could grow much faster than the human population. This is the central hope of acceleration advocates. It is a hypothesis to watch, not an observed trend (see the Technological Singularity pillar).
+- **Measurement.** Some economists argue that GDP undercounts digital goods, which would make the lack of macro acceleration partly a measurement problem. That cuts both ways for Nordhaus's tests.
 
-## Academic References & Bibliography
-- Amdahl, G. M. (1967). Validity of the single processor approach to achieving large scale computing capabilities. *AFIPS Conference Proceedings*, 30, 483–485.
-- Bloom, N., Jones, C. I., Van Reenen, J., & Webb, M. (2020). Are ideas getting harder to find?. *American Economic Review*, 110(4), 1104–1144.
-- Cowen, T. (2011). *The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Can (Eventually) Feel Better*. Dutton.
-- Dennard, R. H., Gaensslen, F. H., Yu, H. N., Rideout, V. L., Bassous, E., & LeBlanc, A. R. (1974). Design of ion-implanted MOSFET's with very small physical dimensions. *IEEE Journal of Solid-State Circuits*, 9(5), 256–268.
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press.
-- Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach* (6th ed.). Morgan Kaufmann.
-- Kurzweil, R. (2001). *The Law of Accelerating Returns*. Foresight Institute.
-- Kurzweil, R. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
-- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183–191.
-- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377–404.
-- Modis, T. (2005). Technological forecasting at the scale of centuries. *Technological Forecasting and Social Change*, 72(1), 45–57.
-- Nordhaus, W. D. (2007). Two Centuries of Productivity Growth in Computing. *The Journal of Economic History*, 67(1), 128–159.
-- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *NBER Working Paper*, No. w28441.
+## Limitations
 
-## Formal Epistemological and Physical Critique Matrix
+- The Landauer comparison uses an HPL (64-bit) benchmark. AI workloads at lower precision are more energy-efficient per operation, but still far above the limit.
+- Bloom et al. measure research inputs through deflated R&D spending. Different deflators change the size of the decline, but the authors report the pattern across many settings.
+- Nordhaus's tests use data up to the mid-2010s, before the large-language-model boom. They should be re-run on recent data before treating the conclusion as current.
+- The TPU comparison is Google's own measurement on its own workloads, as reported by Hennessy and Patterson.
 
-While Kurzweil's Law of Accelerating Returns offers an elegant teleological framework for technological evolution, academic detractors across physics, evolutionary biology, and macroeconomics assert that empirical extrapolation ignores foundational physical laws and macroeconomic frictions. 
+## Conclusion
 
-### Epistemic Counter-Theory Taxonomy of Major Theoretical Critiques
+The physical critique of LoAR is weak for any near-term horizon. The architectural critique shows that individual paradigms saturate, which LoAR itself allows. The economic critiques are strong. Exponential progress in computing has needed exponentially rising research effort, and through the mid-2010s it had not produced the economy-wide acceleration LoAR predicts. For the Convergence model, the defensible claim is "computing price-performance has improved exponentially at rising cost". The claim "progress is double-exponential and self-sustaining" is not defensible. What would change this verdict: evidence that AI is raising measured research productivity or total factor productivity growth.
 
-| Critique Category | Lead Academic Proponent | Core Theoretical Thesis | Primary Falsification Mechanism | Institutional Severity |
-| :--- | :--- | :--- | :--- | :--- |
-| **Thermodynamic Dissipation** | Rolf Landauer, Charles Bennett | Reversible computing requires zero energy; irreversible logic hits $k_B T \\ln 2$ | Heat flux density exceeding $1000\\text{ W/cm}^2$ | Absolute Physical Barrier |
-| **Quantum Gate Leakage** | Carver Mead, Mark Horowitz | Sub-1nm gate dielectric tunneling collapses transistor on/off current ratios | Subthreshold leakage current exceeding active current | Semiconductor Engineering Barrier |
-| **Secular Economic Stagnation** | Robert Gordon, Tyler Cowen | Modern computing fails to yield economy-wide Total Factor Productivity (TFP) surges| Plateauing median real wages and low TFP growth | Macroeconomic Empirical Barrier |
-| **Frontier Data Wall** | Pablo Villalobos, Ilia Shumailov | Public human text/code tokens exhausted; recursive synthetic data causes model collapse| Variance decay in generative model distributions | Machine Learning Domain Barrier |
-| **Civilizational Fragility** | Joseph Tainter, Nassim Taleb | Exponential complexity increases systemic fragility to catastrophic tail-risk shocks| Systemic supply chain cascades under geopolitical strain | Societal Systemic Barrier |
+## References
 
-## Mathematical Formulation of Physical and Economic Drag
-
-The interaction between exponential innovation velocity and thermodynamic/economic drag can be formalized as an augmented logistical friction model. Let $Y(t)$ represent aggregate real economic output per capita, and $T(t)$ represent technological compute capacity. Under orthodox growth theory with drag:
-
-$$\\frac{dY}{dt} = A(T) Y(t)^{1 - \\theta} - \\delta Y(t) - \\Omega(T)$$
-
-Where $\Omega(T) = \kappa T(t)^\eta$ represents the escalating capital cost of cooling, thermodynamic entropy remediation, and environmental resource extraction. When $\\eta > 1$, the marginal cost of extracting incremental computational utility accelerates faster than the direct economic gains, inducing an economic growth plateau despite sustained laboratory advances in raw compute:
-
-$$\\lim_{t \\to \\infty} \\frac{dY/dt}{Y(t)} = 0 \\quad \\text{if } \\eta > 1 \\text{ and } \\Omega(T) \\text{ dominates}$$
-
-## Cross-Cycle Convergence Triangulation
-
-The critiques leveled against LoAR directly intersect with the systemic failure modes modeled across the Convergence framework:
-- **Dalio's Internal Disorder Cycle**: When technological acceleration concentrates wealth without broadly lifting median living standards (the Gordon-Cowen critique), domestic wealth disparity widens, catalyzing populist upheaval and institutional decline.
-- **Strauss-Howe Crisis Resolution**: Fourth Turning climaxes often manifest when complex, fragile technological superstructures collide with geopolitical resource scarcity.
-- **Kondratiev Downswing Dynamics**: Failure of speculative technology investments to materialize as tangible productivity improvements triggers financial panic and paradigm exhaustion.
-
-## Academic References and Critical Literature
-
-- Cowen, T. (2011). *The Great Stagnation: How America Ate All the Low-Hanging Fruit of Modern History*. Dutton, pp. 15–54.
-- Gordon, R. J. (2016). *The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War*. Princeton University Press, pp. 580–625.
-- Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183–191.
-- Shumailov, I., Shumaylov, Z., Zhao, Y., Gal, Y., Papernot, N., & Anderson, R. (2024). AI models collapse when trained on recursively generated data. *Nature*, 631(8022), 755–759.
-- Tainter, J. A. (1988). *The Collapse of Complex Societies*. Cambridge University Press, pp. 91–128.
-- Villalobos, P., Sevilla, J., Besiroglu, T., Heim, L., Ho, A., & Houlden, M. (2022). Will we run out of data? Limits of LLM scaling based on human-generated text. *arXiv preprint arXiv:2211.04325*, pp. 1–24.
-### Quantitative Empirical Stress Testing Matrix
-
-| Critical Vector Dimension | Theoretical Assertion | Observed Historical Empirical Reality | Divergence Significance | Structural Resilience Impact |
-|:---|:---|:---|:---|:---|
-| **Physical Stagnation** | Infinite compute density | Silicon reticle limit ($858\text{ mm}^2$) & thermal wall | High architectural tension | Forces pivot to multi-die 2.5D packaging |
-| **Algorithmic Overhead** | Seamless self-improvement | Super-exponential training compute requirements | Severe economic friction | Necessitates algorithmic sample efficiency |
-| **Data Frontier Ceilings** | Boundless learning tokens | Exhaustion of high-quality web-scale text by 2026 | Critical data scarcity | Drives synthetic reasoning verification |
-
-### Counter-Theory Falsification Horizons
-
-Empirical stress testing of these critiques requires tracking specific boundary indicators:
-- **Synthetic Data Recursive Degradation**: Detection of model collapse within multi-generational synthetic reasoning loops, establishing fundamental entropy limits on recursive intelligence expansion.
-- **Capital Expenditure Returns Elasticity**: Diminishing marginal returns per dollar invested in frontier training infrastructure exceeding standard economic depreciation curves.
-### Systematic Resolution Pathways for Core Stagnation Critiques
-
-| Critiqued Bottleneck | Theoretical Foundation | Observed Technological Resolution Mechanism | Residual Friction Horizon | Net Economic Impact |
-|:---|:---|:---|:---|:---|
-| **Silicon Physical Reticle Limits** | Dennard scaling breakdown & optical diffraction limit | High-NA Extreme Ultraviolet lithography & 3D hybrid bonding | 2026–2028 | Sustains Moore's Law equivalent scaling |
-| **Data Frontier Depletion** | Chinchilla compute-optimal text tokens exhausted | Verifiable synthetic reasoning trees & multi-modal sensorium | 2025–2027 | Bypasses human web-corpus data bottleneck |
-| **Grid Power Constraints** | Transmission capacity & transformer lead times | Behind-the-meter nuclear SMRs & co-located geothermal generation | 2028–2032 | Re-anchors compute clusters near dedicated power |
-| **Thermodynamic Landauer Wall** | Heat dissipation per bit erasure ($kT \ln 2$) | Adiabatic reversible computing & topological photonics | 2033–2038 | Shifts computing beyond standard CMOS thermal limits |
-
-### Falsification Indicators for Anti-Acceleration Hypotheses
-
-Rigorous empirical analysis requires measuring specific indicators that would falsify stagnation arguments:
-- **Synthetic Reasoning Density**: Continued validation of synthetic chain-of-thought verification without model collapse across successive model generations.
-- **Compute Energy Decoupling**: Ongoing decline in megawatt-hours consumed per benchmark task performance threshold across industrial frontier clusters.
+- Kurzweil, R. (2001). The Law of Accelerating Returns. KurzweilAI essay (archived copy). https://web.archive.org/web/2018/http://www.kurzweilai.net/the-law-of-accelerating-returns
+- Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. *IBM Journal of Research and Development*, 5(3), 183-191. https://doi.org/10.1147/rd.53.0183
+- Bérut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer's principle linking information and thermodynamics. *Nature*, 483(7388), 187-189. https://doi.org/10.1038/nature10872
+- TOP500 (2025). Green500, June 2025. https://www.top500.org/lists/green500/2025/06/
+- Hennessy, J. L., & Patterson, D. A. (2019). A new golden age for computer architecture. *Communications of the ACM*, 62(2), 48-60. https://doi.org/10.1145/3282307
+- Bloom, N., Jones, C. I., Van Reenen, J., & Webb, M. (2020). Are Ideas Getting Harder to Find? *American Economic Review*, 110(4), 1104-1144. https://doi.org/10.1257/aer.20180338
+- Nordhaus, W. D. (2021). Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth. *American Economic Journal: Macroeconomics*, 13(1), 299-332. https://doi.org/10.1257/mac.20170105 (working paper: https://www.nber.org/papers/w21547)
+- Modis, T. (2002). Forecasting the growth of complexity and change. *Technological Forecasting and Social Change*, 69(4), 377-404. https://doi.org/10.1016/S0040-1625(01)00172-X
