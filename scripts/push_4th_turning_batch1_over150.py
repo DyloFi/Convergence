@@ -20,9 +20,9 @@ Academic historiography and sociological theory have subjected generational cycl
 
 The generational impulse model can be formalized as a damped harmonic oscillator subject to periodic institutional shocks:
 
-$$I_{cohort}(t) = A_0 e^{-\gamma t} \cos(\omega_0 t + \phi) + \sum_{k=1}^K \beta_k S_k(t - \tau_k)$$
+$$I_{cohort}(t) = A_0 e^{-\\gamma t} \\cos(\\omega_0 t + \\phi) + \\sum_{k=1}^K \beta_k S_k(t - \tau_k)$$
 
-where $I_{cohort}(t)$ represents institutional civic cohesion, $\gamma$ is the decay rate of institutional memory across generations, $\omega_0 = \frac{2\pi}{T_{saeculum}}$ represents the fundamental saecular frequency (with $T_{saeculum} \approx 80-90$ years), and $S_k$ denotes exogenous shocks (technological phase shifts or geopolitical realignments) occurring with lag $\tau_k$.
+where $I_{cohort}(t)$ represents institutional civic cohesion, $\\gamma$ is the decay rate of institutional memory across generations, $\\omega_0 = \frac{2\\pi}{T_{saeculum}}$ represents the fundamental saecular frequency (with $T_{saeculum} \approx 80-90$ years), and $S_k$ denotes exogenous shocks (technological phase shifts or geopolitical realignments) occurring with lag $\tau_k$.
 
 ### Convergence Synthesis and Macro-Historical Coupling
 
@@ -48,7 +48,7 @@ Turchin's Political Stress Index ($PSI$) provides a complementary quantitative f
 
 $$PSI(t) = \frac{N_{elite}(t)}{N_{positions}(t)} \times \frac{W_{median}(t)}{GDP_{per\\_capita}(t)}^{-1} \times \frac{Debt_{state}(t)}{Rev_{state}(t)}$$
 
-As $PSI(t)$ approaches critical threshold $\Theta_{crisis}$, social cohesion declines monotonically. In the generational paradigm, this corresponds precisely to the Unraveling turning phase, where individual autonomy surges while collective civic trust collapses, setting the structural preconditions for Fourth Turning crisis resolution.
+As $PSI(t)$ approaches critical threshold $\\Theta_{crisis}$, social cohesion declines monotonically. In the generational paradigm, this corresponds precisely to the Unraveling turning phase, where individual autonomy surges while collective civic trust collapses, setting the structural preconditions for Fourth Turning crisis resolution.
 
 ### Systemic Cycle Synchronization in the Convergence Era
 
@@ -69,13 +69,13 @@ The four generational archetypes—Prophet, Nomad, Hero, and Artist—progress t
 
 ### Quantitative Generational State Transition Formulation
 
-The societal state vector $\mathbf{x}(t) = [x_{High}, x_{Awakening}, x_{Unraveling}, x_{Crisis}]^T$ can be represented through a cyclic Markov transition operator $\mathbf{P}$:
+The societal state vector $\\mathbf{x}(t) = [x_{High}, x_{Awakening}, x_{Unraveling}, x_{Crisis}]^T$ can be represented through a cyclic Markov transition operator $\\mathbf{P}$:
 
-$$\mathbf{P} = \begin{bmatrix} 0 & 0 & 0 & 1 \\ 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \end{bmatrix}, \quad \mathbf{x}(t + \Delta t) = \mathbf{P} \mathbf{x}(t)$$
+$$\\mathbf{P} = \begin{bmatrix} 0 & 0 & 0 & 1 \\ 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\end{bmatrix}, \\quad \\mathbf{x}(t + \\Delta t) = \\mathbf{P} \\mathbf{x}(t)$$
 
-where $\Delta t \approx 20-22$ years corresponds to the generational aging interval. The phase transition is triggered when generational cohort mass crosses critical political participation thresholds:
+where $\\Delta t \approx 20-22$ years corresponds to the generational aging interval. The phase transition is triggered when generational cohort mass crosses critical political participation thresholds:
 
-$$M_{cohort}(t) = \int_{age=25}^{55} \rho_{cohort}(a, t) da > \Omega_{threshold}$$
+$$M_{cohort}(t) = \\int_{age=25}^{55} \rho_{cohort}(a, t) da > \\Omega_{threshold}$$
 
 ### Cross-Pillar Archetypal Integration
 
@@ -150,4 +150,3 @@ for rel_path, addition in expansions.items():
         print(f"Updated {rel_path}: {len(lines)} -> {len(new_text.splitlines())} lines")
     else:
         print(f"Warning: reference header not found in {rel_path}")
-
