@@ -21,10 +21,10 @@ The macro-trajectory of LoAR spans five successive physical substrates, illustra
 ### 1.3 Mathematical Dynamics: Single vs. Double Exponential Growth
 To formalize the distinction between standard technological progression and Kurzweil's accelerating returns, Table 1 contrasts single exponential growth with double-exponential dynamics and logistic saturation envelopes:
 
-| Dimension | Single Exponential Model ($V_0 e^{\lambda t}$) | Double-Exponential Model ($P_0 \cdot 2^{2^{kt}}$) | Sigmoidal S-Curve Envelopes ($K / (1 + e^{-r(t-t_0)})$) |
+| Dimension | Single Exponential Model ($V_0 e^{\\lambda t}$) | Double-Exponential Model ($P_0 \\cdot 2^{2^{kt}}$) | Sigmoidal S-Curve Envelopes ($K / (1 + e^{-r(t-t_0)})$) |
 |---|---|---|---|
-| Growth Rate $\lambda(t)$ | Constant parameter ($\lambda = \text{const}$) | Exponential growth ($\lambda(t) = W e^{kt}$) | Declining past inflection point ($d\lambda/dt < 0$) |
-| Doubling Cadence $\tau$ | Invariant period ($\tau = \ln 2 / \lambda$) | Collapsing period ($\tau(t) \to 0$) | Decelerating towards asymptotic ceiling $K$ |
+| Growth Rate $\\lambda(t)$ | Constant parameter ($\\lambda = \text{const}$) | Exponential growth ($\\lambda(t) = W e^{kt}$) | Declining past inflection point ($d\\lambda/dt < 0$) |
+| Doubling Cadence $\tau$ | Invariant period ($\tau = \\ln 2 / \\lambda$) | Collapsing period ($\tau(t) \to 0$) | Decelerating towards asymptotic ceiling $K$ |
 | Primary Feedback Driver | Linear capital re-investment | Autonomous EDA & AI-designed architectures | Resource exhaustion, physical substrate boundaries |
 | Long-Horizon Trajectory | Exponential divergence | Hyperbolic singularity at finite horizon $t^*$ | Saturation followed by next-paradigm transition |
 """,
@@ -35,9 +35,9 @@ The axiomatic principles of LoAR operate within well-defined thermodynamic and c
 
 | Axiomatic Principle | Physical / Computational Boundary | Mathematical Formulation | Architectural Implication for LoAR |
 |---|---|---|---|
-| Substrate Independence | Landauer's Thermodynamic Bound | $E_{\min} = k_B T \ln(2)$ | Minimum energy dissipation ($3 \times 10^{-21}$ J at 300K) per irreversible bit erasure |
+| Substrate Independence | Landauer's Thermodynamic Bound | $E_{\\min} = k_B T \\ln(2)$ | Minimum energy dissipation ($3 \times 10^{-21}$ J at 300K) per irreversible bit erasure |
 | Autonomous Acceleration | Amdahl vs. Gustafson Parallel Laws | $S(N) = \frac{1}{(1-p) + p/N}$ vs $S(N) = N - \alpha(N-1)$ | Limits parallel scaling speedup unless problem dataset scales with compute capacity |
-| R&D Capital Compounding | Dennard Scaling Breakdown | $P/A = \kappa \cdot V^2 f$ ($V$ scaling stopped ~2005) | Forced transition from single-thread clock scaling to parallel SIMD/MIMD architectures |
+| R&D Capital Compounding | Dennard Scaling Breakdown | $P/A = \\kappa \\cdot V^2 f$ ($V$ scaling stopped ~2005) | Forced transition from single-thread clock scaling to parallel SIMD/MIMD architectures |
 | Paradigm Shifting | Moore's Law Retrenchment | Component density doubling cadence slowing to ~36 mo | Shifts compute scaling to 3D packaging, optical interconnects, and domain-specific ASICs |
 """,
 
@@ -62,7 +62,7 @@ To organize the multidisciplinary body of research supporting and evaluating LoA
 
 | Academic Domain | Primary Authors & Citations | Seminal Publication | Foundational Theoretical / Empirical Contribution |
 |---|---|---|---|
-| Double-Exponential Mechanics | Kurzweil (2001, 2005) | *The Singularity Is Near* | Formulation of $P(t) = P_0 \cdot 2^{2^{kt}}$ and five-paradigm substrate evolution |
+| Double-Exponential Mechanics | Kurzweil (2001, 2005) | *The Singularity Is Near* | Formulation of $P(t) = P_0 \\cdot 2^{2^{kt}}$ and five-paradigm substrate evolution |
 | Historical Compute Deflators | Nordhaus (2007) | *Two Centuries of Productivity: Computing* | 200-year continuous price index demonstrating double-exponential compute deflation |
 | Stagnation Counter-Theories | Gordon (2016) | *The Rise and Fall of American Growth* | Diminishing marginal utility of information technology compared to Great Inventions |
 | Endogenous Growth Drag | Bloom, Jones, Van Reenen, Webb (2020) | *Are Ideas Getting Harder to Find?* | Empirical documentation of ~50% research productivity decline every 13 years |
@@ -75,11 +75,11 @@ To ground the conceptual definitions in physical and mathematical reality, Table
 
 | Conceptual Term | Mathematical Representation | Dimensional / SI Units | Core Analytical Relevance |
 |---|---|---|---|
-| Law of Accelerating Returns | $\lambda(t) = W e^{kt}$, $\frac{dV}{dt} = \lambda(t) V(t)$ | Inverse time ($t^{-1}$) | Fundamental governing model for autonomous R&D acceleration |
-| Landauer's Bound | $E_{\min} = k_B T \ln(2)$ | Joules per bit ($J / \text{bit}$) | Ultimate physical lower limit on energy dissipated per irreversible bit erasure |
-| Dennard Scaling Exponent | $P/A = \kappa \cdot V^2 f = \text{const}$ | Watts per area ($W / \text{cm}^2$) | Constant power density scaling rule that ceased circa 2005 |
-| Compute Density Metric | $\Phi = \text{FLOP/s} / (\text{cm}^3 \cdot W)$ | Operations per $(m^3 \cdot J)$ | Volumetric and thermodynamic substrate efficiency benchmark |
-| S-Curve Envelope | $K / (1 + \exp(-r(t-t_0)))$ | Domain metric over time | Macro-trajectory generated by cascading consecutive micro-paradigms |
+| Law of Accelerating Returns | $\\lambda(t) = W e^{kt}$, $\frac{dV}{dt} = \\lambda(t) V(t)$ | Inverse time ($t^{-1}$) | Fundamental governing model for autonomous R&D acceleration |
+| Landauer's Bound | $E_{\\min} = k_B T \\ln(2)$ | Joules per bit ($J / \text{bit}$) | Ultimate physical lower limit on energy dissipated per irreversible bit erasure |
+| Dennard Scaling Exponent | $P/A = \\kappa \\cdot V^2 f = \text{const}$ | Watts per area ($W / \text{cm}^2$) | Constant power density scaling rule that ceased circa 2005 |
+| Compute Density Metric | $\\Phi = \text{FLOP/s} / (\text{cm}^3 \\cdot W)$ | Operations per $(m^3 \\cdot J)$ | Volumetric and thermodynamic substrate efficiency benchmark |
+| S-Curve Envelope | $K / (1 + \\exp(-r(t-t_0)))$ | Domain metric over time | Macro-trajectory generated by cascading consecutive micro-paradigms |
 """
 }
 
