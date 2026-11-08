@@ -18,35 +18,35 @@ Bridging quantitative metrics from pre-modern mercantilism to contemporary digit
 
 To mathematically track imperial ascent and decline, national capability is operationalized through a continuous multi-dimensional index. Let $S_{i,k}(t)$ denote the standardized metric for nation $i$ along structural dimension $k$ at time $t$:
 
-$$I_i(t) = \sum_{k=1}^{K} \omega_k \cdot \left[ \frac{S_{i,k}(t) - \min_j S_{j,k}(t)}{\max_j S_{j,k}(t) - \min_j S_{j,k}(t)} \right]$$
+$$I_i(t) = \\sum_{k=1}^{K} \\omega_k \\cdot \\left[ \frac{S_{i,k}(t) - \\min_j S_{j,k}(t)}{\\max_j S_{j,k}(t) - \\min_j S_{j,k}(t)} \right]$$
 
-where $\omega_k$ satisfies $\sum \omega_k = 1.0$. The weights are calibrated using historical regression on systemic order survivability:
+where $\\omega_k$ satisfies $\\sum \\omega_k = 1.0$. The weights are calibrated using historical regression on systemic order survivability:
 
-| Dimension $k$ | Domain Weight ($\omega_k$) | Core Metric Description | Archival Origin | Error Bounds ($\pm\%$) |
+| Dimension $k$ | Domain Weight ($\\omega_k$) | Core Metric Description | Archival Origin | Error Bounds ($\\pm\\%$) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Education Attainment** | 0.08 | Adult literacy rate and tertiary STEM graduate output | UNESCO historical databases | $\pm 4.2\%$ |
-| **Technological Dynamism** | 0.12 | Frontier patent filings and technological disruption index | WIPO / European Patent Office | $\pm 3.1\%$ |
-| **Real Productive Output** | 0.11 | PPP-adjusted real gross output in 1990 international dollars | Groningen Maddison Project | $\pm 5.5\%$ |
-| **Maritime Trade Share** | 0.10 | Proportion of gross cross-border commercial freight carried | Mitchell Historical Trade Stats | $\pm 2.8\%$ |
-| **Projected Military Force** | 0.13 | Capital naval displacement tonnage and active firepower | Correlates of War Project (COW) | $\pm 1.9\%$ |
-| **Financial Clearing Primacy** | 0.10 | Share of global equity capitalization and debt issuance | Stock Exchange Historical Archives | $\pm 3.5\%$ |
-| **Monetary Reserve Hegemony** | 0.15 | Share of foreign central bank allocated reserve assets | IMF COFER & BIS Ledgers | $\pm 1.2\%$ |
-| **Sovereign Solvency Metric** | 0.14 | Ratio of gross public debt to structural tax revenues | Reinhart-Rogoff Financial Database | $\pm 2.5\%$ |
-| **Internal Social Cohesion** | 0.07 | Income Gini coefficient and political polarization index | World Inequality Database (WID) | $\pm 6.0\%$ |
+| **Education Attainment** | 0.08 | Adult literacy rate and tertiary STEM graduate output | UNESCO historical databases | $\\pm 4.2\\%$ |
+| **Technological Dynamism** | 0.12 | Frontier patent filings and technological disruption index | WIPO / European Patent Office | $\\pm 3.1\\%$ |
+| **Real Productive Output** | 0.11 | PPP-adjusted real gross output in 1990 international dollars | Groningen Maddison Project | $\\pm 5.5\\%$ |
+| **Maritime Trade Share** | 0.10 | Proportion of gross cross-border commercial freight carried | Mitchell Historical Trade Stats | $\\pm 2.8\\%$ |
+| **Projected Military Force** | 0.13 | Capital naval displacement tonnage and active firepower | Correlates of War Project (COW) | $\\pm 1.9\\%$ |
+| **Financial Clearing Primacy** | 0.10 | Share of global equity capitalization and debt issuance | Stock Exchange Historical Archives | $\\pm 3.5\\%$ |
+| **Monetary Reserve Hegemony** | 0.15 | Share of foreign central bank allocated reserve assets | IMF COFER & BIS Ledgers | $\\pm 1.2\\%$ |
+| **Sovereign Solvency Metric** | 0.14 | Ratio of gross public debt to structural tax revenues | Reinhart-Rogoff Financial Database | $\\pm 2.5\\%$ |
+| **Internal Social Cohesion** | 0.07 | Income Gini coefficient and political polarization index | World Inequality Database (WID) | $\\pm 6.0\\%$ |
 
 ## 3. Econometric Identification of Structural Phase Transitions
 
 To detect structural turning points between Dalio's six debt phases without hindsight bias, we deploy an algorithmic Markov-switching regime model on macroeconomic time-series:
 
-$$Y_t = \mu_{S_t} + \phi (Y_{t-1} - \mu_{S_t}) + \epsilon_t, \quad \epsilon_t \sim \mathcal{N}(0, \sigma^2_{S_t})$$
+$$Y_t = \\mu_{S_t} + \\phi (Y_{t-1} - \\mu_{S_t}) + \\epsilon_t, \\quad \\epsilon_t \\sim \\mathcal{N}(0, \\sigma^2_{S_t})$$
 
-where the hidden state $S_t \in \{1, 2, \dots, 6\}$ corresponds to Dalio's cycle stages:
-1. **Early Cycle (Emergence)**: Low sovereign leverage, productive capital investment, rapid productivity growth ($\mu_1 > 4.5\%$, $\sigma_1 < 1.2\%$).
-2. **Mid Cycle (Consolidation)**: Commercial expansion, institutionalization of legal norms, rising living standards ($\mu_2 \approx 3.5\%$, $\sigma_2 < 1.0\%$).
-3. **Peak Hegemony (Bubble Phase)**: Excessive debt accumulation, financialization of economy, speculative asset bubbles ($\mu_3 \approx 2.5\%$, $\sigma_3 \approx 2.0\%$).
-4. **Early Decline (Decoupling)**: Loss of competitiveness, rising domestic wealth disparity, rising geopolitical challenges ($\mu_4 \approx 1.8\%$, $\sigma_4 \approx 2.5\%$).
-5. **Acute Crisis (Insolvency)**: Debt monetization, loss of reserve currency credibility, severe capital flight ($\mu_5 \le 0.5\%$, $\sigma_5 > 4.0\%$).
-6. **Systemic Restructuring (War/Reset)**: Default, currency redenomination, new order establishment ($\mu_6 < -2.0\%$, $\sigma_6 > 6.0\%$).
+where the hidden state $S_t \\in \\{1, 2, \\dots, 6\\}$ corresponds to Dalio's cycle stages:
+1. **Early Cycle (Emergence)**: Low sovereign leverage, productive capital investment, rapid productivity growth ($\\mu_1 > 4.5\\%$, $\\sigma_1 < 1.2\\%$).
+2. **Mid Cycle (Consolidation)**: Commercial expansion, institutionalization of legal norms, rising living standards ($\\mu_2 \approx 3.5\\%$, $\\sigma_2 < 1.0\\%$).
+3. **Peak Hegemony (Bubble Phase)**: Excessive debt accumulation, financialization of economy, speculative asset bubbles ($\\mu_3 \approx 2.5\\%$, $\\sigma_3 \approx 2.0\\%$).
+4. **Early Decline (Decoupling)**: Loss of competitiveness, rising domestic wealth disparity, rising geopolitical challenges ($\\mu_4 \approx 1.8\\%$, $\\sigma_4 \approx 2.5\\%$).
+5. **Acute Crisis (Insolvency)**: Debt monetization, loss of reserve currency credibility, severe capital flight ($\\mu_5 \\le 0.5\\%$, $\\sigma_5 > 4.0\\%$).
+6. **Systemic Restructuring (War/Reset)**: Default, currency redenomination, new order establishment ($\\mu_6 < -2.0\\%$, $\\sigma_6 > 6.0\\%$).
 
 ## 4. Archival Source Verification and Historical Ledgers
 
@@ -61,11 +61,11 @@ The research monographs incorporate raw archival evidence from five premier hist
 
 Future scenario projections utilize agent-based modeling (ABM) where sovereign actors maximize structural power subject to fiscal constraints:
 
-$$\max_{\vec{a}_i} U_i = P_i(t+1) - \lambda \cdot \text{Cost}(\vec{a}_i)$$
+$$\\max_{\vec{a}_i} U_i = P_i(t+1) - \\lambda \\cdot \text{Cost}(\vec{a}_i)$$
 
 subject to the budget constraint:
 
-$$\text{TaxRevenue}_i(t) + \Delta \text{Debt}_i(t) \ge \text{MilExp}_i(t) + \text{DebtService}_i(t) + \text{SocialOutlays}_i(t)$$
+$$\text{TaxRevenue}_i(t) + \\Delta \text{Debt}_i(t) \\ge \text{MilExp}_i(t) + \text{DebtService}_i(t) + \text{SocialOutlays}_i(t)$$
 
 When $\text{DebtService}_i(t) / \text{TaxRevenue}_i(t) > 0.35$, the simulation enforces an involuntary austerity-or-monetization branch, directly replicating historical imperial fiscal crises.
 
@@ -91,7 +91,7 @@ deepening = """
 
 Empirical evidence across four centuries indicates that reserve currency status exhibits significant structural hysteresis. An incumbent currency persists as the dominant international medium of exchange long after the issuing power has surrendered manufacturing and commercial supremacy. To model this dynamic friction, we specify an autoregressive distributed lag (ARDL) specification of global foreign exchange reserve allocation:
 
-$$R_{i,t} = \alpha_0 + \sum_{p=1}^{P} \rho_p R_{i,t-p} + \sum_{m=0}^{M} \beta_m T_{i,t-m} + \sum_{n=0}^{N} \gamma_n F_{i,t-n} + \theta D_{i,t} + \epsilon_{i,t}$$
+$$R_{i,t} = \alpha_0 + \\sum_{p=1}^{P} \rho_p R_{i,t-p} + \\sum_{m=0}^{M} \beta_m T_{i,t-m} + \\sum_{n=0}^{N} \\gamma_n F_{i,t-n} + \theta D_{i,t} + \\epsilon_{i,t}$$
 
 where:
 - $R_{i,t}$ is the percentage share of global central bank reserves denominated in currency $i$ at year $t$.
@@ -125,4 +125,3 @@ idx = c.find("## 6. Methodological References")
 new_c = c[:idx].strip() + "\n\n" + deepening.strip() + "\n\n" + c[idx:].strip() + "\n"
 p.write_text(new_c)
 print("Expanded Supporting Materials Deep Dive. Total lines:", len(new_c.splitlines()))
-
