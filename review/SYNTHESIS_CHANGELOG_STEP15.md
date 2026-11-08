@@ -74,4 +74,13 @@ Following the independent rerun at bf8d2ccb (R1-R7 accepted as reflected), two r
 1. **§7.1 RWA threshold made coherent.** The "stagnation below $25B through 2028" threshold was already exceeded by the observed value ($39.17B, 2026-11-01) and could never trigger. Replaced with a same-metric forward rule: stagnation is no scheduled-review reading above the registered 2026-11-01 baseline ($39.17B, `F14-006`) through end-2028. Registration basis: the Step 14 forecast register entry recording that baseline; the rule itself is pre-registered here. §2.6 falsification aligned.
 2. **§7.2 cadence and clearing defined.** Scheduled reviews are semi-annual (May and November; first under this rule May 2027). A breach clears after two consecutive scheduled-review readings on the non-breach side, recorded identically to a breach; thresholds whose date window closes unbreached are retired as expired and count neither active nor cleared.
 
-Re-reviewer-verified runtime note: the test suite emits 33 warning headers (1 ResourceWarning, 32 DeprecationWarnings) from legacy repository scripts (invalid escape sequences, an unclosed file handle). These are not test failures, not skips, and not strict-audit findings (audit: 121 reports, 0 findings, 0 errors, 0 warnings). They are recorded here as-is and left for the repository-hygiene scope rather than patched inside Step 15.
+Re-reviewer-verified runtime note: the test suite emits 33 warning headers (1 ResourceWarning, 32 DeprecationWarnings) from legacy repository scripts (invalid escape sequences, an unclosed file handle). These are not test failures, not skips, and not strict-audit findings (audit: 121 reports, 0 findings, 0 errors, 0 warnings). They are recorded here as-is; remediation was deferred pending the reviewer's disposition, and applied in the fourth revision below.
+
+## Zero-warning remediation (2026-11-08, fourth revision)
+
+The re-review gate required a zero-warning test run: 32 DeprecationWarnings (invalid escape sequences in legacy scripts) and 1 ResourceWarning (unclosed file). Remediation, narrow and behavior-preserving:
+
+1. **Invalid escape sequences**: 32 string literals across 19 legacy `scripts/` files had the offending backslash doubled (`\s`, `\l`, etc.). Runtime values are unchanged: Python retained invalid escapes literally, so the doubled form produces the identical string.
+2. **Unclosed file**: `tests/test_technical_regression.py` (the `report_triage_inventory.json` read) now uses a context manager.
+
+Verification after remediation: `python3 -m unittest discover tests` emits zero warning headers and passes 36/36 with zero skips (KaTeX installed); the suite also passes under `-W error::DeprecationWarning -W error::ResourceWarning`; `scripts/audit_verification.py --strict` reports 0 findings; `validate_report_standards.py` 14/14.
