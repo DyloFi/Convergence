@@ -21,7 +21,7 @@ Direct comparisons of gross domestic product (GDP) across centuries and distinct
 
 ### 2. Multi-Century Composite Power Indexing Methodology
 To operationalize Ray Dalio's 18 structural determinants of national power, we employ a standardized Min-Max normalization and weighted multi-factor aggregation algorithm:
-$$\text{Composite Power Index}_{i,t} = \sum_{k=1}^{18} w_k \cdot \left( \frac{X_{k,i,t} - \min(X_k)}{\max(X_k) - \min(X_k)} \right)$$
+$$\text{Composite Power Index}_{i,t} = \\sum_{k=1}^{18} w_k \\cdot \\left( \frac{X_{k,i,t} - \\min(X_k)}{\\max(X_k) - \\min(X_k)} \right)$$
 where $X_{k,i,t}$ represents the raw indicator value for nation $i$ at time $t$ along structural dimension $k$, and $w_k$ denotes the empirical weight assigned to that power determinant based on its demonstrated predictive power during historical hegemonic transition windows.
 
 ### Table 1: Structural Determinants, Indicators, Weights, and Primary Archival Sources
