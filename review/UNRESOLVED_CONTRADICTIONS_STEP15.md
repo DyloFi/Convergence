@@ -22,3 +22,7 @@ Recorded per DYL-48 deliverable requirements. These are disagreements the reconc
 
 ## Disposition
 Each item is either tracked in the scenario indicators (synthesis §5) or in the falsification framework (§7). None blocks the rebuilt synthesis; they bound what it claims.
+
+## Review-response updates (2026-11-08, second revision)
+- **RCM conflict resolved by quarantine.** The contradiction between the synthesis and `review/REVISED_CONVERGENCE_MODEL.md` is no longer live: the RCM is quarantined as a superseded legacy artifact and kept for provenance only.
+- **Horizon-based capability falsification is inconclusive.** Added to the evidence gaps: until an extended METR-style evaluation with a reliable range above 16 hours exists, the question "have agentic horizons plateaued?" cannot be answered from ceiling-limited measurements (supersedes the withdrawn §7.1 plateau clause).
