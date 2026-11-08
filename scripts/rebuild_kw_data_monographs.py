@@ -38,13 +38,13 @@ Frequency Spectrum Decomposition Architecture:
 
 To account for boundary distortion and non-stationary stochastic trends in historical macro time series, the Christiano-Fitzgerald random walk filter is parameterized across the primary spectral range $p_L = 36$ to $p_U = 64$ years. Given a non-stationary time series $y_t$, the cyclical component $c_t$ is estimated via:
 
-$$c_t = B_0 y_t + \sum_{j=1}^{T-t-1} B_j y_{t+j} + \tilde{B}_{T-t} y_T + \sum_{j=1}^{t-2} B_j y_{t-j} + \tilde{B}_{t-1} y_1$$
+$$c_t = B_0 y_t + \\sum_{j=1}^{T-t-1} B_j y_{t+j} + \tilde{B}_{T-t} y_T + \\sum_{j=1}^{t-2} B_j y_{t-j} + \tilde{B}_{t-1} y_1$$
 
 Where filter weights $B_j$ minimize the mean squared approximation error relative to the ideal bandpass transfer function:
 
-$$\min_{\{B_j\}} E\left[ \left( c_t^* - c_t \right)^2 \right] \quad \text{subject to} \quad \sum_{j=-t+1}^{T-t} B_j = 0$$
+$$\\min_{\\{B_j\\}} E\\left[ \\left( c_t^* - c_t \right)^2 \right] \\quad \text{subject to} \\quad \\sum_{j=-t+1}^{T-t} B_j = 0$$
 
-Empirical validation across United Kingdom industrial production indices (1780-2024) and United States real GDP records confirms that the low-frequency band maintains statistically significant power spectral density peaks at approximately 52.4 years ($p < 0.01$). Sensitivity testing across varying lambda parameters in the Hodrick-Prescott framework ($\lambda = 6.25$ for annual long-cycle extraction per Ravn-Uhlig specification) demonstrates strong structural robustness against endpoint revisions.
+Empirical validation across United Kingdom industrial production indices (1780-2024) and United States real GDP records confirms that the low-frequency band maintains statistically significant power spectral density peaks at approximately 52.4 years ($p < 0.01$). Sensitivity testing across varying lambda parameters in the Hodrick-Prescott framework ($\\lambda = 6.25$ for annual long-cycle extraction per Ravn-Uhlig specification) demonstrates strong structural robustness against endpoint revisions.
 
 ### Primary Archival Citations and Methodological Literature
 
@@ -179,7 +179,7 @@ The transformation pipeline enforces four mathematical validation phases:
 1. **Coinage and Currency Harmonization**: Conversion of pre-decimal British pounds (shillings/pence) and regional currency units into decimalized base-year accounting standards.
 2. **Purchasing Power Parity (PPP) Deflation**: Chained Geary-Khamis international dollar conversions allowing long-horizon purchasing power comparisons.
 3. **Robust Outlier Filtration**: Implementation of Hampel identifier filters using moving median absolute deviations (MAD) to detect measurement anomalies without attenuating structural crisis shocks.
-4. **Variance Stabilization**: Application of Box-Cox transformations ($\lambda \in [0, 1]$) prior to spectral density estimation to ensure homoscedastic residual distributions across multi-century spans.
+4. **Variance Stabilization**: Application of Box-Cox transformations ($\\lambda \\in [0, 1]$) prior to spectral density estimation to ensure homoscedastic residual distributions across multi-century spans.
 
 Automated regression test suites run on every dataset rebuild, confirming that zero synthetic missing values are introduced and that transformed series correlate with official benchmark series at $r > 0.99$.
 
@@ -337,4 +337,3 @@ for rel_path, delim in cases:
     target_file.write_text(new_content, encoding="utf-8")
     line_count = len(new_content.splitlines())
     print(f"Reconstructed {rel_path}: {line_count} lines")
-
