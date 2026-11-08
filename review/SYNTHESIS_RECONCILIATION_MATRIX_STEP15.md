@@ -47,3 +47,5 @@
 | R6 | §2.3 "established mechanism" overstates causality | **DOWNGRADED** | §2.3: observed association / plausible mechanism; alternative drivers stated |
 | R7 | METR ~17h vs ≤16h ceiling vs LEAP 3h06m need reliability bridge | **BRIDGED** | §1.4/§2.2: 50% vs 80% reliability levels stated; values kept separate, never pooled |
 | R8 | §7.2 breach rule not operational | **DEFINED** | §7.2: direction, confirmation window, vintage, recording, and cross-axis counting rule added |
+| R8a | Re-review: §7.2 still lacks stated review cadence and a breach-clearing rule (R8 overstated) | **DEFINED** | §7.2: semi-annual cadence (May/November, first scheduled review May 2027); breach clears after two consecutive non-breach readings, recorded identically; expired-window thresholds retired, counting neither active nor cleared |
+| R9 | Re-review: §7.1 RWA invalidation threshold incoherent ($39.17B observed vs. "stagnation below $25B") | **CORRECTED** | §7.1 and §2.6: stagnation re-anchored to the registered 2026-11-01 baseline ($39.17B, `F14-006`), same metric, forward-looking |
