@@ -2,286 +2,270 @@
 
 > **Notice**: *This analysis is conducted strictly for macroeconomic, historical, and system-modeling research. It does not constitute financial, investment, legal, or tax advice, nor an endorsement of any asset allocation or transaction strategy.*
 
-## Executive Summary — The Synchronous Climax Hypothesis
-This master monograph presents the unified theoretical and empirical synthesis for the **Convergence** research repository. It establishes a rigorous integration of five foundational long-wave and exponential frameworks:
-1. **The Fourth Turning** (William Strauss & Neil Howe, 1997) — Generational cycle dynamics and civic crisis climaxes.
-2. **Changing World Orders** (Ray Dalio, 2021; Robert Gilpin, 1981) — The Big Cycle of empire, reserve currencies, sovereign debt, and hegemonic transition.
-3. **Kondratiev Waves & Technological Revolutions** (Nikolai Kondratiev, 1926; Joseph Schumpeter, 1939; Carlota Perez, 2002) — The 50–60 year techno-economic paradigm cycle and capital installation dynamics.
-4. **The Law of Accelerating Returns (LoAR)** (Ray Kurzweil, 2001, 2005) — Multi-paradigm double-exponential compute, algorithmic efficiency, and price-performance scaling.
-5. **The Technological Singularity & Intelligence Explosion** (Vernor Vinge, 1993; I.J. Good, 1965; Nick Bostrom, 2014; Eliezer Yudkowsky, 2008) — Cognitive takeoff dynamics, recursive algorithmic self-improvement, and post-biological horizons.
+## Executive Summary — An Evidence-Weighted Convergence Framework
 
-### The Core Convergence Thesis
-Human history is governed by multiple overlapping periodicities operating across vastly different timescales—biological-generational (~80–100 years), monetary-imperial (~100–250 years), and macroeconomic-technological (~50–60 years)—superimposed upon an underlying exponential acceleration of information processing. 
+This master monograph presents the unified theoretical and empirical synthesis for the **Convergence** research repository. It integrates five long-horizon frameworks:
 
-The central finding of this research repository is that **the 2026–2035 decade represents an unprecedented, synchronous macro-inflection point**. For the first time in recorded history, five independent macro-cycles reach their terminal crisis, transition, or inflection phases in the same ten-year window:
-- The **Fourth Turning** enters its terminal Crisis Climax (projected resolution: 2028–2033), demanding total civic and institutional reconstitution.
-- The **American Hegemonic Order** reaches Dalio's late Stage 5 / Stage 6 inflection, characterized by unsustainable sovereign debt monetization (>125% Debt-to-GDP), domestic wealth inequality, political polarization, and a contested multipolar transition against rising challengers (China/BRICS+).
-- The **5th Kondratiev Wave** (Telecommunications & Information Technology) reaches structural exhaustion, giving way to the hyper-volatile **Installation Phase of the 6th Kondratiev Wave** (Artificial Intelligence, Synthetic Biology, Robotics, and Advanced Energy).
-- The **Law of Accelerating Returns** transitions into the steep vertical asymptote of the double-exponential curve, where annual compute increases rival the cumulative compute generated in prior history.
-- The **Technological Singularity** moves from theoretical extrapolation to immediate engineering reality, with Artificial General Intelligence (AGI) projected within the 2026–2029 window and Artificial Superintelligence (ASI) horizons approaching by 2032–2035.
+1. **The Fourth Turning** (William Strauss & Neil Howe, 1997) — generational cycle dynamics and civic crisis climaxes.
+2. **Changing World Orders** (Ray Dalio, 2021; Robert Gilpin, 1981) — the Big Cycle of empire, reserve currencies, sovereign debt, and hegemonic transition.
+3. **Kondratiev Waves & Technological Revolutions** (Nikolai Kondratiev, 1926; Joseph Schumpeter, 1939; Carlota Perez, 2002) — the 50–60 year techno-economic paradigm cycle.
+4. **The Law of Accelerating Returns (LoAR)** (Ray Kurzweil, 2001, 2005) — multi-paradigm exponential growth in computation.
+5. **The Technological Singularity** (Vernor Vinge, 1993; I.J. Good, 1965; Nick Bostrom, 2014) — cognitive takeoff dynamics and recursive self-improvement.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                 THE GREAT CONVERGENCE CONFLUENCE (2026–2035)                            │
-├─────────────────────┬─────────────────────┬─────────────────────┬───────────────────────────────────────┤
-│ 4TH TURNING         │ CHANGING WORLD ORDER│ 6TH KONDRATIEV WAVE │ ACCELERATING RETURNS & SINGULARITY    │
-│ (Generational/Civic)│ (Hegemony/Monetary) │ (Industrial/Capital)│ (Cognitive/Computational)             │
-├─────────────────────┼─────────────────────┼─────────────────────┼───────────────────────────────────────┤
-│ • Climax Phase      │ • Late Stage 5/6    │ • 6th Wave Install  │ • Double-Exponential Compute Scaling  │
-│ • Institutional     │ • Sovereign Debt    │ • Perez Frenzy Phase│ • Recursive Algorithmic Improvement   │
-│   Breakdown         │   Monetization      │ • Creative          │ • AGI Threshold (2026–2029)           │
-│ • Civic Polarization│ • Multipolar Clash  │   Destruction of    │ • Transition to Post-Human Cognitive  │
-│ • Total Rebuilding  │ • Reserve Currency  │   Legacy White-     │   Superintelligence Horizon           │
-│   of the Social     │   Fragmentation     │   Collar Systems    │   (10^26 -> 10^29 Cumulative FLOPs)   │
-│   Contract          │   (BRICS+/Bilateral)│                     │                                       │
-└─────────────────────┴─────────────────────┴─────────────────────┴───────────────────────────────────────┘
-```
+This edition of the synthesis implements Step 15 of the repository remediation program: every central claim has been reconciled against the remediated domain reports, the claim register (`review/CLAIM_REGISTER.csv`), the forecast register (`review/FORECAST_REGISTER.csv`), the Step 14 forecast audit (`review/FORECAST_AUDIT.md`), and the Revised Convergence Model (`review/REVISED_CONVERGENCE_MODEL.md`). The full claim-by-claim disposition is recorded in `review/SYNTHESIS_RECONCILIATION_MATRIX_STEP15.md`, and the change rationale in `review/SYNTHESIS_CHANGELOG_STEP15.md`.
+
+### The Central Finding, Restated with Its Evidential Status
+
+The repository's earlier editions asserted a **deterministic "Synchronous Climax"**: that five independent macro-cycles would mechanically reach terminal crisis inside the 2026–2035 window, with dated AGI (2026–2029) and ASI (2032–2035) arrival. That formulation is **not supported by the repository's own audited evidence** and is removed as a conclusion:
+
+- The Step 14 forecast audit found that no measurable joint convergence event, threshold set, or scoring rule was ever pre-registered, so the composite thesis is not a scoreable forecast (`F14-001`).
+- The cross-domain relationship audit classified the exact synchronous-climax timing claim as a superficial analogy rather than a grounded causal inference (`review/CROSS_DOMAIN_MATRIX.md`, Section 2).
+- The repository assigns **no probability** to any dated convergence, AGI, or ASI event of its own. External forecasts are cited only under their own definitions and conditionality.
+
+What the evidence does support is a set of **four verified structural pillars** (Section 1) and a set of **cross-domain interactions of graded strength** (Section 2), some mechanistic and some hypothesized. The 2026–2035 decade is analyzed as a period in which several independently documented pressures — sovereign debt saturation, exponential compute growth, institutional trust erosion, and early migration toward verifiable settlement infrastructure — develop concurrently and may interact. That concurrence is a **research scenario**, tracked through four competing scenarios (Section 5) with explicit falsification thresholds (Section 7), not a predicted climax.
 
 ---
 
-## 1. Structural Mechanics of the Five Foundation Frameworks
+## 1. The Five Foundation Frameworks as Analytical Heuristics
+
+Each framework is presented with its mechanism and its current epistemic status in this repository. Generational and long-wave periodizations are treated as **heuristic organizing devices**, not deterministic clocks; the compute and fiscal series are treated as **empirical measurements**.
 
 ### 1.1 Strauss & Howe: The Fourth Turning & Generational Dynamics
-Strauss and Howe (1997) demonstrate that Anglo-American history over the past six centuries follows an ~80-to-100-year *saeculum* (the length of a biological human lifetime), divided into four cyclical ~20-to-25-year turnings:
-1. **The High (1st Turning)**: Strong institutions, weak individualism, high social cohesion (e.g., Post-WWII Truman/Eisenhower era, 1946–1964).
-2. **The Awakening (2nd Turning)**: Cultural revolt against institutional conformity, high spiritual and individualistic passion (e.g., Consciousness Revolution, 1965–1984).
-3. **The Unraveling (3rd Turning)**: Cynicism toward institutions, radical individualism, decay of public trust, cultural fragmentation (e.g., Culture Wars, 1984–2008).
-4. **The Crisis (4th Turning)**: Catastrophic catalyst initiates total institutional collapse, civic emergency, war or existential peril, culminating in a climactic struggle that destroys the old institutional order and births a new High (e.g., American Revolution 1773–1781; Civil War 1860–1865; Great Depression & WWII 1929–1945; Global Financial Crisis to present, 2008–2032+).
 
-In the Crisis phase, society loses its institutional guardrails. The generational archetypes occupy specific life stages:
-- **Prophets (Baby Boomers)**: Aging senior leaders who refuse compromise, steering society into principled ideological warfare.
-- **Nomads (Generation X)**: Pragmatic, cynical mid-life managers executing real-world survival strategies in a broken system.
-- **Heroes (Millennials)**: The civic generation tasked with collective mobilization, institutional reconstruction, and bearing the physical/economic burdens of the crisis.
-- **Artists (Generation Z & Alpha)**: Over-protected youths coming of age in an era of acute collective danger, shaped by societal trauma.
+Strauss and Howe (1997) describe Anglo-American history as a sequence of ~80–100 year *saecula*, each divided into four turnings (High, Awakening, Unraveling, Crisis), with recurring generational archetypes (Prophet, Nomad, Hero, Artist) moving through life stages. In their schema the current Crisis era began with the 2008 Global Financial Crisis and resolves into a new institutional order.
 
-The Fourth Turning reaches its **Climax** when an existential challenge forces a decisive, irreversible mobilization where the survival of the civilization is on the line.
+**Epistemic status in this repository: heuristic, with material empirical qualifications.**
+- The framework's internal chronology is looser than its reputation suggests: the five completed Anglo-American saecula range from 71 to 110 years (SD ≈ 16.7 years), and turning durations vary widely (`CLM-S13-02`).
+- Independent reviews by the National Academies (2020) and Pew (2023) find no scientific consensus that generational categories explain social outcomes once age and period effects are separated (`CLM-S13-04`).
+- Demographic data show only one genuine fertility discontinuity in the 20th-century United States (the 1946–1964 baby boom); fertility does not track the claimed turning boundaries (`CLM-S13-01`).
+- The strongest empirical echo of the framework is institutional trust erosion: Pew/NES data record U.S. federal trust falling from 77% (1964) to 17% (September 2025), with no trust rebuilding during the claimed Millennial Crisis era (`CLM-S13-03`; Gallup institutional confidence series in `CLM-005`). This is real evidence of institutional decay, but it does not validate the saeculum's timing mechanism.
 
 ### 1.2 Ray Dalio — The Big Cycle of Empires and Reserve Currencies
-Ray Dalio's econometric analysis of Dutch, British, and American hegemonies demonstrates an empirical 100-to-250-year Big Cycle comprising three distinct structural stages:
-- **The Rise (Stage 1 to 3)**: Low debt, high productivity, strong education, rule of law, technological innovation, expanding share of global trade, and the establishment of global military and financial dominance.
-- **The Top (Stage 4)**: The empire gains global reserve currency status, allowing it to borrow cheaply. However, prosperity breeds uncompetitiveness; debt begins rising faster than real incomes; consumption outstrips production; and a massive gap emerges between the rich and the poor.
-- **The Decline (Stage 5 and 6)**:
-  - *Stage 5 (Internal Disorder)*: Heavy debt burdens coincide with extreme wealth and values gaps, leading to severe political polarization, populism, and breakdown of the rule of law. Central banks resort to aggressive debt monetization and currency debasement.
-  - *Stage 6 (External Disorder / War)*: A rising power (historically: Britain vs. Netherlands, Germany/US vs. Britain, China vs. US) challenges the declining empire. The collision manifests across five distinct wars: Trade/Economic War, Technology War, Geopolitical/Proxy War, Capital/Currency War, and Military War.
 
-The United States entered late Stage 5 following the 2008 GFC, accelerated post-2020 by unprecedented fiscal deficits, quantitative easing, and the emergence of China as a near-peer industrial and technological challenger.
+Dalio's analysis of Dutch, British, and American hegemonies identifies a long debt-and-power cycle: rise, reserve-currency top, and decline marked by debt saturation, internal polarization, and external challenge (Dalio, 2021; Gilpin, 1981).
+
+**Epistemic status: framework with strong current empirical anchors.**
+- U.S. debt held by the public reached 99.0% of GDP ($28.2T) in FY2024; gross federal debt reached 122.4% of GDP. The WWII public-debt peak (106%, 1946) is crossed in the early 2030s under baseline projections, not yet (`CLM-003`).
+- FY2024 net interest outlays were $882.0B (~3.06% of GDP), exceeding national defense spending (`CLM-002`). CBO's October 2026 review estimates a $2.0T FY2026 deficit and projects public debt from 100.6% of GDP in 2026 to 120.2% in 2036 under the February 2026 baseline, with explicit higher-rate sensitivity scenarios (`F14-010`).
+- The U.S. dollar share of allocated foreign-exchange reserves declined from ~71% (2000) to ~58% (2024–2025) per IMF COFER (`CLM-001`); the 2026Q2 reading was 56.70%, down from 57.18% in 2026Q1 — a single quarterly move, not by itself a regime break (`F14-007`).
+- Central banks bought over 1,000 net tonnes of gold in each of 2022, 2023, and 2024, moderating to 863.3t in 2025; 2026 year-to-date reported purchases were 170t through August, an incomplete-year figure (`CLM-004`, `F14-008`).
+
+These series document fiscal pressure and gradual reserve diversification. They do not, on current evidence, establish imminent debt monetization, yield-curve control, or dollar collapse; CBO's own publications frame such outcomes as scenarios, not forecasts (`F14-010`).
 
 ### 1.3 Kondratiev & Perez: Long Waves and Techno-Economic Paradigms
-Nikolai Kondratiev (1926), Joseph Schumpeter (1939), and Carlota Perez (2002) identified 50-to-60-year macroeconomic super-cycles driven by the systemic cluster deployment of foundational general-purpose technologies (GPTs):
-1. **1st Wave (1780–1840)**: Steam engines, textiles, iron.
-2. **2nd Wave (1840–1890)**: Railways, Bessemer steel, telegraph.
-3. **3rd Wave (1890–1940)**: Electricity, chemical engineering, internal combustion engine.
-4. **4th Wave (1940–1990)**: Petrochemicals, automobiles, mass assembly-line production, commercial aviation.
-5. **5th Wave (1990–2025)**: Microelectronics, personal computing, software, the Internet, mobile networks.
-6. **6th Wave (2025–2080+)**: Artificial Intelligence, Autonomous Robotics, Synthetic Biology, Quantum Computing, and Advanced Clean Energy (Fusion/Advanced Fission).
 
-Perez's structural model indicates that technological revolutions typically unfold in two distinct 25-to-30-year halves separated by a tumultuous **Turning Point**:
-- **Installation Period**:
-  - *Irruption*: Novel technology emerges; visionary entrepreneurs drive early breakthroughs.
-  - *Frenzy*: Financial capital decouples from production capital; massive speculative bubbles emerge (e.g., Railway Mania of 1840s, Roaring Twenties Radio/Auto bubble, Dot-com Bubble of 1999, Generative AI CapEx bubble of 2023–2027).
-- **The Turning Point**: A systemic financial crash, regulatory reckoning, and political crisis where society wrestles with the monopolistic and labor-displacement effects of the new technology.
-- **Deployment Period**:
-  - *Synergy & Maturity (Golden Age)*: State regulation re-anchors financial capital to production capital, spreading productivity across the entire real economy until saturation occurs.
+Kondratiev (1926), Schumpeter (1939), and Perez (2002) describe 45–60 year techno-economic waves driven by clusters of general-purpose technologies, each with an installation phase (irruption and financial frenzy) and a deployment phase separated by a turning point.
 
-The world is currently crossing from late Irruption into the **Peak Frenzy of the 6th Kondratiev Wave**, characterized by historic semiconductor capital expenditures ($500B+ annually in datacenters and chips) unmoored from short-term software revenues.
+**Epistemic status: heuristic with contested empirics.**
+- Long-wave periodicity is prominent in pre-1945 commodity price series but contested in real output series, where filtering can manufacture apparent cycles (the Slutsky–Yule critique; `CLM-S13-06`).
+- Major chronologies disagree on modern wave dating: proposed start dates for a "sixth wave" range from 1971 to 2020 across Kondratiev, Schumpeter, Perez, Smihula, and Nefiodow (`CLM-S13-07`). This repository therefore does not assert a current wave phase as fact; claims such as "the world is entering the Peak Frenzy of the 6th K-Wave" are retained only as one periodization among several.
+- Historical installation waves show long and variable gestation lags (18–37 years across the 1840s Railway Mania, 1920s boom, and 1990s dot-com cases), and real-time recognition of turning points is systematically poor (`CLM-S13-05`, `CLM-S13-08`).
 
 ### 1.4 Kurzweil: The Law of Accelerating Returns (LoAR)
-Ray Kurzweil (2001, 2005) demonstrated that technological evolution is an evolutionary process that creates positive feedback loops: the resources and knowledge generated by one stage are directly leveraged to accelerate the subsequent stage. This produces **double-exponential growth** in price-performance, capacity, and density across information technologies.
 
-Crucially, Kurzweil formalized that Moore’s Law is merely the **Fifth Paradigm** of computational evolution:
-1. Electromechanical calculating machines (e.g., 1890 Hollerith tabulators)
-2. Relay-based computers (e.g., 1940s Bell Labs machines)
-3. Vacuum tube systems (e.g., 1950s ENIAC, UNIVAC)
-4. Discrete transistor mainframes (e.g., 1960s IBM 7090)
-5. Integrated circuit silicon microchips (e.g., 1970s–present)
-6. Emerging paradigms: 3D multi-die packaging, optical computing, and quantum neuromorphic systems.
+Kurzweil (2001, 2005) argues that information technologies improve exponentially in price-performance, jumping across successive hardware paradigms when each saturates.
 
-When one paradigm approaches physical or economic limits, capital and research naturally jump to a successor paradigm. Because compute drives the rate of scientific R&D itself, the doubling time of human technological capability continues to compress:
-- A century of progress at today's rate will unfold in under two decades in the early 21st century, and eventually within months as cognitive labor itself is mechanized.
+**Epistemic status: partially verified at the level of compute, unverified at the level of the economy.**
+- Verified: frontier training compute scaled from ~10^18 FLOP (2010) to >10^26 FLOP (2024–2025), a doubling time of roughly 4–5 months (Epoch AI / Sevilla et al.; `CLM-006`, `CLM-228`, `CLM-S13-14`). Algorithmic efficiency improves on its own trajectory, with doubling times around 8–9 months in deep learning (Erdil & Besiroglu 2022, 2023; `CLM-S13-15`). Epoch AI projections consider ~2×10^29 FLOP training runs technically feasible by 2030, while U.S. data-center electricity use is projected by LBNL to rise from 176 TWh (2023) to 325–580 TWh by 2028 (`CLM-S13-12`).
+- Verified constraints: the Landauer bound (~2.87×10^-21 J/bit) sits roughly nine orders of magnitude below current hardware efficiency, Dennard scaling ended around 2007–2012, and sustaining Moore-era trajectories has required ~18x growth in research effort (Bloom et al., 2020; `CLM-S13-10`, `CLM-S13-11`).
+- Unverified at macro scale: U.S. nonfarm labor productivity averaged 2.1% annually over 1948–2025 and decelerated to ~1.5% after 2005 — no economy-wide growth takeoff is visible in the aggregate series (`CLM-S13-13`). BLS reported 1.4% annualized quarterly growth and 2.2% year-over-year for 2026Q2, with no AI attribution (`F14-009`). Compute exponentialism and economic exponentialism are different claims; the first is measured, the second is not.
 
-### 1.5 Vinge, Bostrom, Yudkowsky: The Technological Singularity
-The Singularity marks the point where machine intelligence surpasses biological human cognition across all domains, creating a feedback loop of **Recursive Self-Improvement** (Good, 1965; Vinge, 1993):
+### 1.5 Vinge, Good, Bostrom: The Technological Singularity
+
+The Singularity hypothesis holds that machine intelligence surpassing human cognition could trigger recursive self-improvement (Good, 1965; Vinge, 1993). The repository's formalization:
 
 $$\frac{dI}{dt} = \alpha \cdot I(t)^\gamma \cdot C(t)^\beta$$
 
-Where:
-- $I(t)$ is effective algorithmic intelligence.
-- $C(t)$ is available training and inference compute.
-- $\gamma$ is the recursive self-improvement coefficient.
-- $\beta$ is the compute-scaling elasticity.
+where $I(t)$ is effective algorithmic capability, $C(t)$ is available compute, $\gamma$ is the recursive self-improvement coefficient, and $\beta$ the compute elasticity. The mathematics is conditional: $\gamma = 1$ yields exponential growth without finite-time divergence ($I(t) = I_0 e^{\alpha t}$); a finite-time singularity requires super-critical feedback $\gamma > 1$, with divergence time $t^* = t_0 + \frac{I_0^{1-\gamma}}{\alpha(\gamma - 1)}$. No empirical estimate of $\gamma$ near or above 1 exists; this is a conceptual model, not a fitted one.
 
-Mathematically, the trajectory of recursive self-improvement depends strictly on the value of $\gamma$:
-- **Sub-critical ($\gamma < 1.0$)**: Sub-exponential growth where returns diminish without exogenous inputs.
-- **Critical ($\gamma = 1.0$)**: Pure exponential growth ($I(t) = I_0 e^{\alpha t}$); cognitive capability grows exponentially without bound over infinite time, but does not diverge in finite time.
-- **Super-critical ($\gamma > 1.0$)**: Hyper-exponential growth leading to a formal **finite-time mathematical singularity** (*intelligence explosion* or hard takeoff) at $t^* = t_0 + \frac{I_0^{1-\gamma}}{\alpha(\gamma - 1)}$, where capabilities diverge to infinity in finite time unless constrained by physical limits.
+**Epistemic status of timelines: externally sourced, mutually incomparable, none adopted by this repository.**
+- METR's task-completion time horizon — the human-expert task duration at which a model succeeds at stated reliability — doubled from roughly 12–15 minutes (GPT-4, 2023) to ~4h49m (Opus 4.5, November 2025), ~12h (Opus 4.6, February 2026), and ~17h (Mythos Preview, April 2026), but METR warns measurements above 16 hours exceed its current suite's reliable range, the page is no longer actively updated, and the metric is not a measure of autonomous work duration or job automation (`CLM-007`, `F14-002`).
+- LEAP Wave 8 (survey collected April–May 2026) reports an expert conditional median of 2050 for its defined AGI event (25th–75th percentile years 2039–2065), conditional on a majority of its panel agreeing AGI exists before 2100 (`F14-003`).
+- The live Metaculus Q5121 page displayed an estimate of 23 September 2030 on 1 November 2026; its full resolution criteria were not verifiable in the extracted page text, and its definition is not interchangeable with LEAP's (`F14-004`).
+- The cited AGI-to-ASI literature (Genewein et al., 2026) maps pathways and bottlenecks qualitatively and supplies no dated ASI forecast (`F14-005`).
 
-Nick Bostrom (2014) and Eliezer Yudkowsky (2008) demonstrate that this transition presents an existential governance and alignment challenge: once an unaligned agent attains strategic cognitive dominance, human institutional interventions become mathematically powerless to arrest the trajectory.
+Earlier repository editions stated AGI arrival in 2026–2029 and ASI horizons by 2032–2035 as conclusions. Those dates are removed: they conflated sources with different definitions and were not this repository's elicited forecasts.
 
 ---
 
-## 2. Dynamic Inter-Cycle Feedback Coupling Mechanisms
+## 2. Cross-Domain Interactions: Mechanisms, Hypotheses, and Counterforces
 
-The core insight of the Convergence repository is that these five models do not proceed down separate tracks. They form a coupled non-linear dynamical system where each cycle serves as an accelerator or destabilizer for the others:
+The claim that the five frameworks form a *coupled system* is the synthesis's distinctive contribution — and its most vulnerable one. This section grades each proposed interaction, keeps capability, deployment, economic impact, and institutional effects distinct, and avoids converting co-movement into causation. Qualitative confidence labels follow the forecast register's usage: *established* (directly measured), *plausible* (supported mechanism with material counterforces), *speculative* (hypothesis without decisive evidence).
 
-```
-                            ┌────────────────────────────────────┐
-                            │    LAW OF ACCELERATING RETURNS     │
-                            │   Double-Exponential Compute Base   │
-                            └─────────────────┬──────────────────┘
-                                              │ [Vector 1]
-                                              ▼
-                            ┌────────────────────────────────────┐
-                            │        6TH KONDRATIEV WAVE         │
-                            │   AI/Robotics Installation Frenzy   │
-                            └─────────┬────────────────┬─────────┘
-                                      │                │
-                        [Vector 2]    │                │    [Vector 4]
-                        ┌─────────────┘                └─────────────┐
-                        ▼                                             ▼
-          ┌───────────────────────────┐                 ┌───────────────────────────┐
-          │      THE 4TH TURNING      │                 │   CHANGING WORLD ORDERS   │
-          │ Civic Institutional Crisis│                 │ Sovereign Debt & Hegemonic│
-          │ & Generational Realignment│                 │ Conflict (US vs. China)   │
-          └─────────────┬─────────────┘                 └─────────────┬─────────────┘
-                        │                                             │
-                        └──────────────────────┬──────────────────────┘
-                                               │ [Vector 5]
-                                               ▼
-                            ┌────────────────────────────────────┐
-                            │      TECHNOLOGICAL SINGULARITY     │
-                            │      Terminal Takeoff Horizon      │
-                            └────────────────────────────────────┘
-```
+### 2.1 Compute Scaling → AI Task Capability — *established mechanism*
+- **Pathway**: more training compute and better algorithms produce measurable capability gains on benchmark distributions.
+- **Supporting**: Epoch AI compute series (`CLM-006`); METR horizon series (`CLM-007`).
+- **Conflicting/limits**: benchmark saturation and the METR ≤16h reliability ceiling (`F14-002`); data, power, and interconnect constraints (`CLM-S13-12`).
+- **Timescale**: continuous, observed monthly-to-yearly. **Falsification**: training compute growth flattens below ~2x over 3 years without algorithmic substitutes, and METR-style horizons stall at or below 16 hours through 2027–2028.
 
-### Vector 1: Compute Acceleration (LoAR) Powers 6th K-Wave Installation
-The exponential drop in FLOP cost enables hyperscale cloud providers to deploy gigawatt-scale AI infrastructure. Compute ceases to be an office tool and becomes the foundational primary capital asset of the global economy, directly triggering the Perez Frenzy phase.
+### 2.2 AI Capability → Deployment and Economic Impact — *plausible, contested*
+- **Pathway**: benchmark capability diffuses into workflows, then appears in output-per-hour statistics.
+- **Supporting**: rapid enterprise adoption of AI assistants; agentic workflow tooling; sector case evidence in the LoAR and Singularity dossiers.
+- **Conflicting**: aggregate productivity shows no AI-attributable acceleration (`CLM-S13-13`, `F14-009`); historical general-purpose technologies took decades to show in productivity (Solow paradox); METR explicitly does not measure economy-wide automation (`F14-002`).
+- **Timescale**: years to decades. **Falsification**: sustained, attributable cross-sector productivity gains ahead of capability forecasts would confirm the coupling; continued flat aggregate productivity alongside rising benchmark scores would weaken it.
 
-### Vector 2: 6th K-Wave Cognitive Disruption Catalyzes 4th Turning Crisis
-Unlike the 5th Wave (which displaced blue-collar clerical workers while enriching credentialed knowledge workers), the 6th K-Wave automates white-collar analysis, legal drafting, software engineering, and corporate management. This eviscerates the economic foundations of the middle and upper-middle classes, hyper-accelerating institutional alienation, populist fury, and the radical generational mood of the Fourth Turning.
+### 2.3 Sovereign Debt Saturation → Reserve Diversification — *established mechanism, gradual*
+- **Pathway**: high debt stocks with $r > g$ raise carrying costs, incentivizing reserve managers to diversify away from unipolar fiat concentration.
+- **Supporting**: COFER decline from ~71% to 56.70% (`CLM-001`, `F14-007`); central-bank gold accumulation (`CLM-004`, `F14-008`); FY2024–FY2026 CBO/Treasury fiscal series (`CLM-002`, `CLM-003`, `F14-010`).
+- **Conflicting**: no viable successor reserve asset at scale; RMB shares remain small under capital controls; diversification has flowed to non-traditional currencies and gold rather than a peer replacement (`CLM-001` counterevidence). This is slow de-dollarization, not collapse.
+- **Timescale**: multi-decade. **Falsification**: USD reserve share sustainably rebounds above 65%, or public debt-to-GDP stabilizes below 85% by 2030.
 
-### Vector 3: 4th Turning Civic Fracture Triggers Dalio's Stage 6 Sovereign Debt Climax
-A deeply polarized electorate incapable of civic consensus cannot enact fiscal discipline or entitlement reform. To stave off internal rebellion and maintain voter allegiance, the declining hegemon issues trillion-dollar deficits annually, forcing the central bank to monetize the debt. This accelerates currency debasement, loss of reserve currency purchasing power, and capital flight into hard assets.
+### 2.4 Institutional Trust Erosion ↔ Information Environment — *plausible feedback, confounded*
+- **Pathway**: cheap synthetic media and fragmented information channels erode shared institutional verification; eroded trust further fragments the information environment.
+- **Supporting**: Pew/NES trust series 77% → 17% (`CLM-S13-03`); Gallup institutional confidence at historic lows (`CLM-005`).
+- **Conflicting**: trust decline long predates generative AI; polarization, media business models, and institutional performance are independent drivers; cryptographic provenance standards (e.g., C2PA) could partially restore verification.
+- **Timescale**: decadal. **Falsification**: institutional confidence rebounds (e.g., Congress above 25%, or the presidency–Congress–Court triad averaging above 40%) amid unrestricted generative AI diffusion.
 
-### Vector 4: Geopolitical Thucydides Trap Enforces Unconstrained AI Race
-As China directly challenges American naval dominance in the Western Pacific and economic dominance in the Global South, Artificial Intelligence is recognized as the ultimate offset technology. The nation that achieves AGI first commands automated cyberwarfare, self-directed autonomous drone swarms, automated cryptanalysis, and hyper-accelerated weapons design. Consequently:
-- Neither superpower can afford to pause or slow down compute scaling.
-- Frontier AI safety treaties fail due to the classic Prisoner's Dilemma.
-- The geopolitical struggle guarantees maximal, unconstrained compute allocation into frontier training runs.
+### 2.5 Geopolitical Rivalry → Accelerated AI Development — *plausible hypothesis*
+- **Pathway**: U.S.–China competition frames frontier AI as strategic, pushing sovereign capital and export-control policy toward maximal domestic capability.
+- **Supporting**: sovereign compute subsidies and export-control regimes documented in the CWO and Singularity dossiers; China at ~130% of U.S. GDP in PPP terms (`CLM-083`).
+- **Conflicting**: states also regulate defensively (licensing, safety regimes, EU AI Act-style frameworks); alliance-level coordination on compute governance is under active negotiation; power-transition theory shows parity between satisfied powers has historically been peaceful (`CLM-081`, `CLM-136`).
+- **Timescale**: years. **Falsification**: durable, verified multilateral limits on frontier training compute with high-compliance monitoring.
 
-### Vector 5: The Geopolitical Compute Race Drives the Singularity Horizon
-Sovereign capital pouring hundreds of billions of dollars into datacenter grids, advanced lithography (EUV/High-NA), and nuclear energy complexes forcibly compresses the AGI development timeline. The geopolitical rivalry acts as an external forced accelerator, driving recursive self-improvement models toward a hard or medium takeoff within the 2026–2032 window.
+### 2.6 Autonomous Agents → Verifiable Settlement Infrastructure — *plausible hypothesis*
+- **Pathway**: non-human economic agents cannot hold conventional bank accounts, creating functional demand for key-based, programmable settlement.
+- **Supporting**: tokenized Treasury and cash-equivalent growth from ~$100M (2022) to over $2.5B (2026) (`CLM-008`); institutional deployments (BlackRock BUIDL, Franklin Templeton BENJI); RWA.xyz recorded $39.17B distributed and $398.06B represented asset value on 1 November 2026 — two distinct metrics, neither equivalent to liquid settlement volume (`F14-006`).
+- **Conflicting**: over 98% of FX settlement remains on SWIFT/Fedwire/CHIPS; frontier labs can clear agent payments inside proprietary ledgers; sovereign CBDCs and permissioned chains may absorb the demand.
+- **Timescale**: years to decades. **Falsification**: regulated tokenized assets stagnate below ~$25B through 2028, or autonomous agents achieve scale exclusively on traditional banking APIs.
+
+### 2.7 Generational and Long-Wave Coupling to the Above — *speculative*
+- **Pathway**: proposed harmonic synchronization between ~80-year saecula, ~50–60-year long waves, and the current technology transition.
+- **Assessment**: this is the weakest link in the framework. Wave dating is contested (`CLM-S13-07`), sentiment data show no autonomous 50-year cycle (`CLM-S13-09`), and exact multi-cycle synchronization is a pattern-matching risk (apophenia) rather than an inference (`review/CROSS_DOMAIN_MATRIX.md`, Section 2). Retained only as an interpretive lens, not a load-bearing claim.
 
 ---
 
 ## 3. Macro-Historical Comparative Chronology (1780 – 2035)
 
-The historical validity of multi-cycle synchronicity is demonstrated by comparing the current era with prior historical convergences:
+The table below compares eras in which several frameworks simultaneously had something to say. It is retained as **historical analogy**, with two caveats: crisis-dense history can be partitioned to fit almost any cycle, and the final row describes scenarios under observation, not a scheduled outcome.
 
-| Epoch | 4th Turning Era | Hegemony Era | Kondratiev Wave | Primary Technological Paradigm | Systemic Resolution |
+| Epoch | Generational Framework | Hegemony Framework | Long-Wave Framework | Dominant Technologies | Historical Resolution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1780–1815** | American & French Revolutions Crisis Climax | Dutch Decline $\to$ British Ascendancy (Napoleonic Wars) | **1st Wave (Winter $\to$ Spring)** | Stationary Steam, Spinning Jenny, Puddled Iron | Defeat of Napoleon; Congress of Vienna; British financial and industrial supremacy locked in. |
-| **1860–1875** | US Civil War; European Consolidation (Bismarck) | British *Pax Britannica* Peak Dominance | **2nd Wave (Autumn $\to$ Winter)** | Steam Railways, Bessemer Steel, Transatlantic Telegraph | Union victory; preservation of the American continental market; total industrialization of warfare. |
-| **1929–1945** | Great Depression $\to$ World War II Climax | British Hegemonic Collapse $\to$ US *Pax Americana* Rise | **3rd Wave (Winter $\to$ Spring)** | Electrification, Automobile Assembly, Petrochemicals, Radio | Bretton Woods monetary system (Gold-Dollar); UN/NATO architecture; atomic energy deployment. |
-| **1968–1982** | Consciousness Awakening (2nd Turning) | US Hegemonic Stress (Vietnam, Stagflation, Nixon Shock) | **4th Wave (Summer $\to$ Autumn)** | Transistor Mainframes, Petrochemicals, Nuclear Power, Jet Aviation | End of Bretton Woods gold peg (1971); Petrodollar framework established; Volcker interest rate shock. |
-| **2008–2025** | Fourth Turning Initiated (GFC, Populist Rise) | Late Stage 5: US Fiscal Stress, Rise of China/BRICS | **5th Wave (Maturity) $\to$ 6th Wave (Irruption)** | Personal Computing, Mobile Internet, Cloud, Early Deep Learning | Zero-interest-rate regime; global asset bubbles; geopolitical revanchism (Ukraine, Middle East, Taiwan tension). |
-| **2026–2035** | **Fourth Turning Climax & Institutional Rebirth** | **Dalio Stage 6: Monetary Reset & Multipolar Conflict** | **6th Wave Installation & Frenzy Phase** | **AGI / ASI, Autonomous Robotics, Synthetic Bio, Fusion** | **The Great Convergence: Reconstitution of sovereign currencies, global balance of power, and human cognitive primacy.** |
+| **1780–1815** | Revolutionary crisis era | Dutch decline, British ascendancy | 1st wave (steam, textiles, iron) | Stationary steam, iron | Congress of Vienna; British industrial-financial supremacy |
+| **1860–1875** | Civil War crisis era | Pax Britannica peak | 2nd wave (rail, steel, telegraph) | Railways, Bessemer steel | Union victory; industrialized warfare |
+| **1929–1945** | Depression/WWII crisis era | British collapse, U.S. rise | 3rd wave (electricity, chemicals, ICE) | Electrification, assembly line | Bretton Woods; UN/NATO; atomic energy |
+| **1968–1982** | Awakening era | U.S. stress (Vietnam, Nixon Shock) | 4th wave (petrochemicals, autos) | Mainframes, jets, nuclear | End of gold peg; petrodollar; Volcker shock |
+| **2008–2025** | Claimed Fourth Turning (unresolved empirics) | Late-cycle U.S. fiscal stress; China's rise | 5th wave maturity; AI irruption | Internet, cloud, deep learning | Zero-rate era; asset inflation; multipolar tension |
+| **2026–2035** | Scenario window, not a dated climax | Debt saturation observed; monetization not established (Section 1.2) | Wave dating contested (Section 1.3) | AI scaling observed; economic impact unmeasured (Sections 1.4–1.5) | **Open: tracked through the four scenarios of Section 5** |
 
 ---
 
-## 4. Formal Mathematical Modeling of Takeoff and Systemic Fragility
+## 4. Formal Modeling as Conceptual Apparatus
 
-### 4.1 Coupled Non-Linear Takeoff Equations
-The velocity of civilizational change during Convergence can be represented as a formal system of coupled differential equations linking technological growth, societal institutional strain, and sovereign debt saturation:
+The repository's coupled-equation formalization is retained as a **conceptual model** — a compact statement of hypothesized dynamics — and not as an estimated or predictive system. No parameters below are fitted to data.
 
-1. **Algorithmic Cognitive Acceleration**:
+1. **Algorithmic efficiency**:
 $$\frac{dA}{dt} = \kappa_A \cdot A(t)^\theta \cdot \left(\frac{E(t)}{E_0}\right)^\mu$$
-Where $A(t)$ is algorithmic efficiency, $E(t)$ is dedicated compute energy (Gigawatts), and $\theta > 1$ represents recursive algorithmic self-optimization. In the idealized model where $\theta > 1$ and energy scaling remains unconstrained, this formulation produces finite-time divergence ($t^* = t_0 + \frac{A_0^{1-\theta}}{\kappa_A(\theta-1)}$). In physical systems, however, thermal dissipation bounds (Landauer limit: $E_{\min} = k_B T \ln 2$), von Neumann memory bandwidth walls, and grid interconnect latencies enforce logistic saturation.
+where $A(t)$ is algorithmic efficiency and $E(t)$ dedicated compute energy. If $\theta > 1$ with unconstrained inputs the equation diverges in finite time ($t^* = t_0 + \frac{A_0^{1-\theta}}{\kappa_A(\theta-1)}$); physical bounds (Landauer limit $E_{\min} = k_B T \ln 2$, memory bandwidth, grid interconnect) enforce saturation instead. The divergence case is a mathematical property, not an empirical finding.
 
-2. **Societal Institutional Stress Index ($S_{\text{inst}}$)**:
+2. **Institutional stress (conceptual index)**:
 $$\frac{dS_{\text{inst}}}{dt} = \lambda_1 \cdot \left|\frac{dA}{dt}\right| + \lambda_2 \cdot \left(\frac{\text{Debt}(t)}{\text{GDP}(t)}\right) - \delta \cdot \text{Cap}_{gov}(t)$$
-Institutional stress accelerates proportionally to the rate of technological change (labor displacement and information epistemic fragmentation) and sovereign debt saturation, attenuated only by governance capacity $\text{Cap}_{gov}(t)$.
+$S_{\text{inst}}$ is an unmeasured conceptual scalar summarizing how technological change and fiscal strain might compound institutional pressure, attenuated by governance capacity. It generates hypotheses, not numbers.
 
-3. **Macroeconomic Fragility Threshold**:
-When $S_{\text{inst}}(t) > S_{\text{crit}}$, formal institutional equilibrium becomes unstable, transitioning society from evolutionary adaptation to structural Fourth Turning restructuring and debt reorganization.
+3. **Threshold behavior**: the model posits that beyond some $S_{\text{crit}}$, incremental adaptation gives way to structural reorganization. Whether real institutions behave this way, and where any threshold lies, is precisely what the falsification framework (Section 7) is for.
 
 ---
 
-## 5. Strategic Roadmap: The Convergence Climax (2026–2035)
+## 5. Scenarios for 2026–2035
 
-### Phase 1: 2026–2028 (Installation Frenzy & Sovereign Debt Saturation)
-- **Macro**: US Federal debt interest payments surpass defense spending; Federal Reserve forced into structural yield curve control (YCC) or quantitative easing under fiscal dominance.
-- **Technology**: Reasoning-centric models achieve superhuman performance in software architecture, mathematics, and legal analysis. Autonomous agents handle 40%+ of enterprise digital workflows.
-- **Geopolitics**: BRICS+ deepens local-currency clearing systems and gold-backed settlement rails, gradually eroding dollar reserve hegemony.
-- **Social**: First wave of white-collar cognitive labor displacement sparks intense political backlash and regulatory friction.
+Replacing the deterministic phase roadmap of earlier editions, the repository tracks four scenarios from the forecast register (`F14-011` to `F14-014`). **No probabilities are assigned.** They are not mutually exclusive over the whole decade, and each lists observable indicators.
 
-### Phase 2: 2028–2031 (The Crucible: Cognitive Automation & Multipolar Climax)
-- **Technology**: The arrival of true Artificial General Intelligence (AGI)—systems capable of independently executing end-to-end scientific research, robotics engineering, and strategic intelligence.
-- **Geopolitics**: Acute flashpoints around Taiwan semiconductor supply chains and Gulf energy nodes. Sovereign states nationalize or place strict export controls on frontier datacenter clusters.
-- **Macro**: Traditional corporate tax bases erode as cognitive work is demonetized. Sovereign states face acute fiscal crises, accelerating currency debasement and inflation in hard physical assets.
-- **Fourth Turning**: The Crisis Climax reaches peak intensity. Generational mobilization demands a total rewiring of civic institutions and social safety nets.
+### Scenario A — Delayed Impact
+Capability gains continue on benchmarks while deployment and measured productivity lag because of integration, reliability, energy, regulatory, or organizational frictions.
+- **Indicators**: sector-level deployment rates; task-level reliability in production; data-center power delivery vs. announcements; revised BLS output-per-hour series.
 
-### Phase 3: 2031–2035 (Institutional Rebirth & The Singularity Horizon)
-- **Technology**: Early Artificial Superintelligence (ASI) architectures emerge through recursive algorithmic improvement. Material science breakthroughs in room-temperature superconductors, fusion confinement, and molecular manufacturing accelerate.
-- **Hegemony / Monetary**: Establishment of a post-dollar multipolar reserve framework, likely anchored to energy-backed digital protocols, gold reserves, and computational power quotas.
-- **Civilization**: The Fourth Turning resolves into a new institutional "High." Human society adapts to post-labor cognitive abundance or establishes radical post-biological governance protocols.
+### Scenario B — Partial Convergence
+Rapid change in selected digital tasks and financial rails while physical-world deployment, reserve composition, and institutions move on separate tracks.
+- **Indicators**: each domain series reported separately (METR-style horizons; COFER shares; RWA distributed value; CBO baselines; Gallup/Pew trust), with no averaging across unlike units.
+
+### Scenario C — Non-Convergence
+Capability growth plateaus or diffuses narrowly; fiscal and institutional indicators evolve through ordinary policy and market adjustment (including classic financial repression) rather than a common crisis mechanism.
+- **Indicators**: compute scaling flattening; stable debt-service dynamics under CBO baselines; reserve shares moving within recent ranges.
+
+### Scenario D — Rapid Coupling
+Capability growth, broad deployment, fiscal strain, and financial-rail adoption reinforce one another within the decade.
+- **Status**: a conditional research scenario only. Before it can be scored, it requires pre-registered domain thresholds, dates, lag structure, source series, and a reproducible joint test (`F14-001`, `F14-014`). Until then it must not be treated as the base case.
 
 ---
 
 ## 6. Macroeconomic and Institutional Capital Flow Dynamics
 
-### 6.1 Debt Saturation and Sovereign Balance Sheet Pressures
-In a late-stage Dalio long-term debt cycle intersecting with an installation-phase 6th Kondratiev Wave, sovereign balance sheets encounter acute fiscal constraints. As debt service requirements expand relative to tax revenues (e.g., US Federal net interest crossing $882B in FY2024), central banks and sovereign treasuries face the classic monetary trilemma between fiscal dominance, yield curve suppression, and currency depreciation. Paper fiat obligations experience real purchasing power degradation under chronic structural deficits, compelling institutional market participants to adjust duration exposure and discount rates across sovereign bond markets.
+### 6.1 Debt Saturation and Sovereign Balance Sheet Pressure
+U.S. federal net interest crossed $882B in FY2024, exceeding defense outlays, with public debt at 99.0% of GDP (`CLM-002`, `CLM-003`). CBO's October 2026 publications estimate a $2.0T FY2026 deficit and project public debt to 120.2% of GDP by 2036, with alternative interest-rate scenarios presented as sensitivities rather than forecasts (`F14-010`). The standard historical sovereign response to such pressure is financial repression — capping real returns and steering domestic balance sheets into sovereign debt — which can extend carrying capacity for decades; it is distinct from currency collapse, and neither monetization nor yield-curve control is established by current data (`F14-010` invalidating conditions).
 
-### 6.2 Macroeconomic Capital Flow Dynamics: Liquidity Shifts and Sovereign Flight to Hard Assets
-Rather than functioning as prescriptive portfolio guidance, the structural dynamics of the Convergence thesis project macroeconomic and institutional capital reallocations across four primary structural channels:
-1. **Sovereign Reserve Diversification**: Central banks structurally alter reserve composition away from unipolar fiat debt toward neutral physical reserves. This dynamic is empirically evidenced by sustained central bank gold acquisitions exceeding 1,000 tonnes annually from 2022 through 2024 and 863 tonnes in 2025 (World Gold Council), reflecting institutional de-dollarization and non-sovereign reserve accumulation.
-2. **Strategic Industrial Capital Expenditure & Choke-Point Concentration**: Corporate and state liquidity increasingly concentrates in the capital-intensive choke-points of the emerging techno-economic paradigm. Capital flows overwhelmingly prioritize semiconductor fabrication, advanced packaging, High-Bandwidth Memory (HBM), and specialized energy generation (nuclear baseload, grid modernization) required to sustain multi-gigawatt AI infrastructure.
-3. **Institutional Balance Sheet Tokenization & Verifiable Settlement**: Sovereign wealth funds and global asset managers migrate financial market plumbing toward cryptographically verifiable tokenized rails (such as tokenized US Treasuries, Franklin Templeton BENJI, and BlackRock BUIDL) to compress counterparty settlement latency, eliminate intermediary clearing risk, and enable continuous cross-border liquidity settlement.
-4. **Capital Flight from Fragile Currencies into Decentralized Verifiable Networks**: In jurisdictions experiencing severe currency debasement or capital controls, non-institutional and private capital flows display measurable shifts into permissionless cryptographic rails and mathematically capped digital networks as neutral stores of purchasing power.
+### 6.2 Structural Capital Flow Channels
+Four reallocations are documented, each with its evidential boundary:
+1. **Sovereign reserve diversification**: gradual shift toward gold and non-traditional currencies (Section 1.2). Gradual, measured, and incomplete for 2026 (`F14-008`).
+2. **Concentration in compute choke-points**: capital expenditure into semiconductor fabrication, advanced packaging, memory, and power infrastructure for AI (`CLM-S13-12`).
+3. **Institutional tokenization pilots**: tokenized Treasuries and funds growing from ~$100M (2022) past $2.5B (2026) (`CLM-008`); RWA.xyz distributed value $39.17B vs. represented value $398.06B (1 November 2026) — growth in issuance is not evidence of liquid secondary settlement (`F14-006`).
+4. **Private capital use of cryptographic rails in fragile-currency jurisdictions**: documented in the CWO dossiers as a jurisdictional, not global, phenomenon.
 
 ---
 
-## 7. Empirical Falsification Framework — Criteria for Thesis Invalidation
+## 7. Falsification and Pre-Registration Framework
 
-A rigorous macro-historical synthesis must specify the exact empirical conditions that would falsify its core hypotheses. The Convergence thesis makes concrete predictions regarding institutional decay, debt saturation, techno-economic cycle transitions, and cognitive automation. If observed real-world data systematically contradicts these trajectories over the 2026–2035 timeframe, the thesis is empirically invalidated.
+### 7.1 Quantitative Thresholds
+The thesis components carry explicit invalidation thresholds. Current observed values are from the Step 14 register (retrieval dates recorded there):
 
-### 7.1 Quantitative Invalidation Thresholds
-
-| Framework Domain | Metric / Indicator | Invalidation / Falsification Threshold | Epistemic Implication for Convergence |
+| Domain | Metric (current value) | Invalidation threshold | Implication if breached |
 | :--- | :--- | :--- | :--- |
-| **Dalio Imperial Debt Cycle** | US Federal Debt & Net Interest / GDP | Debt-to-GDP held by the public stabilizes below 85% by 2030 and net interest expense contracts below 2.0% of GDP without high inflation or debt restructuring. | Disproves Stage 6 sovereign debt saturation; affirms indefinite fiscal dominance and fiat stability. |
-| **Global Reserve Currency** | USD Share of Allocated FX Reserves (COFER) | USD share reverses its 25-year structural downtrend, sustainably rebounding above 65% of global allocated FX reserves. | Falsifies the multipolar reserve fragmentation thesis; re-establishes unipolar currency hegemony. |
-| **Kondratiev 6th Wave (Perez)** | Total Factor Productivity (TFP) & CAPEX | Global TFP growth across OECD economies stagnates below 0.5% through 2030 while enterprise generative AI CAPEX collapses >50% without replacement. | Falsifies the hypothesis that AI/robotics constitutes an expansive 6th techno-economic paradigm. |
-| **Law of Accelerating Returns (LoAR)** | Frontier Compute Scaling & Task Horizons | Training/inference compute growth flattens (<2x over 3 years) due to insurmountable data/power walls, and METR task horizons stall permanently at or below 16 hours through 2027–2028. | Invalidates exponential cognitive takeoff; establishes a sigmoid (S-curve) developmental ceiling. |
-| **Strauss & Howe 4th Turning** | Institutional Trust & Social Polarization | Gallup public confidence in the US Congress rebounds above 25% (or major civic triad—presidency, Congress, Supreme Court—averaging above 40%), and polarization indices drop to mid-20th-century baselines without a crisis climax. | Disproves the saecular Crisis resolution model; demonstrates institutional self-repair without systemic disruption. |
-| **Verifiable Trust Infrastructure** | Institutional Real-World Asset (RWA) Tokenization | Regulated on-chain tokenized securities and RWAs remain capped below $20B globally through 2030, abandoned in favor of legacy centralized clearinghouses (DTCC/Euroclear). | Falsifies the emergence of cryptographic systems as the institutional trust bridge of the 6th K-Wave. |
+| Sovereign debt cycle | U.S. public debt / GDP (100.6% in 2026, CBO baseline) | Stabilizes below 85% by 2030 with net interest under 2% of GDP, without high inflation or restructuring | Late-stage debt-saturation reading fails |
+| Reserve currency | USD share of allocated reserves (56.70%, 2026Q2) | Sustainable rebound above 65% | Reserve-fragmentation reading fails |
+| Institutional trust | Gallup confidence, Congress (~7–9%) | Rebound above 25%, or triad average above 40%, without a crisis | Crisis-era institutional reading fails |
+| Compute/capability | METR-style horizons (~12–17h, ceiling ~16h) | Plateau at or below 16h through 2027–2028 with compute growth under 2x per 3 years | Exponential-capability reading fails |
+| 6th-wave paradigm | OECD TFP growth; AI capex | TFP below 0.5% through 2030 with generative-AI capex collapse >50% and no replacement | New-paradigm reading fails |
+| Verifiable rails | Regulated tokenized RWA (distributed $39.17B) | Stagnation below $25B through 2028 | Settlement-migration reading fails |
 
-### 7.2 Methodological Governance
-Any single metric breach triggers an immediate re-evaluation of the specific sub-module. A simultaneous breach of three or more thresholds across both macro-debt and technological axes constitutes a definitive falsification of the Synchronous Climax Hypothesis.
+### 7.2 Governance Rules
+1. Any single breach forces re-evaluation of that module only.
+2. Simultaneous breach of three or more thresholds across both macro and technological axes invalidates the coupled-convergence research program as formulated.
+3. **Pre-registration**: no composite convergence score may be reported until domains, joint-event rule, thresholds, lags, source series, and a revision policy are registered in advance (`F14-001`). Retrospective pattern-matching does not count as confirmation.
+4. External forecasts (LEAP, Metaculus, and successors) are tracked under their own definitions and never pooled into a single repository estimate.
 
 ---
 
 ## 8. Master Repository Module Index
 
 This Master Synthesis integrates and directs the specialized research dossiers throughout the repository:
-- **The 4th Turning Dossiers**: [`4th Turning/`](4th%20Turning/) — Generational cohorts, saecular crises, and institutional cycles.
-- **Changing World Orders Dossiers**: [`Changing World Orders/`](Changing%20World%20Orders/) — The 18 power determinants, debt cycles, reserve currency rise and fall, and Thucydides traps.
-- **Kondratiev Waves Dossiers**: [`Kondratiev Waves/`](Kondratiev%20Waves/) — Long wave mechanics, Perez installation/deployment dynamics, and 6th wave innovation clusters.
-- **Law of Accelerating Returns Dossiers**: [`LoAR/`](LoAR/) — Exponential math, paradigm transitions, and hardware-algorithmic doubling rates.
-- **Technological Singularity Dossiers**: [`Technological Singularity/`](Technological%20Singularity/) — Cognitive takeoff speeds, recursive self-improvement models, alignment horizons, and post-biological transitions.
+- **The 4th Turning Dossiers**: [`4th Turning/`](4th%20Turning/) — generational cohorts, saecular crises, and institutional cycles.
+- **Changing World Orders Dossiers**: [`Changing World Orders/`](Changing%20World%20Orders/) — power determinants, debt cycles, reserve currency dynamics, and hegemonic rivalry.
+- **Kondratiev Waves Dossiers**: [`Kondratiev Waves/`](Kondratiev%20Waves/) — long-wave mechanics, Perez installation/deployment dynamics, and contested chronologies.
+- **Law of Accelerating Returns Dossiers**: [`LoAR/`](LoAR/) — compute scaling, paradigm transitions, and hardware-algorithmic doubling rates.
+- **Technological Singularity Dossiers**: [`Technological Singularity/`](Technological%20Singularity/) — takeoff models, capability measurement, alignment, and governance.
+
+Step 15 reconciliation artifacts:
+- **Claim-to-source reconciliation matrix**: [`review/SYNTHESIS_RECONCILIATION_MATRIX_STEP15.md`](review/SYNTHESIS_RECONCILIATION_MATRIX_STEP15.md)
+- **Synthesis change log**: [`review/SYNTHESIS_CHANGELOG_STEP15.md`](review/SYNTHESIS_CHANGELOG_STEP15.md)
+- **Unresolved contradictions and evidence gaps**: [`review/UNRESOLVED_CONTRADICTIONS_STEP15.md`](review/UNRESOLVED_CONTRADICTIONS_STEP15.md)
 
 ---
 
 ## 9. References & Academic Bibliography
+- Armstrong, Stuart, & Sotala, Kaj. (2015). "How We're Predicting AI — or Failing To." *AAAI Workshops*.
+- Bloom, Nicholas, Jones, Charles I., Van Reenen, John, & Webb, Michael. (2020). "Are Ideas Getting Harder to Find?" *American Economic Review*, 110(4), 1104–1144.
 - Bostrom, Nick. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
-- Dalio, Ray. (2021). *Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail*. Avid Reader Press.
+- Congressional Budget Office. (2026). *Monthly Budget Review: September 2026*; and *Projections of Deficits and Debt Under Two Scenarios With Higher Interest Rates*. October 8, 2026.
+- Dalio, Ray. (2021). *Principles for Dealing with the Changing World Order*. Avid Reader Press.
+- Erdil, Ege, & Besiroglu, Tamay. (2022, 2023). "Algorithmic Progress in Computer Vision" and "Challenging the Orthogonality Thesis." Epoch AI.
+- Genewein, Tim, et al. (2026). "From AGI to ASI." arXiv:2606.12683v2, August 30, 2026.
 - Gilpin, Robert. (1981). *War and Change in World Politics*. Cambridge University Press.
 - Good, Irving John. (1965). "Speculations Concerning the First Ultraintelligent Machine." *Advances in Computers*, 6, 31–88.
+- International Monetary Fund. (2026). *COFER Data Brief for 2026Q2*. September 30, 2026.
 - Kondratiev, Nikolai D. (1926). "Die langen Wellen der Konjunktur." *Archiv für Sozialwissenschaft und Sozialpolitik*, 56, 573–609.
-- Kurzweil, Ray. (2001). "The Law of Accelerating Returns." *KurzweilAI.net*.
-- Kurzweil, Ray. (2005). *The Singularity Is Near: When Humans Transcend Biology*. Viking Press.
-- Perez, Carlota. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar.
-- Schumpeter, Joseph A. (1939). *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*. McGraw-Hill.
-- Strauss, William, & Howe, Neil. (1997). *The Fourth Turning: An American Prophecy*. Broadway Books.
-- Vinge, Vernor. (1993). "The Coming Technological Singularity: How to Survive in the Post-Human Era." *NASA CP-10129*, 11–22.
+- Kurzweil, Ray. (2001). "The Law of Accelerating Returns." KurzweilAI.net.
+- Kurzweil, Ray. (2005). *The Singularity Is Near*. Viking Press.
+- Lawrence Berkeley National Laboratory. (2025). *United States Data Center Energy Usage Report*. January 2025.
+- LEAP. (2026). *Wave 8: Timelines*. Forecasting Research Institute, June 1, 2026.
+- Metaculus. (2026). Question 5121, live page observed November 1, 2026.
+- METR. (2026). *Task-Completion Time Horizons of Frontier AI Models*, last updated September 8, 2026; and Kwa, Thomas (2026), "Clarifying Limitations of Time Horizon," January 22, 2026.
+- National Academies of Sciences, Engineering, and Medicine. (2020). *Are Generational Categories Meaningful Distinctions for Workforce Management?*
+- Organski, A.F.K., & Kugler, Jacek. (1980). *The War Ledger*. University of Chicago Press.
+- Perez, Carlota. (2002). *Technological Revolutions and Financial Capital*. Edward Elgar.
+- Pew Research Center. (2023, 2025). Generational research; *Public Trust in Government 1958–2025*.
+- RWA.xyz. (2026). *Global Market Overview*, observed November 1, 2026.
+- Schumpeter, Joseph A. (1939). *Business Cycles*. McGraw-Hill.
+- Sevilla, Jaime, et al. (2022). "Compute Trends Across Three Eras of Machine Learning." *International Joint Conference on Neural Networks*.
+- Strauss, William, & Howe, Neil. (1997). *The Fourth Turning*. Broadway Books.
+- U.S. Bureau of Labor Statistics. (2026). *Productivity and Costs, Second Quarter 2026, Revised*. September 3, 2026.
+- Vinge, Vernor. (1993). "The Coming Technological Singularity." *NASA CP-10129*, 11–22.
+- World Gold Council. (2026). *Gold Demand Trends: Q4 and Full Year 2025* (January 29); *Central Bank Gold Statistics* (October 6, 2026).
 - Yudkowsky, Eliezer. (2008). "Artificial Intelligence as a Positive and Negative Factor in Global Risk." *Global Catastrophic Risks*, Oxford University Press.
