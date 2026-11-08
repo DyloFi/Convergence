@@ -13,7 +13,7 @@ expansions["Core_Concepts/00_Research_Plan.md"] = """
 To ensure maximum epistemic rigor, the Law of Accelerating Returns investigation employs a tripartite research protocol integrating cliometrics, microeconomic cost curve accounting, and physical limits auditing:
 1. **Cliometric Longitudinal Series Reconstruction**: Historical computational cost ledgers are compiled from early mechanical tabulating apparatuses (Hollerith 1890) through electromechanical relays, vacuum tubes, discrete transistors, and sub-3nm gate-all-around field-effect transistors (GAA-FETs).
 2. **Microeconomic Price-Performance Scaling Regressions**: Empirical price-performance deflation across compute ($/FLOP), DNA sequencing ($/base pair), and bandwidth ($/Gbps) is econometrically estimated using log-linear and double-exponential ordinary least squares (OLS) regressions.
-3. **Physical & Thermodynamic Constraint Boundary Auditing**: Trajectories are audited against thermodynamic physical barriers, specifically the Landauer dissipation limit ($E \ge k_B T \ln 2$), quantum tunneling gate leakage thresholds, and power transmission bottlenecks.
+3. **Physical & Thermodynamic Constraint Boundary Auditing**: Trajectories are audited against thermodynamic physical barriers, specifically the Landauer dissipation limit ($E \\ge k_B T \\ln 2$), quantum tunneling gate leakage thresholds, and power transmission bottlenecks.
 
 ### Table: Methodological Matrix and Verification Protocols (Research Plan)
 
@@ -97,4 +97,3 @@ for rel_path, text in expansions.items():
         curr = file_path.read_text()
         file_path.write_text(curr + text)
         print(f"Expanded {rel_path} -> {len((curr + text).splitlines())} lines")
-
