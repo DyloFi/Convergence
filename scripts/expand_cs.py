@@ -68,13 +68,13 @@ extra = """
 ### 5.3 Formal Quantitative Model of Hegemonic Transition Friction
 To mathematically operationalize the friction inherent in hegemonic power displacement, Organski and Kugler's Power Transition formula can be coupled with Kindleberger's public good exhaustion parameter. Let $P_H(t)$ represent the gross structural capability of the established hegemon and $P_C(t)$ represent the capability of the challenger:
 
-$$\Delta P(t) = P_C(t) - P_H(t)$$
+$$\\Delta P(t) = P_C(t) - P_H(t)$$
 
 Systemic crisis risk $R_{crisis}(t)$ reaches its maximum when:
 
-$$R_{crisis}(t) = \exp\left( -\frac{(\Delta P(t))^2}{2\sigma^2} \right) \times \left( \frac{D_H(t)}{Y_H(t)} \right)^\gamma$$
+$$R_{crisis}(t) = \\exp\\left( -\frac{(\\Delta P(t))^2}{2\\sigma^2} \right) \times \\left( \frac{D_H(t)}{Y_H(t)} \right)^\\gamma$$
 
-where $D_H / Y_H$ is the hegemon's sovereign debt-to-GDP ratio, $\gamma > 1$ models nonlinear debt fragility, and $\sigma$ represents the structural parity buffer. When the challenger enters parity while the hegemon suffers fiscal exhaustion, systemic dispute escalation becomes statistically dominant over cooperative bargaining.
+where $D_H / Y_H$ is the hegemon's sovereign debt-to-GDP ratio, $\\gamma > 1$ models nonlinear debt fragility, and $\\sigma$ represents the structural parity buffer. When the challenger enters parity while the hegemon suffers fiscal exhaustion, systemic dispute escalation becomes statistically dominant over cooperative bargaining.
 """
 
 p = pathlib.Path(__file__).resolve().parent.parent / "Changing World Orders/Supporting_Materials/Case_Studies/Case Studies Deep Dive.md"
@@ -83,4 +83,3 @@ idx = c.find("## 6. Granular Policy Dynamics")
 new_c = c[:idx].strip() + "\n\n" + extra.strip() + "\n\n" + c[idx:].strip() + "\n"
 p.write_text(new_c)
 print("Updated Case Studies Deep Dive. Total lines:", len(new_c.splitlines()))
-
