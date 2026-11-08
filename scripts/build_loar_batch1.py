@@ -113,7 +113,7 @@ The fusion of frontier compute and domain science has shifted materials and drug
 
 ### 3.1 Architectural Scaling Walls in Modern Datacenters
 Despite historical acceleration, modern applications face severe physical constraints across semiconductor physics and system architectures:
-1. **The Von Neumann Memory Bandwidth Wall**: In deep neural network training and inference, arithmetic execution density ($FLOP/s$) outpaces High-Bandwidth Memory (HBM) bandwidth ($TB/s$). Memory bus energy consumption exceeds arithmetic register operations by more than two orders of magnitude ($\sim 100\\text{ pJ}$ for off-chip DRAM fetch versus $\sim 0.5\\text{ pJ}$ for on-chip FP8 arithmetic) (Hennessy & Patterson 2017).
+1. **The Von Neumann Memory Bandwidth Wall**: In deep neural network training and inference, arithmetic execution density ($FLOP/s$) outpaces High-Bandwidth Memory (HBM) bandwidth ($TB/s$). Memory bus energy consumption exceeds arithmetic register operations by more than two orders of magnitude ($\\sim 100\\text{ pJ}$ for off-chip DRAM fetch versus $\\sim 0.5\\text{ pJ}$ for on-chip FP8 arithmetic) (Hennessy & Patterson 2017).
 2. **The Datacenter Interconnect & Bisection Bandwidth Bottleneck**: Distributing massive $10^{26}+$ FLOP models across 100,000+ accelerators requires high-radix optical switches and NVLink topologies. Signal degradation over copper cabling necessitates silicon photonics and co-packaged optics (CPO) to prevent cluster communication stragglers.
 3. **Thermal and Energy Infrastructure Envelopes**: Datacenter rack power density has surged from $10\\text{ kW/rack}$ in 2015 to over $120\\text{ kW/rack}$ for NVIDIA GB200 liquid-cooled architectures. Siting multi-gigawatt facilities requires dedicated substation connections and Small Modular Reactors (SMRs).
 
@@ -122,7 +122,7 @@ At the microscopic level, computation is constrained by irreversible information
 
 $$E_{\\text{Landauer}} = k_B T \\ln(2) \\approx 2.87 \\times 10^{-21}\\text{ Joules at } T = 300\\text{ K}$$
 
-While modern sub-3nm FinFET and Gate-All-Around (GAA) nanosheet transistors dissipate approximately $5 \\times 10^{-17}\\text{ Joules}$ per switching event ($\sim 17,000\\times$ above the Landauer bound), thermodynamic heat dissipation ceilings impose severe limits on volumetric packing density and clock frequencies without superconducting or reversible logic architectures (Bennett 1982).
+While modern sub-3nm FinFET and Gate-All-Around (GAA) nanosheet transistors dissipate approximately $5 \\times 10^{-17}\\text{ Joules}$ per switching event ($\\sim 17,000\\times$ above the Landauer bound), thermodynamic heat dissipation ceilings impose severe limits on volumetric packing density and clock frequencies without superconducting or reversible logic architectures (Bennett 1982).
 
 ### 3.3 Macroeconomic Counter-Theories & The Productivity Paradox
 Economists have historically questioned whether hyper-exponential technological progress converts into broad macroeconomic growth:
@@ -172,4 +172,3 @@ The trajectory of applied LoAR between 2026 and 2035 points toward fully autonom
 """
 f_app.write_text(app_text.strip() + "\n", encoding="utf-8")
 print(f"Updated {f_app.name}: {len([l for l in app_text.splitlines() if l.strip()])} lines")
-
