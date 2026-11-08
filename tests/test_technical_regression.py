@@ -183,7 +183,8 @@ class TestTechnicalIntegrity(unittest.TestCase):
         self.assertEqual(inv["metadata"]["total_reports_audited"], 153)
         # Step 13 merged/removed 32 of the 153 reports, so coverage is measured against the active
         # corpus (Step 11 baseline: 109 of 153 reports carried claims, about 71%).
-        triage_inv = json.load(open(ROOT / "audit" / "report_triage_inventory.json", encoding="utf-8"))
+        with open(ROOT / "audit" / "report_triage_inventory.json", encoding="utf-8") as f:
+            triage_inv = json.load(f)
         active = triage_inv.get("step13_summary", {}).get("active_reports_after_step13", 153)
         self.assertGreaterEqual(inv["metadata"]["total_reports_with_claims"], int(0.7 * active))
         self.assertEqual(inv["metadata"]["verified_count"], len(inv["claims"]))
