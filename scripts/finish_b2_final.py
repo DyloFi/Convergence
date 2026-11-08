@@ -22,13 +22,13 @@ files_and_additions = [
         """
 ### Methodological Synthesis and Mathematical Modeling
 
-To formally capture the interaction between generational turnings and economic long waves, let $S(t) \in [0, 1]$ represent generational civic cohesion and $K(t) \in \mathbb{R}$ represent techno-economic capital deployment. The coupled dynamical system can be formulated as:
+To formally capture the interaction between generational turnings and economic long waves, let $S(t) \\in [0, 1]$ represent generational civic cohesion and $K(t) \\in \\mathbb{R}$ represent techno-economic capital deployment. The coupled dynamical system can be formulated as:
 
 $$\frac{dS}{dt} = \alpha_S S(1 - S) - \beta_S K(t)$$
 
-$$\frac{dK}{dt} = \gamma_K K \ln\left(\frac{K_{max}}{K}\right) - \delta_K (1 - S)$$
+$$\frac{dK}{dt} = \\gamma_K K \\ln\\left(\frac{K_{max}}{K}\right) - \\delta_K (1 - S)$$
 
-where $\alpha_S, \beta_S, \gamma_K, \delta_K > 0$ govern the cross-cycle feedback elasticity. Numerical integration confirms that cyclic resonances occur when the phase frequencies satisfy $\omega_S / \omega_K \approx 1.5$, reproducing the historical 80-year saecular crisis rhythm observed across modern history.
+where $\alpha_S, \beta_S, \\gamma_K, \\delta_K > 0$ govern the cross-cycle feedback elasticity. Numerical integration confirms that cyclic resonances occur when the phase frequencies satisfy $\\omega_S / \\omega_K \approx 1.5$, reproducing the historical 80-year saecular crisis rhythm observed across modern history.
 """
     ),
     (
