@@ -24,8 +24,8 @@ $$H_t = 0.40 M_t + 0.35 R_t + 0.25 N_t$$
 
 ### 3. Exorbitant Privilege (*Privilège Exorbitant*)
 - **Etymology & Theoretical Origin**: Coined in the 1960s by French Finance Minister Valéry Giscard d'Estaing to describe the structural financial advantage enjoyed by the United States as issuer of the primary global reserve asset under the Bretton Woods system (Eichengreen 2011).
-- **Operationalization & Empirical Formula**: Quantified by the asymmetric foreign return spread ($\Delta r_t$), where the hegemon earns an equity risk premium on foreign direct investments ($r_{\text{foreign}}$) while funding those assets with ultra-low-yield domestic sovereign obligations ($r_{\text{domestic}}$):
-$$\Delta r_t = r_{\text{foreign}} - r_{\text{domestic}} > 0$$
+- **Operationalization & Empirical Formula**: Quantified by the asymmetric foreign return spread ($\\Delta r_t$), where the hegemon earns an equity risk premium on foreign direct investments ($r_{\text{foreign}}$) while funding those assets with ultra-low-yield domestic sovereign obligations ($r_{\text{domestic}}$):
+$$\\Delta r_t = r_{\text{foreign}} - r_{\text{domestic}} > 0$$
   This yield asymmetry enables the hegemon to run persistent current account deficits without triggering currency collapse (Dalio 2021; Pettis 2020).
 
 ### 4. Triffin Dilemma
@@ -43,12 +43,12 @@ $$\Delta r_t = r_{\text{foreign}} - r_{\text{domestic}} > 0$$
 ### 7. Imperial Overstretch
 - **Etymology & Theoretical Origin**: Conceptualized by British historian Paul Kennedy in *The Rise and Fall of the Great Powers* (1987). It defines the historical inflection point where a dominant empire's global military defense obligations exceed its domestic economic capability to fund them (Kennedy 1987).
 - **Operationalization & Empirical Formula**: Expressed as the ratio of combined defense spending ($D_t$) plus mandatory sovereign debt service ($S_t$) relative to net fiscal revenue ($T_t$):
-$$\Phi_t = \frac{D_t + S_t}{T_t}$$
-  When $\Phi_t > 0.85$, domestic infrastructure and technological capital investments become severely crowded out, triggering structural imperial decline (Kennedy 1987; Ferguson 2001).
+$$\\Phi_t = \frac{D_t + S_t}{T_t}$$
+  When $\\Phi_t > 0.85$, domestic infrastructure and technological capital investments become severely crowded out, triggering structural imperial decline (Kennedy 1987; Ferguson 2001).
 
 ### 8. Financialization Autumn
 - **Etymology & Theoretical Origin**: Conceptualized by Fernand Braudel (1984) and expanded by Giovanni Arrighi (1994) and Immanuel Wallerstein (1974). It denotes the mature phase of a systemic cycle of accumulation where imperial capital retreats from capital-intensive manufacturing into liquid financial speculation (Braudel 1984; Arrighi 1994).
-- **Operationalization & Empirical Metrics**: Operationalized by measuring financial corporate profits as a percentage of total corporate profits ($\Pi_{\text{fin}} / \Pi_{\text{total}}$) alongside FIRE sector value-added relative to manufacturing value-added. Ratios exceeding 2.5:1 indicate that the hegemon has entered its final financialized cycle (Arrighi 1994; Dalio 2021).
+- **Operationalization & Empirical Metrics**: Operationalized by measuring financial corporate profits as a percentage of total corporate profits ($\\Pi_{\text{fin}} / \\Pi_{\text{total}}$) alongside FIRE sector value-added relative to manufacturing value-added. Ratios exceeding 2.5:1 indicate that the hegemon has entered its final financialized cycle (Arrighi 1994; Dalio 2021).
 
 ### 9. Offensive Realism versus Defensive Realism
 - **Etymology & Theoretical Origin**: Major theoretical divide in Neorealist International Relations. Offensive Realism (John Mearsheimer 2001) posits that systemic anarchy compels great powers to maximize relative power and pursue regional hegemony. Defensive Realism (Kenneth Waltz 1979) argues that systemic incentives favor maintaining balance-of-power equilibrium and deterrence rather than regional hegemony.
@@ -86,10 +86,10 @@ $$\Phi_t = \frac{D_t + S_t}{T_t}$$
 ┌── [ Table 2.1: Formal Quantitative Framework Matrix ] ────────────────┐
 │ Model / Concept Metric │ Mathematical Specification             │ Empirical Transition Threshold │
 ├── [ Definitional Modeling Parameters ] ────────────────────────────────┤
-│ Hegemonic Friction ($F$)│ $F_t = \frac{|CINC_{\text{challenger}} - CINC_{\text{hegemon}}|}{\sigma_{\Delta}}$ │ $F_t < 0.15$ indicates critical conflict zone │
-│ Triffin Solvency Ratio │ $\Omega_t = \frac{\text{Foreign Reserve Claims}_t}{\text{Sovereign Hard Assets}_t}$ │ $\Omega_t > 3.0$ triggers systemic convertibility run │
-│ Imperial Overstretch   │ $\Phi_t = \frac{\text{Defense Spending}_t + \text{Debt Service}_t}{\text{Fiscal Revenue}_t}$ │ $\Phi_t > 0.85$ causes domestic R&D starvation │
-│ Reserve Inertia Lag    │ $R_t = \alpha R_{t-1} + \beta Y_t + \gamma T_t + \epsilon_t$          │ Half-life of reserve displacement: 25-40 years │
+│ Hegemonic Friction ($F$)│ $F_t = \frac{|CINC_{\text{challenger}} - CINC_{\text{hegemon}}|}{\\sigma_{\\Delta}}$ │ $F_t < 0.15$ indicates critical conflict zone │
+│ Triffin Solvency Ratio │ $\\Omega_t = \frac{\text{Foreign Reserve Claims}_t}{\text{Sovereign Hard Assets}_t}$ │ $\\Omega_t > 3.0$ triggers systemic convertibility run │
+│ Imperial Overstretch   │ $\\Phi_t = \frac{\text{Defense Spending}_t + \text{Debt Service}_t}{\text{Fiscal Revenue}_t}$ │ $\\Phi_t > 0.85$ causes domestic R&D starvation │
+│ Reserve Inertia Lag    │ $R_t = \alpha R_{t-1} + \beta Y_t + \\gamma T_t + \\epsilon_t$          │ Half-life of reserve displacement: 25-40 years │
 └── [ End Table 2.1 Quantitative Framework Matrix ] ─────────────────────┘
 ```
 
