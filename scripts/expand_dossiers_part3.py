@@ -31,30 +31,30 @@ Historical time-series harmonization requires resolving significant structural b
 
 ## 2. Autoregressive Distributed Lag (ARDL) Model of Reserve Inertia
 
-Reserve currency transitions exhibit pronounced hysteresis (inertia): a incumbent currency retains dominant central bank reserve allocations decades after its underlying economy loses industrial and export primacy (Kindleberger 1973; Eichengreen et al. 2017). We specify an Autoregressive Distributed Lag (ARDL) model to quantify the adjustment speed ($\lambda$):
+Reserve currency transitions exhibit pronounced hysteresis (inertia): a incumbent currency retains dominant central bank reserve allocations decades after its underlying economy loses industrial and export primacy (Kindleberger 1973; Eichengreen et al. 2017). We specify an Autoregressive Distributed Lag (ARDL) model to quantify the adjustment speed ($\\lambda$):
 
-$$\Delta \ln(\text{Share}_{i,t}) = \alpha_i + \sum_{k=1}^p \beta_k \Delta \ln(\text{Share}_{i,t-k}) + \sum_{m=0}^q \gamma_m \mathbf{X}_{i,t-m} - \lambda \left[ \ln(\text{Share}_{i,t-1}) - \boldsymbol{\theta}' \mathbf{X}_{i,t-1} \right] + \epsilon_{i,t}$$
+$$\\Delta \\ln(\text{Share}_{i,t}) = \alpha_i + \\sum_{k=1}^p \beta_k \\Delta \\ln(\text{Share}_{i,t-k}) + \\sum_{m=0}^q \\gamma_m \\mathbf{X}_{i,t-m} - \\lambda \\left[ \\ln(\text{Share}_{i,t-1}) - \boldsymbol{\theta}' \\mathbf{X}_{i,t-1} \right] + \\epsilon_{i,t}$$
 
 ```text-changing-world-orders-supporting-materials-supporting-materials-deep-dive-2
 ┌── [ Table 2.1: ARDL Econometric Parameter Estimation Matrix ] ──┐
-│ Independent Variable ($\mathbf{X}_i$) │ Coef. ($\boldsymbol{\theta}$) │ Std. Error │ t-Statistic │ p-Value │
+│ Independent Variable ($\\mathbf{X}_i$) │ Coef. ($\boldsymbol{\theta}$) │ Std. Error │ t-Statistic │ p-Value │
 ├── [ Supporting Materials Deep Dive Parameter Ledger ] ──────────┤
 │ Share of Global Trade ($T_{i,t}$)    │ +0.485                       │ 0.052      │ 9.32        │ < 0.001 │
 │ Share of Global Output ($Y_{i,t}$)   │ +0.312                       │ 0.041      │ 7.61        │ < 0.001 │
 │ Financial Market Depth ($F_{i,t}$)   │ +0.540                       │ 0.063      │ 8.57        │ < 0.001 │
 │ Sovereign Debt-to-GDP Ratio ($D_{t}$)│ -0.380                       │ 0.048      │ -7.92       │ < 0.001 │
-│ Inflation Volatility ($\sigma_{\pi}$)│ -0.295                       │ 0.039      │ -7.56       │ < 0.001 │
-│ Error Correction Speed ($\lambda$)   │ 0.042 (24-year half-life)    │ 0.006      │ 7.00        │ < 0.001 │
+│ Inflation Volatility ($\\sigma_{\\pi}$)│ -0.295                       │ 0.039      │ -7.56       │ < 0.001 │
+│ Error Correction Speed ($\\lambda$)   │ 0.042 (24-year half-life)    │ 0.006      │ 7.00        │ < 0.001 │
 └── [ End Table 2.1 ARDL Estimation Ledger ] ─────────────────────┘
 ```
 
-The error correction parameter ($\lambda = 0.042$) implies an empirical half-life of approximately 24 years for reserve currency reallocation following a permanent negative shock to underlying trade and economic scale, explaining why the US Dollar retains a ~58% COFER reserve share despite representing only ~15% of global GDP on a PPP basis (Dalio 2021; Subacchi 2016).
+The error correction parameter ($\\lambda = 0.042$) implies an empirical half-life of approximately 24 years for reserve currency reallocation following a permanent negative shock to underlying trade and economic scale, explaining why the US Dollar retains a ~58% COFER reserve share despite representing only ~15% of global GDP on a PPP basis (Dalio 2021; Subacchi 2016).
 
 -----------------
 
 ## 3. Markov-Switching State Transition Model of Hegemonic Regimes
 
-Imperial cycles cycle between three discrete structural regimes ($S_t \in \{1, 2, 3\}$):
+Imperial cycles cycle between three discrete structural regimes ($S_t \\in \\{1, 2, 3\\}$):
 - **Regime 1: Hegemonic Expansion & Consolidation** (Low debt volatility, high productivity growth, stable peace).
 - **Regime 2: Hegemonic Overreach & Financial Zenith** (Rising asset financialization, escalating debt-to-GDP, emerging challengers).
 - **Regime 3: Systemic Transition & Kinetic Conflict** (Currency debasement, sanctions warfare, regional proxy conflict).
@@ -77,7 +77,7 @@ The empirical transition probability from Regime 2 to Regime 3 increases sharply
 
 Following Farrell and Newman (2019), we quantify financial weaponizability by modeling global payments as an asymmetric directed graph $G = (V, E)$, where nodes $V$ represent sovereign central banks and edges $E$ represent gross cross-border clearing flows:
 
-$$\text{Hub Centrality Score}_i = \sum_{j \in V} A_{ij} \frac{\text{Authority Score}_j}{\kappa}$$
+$$\text{Hub Centrality Score}_i = \\sum_{j \\in V} A_{ij} \frac{\text{Authority Score}_j}{\\kappa}$$
 
 ```text-changing-world-orders-supporting-materials-supporting-materials-deep-dive-4
 ┌── [ Table 4.1: Financial Clearing Network Centrality Comparison ] ──┐
@@ -98,7 +98,7 @@ The asymmetric topology of global dollar clearing grants the US Treasury unparal
 
 To verify model robustness against historical selection bias, we execute Monte Carlo simulations across 10,000 synthetic lifecycle trajectories:
 1. **Specie Run Simulation**: Sensitivity tests show that central bank reserve runs accelerate non-linearly when the ratio of liquid liabilities to verifiable unencumbered specie falls below 1.4:1 (as occurred with the Wisselbank in 1790 and the Bank of England in 1931).
-2. **Fiscal Dominance Inflection**: Econometric tests confirm that when sovereign real interest expense exceeds real GDP growth ($r > g$), debt monetization becomes statistically inevitable within 5.4 years ($\pm 1.2$ years) unless major structural fiscal austerity is enforced.
+2. **Fiscal Dominance Inflection**: Econometric tests confirm that when sovereign real interest expense exceeds real GDP growth ($r > g$), debt monetization becomes statistically inevitable within 5.4 years ($\\pm 1.2$ years) unless major structural fiscal austerity is enforced.
 
 -----------------
 
@@ -134,9 +134,9 @@ sm_extra = """
 
 To capture non-linear structural shocks during hegemonic decline, we formulate a Time-Varying Parameter Vector Autoregression (TVP-VAR) with stochastic volatility (Primiceri 2005):
 
-$$\mathbf{y}_t = \mathbf{c}_t + \mathbf{B}_{1,t} \mathbf{y}_{t-1} + \dots + \mathbf{B}_{p,t} \mathbf{y}_{t-p} + \mathbf{u}_t, \quad \mathbf{u}_t \sim \mathcal{N}(0, \boldsymbol{\Omega}_t)$$
+$$\\mathbf{y}_t = \\mathbf{c}_t + \\mathbf{B}_{1,t} \\mathbf{y}_{t-1} + \\dots + \\mathbf{B}_{p,t} \\mathbf{y}_{t-p} + \\mathbf{u}_t, \\quad \\mathbf{u}_t \\sim \\mathcal{N}(0, \boldsymbol{\\Omega}_t)$$
 
-where $\mathbf{y}_t = [\Delta \text{Debt}_t, \Delta \text{ReserveShare}_t, \text{YieldSpread}_t, \text{TariffRate}_t]'$, and the covariance matrix factors as $\boldsymbol{\Omega}_t = \mathbf{A}_t^{-1} \boldsymbol{\Sigma}_t \boldsymbol{\Sigma}_t' (\mathbf{A}_t^{-1})'$.
+where $\\mathbf{y}_t = [\\Delta \text{Debt}_t, \\Delta \text{ReserveShare}_t, \text{YieldSpread}_t, \text{TariffRate}_t]'$, and the covariance matrix factors as $\boldsymbol{\\Omega}_t = \\mathbf{A}_t^{-1} \boldsymbol{\\Sigma}_t \boldsymbol{\\Sigma}_t' (\\mathbf{A}_t^{-1})'$.
 
 ```text-changing-world-orders-supporting-materials-supporting-materials-deep-dive-5
 ┌── [ Table 7.1: TVP-VAR Impulse Response Horizon Analysis ] ──┐
