@@ -51,3 +51,18 @@ This log extends `review/SYNTHESIS_CHANGELOG.md` (October 2026 audit and Step 13
 ## Out of scope (preserved)
 - `review/CLAIM_REGISTER.csv` entries sourced from the old synthesis keep their `retain` action for provenance; the reconciliation matrix records their superseded status (see Matrix, "Register note").
 - No domain dossiers, registers, or review deliverables were modified.
+
+## Independent review response (2026-11-08, second revision)
+
+Following the independent content review of the first Step 15 push, the synthesis and sources were revised a second time. Dispositions:
+
+1. **RCM source-of-truth conflict — resolved by quarantine.** `review/REVISED_CONVERGENCE_MODEL.md` is marked as a superseded legacy artifact (banner at document head); its uncalibrated 94%/84%/88%/72% scorecards, "empirically verified pillars" framing, and deterministic causal language are no longer current conclusions. The synthesis no longer lists the RCM as a live reconciliation source.
+2. **Section 2.6 premise corrected.** "Non-human economic agents cannot hold conventional bank accounts" replaced with the accurate constraint set (transacting via principal, custodian, payment provider, or API; jurisdiction- and provider-dependent), reframed as possible demand for delegated programmable payment and settlement. The unsourced ">98% of FX settlement on SWIFT/Fedwire/CHIPS" claim removed; messaging vs. payment-system conflation and the undefined denominator noted in the counterevidence line instead.
+3. **Section 7.1 METR falsification rule withdrawn as untestable.** A ceiling-limited measurement cannot establish a capability plateau; horizon-based falsification is marked inconclusive pending an extended evaluation with a reliable range above 16 hours at a stated success-probability threshold. Compute-growth falsification retained.
+4. **Section 4 divergence formula corrected.** The displayed divergence time now states the constant-$E = E_0$ assumption explicitly and gives the general $(E/E_0)^{-\mu}$ factor; physical saturation is labeled an external boundary condition not represented in the equation.
+5. **"Four verified structural pillars" reworded.** Now "four observed structural pressures, each with its own evidence grade", with per-pressure caveats (settlement migration documented through issuance/represented-value metrics, not liquid settlement or autonomous-agent usage; trust-erosion causality confounded).
+6. **Section 2.3 causality downgraded.** "Established mechanism" changed to "observed association, plausible mechanism"; alternative drivers (valuation effects, sanctions-risk hedging, gold price appreciation) stated.
+7. **METR reliability bridge added.** The ~17h Mythos Preview horizon is labeled 50%-reliability; the LEAP-cited 3h06m is METR's 80%-reliability horizon (95% interval 1h37m–6h39m); the two are stated as non-comparable points on one curve and never pooled; benchmark task duration kept distinct from autonomous work duration and job automation.
+8. **Section 7.2 breach definition operationalized.** Direction, two-consecutive-review confirmation, data vintage at review time, per-breach recording, and the counting rule for three breaches across macro and technological axes are now defined.
+
+Review finding verified before application: the finite-time divergence factor was checked against the stated equation; the METR 50%/80% distinction was verified against `review/CLAIM_REGISTER.csv` (`CLM-007`) and `review/FORECAST_AUDIT.md` (LEAP Wave 8 paragraph).
