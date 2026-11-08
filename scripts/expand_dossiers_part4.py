@@ -63,18 +63,18 @@ While both frameworks analyze the clash between rising and established powers, t
 
 We formalize systemic transition friction ($F_t$) as an econometric function of relative power convergence, institutional dissatisfaction, and weaponized chokepoint asymmetry:
 
-$$F_t = \exp\left( -\frac{(P_{R,t} - P_{E,t})^2}{2\sigma_p^2} \right) \cdot \left[ \theta D_{R,t} + (1-\theta) \Omega_{t} \right] \cdot \left( 1 + \gamma \frac{\text{Debt}_{E,t}}{\text{GDP}_{E,t}} \right)$$
+$$F_t = \\exp\\left( -\frac{(P_{R,t} - P_{E,t})^2}{2\\sigma_p^2} \right) \\cdot \\left[ \theta D_{R,t} + (1-\theta) \\Omega_{t} \right] \\cdot \\left( 1 + \\gamma \frac{\text{Debt}_{E,t}}{\text{GDP}_{E,t}} \right)$$
 
 where:
 - $P_{R,t}, P_{E,t}$ denote the composite structural power indices of the Rising and Established powers respectively.
-- $\sigma_p$ represents the variance bandwidth of power parity (maximum structural friction occurs when $P_{R,t} \approx P_{E,t}$).
-- $D_{R,t} \in [0, 1]$ represents the challenger'\''s institutional dissatisfaction score.
-- $\Omega_t$ measures weaponized interdependence chokepoint exposure (semiconductor export bans, financial clearing cutoffs).
+- $\\sigma_p$ represents the variance bandwidth of power parity (maximum structural friction occurs when $P_{R,t} \approx P_{E,t}$).
+- $D_{R,t} \\in [0, 1]$ represents the challenger'\''s institutional dissatisfaction score.
+- $\\Omega_t$ measures weaponized interdependence chokepoint exposure (semiconductor export bans, financial clearing cutoffs).
 - $\text{Debt}_{E,t}/\text{GDP}_{E,t}$ acts as a fiscal vulnerability multiplier on the established power'\''s strategic resolve.
 
 ```text-changing-world-orders-supporting-materials-theories-theories-deep-dive-3
 ┌── [ Table 3.1: Parametric Friction Sensitivity Across US-China Horizons ] ──┐
-│ Parity Ratio ($P_R/P_E$) │ Dissatisfaction ($D_R$) │ Chokepoint Pressure ($\Omega$) │ Net Friction ($F_t$) │ Systemic State │
+│ Parity Ratio ($P_R/P_E$) │ Dissatisfaction ($D_R$) │ Chokepoint Pressure ($\\Omega$) │ Net Friction ($F_t$) │ Systemic State │
 ├── [ Theories Deep Dive Friction Sensitivity Ledger ] ──────────────────────┤
 │ 0.60 (Year 2005)         │ 0.35                    │ 0.15                           │ 1.25                 │ Managed Coexistence │
 │ 0.85 (Year 2018)         │ 0.65                    │ 0.55                           │ 4.80                 │ Strategic Rivalry   │
@@ -145,7 +145,7 @@ Arrighi demonstrates that every hegemon reaches an autumn phase where profitabil
 
 Drawing from non-linear dynamical systems and catastrophe theory (Thom 1975; Zeeman 1976), hegemonic shifts do not proceed linearly but exhibit cusp catastrophe dynamics:
 
-$$\frac{d z}{dt} = - (z^3 + u \cdot z + v)$$
+$$\frac{d z}{dt} = - (z^3 + u \\cdot z + v)$$
 
 where $z$ represents the stability state of the global order, $u$ is the normal factor (global economic interdependence), and $v$ is the splitting factor (balance-of-power asymmetry and geopolitical revisionism).
 
