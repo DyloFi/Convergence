@@ -34,3 +34,16 @@
 
 ## Register note
 `review/CLAIM_REGISTER.csv` entries sourced from the pre-Step-15 synthesis (notably `CLM-016`, `CLM-138`, `CLM-139`) are retained in the register for provenance with their original `retain` action; this matrix supersedes them for synthesis purposes. A register-maintenance pass is out of Step 15 scope.
+
+## Independent review response (2026-11-08, second revision)
+
+| # | Review finding | Disposition | Where it lands |
+|---|---|---|---|
+| R1 | RCM still presents "verified pillars", 94/84/88/72% scorecards, deterministic causal claims the synthesis rejects | **RESOLVED-QUARANTINED** | `review/REVISED_CONVERGENCE_MODEL.md` banner marks it superseded legacy; synthesis intro no longer cites it as a live source |
+| R2 | §2.6 "non-human agents cannot hold bank accounts" too categorical; ">98% FX settlement on SWIFT/Fedwire/CHIPS" unsourced and category-conflated | **CORRECTED** | §2.6 pathway and counterevidence rewritten |
+| R3 | §7.1 METR plateau falsification untestable above the 16h measurement ceiling | **WITHDRAWN-INCONCLUSIVE** | §2.2 falsification, §7.1 table; compute-growth clause retained |
+| R4 | §4 divergence time omits $(E/E_0)^{-\mu}$ factor | **CORRECTED** | §4: constant-$E = E_0$ assumption stated; general factor given; saturation labeled external boundary condition |
+| R5 | "Four verified structural pillars" overstates evidence | **REWORDED-GRADED** | Exec Summary: four observed pressures with per-pressure evidence grades |
+| R6 | §2.3 "established mechanism" overstates causality | **DOWNGRADED** | §2.3: observed association / plausible mechanism; alternative drivers stated |
+| R7 | METR ~17h vs ≤16h ceiling vs LEAP 3h06m need reliability bridge | **BRIDGED** | §1.4/§2.2: 50% vs 80% reliability levels stated; values kept separate, never pooled |
+| R8 | §7.2 breach rule not operational | **DEFINED** | §7.2: direction, confirmation window, vintage, recording, and cross-axis counting rule added |
