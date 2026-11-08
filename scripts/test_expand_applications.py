@@ -33,7 +33,7 @@ Beyond language and vision, application scaling has penetrated physical embodied
 
 ### 3.4 Data Saturation Limits and Synthetic Curriculum Mechanics
 A prominent counter-theory to sustained LoAR application scaling is the exhaustion of public human-generated text and code tokens. Audits by Villalobos et al. (2022) projected that high-quality human language datasets would be fully consumed by the frontier training frontier between late 2026 and 2028:
-- **Synthetic Data Degradation (Model Collapse)**: Shumailov et al. (2024) proved mathematically that recursive training of generative models on uncurated synthetic outputs induces functional collapse, where tail distributions vanish and variance degrades ($\sigma^2_{t+1} < \sigma^2_t$).
+- **Synthetic Data Degradation (Model Collapse)**: Shumailov et al. (2024) proved mathematically that recursive training of generative models on uncurated synthetic outputs induces functional collapse, where tail distributions vanish and variance degrades ($\\sigma^2_{t+1} < \\sigma^2_t$).
 - **Reinforcement Learning from Verifiable Rewards (RLVR)**: To overcome data exhaustion without model collapse, frontier applications employ formal verifiable verification domains (formal mathematics, software unit test execution, and physical simulation rollouts). In verifiable domains, synthetic self-play generates infinite novel training signals bounded only by compute capacity.
 
 """
