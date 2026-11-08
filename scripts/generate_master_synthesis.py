@@ -103,15 +103,15 @@ When one paradigm approaches physical or economic limits, capital and research n
 ### 1.5 Vinge, Bostrom, Yudkowsky: The Technological Singularity
 The Singularity marks the point where machine intelligence surpasses biological human cognition across all domains, creating a feedback loop of **Recursive Self-Improvement** (Good, 1965; Vinge, 1993):
 
-$$\frac{dI}{dt} = \alpha \cdot I(t)^\gamma \cdot C(t)^\beta$$
+$$\frac{dI}{dt} = \alpha \\cdot I(t)^\\gamma \\cdot C(t)^\beta$$
 
 Where:
 - $I(t)$ is effective algorithmic intelligence.
 - $C(t)$ is available training and inference compute.
-- $\gamma$ is the recursive self-improvement coefficient.
+- $\\gamma$ is the recursive self-improvement coefficient.
 - $\beta$ is the compute-scaling elasticity.
 
-When $\gamma \ge 1.0$, the system experiences a finite-time mathematical singularity (*intelligence explosion* or hard takeoff), where cognitive capability increases at a super-exponential rate. Nick Bostrom (2014) and Eliezer Yudkowsky (2008) prove that this transition presents an existential governance and alignment challenge: once an unaligned agent attains strategic cognitive dominance, human institutional interventions become mathematically powerless to arrest the trajectory.
+When $\\gamma \\ge 1.0$, the system experiences a finite-time mathematical singularity (*intelligence explosion* or hard takeoff), where cognitive capability increases at a super-exponential rate. Nick Bostrom (2014) and Eliezer Yudkowsky (2008) prove that this transition presents an existential governance and alignment challenge: once an unaligned agent attains strategic cognitive dominance, human institutional interventions become mathematically powerless to arrest the trajectory.
 
 ---
 
@@ -190,11 +190,11 @@ The historical validity of multi-cycle synchronicity is demonstrated by comparin
 The velocity of civilizational change during Convergence can be represented as a system of coupled differential equations linking technological growth, societal institutional strain, and sovereign debt saturation:
 
 1. **Algorithmic Cognitive Acceleration**:
-$$\frac{dA}{dt} = \kappa_A \cdot A(t)^{\theta} \cdot \left(\frac{E(t)}{E_0}\right)^{\mu}$$
+$$\frac{dA}{dt} = \\kappa_A \\cdot A(t)^{\theta} \\cdot \\left(\frac{E(t)}{E_0}\right)^{\\mu}$$
 Where $A(t)$ is algorithmic efficiency, $E(t)$ is dedicated compute energy (Gigawatts), and $\theta > 1$ represents algorithmic self-optimization.
 
 2. **Societal Institutional Stress Index ($S_{inst}$)**:
-$$\frac{dS_{inst}}{dt} = \lambda_1 \cdot \left|\frac{dA}{dt}\right| + \lambda_2 \cdot \left(\frac{Debt(t)}{GDP(t)}\right) - \delta \cdot Cap_{gov}(t)$$
+$$\frac{dS_{inst}}{dt} = \\lambda_1 \\cdot \\left|\frac{dA}{dt}\right| + \\lambda_2 \\cdot \\left(\frac{Debt(t)}{GDP(t)}\right) - \\delta \\cdot Cap_{gov}(t)$$
 Institutional stress accelerates proportionally to the rate of technological change and sovereign debt saturation, attenuated only by the rapidly eroding governance capacity $Cap_{gov}(t)$.
 
 3. **Macroeconomic Fragility Threshold**:
