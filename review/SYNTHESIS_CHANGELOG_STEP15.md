@@ -66,3 +66,12 @@ Following the independent content review of the first Step 15 push, the synthesi
 8. **Section 7.2 breach definition operationalized.** Direction, two-consecutive-review confirmation, data vintage at review time, per-breach recording, and the counting rule for three breaches across macro and technological axes are now defined.
 
 Review finding verified before application: the finite-time divergence factor was checked against the stated equation; the METR 50%/80% distinction was verified against `review/CLAIM_REGISTER.csv` (`CLM-007`) and `review/FORECAST_AUDIT.md` (LEAP Wave 8 paragraph).
+
+## Independent re-review response (2026-11-08, third revision)
+
+Following the independent rerun at bf8d2ccb (R1-R7 accepted as reflected), two remaining content issues were corrected:
+
+1. **§7.1 RWA threshold made coherent.** The "stagnation below $25B through 2028" threshold was already exceeded by the observed value ($39.17B, 2026-11-01) and could never trigger. Replaced with a same-metric forward rule: stagnation is no scheduled-review reading above the registered 2026-11-01 baseline ($39.17B, `F14-006`) through end-2028. Registration basis: the Step 14 forecast register entry recording that baseline; the rule itself is pre-registered here. §2.6 falsification aligned.
+2. **§7.2 cadence and clearing defined.** Scheduled reviews are semi-annual (May and November; first under this rule May 2027). A breach clears after two consecutive scheduled-review readings on the non-breach side, recorded identically to a breach; thresholds whose date window closes unbreached are retired as expired and count neither active nor cleared.
+
+Re-reviewer-verified runtime note: the test suite emits 33 warning headers (1 ResourceWarning, 32 DeprecationWarnings) from legacy repository scripts (invalid escape sequences, an unclosed file handle). These are not test failures, not skips, and not strict-audit findings (audit: 121 reports, 0 findings, 0 errors, 0 warnings). They are recorded here as-is and left for the repository-hygiene scope rather than patched inside Step 15.
