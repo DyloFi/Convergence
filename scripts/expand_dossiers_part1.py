@@ -33,9 +33,9 @@ The study of changing world orders requires synthesizing structural-functionalis
 
 ## 2. Mathematical Operationalization of Dalio's 18 Determinants
 
-Dalio's empirical model evaluates sovereign imperial power across eighteen standardized indicators normalized against global totals ($X_{i,t} \in [0, 100]$):
+Dalio's empirical model evaluates sovereign imperial power across eighteen standardized indicators normalized against global totals ($X_{i,t} \\in [0, 100]$):
 
-$$\text{Composite Power Index}_t = \sum_{i=1}^{18} w_i \cdot X_{i,t}$$
+$$\text{Composite Power Index}_t = \\sum_{i=1}^{18} w_i \\cdot X_{i,t}$$
 
 ```text-changing-world-orders-foundations-foundations-deep-dive-2
 ┌── [ Table 2.1: Dalio 18 Power Determinants Weighting Matrix ] ──┐
