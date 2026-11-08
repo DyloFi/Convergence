@@ -36,7 +36,7 @@ add2 = """
 | **Silicon Physical Reticle Limits** | Dennard scaling breakdown & optical diffraction limit | High-NA Extreme Ultraviolet lithography & 3D hybrid bonding | 2026–2028 | Sustains Moore's Law equivalent scaling |
 | **Data Frontier Depletion** | Chinchilla compute-optimal text tokens exhausted | Verifiable synthetic reasoning trees & multi-modal sensorium | 2025–2027 | Bypasses human web-corpus data bottleneck |
 | **Grid Power Constraints** | Transmission capacity & transformer lead times | Behind-the-meter nuclear SMRs & co-located geothermal generation | 2028–2032 | Re-anchors compute clusters near dedicated power |
-| **Thermodynamic Landauer Wall** | Heat dissipation per bit erasure ($kT \ln 2$) | Adiabatic reversible computing & topological photonics | 2033–2038 | Shifts computing beyond standard CMOS thermal limits |
+| **Thermodynamic Landauer Wall** | Heat dissipation per bit erasure ($kT \\ln 2$) | Adiabatic reversible computing & topological photonics | 2033–2038 | Shifts computing beyond standard CMOS thermal limits |
 
 ### Falsification Indicators for Anti-Acceleration Hypotheses
 
