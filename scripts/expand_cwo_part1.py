@@ -55,11 +55,11 @@ The historical record confirms that financialization is not an accidental policy
 
 ## 3. Mathematical Modeling of Hegemonic Fragility and Internal Sclerosis
 
-Late-stage imperial decline accelerates when sovereign debt servicing costs diverge from real productivity growth, compounded by internal institutional sclerosis. This dynamic is modeled via the Sovereign Fragility Coefficient ($\Phi_t$):
+Late-stage imperial decline accelerates when sovereign debt servicing costs diverge from real productivity growth, compounded by internal institutional sclerosis. This dynamic is modeled via the Sovereign Fragility Coefficient ($\\Phi_t$):
 
-$$\Phi_t = \left( \frac{D_t}{Y_t} \right) \cdot \left( \frac{r_t - g_t}{1 + g_t} \right) + \kappa \cdot \Omega_{ineq}(t)$$
+$$\\Phi_t = \\left( \frac{D_t}{Y_t} \right) \\cdot \\left( \frac{r_t - g_t}{1 + g_t} \right) + \\kappa \\cdot \\Omega_{ineq}(t)$$
 
-Where $D_t / Y_t$ represents the sovereign debt-to-GDP ratio, $r_t$ is the real sovereign borrowing rate, $g_t$ is real trend GDP growth, $\Omega_{ineq}(t)$ measures domestic wealth polarization (ratio of top 0.1% wealth to bottom 50%), and $\kappa$ is the institutional polarization coefficient. When $\Phi_t > 0.08$ across consecutive quarters, central banks lose monetary autonomy and are forced into structural yield curve repression.
+Where $D_t / Y_t$ represents the sovereign debt-to-GDP ratio, $r_t$ is the real sovereign borrowing rate, $g_t$ is real trend GDP growth, $\\Omega_{ineq}(t)$ measures domestic wealth polarization (ratio of top 0.1% wealth to bottom 50%), and $\\kappa$ is the institutional polarization coefficient. When $\\Phi_t > 0.08$ across consecutive quarters, central banks lose monetary autonomy and are forced into structural yield curve repression.
 
 ```
 Historical Phase Transition Trajectory:
@@ -68,7 +68,7 @@ Historical Phase Transition Trajectory:
 
 ## 4. Quantitative Econometric Time-Series of Institutional Decay
 
-To capture Dalio Stage 5 institutional sclerosis, this study constructs a 12-factor Composite Institutional Decay Metric ($\Psi_{decay}$), tracking legislative gridlock, judicial politicization, regulatory capture, and fiscal deficit monetization.
+To capture Dalio Stage 5 institutional sclerosis, this study constructs a 12-factor Composite Institutional Decay Metric ($\\Psi_{decay}$), tracking legislative gridlock, judicial politicization, regulatory capture, and fiscal deficit monetization.
 
 ### Institutional Decay Metrics Across Modern Hegemonic Declines
 1. **Fiscal Monetization Inertia**: The percentage of newly issued sovereign debt purchased directly or indirectly by the monetary authority exceeds 35% during peacetime expansions.
@@ -114,4 +114,3 @@ The micro-mechanics of imperial financialization intersect directly with the tec
 
 f_foundations.write_text(content_foundations.strip() + "\n", encoding="utf-8")
 print(f"Updated Foundations Deep Dive.md -> {len(content_foundations.splitlines())} lines")
-
