@@ -1,5 +1,7 @@
 # Revised Convergence Conceptual Model: Evidence-Weighted Architecture
 
+> **SUPERSEDED — QUARANTINED LEGACY ARTIFACT (Step 15 review disposition, 2026-11-08).** This document is retained for provenance only and is no longer a current source of truth. Its presentation of "four empirically verified structural pillars", the 94%/84%/88%/72% confidence scorecards, deterministic causal language (e.g., high debt and r > g "forcing" monetization and reserve dilution), and treatment of agentic horizon expansion as demonstrated economic-agent capability are not supported at the stated confidence levels by the reconciled evidence. The current source of truth is `Convergence_Master_Synthesis.md` (post-Step-15 rebuild); the claim-by-claim disposition is recorded in `review/SYNTHESIS_RECONCILIATION_MATRIX_STEP15.md` and the change rationale in `review/SYNTHESIS_CHANGELOG_STEP15.md`.
+
 ## Executive Summary
 This document presents the **Revised Convergence Model (RCM)**. Based on the independent audit across all 148 research dossiers and five foundation pillars, the RCM prunes unfalsifiable cycle reification, removes deterministic synchronous climax fatalism, and grounds the framework upon four empirically verified structural pillars connected via explicit causal feedback loops.
 
