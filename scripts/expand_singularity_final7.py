@@ -18,7 +18,7 @@ def insert_before_heading(file_rel, target_heading, addition):
 add_bib = """
 ### Citation Network Density and Epistemic Centrality Formulations
 
-The structural architecture of singularity scholarship exhibits a multi-cluster topological graph wherein foundational computer science theorems intersect with macroeconomic growth accounting and decision-theoretic safety protocols. Formally, let the citation graph be denoted as $G = (V, E)$, where vertices $v_i \in V$ represent canonical texts and directed edges $e_{ij} \in E$ denote citation dependencies. The recursive authority prestige score $P(v_i)$ of foundational monographs is modeled via directed eigenvector centrality with damping factor $\\alpha = 0.85$:
+The structural architecture of singularity scholarship exhibits a multi-cluster topological graph wherein foundational computer science theorems intersect with macroeconomic growth accounting and decision-theoretic safety protocols. Formally, let the citation graph be denoted as $G = (V, E)$, where vertices $v_i \\in V$ represent canonical texts and directed edges $e_{ij} \\in E$ denote citation dependencies. The recursive authority prestige score $P(v_i)$ of foundational monographs is modeled via directed eigenvector centrality with damping factor $\\alpha = 0.85$:
 
 $$P(v_i) = \\frac{1 - \\alpha}{|V|} + \\alpha \\sum_{v_j \\in M(v_i)} \\frac{P(v_j)}{L(v_j)}$$
 
