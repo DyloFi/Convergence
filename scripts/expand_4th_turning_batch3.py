@@ -29,9 +29,9 @@ Comparative historiographical analysis requires contrasting Strauss and Howe's g
 ### Formal Mathematical Synthesis of Multi-Cycle Trajectories
 The observable macro-historical trajectory of complex socio-technical systems can be modeled as a coupled superposition of secular evolutionary trends and nested cyclical oscillations:
 
-$$H(t) = L(t) + \sum_{k=1}^{K} A_k \sin(\omega_k t + \phi_k) + \sum_{m=1}^{M} S_m(t - \tau_m) + \epsilon(t)$$
+$$H(t) = L(t) + \\sum_{k=1}^{K} A_k \\sin(\\omega_k t + \\phi_k) + \\sum_{m=1}^{M} S_m(t - \tau_m) + \\epsilon(t)$$
 
-Where $L(t)$ represents the underlying exponential technological and compute progress vector, $A_k$ and $\omega_k$ represent the amplitude and frequency of canonical long-wave oscillations including the Kondratiev wave ($\omega_1 \approx 2\pi/55$) and the Strauss-Howe saeculum ($\omega_2 \approx 2\pi/85$), $S_m$ captures discrete geopolitical and institutional regime transitions, and $\epsilon(t)$ represents stochastic contingency shocks.
+Where $L(t)$ represents the underlying exponential technological and compute progress vector, $A_k$ and $\\omega_k$ represent the amplitude and frequency of canonical long-wave oscillations including the Kondratiev wave ($\\omega_1 \approx 2\\pi/55$) and the Strauss-Howe saeculum ($\\omega_2 \approx 2\\pi/85$), $S_m$ captures discrete geopolitical and institutional regime transitions, and $\\epsilon(t)$ represents stochastic contingency shocks.
 
 ### Cross-Cycle Dynamic Coupling and Attractor Phase Space
 Historical trajectories reveal profound cross-cycle synchronization between the Fourth Turning crisis climax and the capital deployment winter of long waves:
@@ -58,15 +58,15 @@ The concept of the saeculum originates in Etruscan and Roman antiquity, defining
 ### Mathematical Formalism of Cohort Succession and Social Mood
 The evolution of societal social mood can be represented as an endogenous four-state dynamical system driven by overlapping cohort maturation:
 
-$$\mathbf{x}(t+1) = \mathbf{A} \mathbf{x}(t) + \mathbf{B} \mathbf{u}(t)$$
+$$\\mathbf{x}(t+1) = \\mathbf{A} \\mathbf{x}(t) + \\mathbf{B} \\mathbf{u}(t)$$
 
-Where the state vector $\mathbf{x}(t) = [x_1(t), x_2(t), x_3(t), x_4(t)]^T$ represents the relative social dominance of the four generational archetypes (Prophet, Nomad, Hero, Artist) occupying the four biological lifecycle phases (Elderhood, Midlife, Young Adulthood, Childhood).
+Where the state vector $\\mathbf{x}(t) = [x_1(t), x_2(t), x_3(t), x_4(t)]^T$ represents the relative social dominance of the four generational archetypes (Prophet, Nomad, Hero, Artist) occupying the four biological lifecycle phases (Elderhood, Midlife, Young Adulthood, Childhood).
 
-The transition matrix $\mathbf{A}$ encodes the deterministic shift of cohorts every turning ($\Delta t \approx 20\text{ to }22\text{ years}$):
+The transition matrix $\\mathbf{A}$ encodes the deterministic shift of cohorts every turning ($\\Delta t \approx 20\text{ to }22\text{ years}$):
 
-$$\mathbf{A} = \begin{bmatrix} 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \\ 1 & 0 & 0 & 0 \end{bmatrix}$$
+$$\\mathbf{A} = \begin{bmatrix} 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \\ 1 & 0 & 0 & 0 \\end{bmatrix}$$
 
-The resulting social mood index $M(t)$ oscillates with a characteristic period $T \approx 4 \Delta t \approx 80\text{ to }88\text{ years}$, driving cyclical institutional creation, questioning, decay, and re-founding.
+The resulting social mood index $M(t)$ oscillates with a characteristic period $T \approx 4 \\Delta t \approx 80\text{ to }88\text{ years}$, driving cyclical institutional creation, questioning, decay, and re-founding.
 
 ### Institutional Memory Decay and Regenerative Mechanics
 The fundamental mechanism driving the saecular rhythm is the cognitive and emotional loss of direct living memory:
@@ -95,11 +95,11 @@ $$\begin{aligned}
 \text{Turn 2 (Awakening)} &: \text{Elders: Prophet} \to \text{Midlife: Nomad} \to \text{Youth: Hero} \to \text{Child: Artist} \\
 \text{Turn 3 (Unraveling)} &: \text{Elders: Nomad} \to \text{Midlife: Hero} \to \text{Youth: Artist} \to \text{Child: Prophet} \\
 \text{Turn 4 (Crisis)} &: \text{Elders: Hero/Prophet} \to \text{Midlife: Nomad} \to \text{Youth: Hero} \to \text{Child: Artist}
-\end{aligned}$$
+\\end{aligned}$$
 
 The institutional state dynamics across this four-phase sequence can be formalized via institutional cohesion $C(t)$ and cultural individualism $I(t)$:
 
-$$\frac{dC(t)}{dt} = \alpha_c (M_{civic} - C(t)), \quad \frac{dI(t)}{dt} = \alpha_i (M_{individual} - I(t))$$
+$$\frac{dC(t)}{dt} = \alpha_c (M_{civic} - C(t)), \\quad \frac{dI(t)}{dt} = \alpha_i (M_{individual} - I(t))$$
 
 During Turnings 1 and 4, institutional cohesion rises while individualism recedes; during Turnings 2 and 3, individualism surges while institutional cohesion collapses.
 
@@ -126,13 +126,13 @@ Rigorous empirical evaluation of the Strauss-Howe generational paradigm reveals 
 ### Econometric Variance Analysis and the Slutsky-Yule Challenge
 A fundamental critique in econometric time-series analysis is that applying moving-average filtering to random walk processes generates artificial sinusoidal cycles (the Slutsky-Yule effect):
 
-$$Y_t = \sum_{j=-m}^{m} w_j \epsilon_{t+j}, \quad \epsilon_t \sim \text{i.i.d. } \mathcal{N}(0, \sigma^2)$$
+$$Y_t = \\sum_{j=-m}^{m} w_j \\epsilon_{t+j}, \\quad \\epsilon_t \\sim \text{i.i.d. } \\mathcal{N}(0, \\sigma^2)$$
 
 When historical event data are aggregated across arbitrary 20-year cohort windows, apparent cyclical patterns can arise endogenously even in the absence of true underlying periodicity.
 
-To distinguish genuine generational resonance from stochastic aggregation artifacts, spectral density estimation $S_{xx}(\omega)$ must confirm statistically significant excess power at the saecular frequency band:
+To distinguish genuine generational resonance from stochastic aggregation artifacts, spectral density estimation $S_{xx}(\\omega)$ must confirm statistically significant excess power at the saecular frequency band:
 
-$$\int_{\omega_{low}}^{\omega_{high}} S_{xx}(\omega) d\omega > \theta_{critical} \cdot \sigma^2_{white}$$
+$$\\int_{\\omega_{low}}^{\\omega_{high}} S_{xx}(\\omega) d\\omega > \theta_{critical} \\cdot \\sigma^2_{white}$$
 
 Cliometric empirical testing demonstrates that while institutional conflict cycles exhibit weak 80-year peaks, demographic fertility and mortality series show higher noise-to-signal ratios than predicted by deterministic models.
 
@@ -167,7 +167,7 @@ During the Boomer Prophet youth Awakening (1960s-1970s), empirical voting record
 
 ### Methodological Synthesis with Cliodynamics and Institutional Economics
 To overcome qualitative historiographical vulnerabilities, modern generational analysis must integrate quantitative cliodynamic models:
-1. **Structural-Demographic Stress Coupling**: Combining generational archetype models with Turchin's Political Stress Index ($PSI = w \cdot N_p \cdot EMP^{-1}$) grounds qualitative mood in demographic reality.
+1. **Structural-Demographic Stress Coupling**: Combining generational archetype models with Turchin's Political Stress Index ($PSI = w \\cdot N_p \\cdot EMP^{-1}$) grounds qualitative mood in demographic reality.
 2. **Institutional Rigidities Integration**: Incorporating Mancur Olson's theory of distributional coalitions explains the structural necessity of Fourth Turning crisis resets to purge accumulated economic rents.
 3. **Probabilistic Scenario Modeling**: Treating the saeculum not as an immutable clock but as an endogenous oscillator with variable damping and external stochastic driving forces establishes an empirically defensible research foundation.
 """
